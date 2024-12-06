@@ -1,0 +1,241 @@
+[
+    {
+        "Description": "Abnormal Flags",
+        "Item#": 576,
+        "Seg": "OBX",
+        "Seq#": 8,
+        "Len": 5,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 78,
+        "Chapter": "7.4.2.8"
+      },
+      {
+        "Description": "Date/Time of the Analysis",
+        "Item#": 1480,
+        "Seg": "OBX",
+        "Seq#": 19,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "9.6.2.19"
+      },
+      {
+        "Description": "Date/Time of the Observation",
+        "Item#": 582,
+        "Seg": "OBX",
+        "Seq#": 14,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.16.5.14"
+      },
+      {
+        "Description": "Effective Date of Reference Range",
+        "Item#": 580,
+        "Seg": "OBX",
+        "Seq#": 12,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.16.6.12"
+      },
+      {
+        "Description": "Equipment Instance Identifier",
+        "Item#": 1479,
+        "Seg": "OBX",
+        "Seq#": 18,
+        "Len": 427,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "7.16.6.18"
+      },
+      {
+        "Description": "Mood Code",
+        "Item#": 2182,
+        "Seg": "OBX",
+        "Seq#": 22,
+        "Len": 705,
+        "DT": "CNE",
+        "Table": 725,
+        "Chapter": "7.4.2.22"
+      },
+      {
+        "Description": "Nature of Abnormal Test",
+        "Item#": 578,
+        "Seg": "OBX",
+        "Seq#": 10,
+        "Len": 2,
+        "DT": "ID",
+        "Rep": "Y",
+        "Table": 80,
+        "Chapter": "7.4.2.10"
+      },
+      {
+        "Description": "Observation Identifier",
+        "Item#": 571,
+        "Seg": "OBX",
+        "Seq#": 3,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "7.16.5.3"
+      },
+      {
+        "Description": "Observation Instance Identifier",
+        "Item#": 2180,
+        "Seg": "OBX",
+        "Seq#": 21,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "7.16.4.21"
+      },
+      {
+        "Description": "Observation Method",
+        "Item#": 936,
+        "Seg": "OBX",
+        "Seq#": 17,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Chapter": "7.4.2.17"
+      },
+      {
+        "Description": "Observation Result Status",
+        "Item#": 579,
+        "Seg": "OBX",
+        "Seq#": 11,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 85,
+        "Chapter": "7.4.2.11"
+      },
+      {
+        "Description": "Observation Site",
+        "Item#": 2179,
+        "Seg": "OBX",
+        "Seq#": 20,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 163,
+        "Chapter": "7.4.2.20"
+      },
+      {
+        "Description": "Observation Sub-ID",
+        "Item#": 572,
+        "Seg": "OBX",
+        "Seq#": 4,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "7.4.2.4"
+      },
+      {
+        "Description": "Observation Value",
+        "Item#": 573,
+        "Seg": "OBX",
+        "Seq#": 5,
+        "Len": 581,
+        "DT": "CD",
+        "Chapter": "7.16.3.5"
+      },
+      {
+        "Description": "Performing Organization Address",
+        "Item#": 2284,
+        "Seg": "OBX",
+        "Seq#": 24,
+        "Len": 2915,
+        "DT": "XAD",
+        "Chapter": "9.6.2.24"
+      },
+      {
+        "Description": "Performing Organization Medical Director",
+        "Item#": 2285,
+        "Seg": "OBX",
+        "Seq#": 25,
+        "Len": 3220,
+        "DT": "XCN",
+        "Chapter": "7.16.3.25"
+      },
+      {
+        "Description": "Performing Organization Name",
+        "Item#": 2283,
+        "Seg": "OBX",
+        "Seq#": 23,
+        "Len": 570,
+        "DT": "XON",
+        "Chapter": "7.16.6.23"
+      },
+      {
+        "Description": "Probability",
+        "Item#": 577,
+        "Seg": "OBX",
+        "Seq#": 9,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "7.16.6.9"
+      },
+      {
+        "Description": "Producer's ID",
+        "Item#": 583,
+        "Seg": "OBX",
+        "Seq#": 15,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "7.16.3.15"
+      },
+      {
+        "Description": "References Range",
+        "Item#": 575,
+        "Seg": "OBX",
+        "Seq#": 7,
+        "Len": 60,
+        "DT": "ST",
+        "Chapter": "7.16.4.7"
+      },
+      {
+        "Description": "Responsible Observer",
+        "Item#": 584,
+        "Seg": "OBX",
+        "Seq#": 16,
+        "Len": 3220,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "7.16.5.16"
+      },
+      {
+        "Description": "Set ID - OBX",
+        "Item#": 569,
+        "Seg": "OBX",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "7.16.6.1"
+      },
+      {
+        "Description": "Units",
+        "Item#": 574,
+        "Seg": "OBX",
+        "Seq#": 6,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "7.16.3.6"
+      },
+      {
+        "Description": "User Defined Access Checks",
+        "Item#": 581,
+        "Seg": "OBX",
+        "Seq#": 13,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "9.6.2.13"
+      },
+      {
+        "Description": "Value Type",
+        "Item#": 570,
+        "Seg": "OBX",
+        "Seq#": 2,
+        "Len": 3,
+        "DT": "ID",
+        "Table": 125,
+        "Chapter": "7.4.2.2"
+      }
+]

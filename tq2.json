@@ -1,0 +1,99 @@
+[
+    {
+        "Description": "Cyclic Entry/Exit Indicator",
+        "Item#": 1654,
+        "Seg": "TQ2",
+        "Seq#": 7,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 505,
+        "Chapter": "4.5.5.7"
+      },
+      {
+        "Description": "Cyclic Group Maximum Number of Repeats",
+        "Item#": 1656,
+        "Seg": "TQ2",
+        "Seq#": 9,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "4.5.5.9"
+      },
+      {
+        "Description": "Related Filler Number",
+        "Item#": 1651,
+        "Seg": "TQ2",
+        "Seq#": 4,
+        "Len": 22,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "4.5.5.4"
+      },
+      {
+        "Description": "Related Placer Group Number",
+        "Item#": 1652,
+        "Seg": "TQ2",
+        "Seq#": 5,
+        "Len": 22,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "4.5.5.5"
+      },
+      {
+        "Description": "Related Placer Number",
+        "Item#": 1650,
+        "Seg": "TQ2",
+        "Seq#": 3,
+        "Len": 22,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "4.5.5.3"
+      },
+      {
+        "Description": "Sequence Condition Code",
+        "Item#": 1653,
+        "Seg": "TQ2",
+        "Seq#": 6,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 504,
+        "Chapter": "4.5.5.6"
+      },
+      {
+        "Description": "Sequence Condition Time Interval",
+        "Item#": 1655,
+        "Seg": "TQ2",
+        "Seq#": 8,
+        "Len": 20,
+        "DT": "CQ",
+        "Chapter": "4.5.5.8"
+      },
+      {
+        "Description": "Sequence/Results Flag",
+        "Item#": 1649,
+        "Seg": "TQ2",
+        "Seq#": 2,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 503,
+        "Chapter": "4.5.5.2"
+      },
+      {
+        "Description": "Set ID - TQ2",
+        "Item#": 1648,
+        "Seg": "TQ2",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "4.5.5.1"
+      },
+      {
+        "Description": "Special Service Request Relationship",
+        "Item#": 1657,
+        "Seg": "TQ2",
+        "Seq#": 10,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 506,
+        "Chapter": "4.5.5.10"
+      }
+]

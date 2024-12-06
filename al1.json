@@ -1,0 +1,59 @@
+[
+    {
+    "Description": "Allergen Code/Mnemonic/Description",
+    "Item#": 205,
+    "Seg": "AL1",
+    "Seq#": 3,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "3.4.6.3"
+  },
+  {
+    "Description": "Allergen Type Code",
+    "Item#": 204,
+    "Seg": "AL1",
+    "Seq#": 2,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 127,
+    "Chapter": "3.4.6.2"
+  },
+  {
+    "Description": "Allergy Reaction Code",
+    "Item#": 207,
+    "Seg": "AL1",
+    "Seq#": 5,
+    "Len": 15,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "3.4.6.5"
+  },
+  {
+    "Description": "Allergy Severity Code",
+    "Item#": 206,
+    "Seg": "AL1",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 128,
+    "Chapter": "3.4.6.4"
+  },
+  {
+    "Description": "Identification Date",
+    "Item#": 208,
+    "Seg": "AL1",
+    "Seq#": 6,
+    "Len": 0,
+    "DT": "DT",
+    "Chapter": "3.4.6.6"
+  },
+  {
+    "Description": "Set ID - AL1",
+    "Item#": 203,
+    "Seg": "AL1",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "3.4.6.1"
+  }
+]

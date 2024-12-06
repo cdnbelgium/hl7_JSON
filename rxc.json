@@ -1,0 +1,90 @@
+[
+    {
+        "Description": "Component Amount",
+        "Item#": 315,
+        "Seg": "RXC",
+        "Seq#": 3,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.3.3"
+      },
+      {
+        "Description": "Component Code",
+        "Item#": 314,
+        "Seg": "RXC",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.3.2"
+      },
+      {
+        "Description": "Component Drug Strength Volume",
+        "Item#": 1671,
+        "Seg": "RXC",
+        "Seq#": 8,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "4.14.3.8"
+      },
+      {
+        "Description": "Component Drug Strength Volume Units",
+        "Item#": 1672,
+        "Seg": "RXC",
+        "Seq#": 9,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.3.9"
+      },
+      {
+        "Description": "Component Strength",
+        "Item#": 1124,
+        "Seg": "RXC",
+        "Seq#": 5,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.3.5"
+      },
+      {
+        "Description": "Component Strength Units",
+        "Item#": 1125,
+        "Seg": "RXC",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.3.6"
+      },
+      {
+        "Description": "Component Units",
+        "Item#": 316,
+        "Seg": "RXC",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.3.4"
+      },
+      {
+        "Description": "RX Component Type",
+        "Item#": 313,
+        "Seg": "RXC",
+        "Seq#": 1,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 166,
+        "Chapter": "4.14.3.1"
+      },
+      {
+        "Description": "Supplementary Code",
+        "Item#": 1476,
+        "Seg": "RXC",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.14.3.7"
+      }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "Description": "Bin Location Identifier",
+        "Item#": 2066,
+        "Seg": "IVT",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "17.4.7.7"
+      },
+      {
+        "Description": "Consignment Item Indicator",
+        "Item#": 2075,
+        "Seg": "IVT",
+        "Seq#": 16,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.7.16"
+      },
+      {
+        "Description": "Default Inventory Asset Account",
+        "Item#": 2069,
+        "Seg": "IVT",
+        "Seq#": 10,
+        "Len": 16,
+        "DT": "EI",
+        "Chapter": "17.4.7.10"
+      },
+      {
+        "Description": "Inventory Location Identifier",
+        "Item#": 2063,
+        "Seg": "IVT",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "EI",
+        "Chapter": "17.4.7.2"
+      },
+      {
+        "Description": "Inventory Location Name",
+        "Item#": 2277,
+        "Seg": "IVT",
+        "Seq#": 3,
+        "Len": 999,
+        "DT": "ST",
+        "Chapter": "17.4.7.3"
+      },
+      {
+        "Description": "Issue Packaging",
+        "Item#": 2068,
+        "Seg": "IVT",
+        "Seq#": 9,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "17.4.7.9"
+      },
+      {
+        "Description": "Item Importance Code",
+        "Item#": 2073,
+        "Seg": "IVT",
+        "Seq#": 14,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 634,
+        "Chapter": "17.4.7.14"
+      },
+      {
+        "Description": "Item Status",
+        "Item#": 2065,
+        "Seg": "IVT",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 625,
+        "Chapter": "17.4.7.6"
+      },
+      {
+        "Description": "Latex-Free Substitute Item Identifier",
+        "Item#": 2079,
+        "Seg": "IVT",
+        "Seq#": 20,
+        "Len": 250,
+        "DT": "EI",
+        "Chapter": "17.4.7.20"
+      },
+      {
+        "Description": "Operating Room Par Level Indicator",
+        "Item#": 2085,
+        "Seg": "IVT",
+        "Seq#": 26,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.7.26"
+      },
+      {
+        "Description": "Order Packaging",
+        "Item#": 2067,
+        "Seg": "IVT",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "17.4.7.8"
+      },
+      {
+        "Description": "Patient Chargeable Indicator",
+        "Item#": 2070,
+        "Seg": "IVT",
+        "Seq#": 11,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.7.11"
+      },
+      {
+        "Description": "Recommended Maximum Days Inventory",
+        "Item#": 2082,
+        "Seg": "IVT",
+        "Seq#": 23,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "17.4.7.23"
+      },
+      {
+        "Description": "Recommended Order Amount",
+        "Item#": 2084,
+        "Seg": "IVT",
+        "Seq#": 25,
+        "Len": 8,
+        "DT": "NM",
+        "Chapter": "17.4.7.25"
+      },
+      {
+        "Description": "Recommended Order Point",
+        "Item#": 2083,
+        "Seg": "IVT",
+        "Seq#": 24,
+        "Len": 8,
+        "DT": "NM",
+        "Chapter": "17.4.7.24"
+      },
+      {
+        "Description": "Recommended Reorder Theory",
+        "Item#": 2080,
+        "Seg": "IVT",
+        "Seq#": 21,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 642,
+        "Chapter": "17.4.7.21"
+      },
+      {
+        "Description": "Recommended Safety Stock Days",
+        "Item#": 2081,
+        "Seg": "IVT",
+        "Seq#": 22,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "17.4.7.22"
+      },
+      {
+        "Description": "Reusable Cost",
+        "Item#": 2077,
+        "Seg": "IVT",
+        "Seq#": 18,
+        "Len": 12,
+        "DT": "CP",
+        "Chapter": "17.4.7.18"
+      },
+      {
+        "Description": "Reusable Item Indicator",
+        "Item#": 2076,
+        "Seg": "IVT",
+        "Seq#": 17,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.7.17"
+      },
+      {
+        "Description": "Set Id - IVT",
+        "Item#": 2062,
+        "Seg": "IVT",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "17.4.7.1"
+      },
+      {
+        "Description": "Source Location Identifier",
+        "Item#": 2064,
+        "Seg": "IVT",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "EI",
+        "Chapter": "17.4.7.4"
+      },
+      {
+        "Description": "Source Location Name",
+        "Item#": 2278,
+        "Seg": "IVT",
+        "Seq#": 5,
+        "Len": 999,
+        "DT": "ST",
+        "Chapter": "17.4.7.5"
+      },
+      {
+        "Description": "Stocked Item Indicator",
+        "Item#": 2074,
+        "Seg": "IVT",
+        "Seq#": 15,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.7.15"
+      },
+      {
+        "Description": "Substitute Item Identifier",
+        "Item#": 2078,
+        "Seg": "IVT",
+        "Seq#": 19,
+        "Len": 250,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "17.4.7.19"
+      },
+      {
+        "Description": "Transaction amount - unit",
+        "Item#": 366,
+        "Seg": "IVT",
+        "Seq#": 13,
+        "Len": 12,
+        "DT": "CP",
+        "Chapter": "17.4.7.13"
+      },
+      {
+        "Description": "Transaction Code",
+        "Item#": 361,
+        "Seg": "IVT",
+        "Seq#": 12,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 132,
+        "Chapter": "17.4.7.12"
+      }
+]

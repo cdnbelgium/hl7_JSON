@@ -1,0 +1,205 @@
+[
+    {
+        "Description": "Action Code",
+        "Item#": 816,
+        "Seg": "GOL",
+        "Seq#": 1,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 287,
+        "Chapter": "12.4.1.1"
+      },
+      {
+        "Description": "Action Date/Time",
+        "Item#": 817,
+        "Seg": "GOL",
+        "Seq#": 2,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "12.4.1.2"
+      },
+      {
+        "Description": "Current Goal Review Date/Time",
+        "Item#": 828,
+        "Seg": "GOL",
+        "Seq#": 12,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "12.4.1.12"
+      },
+      {
+        "Description": "Current Goal Review Status",
+        "Item#": 827,
+        "Seg": "GOL",
+        "Seq#": 11,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.1.11"
+      },
+      {
+        "Description": "Episode of Care ID",
+        "Item#": 820,
+        "Seg": "GOL",
+        "Seq#": 5,
+        "Len": 60,
+        "DT": "EI",
+        "Chapter": "12.4.1.5"
+      },
+      {
+        "Description": "Expected Goal Achieve Date/Time",
+        "Item#": 824,
+        "Seg": "GOL",
+        "Seq#": 8,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "12.4.1.8"
+      },
+      {
+        "Description": "Goal Classification",
+        "Item#": 825,
+        "Seg": "GOL",
+        "Seq#": 9,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.1.9"
+      },
+      {
+        "Description": "Goal Established Date/Time",
+        "Item#": 822,
+        "Seg": "GOL",
+        "Seq#": 7,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "12.4.1.7"
+      },
+      {
+        "Description": "Goal Evaluation",
+        "Item#": 832,
+        "Seg": "GOL",
+        "Seq#": 16,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.1.16"
+      },
+      {
+        "Description": "Goal Evaluation Comment",
+        "Item#": 833,
+        "Seg": "GOL",
+        "Seq#": 17,
+        "Len": 300,
+        "DT": "ST",
+        "Rep": "Y",
+        "Chapter": "12.4.1.17"
+      },
+      {
+        "Description": "Goal ID",
+        "Item#": 818,
+        "Seg": "GOL",
+        "Seq#": 3,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.1.3"
+      },
+      {
+        "Description": "Goal Instance ID",
+        "Item#": 819,
+        "Seg": "GOL",
+        "Seq#": 4,
+        "Len": 60,
+        "DT": "EI",
+        "Chapter": "12.4.1.4"
+      },
+      {
+        "Description": "Goal Life Cycle Status",
+        "Item#": 834,
+        "Seg": "GOL",
+        "Seq#": 18,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.1.18"
+      },
+      {
+        "Description": "Goal Life Cycle Status Date/Time",
+        "Item#": 835,
+        "Seg": "GOL",
+        "Seq#": 19,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "12.4.1.19"
+      },
+      {
+        "Description": "Goal List Priority",
+        "Item#": 821,
+        "Seg": "GOL",
+        "Seq#": 6,
+        "Len": 60,
+        "DT": "NM",
+        "Chapter": "12.4.1.6"
+      },
+      {
+        "Description": "Goal Management Discipline",
+        "Item#": 826,
+        "Seg": "GOL",
+        "Seq#": 10,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.1.10"
+      },
+      {
+        "Description": "Goal Review Interval",
+        "Item#": 831,
+        "Seg": "GOL",
+        "Seq#": 15,
+        "Len": 200,
+        "DT": "TQ",
+        "Chapter": "12.4.1.15"
+      },
+      {
+        "Description": "Goal Target Name",
+        "Item#": 837,
+        "Seg": "GOL",
+        "Seq#": 21,
+        "Len": 250,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Chapter": "12.4.1.21"
+      },
+      {
+        "Description": "Goal Target Type",
+        "Item#": 836,
+        "Seg": "GOL",
+        "Seq#": 20,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Chapter": "12.4.1.20"
+      },
+      {
+        "Description": "Mood Code",
+        "Item#": 2182,
+        "Seg": "GOL",
+        "Seq#": 22,
+        "Len": 705,
+        "DT": "CNE",
+        "Table": 725,
+        "Chapter": "12.4.1.22"
+      },
+      {
+        "Description": "Next Goal Review Date/Time",
+        "Item#": 829,
+        "Seg": "GOL",
+        "Seq#": 13,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "12.4.1.13"
+      },
+      {
+        "Description": "Previous Goal Review Date/Time",
+        "Item#": 830,
+        "Seg": "GOL",
+        "Seq#": 14,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "12.4.1.14"
+      }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Description": "Application Error Code",
+        "Item#": 1815,
+        "Seg": "ERR",
+        "Seq#": 5,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 533,
+        "Chapter": "2.14.5.5"
+      },
+      {
+        "Description": "Application Error Parameter",
+        "Item#": 1816,
+        "Seg": "ERR",
+        "Seq#": 6,
+        "Len": 80,
+        "DT": "ST",
+        "Rep": "Y",
+        "Chapter": "2.14.5.6"
+      },
+      {
+        "Description": "Diagnostic Information",
+        "Item#": 1817,
+        "Seg": "ERR",
+        "Seq#": 7,
+        "Len": 2048,
+        "DT": "TX",
+        "Chapter": "2.14.5.7"
+      },
+      {
+        "Description": "Error Code and Location",
+        "Item#": 24,
+        "Seg": "ERR",
+        "Seq#": 1,
+        "Len": 0,
+        "DT": "ELD",
+        "Rep": "Y",
+        "Chapter": "2.14.5.1"
+      },
+      {
+        "Description": "Error Location",
+        "Item#": 1812,
+        "Seg": "ERR",
+        "Seq#": 2,
+        "Len": 18,
+        "DT": "ERL",
+        "Rep": "Y",
+        "Chapter": "2.14.5.2"
+      },
+      {
+        "Description": "Help Desk Contact Point",
+        "Item#": 1822,
+        "Seg": "ERR",
+        "Seq#": 12,
+        "Len": 652,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "2.14.5.12"
+      },
+      {
+        "Description": "HL7 Error Code",
+        "Item#": 1813,
+        "Seg": "ERR",
+        "Seq#": 3,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 357,
+        "Chapter": "2.14.5.3"
+      },
+      {
+        "Description": "Inform Person Indicator",
+        "Item#": 1819,
+        "Seg": "ERR",
+        "Seq#": 9,
+        "Len": 20,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 517,
+        "Chapter": "2.14.5.9"
+      },
+      {
+        "Description": "Override Reason Code",
+        "Item#": 1821,
+        "Seg": "ERR",
+        "Seq#": 11,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 519,
+        "Chapter": "2.14.5.11"
+      },
+      {
+        "Description": "Override Type",
+        "Item#": 1820,
+        "Seg": "ERR",
+        "Seq#": 10,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 518,
+        "Chapter": "2.14.5.10"
+      },
+      {
+        "Description": "Severity",
+        "Item#": 1814,
+        "Seg": "ERR",
+        "Seq#": 4,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 516,
+        "Chapter": "2.14.5.4"
+      },
+      {
+        "Description": "User Message",
+        "Item#": 1818,
+        "Seg": "ERR",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "TX",
+        "Chapter": "2.14.5.8"
+      }
+]

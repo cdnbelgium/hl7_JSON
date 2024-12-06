@@ -1,0 +1,58 @@
+[
+    {
+        "Description": "Hit Count Total",
+        "Item#": 1434,
+        "Seg": "QAK",
+        "Seq#": 4,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "5.5.2.4"
+      },
+      {
+        "Description": "Hits remaining",
+        "Item#": 1623,
+        "Seg": "QAK",
+        "Seq#": 6,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "5.5.2.6"
+      },
+      {
+        "Description": "Message Query Name",
+        "Item#": 1375,
+        "Seg": "QAK",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 471,
+        "Chapter": "5.5.2.3"
+      },
+      {
+        "Description": "Query Response Status",
+        "Item#": 708,
+        "Seg": "QAK",
+        "Seq#": 2,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 208,
+        "Chapter": "5.5.2.2"
+      },
+      {
+        "Description": "Query Tag",
+        "Item#": 696,
+        "Seg": "QAK",
+        "Seq#": 1,
+        "Len": 32,
+        "DT": "ST",
+        "Chapter": "5.5.2.1"
+      },
+      {
+        "Description": "This payload",
+        "Item#": 1622,
+        "Seg": "QAK",
+        "Seq#": 5,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "5.5.2.5"
+      }
+]

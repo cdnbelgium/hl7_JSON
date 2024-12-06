@@ -1,0 +1,73 @@
+[
+    {
+        "Description": "Contact Address",
+        "Item#": 1166,
+        "Seg": "CTD",
+        "Seq#": 3,
+        "Len": 2915,
+        "DT": "XAD",
+        "Rep": "Y",
+        "Chapter": "11.6.4.3"
+      },
+      {
+        "Description": "Contact Communication Information",
+        "Item#": 1168,
+        "Seg": "CTD",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "11.6.4.5"
+      },
+      {
+        "Description": "Contact Identifiers",
+        "Item#": 1171,
+        "Seg": "CTD",
+        "Seq#": 7,
+        "Len": 100,
+        "DT": "PLN",
+        "Rep": "Y",
+        "Table": 338,
+        "Chapter": "11.6.4.7"
+      },
+      {
+        "Description": "Contact Location",
+        "Item#": 1167,
+        "Seg": "CTD",
+        "Seq#": 4,
+        "Len": 60,
+        "DT": "PL",
+        "Chapter": "11.6.4.4"
+      },
+      {
+        "Description": "Contact Name",
+        "Item#": 1165,
+        "Seg": "CTD",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Chapter": "11.6.4.2"
+      },
+      {
+        "Description": "Contact Role",
+        "Item#": 196,
+        "Seg": "CTD",
+        "Seq#": 1,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 131,
+        "Chapter": "11.6.4.1"
+      },
+      {
+        "Description": "Preferred Method of Contact",
+        "Item#": 684,
+        "Seg": "CTD",
+        "Seq#": 6,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 185,
+        "Chapter": "11.6.4.6"
+      }
+]

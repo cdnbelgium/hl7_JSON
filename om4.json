@@ -1,0 +1,134 @@
+[
+    {
+        "Description": "Additive",
+        "Item#": 647,
+        "Seg": "OM4",
+        "Seq#": 7,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 371,
+        "Chapter": "8.8.11.7"
+      },
+      {
+        "Description": "Container Description",
+        "Item#": 643,
+        "Seg": "OM4",
+        "Seq#": 3,
+        "Len": 60,
+        "DT": "TX",
+        "Chapter": "8.8.11.3"
+      },
+      {
+        "Description": "Container Units",
+        "Item#": 645,
+        "Seg": "OM4",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "8.8.11.5"
+      },
+      {
+        "Description": "Container Volume",
+        "Item#": 644,
+        "Seg": "OM4",
+        "Seq#": 4,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "8.8.11.4"
+      },
+      {
+        "Description": "Derived Specimen",
+        "Item#": 642,
+        "Seg": "OM4",
+        "Seq#": 2,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 170,
+        "Chapter": "8.8.11.2"
+      },
+      {
+        "Description": "Minimum Collection Volume",
+        "Item#": 651,
+        "Seg": "OM4",
+        "Seq#": 11,
+        "Len": 20,
+        "DT": "CQ",
+        "Chapter": "8.8.11.11"
+      },
+      {
+        "Description": "Normal Collection Volume",
+        "Item#": 650,
+        "Seg": "OM4",
+        "Seq#": 10,
+        "Len": 20,
+        "DT": "CQ",
+        "Chapter": "8.8.11.10"
+      },
+      {
+        "Description": "Preparation",
+        "Item#": 648,
+        "Seg": "OM4",
+        "Seq#": 8,
+        "Len": 10240,
+        "DT": "TX",
+        "Chapter": "8.8.11.8"
+      },
+      {
+        "Description": "Sequence Number - Test/Observation Master File",
+        "Item#": 586,
+        "Seg": "OM4",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "8.8.11.1"
+      },
+      {
+        "Description": "Special Handling Requirements",
+        "Item#": 649,
+        "Seg": "OM4",
+        "Seq#": 9,
+        "Len": 10240,
+        "DT": "TX",
+        "Chapter": "8.8.11.9"
+      },
+      {
+        "Description": "Specimen",
+        "Item#": 646,
+        "Seg": "OM4",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "8.8.11.6"
+      },
+      {
+        "Description": "Specimen Priorities",
+        "Item#": 653,
+        "Seg": "OM4",
+        "Seq#": 13,
+        "Len": 1,
+        "DT": "ID",
+        "Rep": "Y",
+        "Table": 27,
+        "Chapter": "8.8.11.13"
+      },
+      {
+        "Description": "Specimen Requirements",
+        "Item#": 652,
+        "Seg": "OM4",
+        "Seq#": 12,
+        "Len": 10240,
+        "DT": "TX",
+        "Chapter": "8.8.11.12"
+      },
+      {
+        "Description": "Specimen Retention Time",
+        "Item#": 654,
+        "Seg": "OM4",
+        "Seq#": 14,
+        "Len": 20,
+        "DT": "CQ",
+        "Chapter": "8.8.11.14"
+      }
+]

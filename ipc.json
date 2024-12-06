@@ -1,0 +1,88 @@
+[
+    {
+        "Description": "Accession Identifier",
+        "Item#": 1330,
+        "Seg": "IPC",
+        "Seq#": 1,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "4.5.6.1"
+      },
+      {
+        "Description": "Modality",
+        "Item#": 1661,
+        "Seg": "IPC",
+        "Seq#": 5,
+        "Len": 16,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.5.6.5"
+      },
+      {
+        "Description": "Protocol Code",
+        "Item#": 1662,
+        "Seg": "IPC",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.5.6.6"
+      },
+      {
+        "Description": "Requested Procedure ID",
+        "Item#": 1658,
+        "Seg": "IPC",
+        "Seq#": 2,
+        "Len": 22,
+        "DT": "EI",
+        "Chapter": "4.5.6.2"
+      },
+      {
+        "Description": "Scheduled Procedure Step ID",
+        "Item#": 1660,
+        "Seg": "IPC",
+        "Seq#": 4,
+        "Len": 22,
+        "DT": "EI",
+        "Chapter": "4.5.6.4"
+      },
+      {
+        "Description": "Scheduled Procedure Step Location",
+        "Item#": 1664,
+        "Seg": "IPC",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.5.6.8"
+      },
+      {
+        "Description": "Scheduled Station AE Title",
+        "Item#": 1665,
+        "Seg": "IPC",
+        "Seq#": 9,
+        "Len": 16,
+        "DT": "ST",
+        "Chapter": "4.5.6.9"
+      },
+      {
+        "Description": "Scheduled Station Name",
+        "Item#": 1663,
+        "Seg": "IPC",
+        "Seq#": 7,
+        "Len": 22,
+        "DT": "EI",
+        "Chapter": "4.5.6.7"
+      },
+      {
+        "Description": "Study Instance UID",
+        "Item#": 1659,
+        "Seg": "IPC",
+        "Seq#": 3,
+        "Len": 70,
+        "DT": "EI",
+        "Chapter": "4.5.6.3"
+      }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "Description": "Adjudicate as Group",
+        "Item#": 1953,
+        "Seg": "PSG",
+        "Seq#": 4,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "16.4.5.4"
+      },
+      {
+        "Description": "Payer Product/Service Group Number",
+        "Item#": 1951,
+        "Seg": "PSG",
+        "Seq#": 2,
+        "Len": 73,
+        "DT": "EI",
+        "Chapter": "16.4.5.2"
+      },
+      {
+        "Description": "Product/Service Group Billed Amount",
+        "Item#": 1954,
+        "Seg": "PSG",
+        "Seq#": 5,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.5.5"
+      },
+      {
+        "Description": "Product/Service Group Description",
+        "Item#": 2044,
+        "Seg": "PSG",
+        "Seq#": 6,
+        "Len": 254,
+        "DT": "ST",
+        "Chapter": "16.4.5.6"
+      },
+      {
+        "Description": "Product/Service Group Sequence Number",
+        "Item#": 1952,
+        "Seg": "PSG",
+        "Seq#": 3,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "16.4.5.3"
+      },
+      {
+        "Description": "Provider Product/Service Group Number",
+        "Item#": 1950,
+        "Seg": "PSG",
+        "Seq#": 1,
+        "Len": 73,
+        "DT": "EI",
+        "Chapter": "16.4.5.1"
+      }
+]

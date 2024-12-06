@@ -1,0 +1,43 @@
+[
+    {
+        "Description": "Accommodation Type",
+        "Item#": 980,
+        "Seg": "LCC",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 129,
+        "Chapter": "8.9.6.3"
+      },
+      {
+        "Description": "Charge Code",
+        "Item#": 981,
+        "Seg": "LCC",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 132,
+        "Chapter": "8.9.6.4"
+      },
+      {
+        "Description": "Location Department",
+        "Item#": 964,
+        "Seg": "LCC",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 264,
+        "Chapter": "8.9.6.2"
+      },
+      {
+        "Description": "Primary Key Value - LCC",
+        "Item#": 979,
+        "Seg": "LCC",
+        "Seq#": 1,
+        "Len": 200,
+        "DT": "PL",
+        "Chapter": "8.9.6.1"
+      }
+]

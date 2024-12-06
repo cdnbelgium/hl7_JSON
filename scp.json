@@ -1,0 +1,78 @@
+[
+    {
+        "Description": "Date Format",
+        "Item#": 2089,
+        "Seg": "SCP",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 653,
+        "Chapter": "17.7.1.3"
+      },
+      {
+        "Description": "Device Model Name",
+        "Item#": 2091,
+        "Seg": "SCP",
+        "Seq#": 6,
+        "Len": 2,
+        "DT": "ST",
+        "Chapter": "17.7.1.6"
+      },
+      {
+        "Description": "Device Name",
+        "Item#": 2279,
+        "Seg": "SCP",
+        "Seq#": 5,
+        "Len": 999,
+        "DT": "ST",
+        "Chapter": "17.7.1.5"
+      },
+      {
+        "Description": "Device Number",
+        "Item#": 2090,
+        "Seg": "SCP",
+        "Seq#": 4,
+        "Len": 8,
+        "DT": "EI",
+        "Chapter": "17.7.1.4"
+      },
+      {
+        "Description": "Device Type",
+        "Item#": 2092,
+        "Seg": "SCP",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 657,
+        "Chapter": "17.7.1.7"
+      },
+      {
+        "Description": "Labor Calculation Type",
+        "Item#": 2088,
+        "Seg": "SCP",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 651,
+        "Chapter": "17.7.1.2"
+      },
+      {
+        "Description": "Lot Control",
+        "Item#": 2093,
+        "Seg": "SCP",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 659,
+        "Chapter": "17.7.1.8"
+      },
+      {
+        "Description": "Number Of Decontamination/Sterilization Devices",
+        "Item#": 2087,
+        "Seg": "SCP",
+        "Seq#": 1,
+        "Len": 2,
+        "DT": "NM",
+        "Chapter": "17.7.1.1"
+      }
+]

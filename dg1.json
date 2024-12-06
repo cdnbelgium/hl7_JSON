@@ -1,0 +1,252 @@
+[
+    {
+        "Description": "Attestation Date/Time",
+        "Item#": 768,
+        "Seg": "DG1",
+        "Seq#": 19,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "6.5.2.19"
+      },
+      {
+        "Description": "Confidential Indicator",
+        "Item#": 767,
+        "Seg": "DG1",
+        "Seq#": 18,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "6.5.2.18"
+      },
+      {
+        "Description": "Diagnosing Clinician",
+        "Item#": 390,
+        "Seg": "DG1",
+        "Seq#": 16,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "6.5.2.16"
+      },
+      {
+        "Description": "Diagnosis Action Code",
+        "Item#": 1894,
+        "Seg": "DG1",
+        "Seq#": 21,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 206,
+        "Chapter": "6.5.2.21"
+      },
+      {
+        "Description": "Diagnosis Classification",
+        "Item#": 766,
+        "Seg": "DG1",
+        "Seq#": 17,
+        "Len": 3,
+        "DT": "IS",
+        "Table": 228,
+        "Chapter": "6.5.2.17"
+      },
+      {
+        "Description": "Diagnosis Code - DG1",
+        "Item#": 377,
+        "Seg": "DG1",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 51,
+        "Chapter": "6.5.2.3"
+      },
+      {
+        "Description": "Diagnosis Coding Method",
+        "Item#": 376,
+        "Seg": "DG1",
+        "Seq#": 2,
+        "Len": 0,
+        "DT": "-",
+        "Chapter": "6.5.2.2"
+      },
+      {
+        "Description": "Diagnosis Date/Time",
+        "Item#": 379,
+        "Seg": "DG1",
+        "Seq#": 5,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "6.5.2.5"
+      },
+      {
+        "Description": "Diagnosis Description",
+        "Item#": 378,
+        "Seg": "DG1",
+        "Seq#": 4,
+        "Len": 0,
+        "DT": "-",
+        "Chapter": "6.5.2.4"
+      },
+      {
+        "Description": "Diagnosis Identifier",
+        "Item#": 1850,
+        "Seg": "DG1",
+        "Seq#": 20,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "6.5.2.20"
+      },
+      {
+        "Description": "Diagnosis Priority",
+        "Item#": 389,
+        "Seg": "DG1",
+        "Seq#": 15,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 359,
+        "Chapter": "6.5.2.15"
+      },
+      {
+        "Description": "Diagnosis Type",
+        "Item#": 380,
+        "Seg": "DG1",
+        "Seq#": 6,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 52,
+        "Chapter": "6.5.2.6"
+      },
+      {
+        "Description": "Diagnostic Related Group",
+        "Item#": 382,
+        "Seg": "DG1",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "CNE",
+        "Table": 55,
+        "Chapter": "6.5.2.8"
+      },
+      {
+        "Description": "DRG Approval Indicator",
+        "Item#": 383,
+        "Seg": "DG1",
+        "Seq#": 9,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "6.5.2.9"
+      },
+      {
+        "Description": "DRG CCL Value Code",
+        "Item#": 2153,
+        "Seg": "DG1",
+        "Seq#": 23,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 728,
+        "Chapter": "6.5.2.23"
+      },
+      {
+        "Description": "DRG Diagnosis Determination Status",
+        "Item#": 2155,
+        "Seg": "DG1",
+        "Seq#": 25,
+        "Len": 20,
+        "DT": "IS",
+        "Table": 731,
+        "Chapter": "6.5.2.25"
+      },
+      {
+        "Description": "DRG Grouper Review Code",
+        "Item#": 384,
+        "Seg": "DG1",
+        "Seq#": 10,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 56,
+        "Chapter": "6.5.2.10"
+      },
+      {
+        "Description": "DRG Grouping Usage",
+        "Item#": 2154,
+        "Seg": "DG1",
+        "Seq#": 24,
+        "Len": 20,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "6.5.2.24"
+      },
+      {
+        "Description": "Grouper Version And Type",
+        "Item#": 388,
+        "Seg": "DG1",
+        "Seq#": 14,
+        "Len": 0,
+        "DT": "-",
+        "Chapter": "6.5.2.14"
+      },
+      {
+        "Description": "Major Diagnostic Category",
+        "Item#": 381,
+        "Seg": "DG1",
+        "Seq#": 7,
+        "Len": 1,
+        "DT": "CNE",
+        "Table": 118,
+        "Chapter": "6.5.2.7"
+      },
+      {
+        "Description": "Outlier Cost",
+        "Item#": 387,
+        "Seg": "DG1",
+        "Seq#": 13,
+        "Len": 12,
+        "DT": "CP",
+        "Chapter": "6.5.2.13"
+      },
+      {
+        "Description": "Outlier Days",
+        "Item#": 386,
+        "Seg": "DG1",
+        "Seq#": 12,
+        "Len": 3,
+        "DT": "NM",
+        "Chapter": "6.5.2.12"
+      },
+      {
+        "Description": "Outlier Type",
+        "Item#": 385,
+        "Seg": "DG1",
+        "Seq#": 11,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 83,
+        "Chapter": "6.5.2.11"
+      },
+      {
+        "Description": "Parent Diagnosis",
+        "Item#": 2152,
+        "Seg": "DG1",
+        "Seq#": 22,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "6.5.2.22"
+      },
+      {
+        "Description": "Present On Admission (POA) Indicator",
+        "Item#": 2288,
+        "Seg": "DG1",
+        "Seq#": 26,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 895,
+        "Chapter": "6.5.2.26"
+      },
+      {
+        "Description": "Set ID - DG1",
+        "Item#": 375,
+        "Seg": "DG1",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "6.5.2.1"
+      }
+]

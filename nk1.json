@@ -1,0 +1,391 @@
+[
+    {
+        "Description": "Address",
+        "Item#": 193,
+        "Seg": "NK1",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "XAD",
+        "Rep": "Y",
+        "Chapter": "3.4.5.4"
+      },
+      {
+        "Description": "Administrative Sex",
+        "Item#": 111,
+        "Seg": "NK1",
+        "Seq#": 15,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 1,
+        "Chapter": "3.4.5.15"
+      },
+      {
+        "Description": "Ambulatory Status",
+        "Item#": 145,
+        "Seg": "NK1",
+        "Seq#": 18,
+        "Len": 2,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 9,
+        "Chapter": "3.4.5.18"
+      },
+      {
+        "Description": "Business Phone Number",
+        "Item#": 195,
+        "Seg": "NK1",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "3.4.5.6"
+      },
+      {
+        "Description": "Citizenship",
+        "Item#": 129,
+        "Seg": "NK1",
+        "Seq#": 19,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 171,
+        "Chapter": "3.4.5.19"
+      },
+      {
+        "Description": "Contact Person Social Security Number",
+        "Item#": 754,
+        "Seg": "NK1",
+        "Seq#": 37,
+        "Len": 16,
+        "DT": "ST",
+        "Chapter": "3.4.5.37"
+      },
+      {
+        "Description": "Contact Person's Address",
+        "Item#": 750,
+        "Seg": "NK1",
+        "Seq#": 32,
+        "Len": 250,
+        "DT": "XAD",
+        "Rep": "Y",
+        "Chapter": "3.4.5.32"
+      },
+      {
+        "Description": "Contact Person's Name",
+        "Item#": 748,
+        "Seg": "NK1",
+        "Seq#": 30,
+        "Len": 250,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Table": 200,
+        "Chapter": "3.4.5.30"
+      },
+      {
+        "Description": "Contact Person's Telephone Number",
+        "Item#": 749,
+        "Seg": "NK1",
+        "Seq#": 31,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "3.4.5.31"
+      },
+      {
+        "Description": "Contact Reason",
+        "Item#": 747,
+        "Seg": "NK1",
+        "Seq#": 29,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 222,
+        "Chapter": "3.4.5.29"
+      },
+      {
+        "Description": "Contact Role",
+        "Item#": 196,
+        "Seg": "NK1",
+        "Seq#": 7,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 131,
+        "Chapter": "3.4.5.7"
+      },
+      {
+        "Description": "Date/Time of Birth",
+        "Item#": 110,
+        "Seg": "NK1",
+        "Seq#": 16,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "3.4.5.16"
+      },
+      {
+        "Description": "End Date",
+        "Item#": 198,
+        "Seg": "NK1",
+        "Seq#": 9,
+        "Len": 8,
+        "DT": "DT",
+        "Chapter": "3.4.5.9"
+      },
+      {
+        "Description": "Ethnic Group",
+        "Item#": 125,
+        "Seg": "NK1",
+        "Seq#": 28,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 189,
+        "Chapter": "3.4.5.28"
+      },
+      {
+        "Description": "Handicap",
+        "Item#": 753,
+        "Seg": "NK1",
+        "Seq#": 36,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 295,
+        "Chapter": "3.4.5.36"
+      },
+      {
+        "Description": "Job Status",
+        "Item#": 752,
+        "Seg": "NK1",
+        "Seq#": 34,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 311,
+        "Chapter": "3.4.5.34"
+      },
+      {
+        "Description": "Living Arrangement",
+        "Item#": 742,
+        "Seg": "NK1",
+        "Seq#": 21,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 220,
+        "Chapter": "3.4.5.21"
+      },
+      {
+        "Description": "Living Dependency",
+        "Item#": 755,
+        "Seg": "NK1",
+        "Seq#": 17,
+        "Len": 2,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 223,
+        "Chapter": "3.4.5.17"
+      },
+      {
+        "Description": "Marital Status",
+        "Item#": 119,
+        "Seg": "NK1",
+        "Seq#": 14,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 2,
+        "Chapter": "3.4.5.14"
+      },
+      {
+        "Description": "Mother's Maiden Name",
+        "Item#": 109,
+        "Seg": "NK1",
+        "Seq#": 26,
+        "Len": 250,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Chapter": "3.4.5.26"
+      },
+      {
+        "Description": "Name",
+        "Item#": 191,
+        "Seg": "NK1",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Table": 200,
+        "Chapter": "3.4.5.2"
+      },
+      {
+        "Description": "Nationality",
+        "Item#": 739,
+        "Seg": "NK1",
+        "Seq#": 27,
+        "Len": 0,
+        "DT": "CWE",
+        "Table": 212,
+        "Chapter": "3.4.5.27"
+      },
+      {
+        "Description": "Next of Kin / Associated Parties Employee Number",
+        "Item#": 201,
+        "Seg": "NK1",
+        "Seq#": 12,
+        "Len": 250,
+        "DT": "CX",
+        "Chapter": "3.4.5.12"
+      },
+      {
+        "Description": "Next of Kin / Associated Parties Job Code/Class",
+        "Item#": 200,
+        "Seg": "NK1",
+        "Seq#": 11,
+        "Len": 20,
+        "DT": "JCC",
+        "Chapter": "3.4.5.11"
+      },
+      {
+        "Description": "Next of Kin / Associated Parties Job Title",
+        "Item#": 199,
+        "Seg": "NK1",
+        "Seq#": 10,
+        "Len": 60,
+        "DT": "ST",
+        "Chapter": "3.4.5.10"
+      },
+      {
+        "Description": "Next of Kin Birth Place",
+        "Item#": 1905,
+        "Seg": "NK1",
+        "Seq#": 38,
+        "Len": 250,
+        "DT": "ST",
+        "Chapter": "3.4.5.38"
+      },
+      {
+        "Description": "Next of Kin/Associated Party's Identifiers",
+        "Item#": 751,
+        "Seg": "NK1",
+        "Seq#": 33,
+        "Len": 250,
+        "DT": "CX",
+        "Rep": "Y",
+        "Chapter": "3.4.5.33"
+      },
+      {
+        "Description": "Organization Name - NK1",
+        "Item#": 202,
+        "Seg": "NK1",
+        "Seq#": 13,
+        "Len": 250,
+        "DT": "XON",
+        "Rep": "Y",
+        "Chapter": "3.4.5.13"
+      },
+      {
+        "Description": "Phone Number",
+        "Item#": 194,
+        "Seg": "NK1",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "3.4.5.5"
+      },
+      {
+        "Description": "Primary Language",
+        "Item#": 118,
+        "Seg": "NK1",
+        "Seq#": 20,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 296,
+        "Chapter": "3.4.5.20"
+      },
+      {
+        "Description": "Protection Indicator",
+        "Item#": 744,
+        "Seg": "NK1",
+        "Seq#": 23,
+        "Len": 0,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "3.4.5.23"
+      },
+      {
+        "Description": "Publicity Code",
+        "Item#": 743,
+        "Seg": "NK1",
+        "Seq#": 22,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 215,
+        "Chapter": "3.4.5.22"
+      },
+      {
+        "Description": "Race",
+        "Item#": 113,
+        "Seg": "NK1",
+        "Seq#": 35,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 5,
+        "Chapter": "3.4.5.35"
+      },
+      {
+        "Description": "Relationship",
+        "Item#": 192,
+        "Seg": "NK1",
+        "Seq#": 3,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 63,
+        "Chapter": "3.4.5.3"
+      },
+      {
+        "Description": "Religion",
+        "Item#": 120,
+        "Seg": "NK1",
+        "Seq#": 25,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 6,
+        "Chapter": "3.4.5.25"
+      },
+      {
+        "Description": "Set ID - NK1",
+        "Item#": 190,
+        "Seg": "NK1",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "3.4.5.1"
+      },
+      {
+        "Description": "Start Date",
+        "Item#": 197,
+        "Seg": "NK1",
+        "Seq#": 8,
+        "Len": 8,
+        "DT": "DT",
+        "Chapter": "3.4.5.8"
+      },
+      {
+        "Description": "Student Indicator",
+        "Item#": 745,
+        "Seg": "NK1",
+        "Seq#": 24,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 231,
+        "Chapter": "3.4.5.24"
+      },
+      {
+        "Description": "VIP Indicator",
+        "Item#": 146,
+        "Seg": "NK1",
+        "Seq#": 39,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 99,
+        "Chapter": "3.4.5.39"
+      }
+]

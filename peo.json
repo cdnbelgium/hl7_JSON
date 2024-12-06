@@ -1,0 +1,252 @@
+[
+    {
+        "Description": "Cause Of Death",
+        "Item#": 1090,
+        "Seg": "PEO",
+        "Seq#": 18,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "7.12.2.18"
+      },
+      {
+        "Description": "Confirmation Provided By",
+        "Item#": 1095,
+        "Seg": "PEO",
+        "Seq#": 23,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 242,
+        "Chapter": "7.12.2.23"
+      },
+      {
+        "Description": "Event Description from Autopsy",
+        "Item#": 1089,
+        "Seg": "PEO",
+        "Seq#": 17,
+        "Len": 600,
+        "DT": "FT",
+        "Rep": "Y",
+        "Chapter": "7.12.2.17"
+      },
+      {
+        "Description": "Event Description from Original Reporter",
+        "Item#": 1086,
+        "Seg": "PEO",
+        "Seq#": 14,
+        "Len": 600,
+        "DT": "FT",
+        "Rep": "Y",
+        "Chapter": "7.12.2.14"
+      },
+      {
+        "Description": "Event Description from Others",
+        "Item#": 1085,
+        "Seg": "PEO",
+        "Seq#": 13,
+        "Len": 600,
+        "DT": "FT",
+        "Rep": "Y",
+        "Chapter": "7.12.2.13"
+      },
+      {
+        "Description": "Event Description from Patient",
+        "Item#": 1087,
+        "Seg": "PEO",
+        "Seq#": 15,
+        "Len": 600,
+        "DT": "FT",
+        "Rep": "Y",
+        "Chapter": "7.12.2.15"
+      },
+      {
+        "Description": "Event Description from Practitioner",
+        "Item#": 1088,
+        "Seg": "PEO",
+        "Seq#": 16,
+        "Len": 600,
+        "DT": "FT",
+        "Rep": "Y",
+        "Chapter": "7.12.2.16"
+      },
+      {
+        "Description": "Event Ended Data/Time",
+        "Item#": 1078,
+        "Seg": "PEO",
+        "Seq#": 6,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.2.6"
+      },
+      {
+        "Description": "Event Exacerbation Date/Time",
+        "Item#": 1076,
+        "Seg": "PEO",
+        "Seq#": 4,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.2.4"
+      },
+      {
+        "Description": "Event Expected",
+        "Item#": 1082,
+        "Seg": "PEO",
+        "Seq#": 10,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 239,
+        "Chapter": "7.12.2.10"
+      },
+      {
+        "Description": "Event Identifiers Used",
+        "Item#": 1073,
+        "Seg": "PEO",
+        "Seq#": 1,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "7.12.2.1"
+      },
+      {
+        "Description": "Event Improved Date/Time",
+        "Item#": 1077,
+        "Seg": "PEO",
+        "Seq#": 5,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.2.5"
+      },
+      {
+        "Description": "Event Location Occurred Address",
+        "Item#": 1079,
+        "Seg": "PEO",
+        "Seq#": 7,
+        "Len": 2915,
+        "DT": "XAD",
+        "Rep": "Y",
+        "Chapter": "7.12.2.7"
+      },
+      {
+        "Description": "Event Onset Date/Time",
+        "Item#": 1075,
+        "Seg": "PEO",
+        "Seq#": 3,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.2.3"
+      },
+      {
+        "Description": "Event Outcome",
+        "Item#": 1083,
+        "Seg": "PEO",
+        "Seq#": 11,
+        "Len": 1,
+        "DT": "ID",
+        "Rep": "Y",
+        "Table": 240,
+        "Chapter": "7.12.2.11"
+      },
+      {
+        "Description": "Event Qualification",
+        "Item#": 1080,
+        "Seg": "PEO",
+        "Seq#": 8,
+        "Len": 1,
+        "DT": "ID",
+        "Rep": "Y",
+        "Table": 237,
+        "Chapter": "7.12.2.8"
+      },
+      {
+        "Description": "Event Serious",
+        "Item#": 1081,
+        "Seg": "PEO",
+        "Seq#": 9,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 238,
+        "Chapter": "7.12.2.9"
+      },
+      {
+        "Description": "Event Symptom/Diagnosis Code",
+        "Item#": 1074,
+        "Seg": "PEO",
+        "Seq#": 2,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "7.12.2.2"
+      },
+      {
+        "Description": "Patient Outcome",
+        "Item#": 1084,
+        "Seg": "PEO",
+        "Seq#": 12,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 241,
+        "Chapter": "7.12.2.12"
+      },
+      {
+        "Description": "Primary Observer Address",
+        "Item#": 1092,
+        "Seg": "PEO",
+        "Seq#": 20,
+        "Len": 2915,
+        "DT": "XAD",
+        "Rep": "Y",
+        "Chapter": "7.12.2.20"
+      },
+      {
+        "Description": "Primary Observer Aware Date/Time",
+        "Item#": 1096,
+        "Seg": "PEO",
+        "Seq#": 24,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.2.24"
+      },
+      {
+        "Description": "Primary Observer Name",
+        "Item#": 1091,
+        "Seg": "PEO",
+        "Seq#": 19,
+        "Len": 1317,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Chapter": "7.12.2.19"
+      },
+      {
+        "Description": "Primary Observer Telephone",
+        "Item#": 1093,
+        "Seg": "PEO",
+        "Seq#": 21,
+        "Len": 2743,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "7.12.2.21"
+      },
+      {
+        "Description": "Primary Observer's identity May Be Divulged",
+        "Item#": 1097,
+        "Seg": "PEO",
+        "Seq#": 25,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 243,
+        "Chapter": "7.12.2.25"
+      },
+      {
+        "Description": "Primary Observer's Qualification",
+        "Item#": 1094,
+        "Seg": "PEO",
+        "Seq#": 22,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 242,
+        "Chapter": "7.12.2.22"
+      }
+]

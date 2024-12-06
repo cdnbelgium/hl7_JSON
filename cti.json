@@ -1,0 +1,30 @@
+[
+    {
+        "Description": "Sponsor Study ID",
+        "Item#": 1011,
+        "Seg": "CTI",
+        "Seq#": 1,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "7.8.4.1"
+      },
+      {
+        "Description": "Study Phase Identifier",
+        "Item#": 1022,
+        "Seg": "CTI",
+        "Seq#": 2,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "7.8.4.2"
+      },
+      {
+        "Description": "Study Scheduled Time Point",
+        "Item#": 1055,
+        "Seg": "CTI",
+        "Seq#": 3,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "7.8.4.3"
+      }
+]

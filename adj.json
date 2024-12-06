@@ -1,0 +1,141 @@
+[
+    {
+      "Description": "Adjustment Action",
+      "Item#": 2013,
+      "Seg": "ADJ",
+      "Seq#": 11,
+      "Len": 4,
+      "DT": "IS",
+      "Table": 569,
+      "Chapter": "16.4.7.11"
+    },
+    {
+      "Description": "Adjustment Amount",
+      "Item#": 2007,
+      "Seg": "ADJ",
+      "Seq#": 5,
+      "Len": 254,
+      "DT": "CP",
+      "Chapter": "16.4.7.5"
+    },
+    {
+      "Description": "Adjustment Category",
+      "Item#": 2006,
+      "Seg": "ADJ",
+      "Seq#": 4,
+      "Len": 4,
+      "DT": "IS",
+      "Table": 564,
+      "Chapter": "16.4.7.4"
+    },
+    {
+      "Description": "Adjustment Date",
+      "Item#": 2016,
+      "Seg": "ADJ",
+      "Seq#": 14,
+      "Len": 26,
+      "DT": "DTM",
+      "Chapter": "16.4.7.14"
+    },
+    {
+      "Description": "Adjustment Description",
+      "Item#": 2010,
+      "Seg": "ADJ",
+      "Seq#": 8,
+      "Len": 250,
+      "DT": "ST",
+      "Chapter": "16.4.7.8"
+    },
+    {
+      "Description": "Adjustment Quantity",
+      "Item#": 2008,
+      "Seg": "ADJ",
+      "Seq#": 6,
+      "Len": 222,
+      "DT": "CQ",
+      "Table": 560,
+      "Chapter": "16.4.7.6"
+    },
+    {
+      "Description": "Adjustment Reason PA",
+      "Item#": 2009,
+      "Seg": "ADJ",
+      "Seq#": 7,
+      "Len": 211,
+      "DT": "CWE",
+      "Table": 565,
+      "Chapter": "16.4.7.7"
+    },
+    {
+      "Description": "Adjustment Sequence Number",
+      "Item#": 2005,
+      "Seg": "ADJ",
+      "Seq#": 3,
+      "Len": 4,
+      "DT": "SI",
+      "Chapter": "16.4.7.3"
+    },
+    {
+      "Description": "Original Value",
+      "Item#": 2011,
+      "Seg": "ADJ",
+      "Seq#": 9,
+      "Len": 250,
+      "DT": "NM",
+      "Chapter": "16.4.7.9"
+    },
+    {
+      "Description": "Payer Adjustment Number",
+      "Item#": 2004,
+      "Seg": "ADJ",
+      "Seq#": 2,
+      "Len": 73,
+      "DT": "EI",
+      "Chapter": "16.4.7.2"
+    },
+    {
+      "Description": "Provider Adjustment Number",
+      "Item#": 2003,
+      "Seg": "ADJ",
+      "Seq#": 1,
+      "Len": 73,
+      "DT": "EI",
+      "Chapter": "16.4.7.1"
+    },
+    {
+      "Description": "Provider Adjustment Number Cross Reference",
+      "Item#": 2014,
+      "Seg": "ADJ",
+      "Seq#": 12,
+      "Len": 73,
+      "DT": "EI",
+      "Chapter": "16.4.7.12"
+    },
+    {
+      "Description": "Provider Product/Service Line Item Number Cross Reference",
+      "Item#": 2015,
+      "Seg": "ADJ",
+      "Seq#": 13,
+      "Len": 73,
+      "DT": "EI",
+      "Chapter": "16.4.7.13"
+    },
+    {
+      "Description": "Responsible Organization",
+      "Item#": 2017,
+      "Seg": "ADJ",
+      "Seq#": 15,
+      "Len": 183,
+      "DT": "XON",
+      "Chapter": "16.4.7.15"
+    },
+    {
+      "Description": "Substitute Value",
+      "Item#": 2012,
+      "Seg": "ADJ",
+      "Seq#": 10,
+      "Len": 250,
+      "DT": "NM",
+      "Chapter": "16.4.7.10"
+    }
+  ]

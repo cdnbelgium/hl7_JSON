@@ -1,0 +1,67 @@
+[
+    {
+        "Description": "Control Code",
+        "Item#": 2102,
+        "Seg": "SDD",
+        "Seq#": 6,
+        "Len": 3,
+        "DT": "NM",
+        "Chapter": "17.7.3.6"
+      },
+      {
+        "Description": "Device Data State",
+        "Item#": 2100,
+        "Seg": "SDD",
+        "Seq#": 4,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 667,
+        "Chapter": "17.7.3.4"
+      },
+      {
+        "Description": "Device Name",
+        "Item#": 2281,
+        "Seg": "SDD",
+        "Seq#": 3,
+        "Len": 999,
+        "DT": "ST",
+        "Chapter": "17.7.3.3"
+      },
+      {
+        "Description": "Device Number",
+        "Item#": 2099,
+        "Seg": "SDD",
+        "Seq#": 2,
+        "Len": 8,
+        "DT": "EI",
+        "Chapter": "17.7.3.2"
+      },
+      {
+        "Description": "Load Status",
+        "Item#": 2101,
+        "Seg": "SDD",
+        "Seq#": 5,
+        "Len": 3,
+        "DT": "IS",
+        "Table": 669,
+        "Chapter": "17.7.3.5"
+      },
+      {
+        "Description": "Lot Number",
+        "Item#": 2098,
+        "Seg": "SDD",
+        "Seq#": 1,
+        "Len": 11,
+        "DT": "EI",
+        "Chapter": "17.7.3.1"
+      },
+      {
+        "Description": "Operator Name",
+        "Item#": 2103,
+        "Seg": "SDD",
+        "Seq#": 7,
+        "Len": 15,
+        "DT": "ST",
+        "Chapter": "17.7.3.7"
+      }
+]

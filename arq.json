@@ -1,0 +1,237 @@
+[
+    {
+        "Description": "Appointment Duration",
+        "Item#": 868,
+        "Seg": "ARQ",
+        "Seq#": 9,
+        "Len": 0,
+        "DT": "NM",
+        "Chapter": "10.6.1.9"
+      },
+      {
+        "Description": "Appointment Duration Units",
+        "Item#": 869,
+        "Seg": "ARQ",
+        "Seq#": 10,
+        "Len": 0,
+        "DT": "CNE",
+        "Chapter": "10.6.1.10"
+      },
+      {
+        "Description": "Appointment Reason",
+        "Item#": 866,
+        "Seg": "ARQ",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 276,
+        "Chapter": "10.6.1.7"
+      },
+      {
+        "Description": "Appointment Type",
+        "Item#": 867,
+        "Seg": "ARQ",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 277,
+        "Chapter": "10.6.1.8"
+      },
+      {
+        "Description": "Entered By Location",
+        "Item#": 880,
+        "Seg": "ARQ",
+        "Seq#": 21,
+        "Len": 80,
+        "DT": "PL",
+        "Chapter": "10.6.1.21"
+      },
+      {
+        "Description": "Entered By Person",
+        "Item#": 878,
+        "Seg": "ARQ",
+        "Seq#": 19,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "10.6.1.19"
+      },
+      {
+        "Description": "Entered By Phone Number",
+        "Item#": 879,
+        "Seg": "ARQ",
+        "Seq#": 20,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "10.6.1.20"
+      },
+      {
+        "Description": "Filler Appointment ID",
+        "Item#": 861,
+        "Seg": "ARQ",
+        "Seq#": 2,
+        "Len": 75,
+        "DT": "EI",
+        "Chapter": "10.6.1.2"
+      },
+      {
+        "Description": "Filler Order Number",
+        "Item#": 217,
+        "Seg": "ARQ",
+        "Seq#": 25,
+        "Len": 427,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "10.6.1.25"
+      },
+      {
+        "Description": "Occurrence Number",
+        "Item#": 862,
+        "Seg": "ARQ",
+        "Seq#": 3,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "10.6.1.3"
+      },
+      {
+        "Description": "Parent Filler Appointment ID",
+        "Item#": 882,
+        "Seg": "ARQ",
+        "Seq#": 23,
+        "Len": 75,
+        "DT": "EI",
+        "Chapter": "10.6.1.23"
+      },
+      {
+        "Description": "Parent Placer Appointment ID",
+        "Item#": 881,
+        "Seg": "ARQ",
+        "Seq#": 22,
+        "Len": 75,
+        "DT": "EI",
+        "Chapter": "10.6.1.22"
+      },
+      {
+        "Description": "Placer Appointment ID",
+        "Item#": 860,
+        "Seg": "ARQ",
+        "Seq#": 1,
+        "Len": 75,
+        "DT": "EI",
+        "Chapter": "10.6.1.1"
+      },
+      {
+        "Description": "Placer Contact Address",
+        "Item#": 876,
+        "Seg": "ARQ",
+        "Seq#": 17,
+        "Len": 250,
+        "DT": "XAD",
+        "Rep": "Y",
+        "Chapter": "10.6.1.17"
+      },
+      {
+        "Description": "Placer Contact Location",
+        "Item#": 877,
+        "Seg": "ARQ",
+        "Seq#": 18,
+        "Len": 80,
+        "DT": "PL",
+        "Chapter": "10.6.1.18"
+      },
+      {
+        "Description": "Placer Contact Person",
+        "Item#": 874,
+        "Seg": "ARQ",
+        "Seq#": 15,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "10.6.1.15"
+      },
+      {
+        "Description": "Placer Contact Phone Number",
+        "Item#": 875,
+        "Seg": "ARQ",
+        "Seq#": 16,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "10.6.1.16"
+      },
+      {
+        "Description": "Placer Group Number",
+        "Item#": 218,
+        "Seg": "ARQ",
+        "Seq#": 4,
+        "Len": 22,
+        "DT": "EI",
+        "Chapter": "10.6.1.4"
+      },
+      {
+        "Description": "Placer Order Number",
+        "Item#": 216,
+        "Seg": "ARQ",
+        "Seq#": 24,
+        "Len": 427,
+        "DT": "EI",
+        "Rep": "Y",
+        "Chapter": "10.6.1.24"
+      },
+      {
+        "Description": "Priority-ARQ",
+        "Item#": 871,
+        "Seg": "ARQ",
+        "Seq#": 12,
+        "Len": 5,
+        "DT": "ST",
+        "Chapter": "10.6.1.12"
+      },
+      {
+        "Description": "Repeating Interval",
+        "Item#": 872,
+        "Seg": "ARQ",
+        "Seq#": 13,
+        "Len": 100,
+        "DT": "RI",
+        "Chapter": "10.6.1.13"
+      },
+      {
+        "Description": "Repeating Interval Duration",
+        "Item#": 873,
+        "Seg": "ARQ",
+        "Seq#": 14,
+        "Len": 5,
+        "DT": "ST",
+        "Chapter": "10.6.1.14"
+      },
+      {
+        "Description": "Request Event Reason",
+        "Item#": 865,
+        "Seg": "ARQ",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "10.6.1.6"
+      },
+      {
+        "Description": "Requested Start Date/Time Range",
+        "Item#": 870,
+        "Seg": "ARQ",
+        "Seq#": 11,
+        "Len": 49,
+        "DT": "DR",
+        "Rep": "Y",
+        "Chapter": "10.6.1.11"
+      },
+      {
+        "Description": "Schedule ID",
+        "Item#": 864,
+        "Seg": "ARQ",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "10.6.1.5"
+      }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "Description": "Check Number",
+        "Item#": 2024,
+        "Seg": "PMT",
+        "Seq#": 7,
+        "Len": 15,
+        "DT": "EI",
+        "Chapter": "16.4.8.7"
+      },
+      {
+        "Description": "ESR-Code-Line",
+        "Item#": 2029,
+        "Seg": "PMT",
+        "Seq#": 12,
+        "Len": 100,
+        "DT": "ST",
+        "Chapter": "16.4.8.12"
+      },
+      {
+        "Description": "Payee Bank Account ID",
+        "Item#": 2027,
+        "Seg": "PMT",
+        "Seq#": 10,
+        "Len": 20,
+        "DT": "CX",
+        "Chapter": "16.4.8.10"
+      },
+      {
+        "Description": "Payee Bank Identification",
+        "Item#": 2025,
+        "Seg": "PMT",
+        "Seq#": 8,
+        "Len": 6,
+        "DT": "XON",
+        "Chapter": "16.4.8.8"
+      },
+      {
+        "Description": "Payee Transit Number",
+        "Item#": 2026,
+        "Seg": "PMT",
+        "Seq#": 9,
+        "Len": 4,
+        "DT": "ST",
+        "Chapter": "16.4.8.9"
+      },
+      {
+        "Description": "Payment Method",
+        "Item#": 2021,
+        "Seg": "PMT",
+        "Seq#": 4,
+        "Len": 177,
+        "DT": "CWE",
+        "Table": 570,
+        "Chapter": "16.4.8.4"
+      },
+      {
+        "Description": "Payment Organization",
+        "Item#": 2028,
+        "Seg": "PMT",
+        "Seq#": 11,
+        "Len": 183,
+        "DT": "XON",
+        "Chapter": "16.4.8.11"
+      },
+      {
+        "Description": "Payment/Remittance Advice Number",
+        "Item#": 2018,
+        "Seg": "PMT",
+        "Seq#": 1,
+        "Len": 73,
+        "DT": "EI",
+        "Chapter": "16.4.8.1"
+      },
+      {
+        "Description": "Payment/Remittance Amount",
+        "Item#": 2023,
+        "Seg": "PMT",
+        "Seq#": 6,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.8.6"
+      },
+      {
+        "Description": "Payment/Remittance Date/Time",
+        "Item#": 2022,
+        "Seg": "PMT",
+        "Seq#": 5,
+        "Len": 26,
+        "DT": "DTM",
+        "Chapter": "16.4.8.5"
+      },
+      {
+        "Description": "Payment/Remittance Effective Date/Time",
+        "Item#": 2019,
+        "Seg": "PMT",
+        "Seq#": 2,
+        "Len": 26,
+        "DT": "DTM",
+        "Chapter": "16.4.8.2"
+      },
+      {
+        "Description": "Payment/Remittance Expiration Date/Time",
+        "Item#": 2020,
+        "Seg": "PMT",
+        "Seq#": 3,
+        "Len": 26,
+        "DT": "DTM",
+        "Chapter": "16.4.8.3"
+      }
+]

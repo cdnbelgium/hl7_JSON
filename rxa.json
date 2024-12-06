@@ -1,0 +1,274 @@
+[
+    {
+        "Description": "Action Code - RXA",
+        "Item#": 1224,
+        "Seg": "RXA",
+        "Seq#": 21,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 206,
+        "Chapter": "4.14.7.21"
+      },
+      {
+        "Description": "Administer-at",
+        "Item#": 2264,
+        "Seg": "RXA",
+        "Seq#": 27,
+        "Len": 180,
+        "DT": "PL",
+        "Chapter": "4.18.1.27"
+      },
+      {
+        "Description": "Administered Amount",
+        "Item#": 348,
+        "Seg": "RXA",
+        "Seq#": 6,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.18.1.6"
+      },
+      {
+        "Description": "Administered Barcode Identifier",
+        "Item#": 1698,
+        "Seg": "RXA",
+        "Seq#": 25,
+        "Len": 60,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.7.25"
+      },
+      {
+        "Description": "Administered Code",
+        "Item#": 347,
+        "Seg": "RXA",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 292,
+        "Chapter": "4.14.7.5"
+      },
+      {
+        "Description": "Administered Dosage Form",
+        "Item#": 350,
+        "Seg": "RXA",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.7.8"
+      },
+      {
+        "Description": "Administered Drug Strength Volume",
+        "Item#": 1696,
+        "Seg": "RXA",
+        "Seq#": 23,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "4.18.1.23"
+      },
+      {
+        "Description": "Administered Drug Strength Volume Units",
+        "Item#": 1697,
+        "Seg": "RXA",
+        "Seq#": 24,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.18.1.24"
+      },
+      {
+        "Description": "Administered Per (Time Unit)",
+        "Item#": 354,
+        "Seg": "RXA",
+        "Seq#": 12,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "4.18.1.12"
+      },
+      {
+        "Description": "Administered Strength",
+        "Item#": 1134,
+        "Seg": "RXA",
+        "Seq#": 13,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.7.13"
+      },
+      {
+        "Description": "Administered Strength Units",
+        "Item#": 1135,
+        "Seg": "RXA",
+        "Seq#": 14,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.7.14"
+      },
+      {
+        "Description": "Administered Units",
+        "Item#": 349,
+        "Seg": "RXA",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.7.7"
+      },
+      {
+        "Description": "Administered-at Address",
+        "Item#": 2265,
+        "Seg": "RXA",
+        "Seq#": 28,
+        "Len": 106,
+        "DT": "XAD",
+        "Chapter": "4.18.1.28"
+      },
+      {
+        "Description": "Administered-at Location",
+        "Item#": 353,
+        "Seg": "RXA",
+        "Seq#": 11,
+        "Len": 0,
+        "DT": "LA2",
+        "Chapter": "4.18.1.11"
+      },
+      {
+        "Description": "Administering Provider",
+        "Item#": 352,
+        "Seg": "RXA",
+        "Seq#": 10,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "4.18.1.10"
+      },
+      {
+        "Description": "Administration Notes",
+        "Item#": 351,
+        "Seg": "RXA",
+        "Seq#": 9,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.18.1.9"
+      },
+      {
+        "Description": "Administration Sub-ID Counter",
+        "Item#": 344,
+        "Seg": "RXA",
+        "Seq#": 2,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "4.18.1.2"
+      },
+      {
+        "Description": "Completion Status",
+        "Item#": 1223,
+        "Seg": "RXA",
+        "Seq#": 20,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 322,
+        "Chapter": "4.14.7.20"
+      },
+      {
+        "Description": "Date/Time End of Administration",
+        "Item#": 346,
+        "Seg": "RXA",
+        "Seq#": 4,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.18.1.4"
+      },
+      {
+        "Description": "Date/Time Start of Administration",
+        "Item#": 345,
+        "Seg": "RXA",
+        "Seq#": 3,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.14.7.3"
+      },
+      {
+        "Description": "Give Sub-ID Counter",
+        "Item#": 342,
+        "Seg": "RXA",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "4.18.1.1"
+      },
+      {
+        "Description": "Indication",
+        "Item#": 1123,
+        "Seg": "RXA",
+        "Seq#": 19,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.18.1.19"
+      },
+      {
+        "Description": "Pharmacy Order Type",
+        "Item#": 1699,
+        "Seg": "RXA",
+        "Seq#": 26,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 480,
+        "Chapter": "4.14.7.26"
+      },
+      {
+        "Description": "Substance Expiration Date",
+        "Item#": 1130,
+        "Seg": "RXA",
+        "Seq#": 16,
+        "Len": 24,
+        "DT": "DTM",
+        "Rep": "Y",
+        "Chapter": "4.14.7.16"
+      },
+      {
+        "Description": "Substance Lot Number",
+        "Item#": 1129,
+        "Seg": "RXA",
+        "Seq#": 15,
+        "Len": 20,
+        "DT": "ST",
+        "Rep": "Y",
+        "Chapter": "4.18.1.15"
+      },
+      {
+        "Description": "Substance Manufacturer Name",
+        "Item#": 1131,
+        "Seg": "RXA",
+        "Seq#": 17,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 227,
+        "Chapter": "4.14.7.17"
+      },
+      {
+        "Description": "Substance/Treatment Refusal Reason",
+        "Item#": 1136,
+        "Seg": "RXA",
+        "Seq#": 18,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.14.7.18"
+      },
+      {
+        "Description": "System Entry Date/Time",
+        "Item#": 1225,
+        "Seg": "RXA",
+        "Seq#": 22,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.18.1.22"
+      }
+]

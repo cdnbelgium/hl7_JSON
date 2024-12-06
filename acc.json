@@ -1,0 +1,106 @@
+[
+    {
+      "Description": "Accident Address",
+      "Item#": 1853,
+      "Seg": "ACC",
+      "Seq#": 11,
+      "Len": 250,
+      "DT": "XAD",
+      "Chapter": "6.5.9.11"
+    },
+    {
+      "Description": "Accident Code",
+      "Item#": 528,
+      "Seg": "ACC",
+      "Seq#": 2,
+      "Len": 250,
+      "DT": "CWE",
+      "Table": 50,
+      "Chapter": "6.5.9.2"
+    },
+    {
+      "Description": "Accident Date/Time",
+      "Item#": 527,
+      "Seg": "ACC",
+      "Seq#": 1,
+      "Len": 24,
+      "DT": "DTM",
+      "Chapter": "6.5.9.1"
+    },
+    {
+      "Description": "Accident Death Indicator",
+      "Item#": 814,
+      "Seg": "ACC",
+      "Seq#": 6,
+      "Len": 12,
+      "DT": "ID",
+      "Table": 136,
+      "Chapter": "6.5.9.6"
+    },
+    {
+      "Description": "Accident Description",
+      "Item#": 1503,
+      "Seg": "ACC",
+      "Seq#": 8,
+      "Len": 25,
+      "DT": "ST",
+      "Chapter": "6.5.9.8"
+    },
+    {
+      "Description": "Accident Job Related Indicator",
+      "Item#": 813,
+      "Seg": "ACC",
+      "Seq#": 5,
+      "Len": 1,
+      "DT": "ID",
+      "Table": 136,
+      "Chapter": "6.5.9.5"
+    },
+    {
+      "Description": "Accident Location",
+      "Item#": 529,
+      "Seg": "ACC",
+      "Seq#": 3,
+      "Len": 25,
+      "DT": "ST",
+      "Chapter": "6.5.9.3"
+    },
+    {
+      "Description": "Auto Accident State",
+      "Item#": 812,
+      "Seg": "ACC",
+      "Seq#": 4,
+      "Len": 0,
+      "DT": "CWE",
+      "Table": 347,
+      "Chapter": "6.5.9.4"
+    },
+    {
+      "Description": "Brought In By",
+      "Item#": 1504,
+      "Seg": "ACC",
+      "Seq#": 9,
+      "Len": 80,
+      "DT": "ST",
+      "Chapter": "6.5.9.9"
+    },
+    {
+      "Description": "Entered By",
+      "Item#": 224,
+      "Seg": "ACC",
+      "Seq#": 7,
+      "Len": 3220,
+      "DT": "XCN",
+      "Chapter": "6.5.9.7"
+    },
+    {
+      "Description": "Police Notified Indicator",
+      "Item#": 1505,
+      "Seg": "ACC",
+      "Seq#": 10,
+      "Len": 1,
+      "DT": "ID",
+      "Table": 136,
+      "Chapter": "6.5.9.10"
+    }
+  ]

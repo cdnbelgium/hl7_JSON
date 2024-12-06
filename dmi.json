@@ -1,0 +1,49 @@
+[
+    {
+        "Description": "Average Length of Stay",
+        "Item#": 2232,
+        "Seg": "DMI",
+        "Seq#": 4,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "8.13.2.4"
+      },
+      {
+        "Description": "Diagnostic Related Group",
+        "Item#": 382,
+        "Seg": "DMI",
+        "Seq#": 1,
+        "Len": 250,
+        "DT": "CNE",
+        "Table": 55,
+        "Chapter": "8.13.2.1"
+      },
+      {
+        "Description": "Lower and Upper Trim Points",
+        "Item#": 2231,
+        "Seg": "DMI",
+        "Seq#": 3,
+        "Len": 7,
+        "DT": "NR",
+        "Chapter": "8.13.2.3"
+      },
+      {
+        "Description": "Major Diagnostic Category",
+        "Item#": 381,
+        "Seg": "DMI",
+        "Seq#": 2,
+        "Len": 1,
+        "DT": "CNE",
+        "Table": 118,
+        "Chapter": "8.13.2.2"
+      },
+      {
+        "Description": "Relative Weight",
+        "Item#": 2233,
+        "Seg": "DMI",
+        "Seq#": 5,
+        "Len": 7,
+        "DT": "NM",
+        "Chapter": "8.13.2.5"
+      }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Description": "Academic Degree",
+        "Item#": 1449,
+        "Seg": "EDU",
+        "Seq#": 2,
+        "Len": 10,
+        "DT": "IS",
+        "Table": 360,
+        "Chapter": "15.4.3.2"
+      },
+      {
+        "Description": "Academic Degree Granted Date",
+        "Item#": 1451,
+        "Seg": "EDU",
+        "Seq#": 5,
+        "Len": 8,
+        "DT": "DT",
+        "Chapter": "15.4.3.5"
+      },
+      {
+        "Description": "Academic Degree Program Date Range",
+        "Item#": 1597,
+        "Seg": "EDU",
+        "Seq#": 3,
+        "Len": 52,
+        "DT": "DR",
+        "Chapter": "15.4.3.3"
+      },
+      {
+        "Description": "Academic Degree Program Participation Date Range",
+        "Item#": 1450,
+        "Seg": "EDU",
+        "Seq#": 4,
+        "Len": 52,
+        "DT": "DR",
+        "Chapter": "15.4.3.4"
+      },
+      {
+        "Description": "Major Field of Study",
+        "Item#": 1885,
+        "Seg": "EDU",
+        "Seq#": 9,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Chapter": "15.4.3.9"
+      },
+      {
+        "Description": "School",
+        "Item#": 1452,
+        "Seg": "EDU",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "XON",
+        "Chapter": "15.4.3.6"
+      },
+      {
+        "Description": "School Address",
+        "Item#": 1454,
+        "Seg": "EDU",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "XAD",
+        "Chapter": "15.4.3.8"
+      },
+      {
+        "Description": "School Type Code",
+        "Item#": 1453,
+        "Seg": "EDU",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 402,
+        "Chapter": "15.4.3.7"
+      },
+      {
+        "Description": "Set ID - EDU",
+        "Item#": 1448,
+        "Seg": "EDU",
+        "Seq#": 1,
+        "Len": 60,
+        "DT": "SI",
+        "Chapter": "15.4.3.1"
+      }
+]

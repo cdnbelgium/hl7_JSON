@@ -1,0 +1,69 @@
+[
+    {
+        "Description": "Anticipated Price",
+        "Item#": 285,
+        "Seg": "RQ1",
+        "Seq#": 1,
+        "Len": 10,
+        "DT": "ST",
+        "Chapter": "4.11.2.1"
+      },
+      {
+        "Description": "Manufacturer Identifier",
+        "Item#": 286,
+        "Seg": "RQ1",
+        "Seq#": 2,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 385,
+        "Chapter": "4.11.2.2"
+      },
+      {
+        "Description": "Manufacturer's Catalog",
+        "Item#": 287,
+        "Seg": "RQ1",
+        "Seq#": 3,
+        "Len": 16,
+        "DT": "ST",
+        "Chapter": "4.11.2.3"
+      },
+      {
+        "Description": "Substitute Allowed",
+        "Item#": 291,
+        "Seg": "RQ1",
+        "Seq#": 7,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "4.11.2.7"
+      },
+      {
+        "Description": "Taxable",
+        "Item#": 290,
+        "Seg": "RQ1",
+        "Seq#": 6,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "4.11.2.6"
+      },
+      {
+        "Description": "Vendor Catalog",
+        "Item#": 289,
+        "Seg": "RQ1",
+        "Seq#": 5,
+        "Len": 16,
+        "DT": "ST",
+        "Chapter": "4.11.2.5"
+      },
+      {
+        "Description": "Vendor ID",
+        "Item#": 288,
+        "Seg": "RQ1",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.11.2.4"
+      }
+]

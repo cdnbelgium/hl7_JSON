@@ -1,0 +1,41 @@
+[
+    {
+        "Description": "Maintenance Cycle",
+        "Item#": 2215,
+        "Seg": "STZ",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 809,
+        "Chapter": "17.4.3.3"
+      },
+      {
+        "Description": "Maintenance Type",
+        "Item#": 2216,
+        "Seg": "STZ",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 811,
+        "Chapter": "17.4.3.4"
+      },
+      {
+        "Description": "Sterilization Cycle",
+        "Item#": 2214,
+        "Seg": "STZ",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "17.4.3.2"
+      },
+      {
+        "Description": "Sterilization Type",
+        "Item#": 2213,
+        "Seg": "STZ",
+        "Seq#": 1,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 806,
+        "Chapter": "17.4.3.1"
+      }
+]

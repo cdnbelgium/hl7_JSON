@@ -1,0 +1,30 @@
+[
+    {
+        "Description": "Resource Group ID",
+        "Item#": 1204,
+        "Seg": "RGS",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "10.6.3.3"
+      },
+      {
+        "Description": "Segment Action Code",
+        "Item#": 763,
+        "Seg": "RGS",
+        "Seq#": 2,
+        "Len": 3,
+        "DT": "ID",
+        "Table": 206,
+        "Chapter": "10.6.3.2"
+      },
+      {
+        "Description": "Set ID - RGS",
+        "Item#": 1203,
+        "Seg": "RGS",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "10.6.3.1"
+      }
+]

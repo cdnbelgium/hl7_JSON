@@ -1,0 +1,54 @@
+[
+    {
+        "Description": "Filler Override Criteria",
+        "Item#": 912,
+        "Seg": "APR",
+        "Seq#": 5,
+        "Len": 80,
+        "DT": "SCV",
+        "Rep": "Y",
+        "Chapter": "10.6.8.5"
+      },
+      {
+        "Description": "Location Selection Criteria",
+        "Item#": 910,
+        "Seg": "APR",
+        "Seq#": 3,
+        "Len": 80,
+        "DT": "SCV",
+        "Rep": "Y",
+        "Table": 294,
+        "Chapter": "10.6.8.3"
+      },
+      {
+        "Description": "Resource Selection Criteria",
+        "Item#": 909,
+        "Seg": "APR",
+        "Seq#": 2,
+        "Len": 80,
+        "DT": "SCV",
+        "Rep": "Y",
+        "Table": 294,
+        "Chapter": "10.6.8.2"
+      },
+      {
+        "Description": "Slot Spacing Criteria",
+        "Item#": 911,
+        "Seg": "APR",
+        "Seq#": 4,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "10.6.8.4"
+      },
+      {
+        "Description": "Time Selection Criteria",
+        "Item#": 908,
+        "Seg": "APR",
+        "Seq#": 1,
+        "Len": 80,
+        "DT": "SCV",
+        "Rep": "Y",
+        "Table": 294,
+        "Chapter": "10.6.8.1"
+      }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "Description": "File Batch Count",
+        "Item#": 79,
+        "Seg": "FTS",
+        "Seq#": 1,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "2.14.7.1"
+      },
+      {
+        "Description": "File Trailer Comment",
+        "Item#": 80,
+        "Seg": "FTS",
+        "Seq#": 2,
+        "Len": 80,
+        "DT": "ST",
+        "Chapter": "2.14.7.2"
+      }
+]

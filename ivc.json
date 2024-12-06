@@ -1,0 +1,280 @@
+[
+    {
+        "Description": "Amount for Doctors Treatment",
+        "Item#": 1931,
+        "Seg": "IVC",
+        "Seq#": 18,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.2.18"
+      },
+      {
+        "Description": "Attention",
+        "Item#": 1925,
+        "Seg": "IVC",
+        "Seq#": 12,
+        "Len": 637,
+        "DT": "XCN",
+        "Chapter": "16.4.2.12"
+      },
+      {
+        "Description": "Benefit Group",
+        "Item#": 1938,
+        "Seg": "IVC",
+        "Seq#": 25,
+        "Len": 4,
+        "DT": "IS",
+        "Table": 556,
+        "Chapter": "16.4.2.25"
+      },
+      {
+        "Description": "Contract/Agreement Number",
+        "Item#": 1916,
+        "Seg": "IVC",
+        "Seq#": 3,
+        "Len": 74,
+        "DT": "EI",
+        "Chapter": "16.4.2.3"
+      },
+      {
+        "Description": "Cost Center",
+        "Item#": 1933,
+        "Seg": "IVC",
+        "Seq#": 20,
+        "Len": 250,
+        "DT": "CX",
+        "Chapter": "16.4.2.20"
+      },
+      {
+        "Description": "Invoice Amount",
+        "Item#": 1921,
+        "Seg": "IVC",
+        "Seq#": 8,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.2.8"
+      },
+      {
+        "Description": "Invoice Booking Period",
+        "Item#": 1927,
+        "Seg": "IVC",
+        "Seq#": 14,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "16.4.2.14"
+      },
+      {
+        "Description": "Invoice Control",
+        "Item#": 1917,
+        "Seg": "IVC",
+        "Seq#": 4,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 553,
+        "Chapter": "16.4.2.4"
+      },
+      {
+        "Description": "Invoice Date/Time",
+        "Item#": 1920,
+        "Seg": "IVC",
+        "Seq#": 7,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "16.4.2.7"
+      },
+      {
+        "Description": "Invoice Fixed Amount",
+        "Item#": 1929,
+        "Seg": "IVC",
+        "Seq#": 16,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.2.16"
+      },
+      {
+        "Description": "Invoice Prepaid Amount",
+        "Item#": 1934,
+        "Seg": "IVC",
+        "Seq#": 21,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.2.21"
+      },
+      {
+        "Description": "Invoice Reason",
+        "Item#": 1918,
+        "Seg": "IVC",
+        "Seq#": 5,
+        "Len": 4,
+        "DT": "IS",
+        "Table": 554,
+        "Chapter": "16.4.2.5"
+      },
+      {
+        "Description": "Invoice Type",
+        "Item#": 1919,
+        "Seg": "IVC",
+        "Seq#": 6,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 555,
+        "Chapter": "16.4.2.6"
+      },
+      {
+        "Description": "Last Invoice Indicator",
+        "Item#": 1926,
+        "Seg": "IVC",
+        "Seq#": 13,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "16.4.2.13"
+      },
+      {
+        "Description": "Origin",
+        "Item#": 1928,
+        "Seg": "IVC",
+        "Seq#": 15,
+        "Len": 250,
+        "DT": "ST",
+        "Chapter": "16.4.2.15"
+      },
+      {
+        "Description": "Payer Invoice Number",
+        "Item#": 1915,
+        "Seg": "IVC",
+        "Seq#": 2,
+        "Len": 74,
+        "DT": "EI",
+        "Chapter": "16.4.2.2"
+      },
+      {
+        "Description": "Payer Organization",
+        "Item#": 1924,
+        "Seg": "IVC",
+        "Seq#": 11,
+        "Len": 183,
+        "DT": "XON",
+        "Chapter": "16.4.2.11"
+      },
+      {
+        "Description": "Payer Tax ID",
+        "Item#": 2039,
+        "Seg": "IVC",
+        "Seq#": 27,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "16.4.2.27"
+      },
+      {
+        "Description": "Payer Tax status",
+        "Item#": 2041,
+        "Seg": "IVC",
+        "Seq#": 29,
+        "Len": 4,
+        "DT": "IS",
+        "Table": 572,
+        "Chapter": "16.4.2.29"
+      },
+      {
+        "Description": "Payment Terms",
+        "Item#": 1922,
+        "Seg": "IVC",
+        "Seq#": 9,
+        "Len": 80,
+        "DT": "ST",
+        "Chapter": "16.4.2.9"
+      },
+      {
+        "Description": "Provider Invoice Number",
+        "Item#": 1914,
+        "Seg": "IVC",
+        "Seq#": 1,
+        "Len": 74,
+        "DT": "EI",
+        "Chapter": "16.4.2.1"
+      },
+      {
+        "Description": "Provider Organization",
+        "Item#": 1923,
+        "Seg": "IVC",
+        "Seq#": 10,
+        "Len": 183,
+        "DT": "XON",
+        "Chapter": "16.4.2.10"
+      },
+      {
+        "Description": "Provider Tax ID",
+        "Item#": 2038,
+        "Seg": "IVC",
+        "Seq#": 26,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "16.4.2.26"
+      },
+      {
+        "Description": "Provider Tax status",
+        "Item#": 2040,
+        "Seg": "IVC",
+        "Seq#": 28,
+        "Len": 4,
+        "DT": "IS",
+        "Table": 572,
+        "Chapter": "16.4.2.28"
+      },
+      {
+        "Description": "Responsible Physician",
+        "Item#": 1932,
+        "Seg": "IVC",
+        "Seq#": 19,
+        "Len": 250,
+        "DT": "XCN",
+        "Chapter": "16.4.2.19"
+      },
+      {
+        "Description": "Sales Tax ID",
+        "Item#": 2042,
+        "Seg": "IVC",
+        "Seq#": 30,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "16.4.2.30"
+      },
+      {
+        "Description": "Special Costs",
+        "Item#": 1930,
+        "Seg": "IVC",
+        "Seq#": 17,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.2.17"
+      },
+      {
+        "Description": "Total Invoice Amount without Prepaid Amount",
+        "Item#": 1935,
+        "Seg": "IVC",
+        "Seq#": 22,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.2.22"
+      },
+      {
+        "Description": "Total-Amount of VAT",
+        "Item#": 1936,
+        "Seg": "IVC",
+        "Seq#": 23,
+        "Len": 254,
+        "DT": "CP",
+        "Chapter": "16.4.2.23"
+      },
+      {
+        "Description": "VAT-Rates applied",
+        "Item#": 1937,
+        "Seg": "IVC",
+        "Seq#": 24,
+        "Len": 1024,
+        "DT": "NM",
+        "Rep": "Y",
+        "Chapter": "16.4.2.24"
+      }
+]

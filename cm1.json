@@ -1,0 +1,29 @@
+[
+    {
+        "Description": "Description of Study Phase",
+        "Item#": 1023,
+        "Seg": "CM1",
+        "Seq#": 3,
+        "Len": 300,
+        "DT": "ST",
+        "Chapter": "8.11.3.3"
+      },
+      {
+        "Description": "Set ID - CM1",
+        "Item#": 1021,
+        "Seg": "CM1",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "8.11.3.1"
+      },
+      {
+        "Description": "Study Phase Identifier",
+        "Item#": 1022,
+        "Seg": "CM1",
+        "Seq#": 2,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "8.11.3.2"
+      }
+]

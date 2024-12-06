@@ -1,0 +1,31 @@
+[
+    {
+        "Description": "Interaction Active State",
+        "Item#": 1328,
+        "Seg": "ISD",
+        "Seq#": 3,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 387,
+        "Chapter": "13.4.2.3"
+      },
+      {
+        "Description": "Interaction Type Identifier",
+        "Item#": 1327,
+        "Seg": "ISD",
+        "Seq#": 2,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 368,
+        "Chapter": "13.4.2.2"
+      },
+      {
+        "Description": "Reference Interaction Number",
+        "Item#": 1326,
+        "Seg": "ISD",
+        "Seq#": 1,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.2.1"
+      }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "Description": "Auto-Dilution Factor Default",
+        "Item#": 1410,
+        "Seg": "TCC",
+        "Seq#": 4,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "13.4.9.4"
+      },
+      {
+        "Description": "Automatic Reflex Allowed",
+        "Item#": 1417,
+        "Seg": "TCC",
+        "Seq#": 11,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "13.4.9.11"
+      },
+      {
+        "Description": "Automatic Repeat Allowed",
+        "Item#": 1416,
+        "Seg": "TCC",
+        "Seq#": 10,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "13.4.9.10"
+      },
+      {
+        "Description": "Automatic Rerun Allowed",
+        "Item#": 1415,
+        "Seg": "TCC",
+        "Seq#": 9,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "13.4.9.9"
+      },
+      {
+        "Description": "Endogenous Content of Pre-Dilution Diluent",
+        "Item#": 1413,
+        "Seg": "TCC",
+        "Seq#": 7,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "13.4.9.7"
+      },
+      {
+        "Description": "Equipment Dynamic Range",
+        "Item#": 1418,
+        "Seg": "TCC",
+        "Seq#": 12,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "13.4.9.12"
+      },
+      {
+        "Description": "Equipment Test Application Identifier",
+        "Item#": 1408,
+        "Seg": "TCC",
+        "Seq#": 2,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "13.4.9.2"
+      },
+      {
+        "Description": "Inventory Limits Warning Level",
+        "Item#": 1414,
+        "Seg": "TCC",
+        "Seq#": 8,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "13.4.9.8"
+      },
+      {
+        "Description": "Pre-Dilution Factor Default",
+        "Item#": 1412,
+        "Seg": "TCC",
+        "Seq#": 6,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "13.4.9.6"
+      },
+      {
+        "Description": "Processing Type",
+        "Item#": 1419,
+        "Seg": "TCC",
+        "Seq#": 14,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 388,
+        "Chapter": "13.4.9.14"
+      },
+      {
+        "Description": "Rerun Dilution Factor Default",
+        "Item#": 1411,
+        "Seg": "TCC",
+        "Seq#": 5,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "13.4.9.5"
+      },
+      {
+        "Description": "Specimen Source",
+        "Item#": 249,
+        "Seg": "TCC",
+        "Seq#": 3,
+        "Len": 0,
+        "DT": "SPS",
+        "Chapter": "13.4.9.3"
+      },
+      {
+        "Description": "Units",
+        "Item#": 574,
+        "Seg": "TCC",
+        "Seq#": 13,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "13.4.9.13"
+      },
+      {
+        "Description": "Universal Service Identifier",
+        "Item#": 238,
+        "Seg": "TCC",
+        "Seq#": 1,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "13.4.9.1"
+      }
+]

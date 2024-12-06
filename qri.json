@@ -1,0 +1,32 @@
+[
+    {
+        "Description": "Algorithm Descriptor",
+        "Item#": 1438,
+        "Seg": "QRI",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 393,
+        "Chapter": "5.5.5.3"
+      },
+      {
+        "Description": "Candidate Confidence",
+        "Item#": 1436,
+        "Seg": "QRI",
+        "Seq#": 1,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "5.5.5.1"
+      },
+      {
+        "Description": "Match Reason Code",
+        "Item#": 1437,
+        "Seg": "QRI",
+        "Seq#": 2,
+        "Len": 2,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 392,
+        "Chapter": "5.5.5.2"
+      }
+]

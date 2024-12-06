@@ -1,0 +1,72 @@
+[
+    {
+        "Description": "R/U Date/Time",
+        "Item#": 45,
+        "Seg": "URD",
+        "Seq#": 1,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "5.10.4.3.1"
+      },
+      {
+        "Description": "R/U Display/Print Locations",
+        "Item#": 50,
+        "Seg": "URD",
+        "Seq#": 6,
+        "Len": 20,
+        "DT": "ST",
+        "Rep": "Y",
+        "Chapter": "5.10.4.3.6"
+      },
+      {
+        "Description": "R/U Results Level",
+        "Item#": 51,
+        "Seg": "URD",
+        "Seq#": 7,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 108,
+        "Chapter": "5.10.4.3.7"
+      },
+      {
+        "Description": "R/U What Department Code",
+        "Item#": 49,
+        "Seg": "URD",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Chapter": "5.10.4.3.5"
+      },
+      {
+        "Description": "R/U What Subject Definition",
+        "Item#": 48,
+        "Seg": "URD",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 48,
+        "Chapter": "5.10.4.3.4"
+      },
+      {
+        "Description": "R/U Who Subject Definition",
+        "Item#": 47,
+        "Seg": "URD",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "5.10.4.3.3"
+      },
+      {
+        "Description": "Report Priority",
+        "Item#": 46,
+        "Seg": "URD",
+        "Seq#": 2,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 109,
+        "Chapter": "5.10.4.3.2"
+      }
+]

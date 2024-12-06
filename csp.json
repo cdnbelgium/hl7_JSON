@@ -1,0 +1,39 @@
+[
+    {
+        "Description": "Date/time Study Phase Began",
+        "Item#": 1052,
+        "Seg": "CSP",
+        "Seq#": 2,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.8.2.2"
+      },
+      {
+        "Description": "Date/time Study Phase Ended",
+        "Item#": 1053,
+        "Seg": "CSP",
+        "Seq#": 3,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.8.2.3"
+      },
+      {
+        "Description": "Study Phase Evaluability",
+        "Item#": 1054,
+        "Seg": "CSP",
+        "Seq#": 4,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "7.8.2.4"
+      },
+      {
+        "Description": "Study Phase Identifier",
+        "Item#": 1022,
+        "Seg": "CSP",
+        "Seq#": 1,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "7.8.2.1"
+      }
+]

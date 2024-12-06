@@ -1,0 +1,115 @@
+[
+    {
+        "Description": "Allow Substitution Code",
+        "Item#": 895,
+        "Seg": "AIP",
+        "Seq#": 11,
+        "Len": 10,
+        "DT": "IS",
+        "Table": 279,
+        "Chapter": "10.6.7.11"
+      },
+      {
+        "Description": "Duration",
+        "Item#": 893,
+        "Seg": "AIP",
+        "Seq#": 9,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "10.6.7.9"
+      },
+      {
+        "Description": "Duration Units",
+        "Item#": 894,
+        "Seg": "AIP",
+        "Seq#": 10,
+        "Len": 250,
+        "DT": "CNE",
+        "Chapter": "10.6.7.10"
+      },
+      {
+        "Description": "Filler Status Code",
+        "Item#": 889,
+        "Seg": "AIP",
+        "Seq#": 12,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 278,
+        "Chapter": "10.6.7.12"
+      },
+      {
+        "Description": "Personnel Resource ID",
+        "Item#": 913,
+        "Seg": "AIP",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "10.6.7.3"
+      },
+      {
+        "Description": "Resource Group",
+        "Item#": 899,
+        "Seg": "AIP",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "10.6.7.5"
+      },
+      {
+        "Description": "Resource Type",
+        "Item#": 907,
+        "Seg": "AIP",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 182,
+        "Chapter": "10.6.7.4"
+      },
+      {
+        "Description": "Segment Action Code",
+        "Item#": 763,
+        "Seg": "AIP",
+        "Seq#": 2,
+        "Len": 3,
+        "DT": "ID",
+        "Table": 206,
+        "Chapter": "10.6.7.2"
+      },
+      {
+        "Description": "Set ID - AIP",
+        "Item#": 906,
+        "Seg": "AIP",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "10.6.7.1"
+      },
+      {
+        "Description": "Start Date/Time",
+        "Item#": 1202,
+        "Seg": "AIP",
+        "Seq#": 6,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "10.6.7.6"
+      },
+      {
+        "Description": "Start Date/Time Offset",
+        "Item#": 891,
+        "Seg": "AIP",
+        "Seq#": 7,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "10.6.7.7"
+      },
+      {
+        "Description": "Start Date/Time Offset Units",
+        "Item#": 892,
+        "Seg": "AIP",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "CNE",
+        "Chapter": "10.6.7.8"
+      }
+]

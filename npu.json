@@ -1,0 +1,21 @@
+[
+    {
+        "Description": "Bed Location",
+        "Item#": 209,
+        "Seg": "NPU",
+        "Seq#": 1,
+        "Len": 80,
+        "DT": "PL",
+        "Chapter": "3.4.8.1"
+      },
+      {
+        "Description": "Bed Status",
+        "Item#": 170,
+        "Seg": "NPU",
+        "Seq#": 2,
+        "Len": 0,
+        "DT": "IS",
+        "Table": 116,
+        "Chapter": "3.4.8.2"
+      }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "Description": "Professional Affiliation Additional Information",
+        "Item#": 1447,
+        "Seg": "AFF",
+        "Seq#": 5,
+        "Len": 60,
+        "DT": "ST",
+        "Chapter": "15.4.1.5"
+      },
+      {
+        "Description": "Professional Organization",
+        "Item#": 1444,
+        "Seg": "AFF",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "XON",
+        "Chapter": "15.4.1.2"
+      },
+      {
+        "Description": "Professional Organization Address",
+        "Item#": 1445,
+        "Seg": "AFF",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "XAD",
+        "Chapter": "15.4.1.3"
+      },
+      {
+        "Description": "Professional Organization Affiliation Date Range",
+        "Item#": 1446,
+        "Seg": "AFF",
+        "Seq#": 4,
+        "Len": 52,
+        "DT": "DR",
+        "Rep": "Y",
+        "Chapter": "15.4.1.4"
+      },
+      {
+        "Description": "Set ID - AFF",
+        "Item#": 1427,
+        "Seg": "AFF",
+        "Seq#": 1,
+        "Len": 60,
+        "DT": "SI",
+        "Chapter": "15.4.1.1"
+      }
+]

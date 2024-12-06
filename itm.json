@@ -1,0 +1,284 @@
+[
+    {
+        "Description": "Approved To Buy Price",
+        "Item#": 2204,
+        "Seg": "ITM",
+        "Seq#": 21,
+        "Len": 10,
+        "DT": "MO",
+        "Chapter": "17.4.2.21"
+      },
+      {
+        "Description": "Approved To Buy Quantity",
+        "Item#": 2203,
+        "Seg": "ITM",
+        "Seq#": 20,
+        "Len": 6,
+        "DT": "NM",
+        "Chapter": "17.4.2.20"
+      },
+      {
+        "Description": "Approving Regulatory Agency",
+        "Item#": 2199,
+        "Seg": "ITM",
+        "Seq#": 16,
+        "Len": 250,
+        "DT": "XON",
+        "Rep": "Y",
+        "Table": 790,
+        "Chapter": "17.4.2.16"
+      },
+      {
+        "Description": "Freight Charge Indicator",
+        "Item#": 2206,
+        "Seg": "ITM",
+        "Seq#": 23,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.23"
+      },
+      {
+        "Description": "Item Category",
+        "Item#": 2189,
+        "Seg": "ITM",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Chapter": "17.4.2.5"
+      },
+      {
+        "Description": "Item Description",
+        "Item#": 2274,
+        "Seg": "ITM",
+        "Seq#": 2,
+        "Len": 999,
+        "DT": "ST",
+        "Chapter": "17.4.2.2"
+      },
+      {
+        "Description": "Item Identifier",
+        "Item#": 2186,
+        "Seg": "ITM",
+        "Seq#": 1,
+        "Len": 250,
+        "DT": "EI",
+        "Chapter": "17.4.2.1"
+      },
+      {
+        "Description": "Item Natural Account Code",
+        "Item#": 282,
+        "Seg": "ITM",
+        "Seq#": 19,
+        "Len": 30,
+        "DT": "IS",
+        "Table": 320,
+        "Chapter": "17.4.2.19"
+      },
+      {
+        "Description": "Item Set Identifier",
+        "Item#": 2208,
+        "Seg": "ITM",
+        "Seq#": 25,
+        "Len": 250,
+        "DT": "EI",
+        "Chapter": "17.4.2.25"
+      },
+      {
+        "Description": "Item Set Indicator",
+        "Item#": 2207,
+        "Seg": "ITM",
+        "Seq#": 24,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.24"
+      },
+      {
+        "Description": "Item Status",
+        "Item#": 2187,
+        "Seg": "ITM",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 776,
+        "Chapter": "17.4.2.3"
+      },
+      {
+        "Description": "Item Type",
+        "Item#": 2188,
+        "Seg": "ITM",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 778,
+        "Chapter": "17.4.2.4"
+      },
+      {
+        "Description": "Latex Indicator",
+        "Item#": 2200,
+        "Seg": "ITM",
+        "Seq#": 17,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.17"
+      },
+      {
+        "Description": "Manufacturer Catalog Number",
+        "Item#": 2192,
+        "Seg": "ITM",
+        "Seq#": 9,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "17.4.2.9"
+      },
+      {
+        "Description": "Manufacturer Identifier",
+        "Item#": 2191,
+        "Seg": "ITM",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "EI",
+        "Chapter": "17.4.2.7"
+      },
+      {
+        "Description": "Manufacturer Labeler Identification Code",
+        "Item#": 2193,
+        "Seg": "ITM",
+        "Seq#": 10,
+        "Len": 4,
+        "DT": "CWE",
+        "Chapter": "17.4.2.10"
+      },
+      {
+        "Description": "Manufacturer Name",
+        "Item#": 2275,
+        "Seg": "ITM",
+        "Seq#": 8,
+        "Len": 999,
+        "DT": "ST",
+        "Chapter": "17.4.2.8"
+      },
+      {
+        "Description": "Patient Chargeable Indicator",
+        "Item#": 2070,
+        "Seg": "ITM",
+        "Seq#": 11,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.11"
+      },
+      {
+        "Description": "Procedure Code",
+        "Item#": 393,
+        "Seg": "ITM",
+        "Seq#": 27,
+        "Len": 705,
+        "DT": "CNE",
+        "Table": 88,
+        "Chapter": "17.4.2.27"
+      },
+      {
+        "Description": "Procedure Code Modifier",
+        "Item#": 1316,
+        "Seg": "ITM",
+        "Seq#": 28,
+        "Len": 705,
+        "DT": "CNE",
+        "Rep": "Y",
+        "Table": 340,
+        "Chapter": "17.4.2.28"
+      },
+      {
+        "Description": "Ruling Act",
+        "Item#": 2201,
+        "Seg": "ITM",
+        "Seq#": 18,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 793,
+        "Chapter": "17.4.2.18"
+      },
+      {
+        "Description": "Special Handling Code",
+        "Item#": 1370,
+        "Seg": "ITM",
+        "Seq#": 29,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 376,
+        "Chapter": "17.4.2.29"
+      },
+      {
+        "Description": "Stocked Item Indicator",
+        "Item#": 2197,
+        "Seg": "ITM",
+        "Seq#": 14,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.14"
+      },
+      {
+        "Description": "Subject to Expiration Indicator",
+        "Item#": 2190,
+        "Seg": "ITM",
+        "Seq#": 6,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.6"
+      },
+      {
+        "Description": "Supply Risk Codes",
+        "Item#": 2266,
+        "Seg": "ITM",
+        "Seq#": 15,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 871,
+        "Chapter": "17.4.2.15"
+      },
+      {
+        "Description": "Taxable Item Indicator",
+        "Item#": 2205,
+        "Seg": "ITM",
+        "Seq#": 22,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.22"
+      },
+      {
+        "Description": "Track Department Usage Indicator",
+        "Item#": 2209,
+        "Seg": "ITM",
+        "Seq#": 26,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.2.26"
+      },
+      {
+        "Description": "Transaction amount - unit",
+        "Item#": 366,
+        "Seg": "ITM",
+        "Seq#": 13,
+        "Len": 12,
+        "DT": "CP",
+        "Chapter": "17.4.2.13"
+      },
+      {
+        "Description": "Transaction Code",
+        "Item#": 361,
+        "Seg": "ITM",
+        "Seq#": 12,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 132,
+        "Chapter": "17.4.2.12"
+      }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "Description": "BC Blood Group",
+        "Item#": 1738,
+        "Seg": "BTX",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "CNE",
+        "Table": 9999,
+        "Chapter": "4.21.3.4"
+      },
+      {
+        "Description": "BC Component",
+        "Item#": 1737,
+        "Seg": "BTX",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CNE",
+        "Table": 9999,
+        "Chapter": "4.21.3.3"
+      },
+      {
+        "Description": "BC Donation ID",
+        "Item#": 1736,
+        "Seg": "BTX",
+        "Seq#": 2,
+        "Len": 22,
+        "DT": "EI",
+        "Chapter": "4.21.3.2"
+      },
+      {
+        "Description": "BP Adverse Reaction Type",
+        "Item#": 1752,
+        "Seg": "BTX",
+        "Seq#": 18,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 514,
+        "Chapter": "4.21.3.18"
+      },
+      {
+        "Description": "BP Amount",
+        "Item#": 1743,
+        "Seg": "BTX",
+        "Seq#": 9,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "4.21.3.9"
+      },
+      {
+        "Description": "BP Date/Time of Status",
+        "Item#": 1747,
+        "Seg": "BTX",
+        "Seq#": 13,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.21.3.13"
+      },
+      {
+        "Description": "BP Message Status",
+        "Item#": 1746,
+        "Seg": "BTX",
+        "Seq#": 12,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 511,
+        "Chapter": "4.21.3.12"
+      },
+      {
+        "Description": "BP Quantity",
+        "Item#": 1742,
+        "Seg": "BTX",
+        "Seq#": 8,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "4.21.3.8"
+      },
+      {
+        "Description": "BP Transfusion Administrator",
+        "Item#": 1748,
+        "Seg": "BTX",
+        "Seq#": 14,
+        "Len": 250,
+        "DT": "XCN",
+        "Chapter": "4.21.3.14"
+      },
+      {
+        "Description": "BP Transfusion End Date/Time of Status",
+        "Item#": 1751,
+        "Seg": "BTX",
+        "Seq#": 17,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.21.3.17"
+      },
+      {
+        "Description": "BP Transfusion Interrupted Reason",
+        "Item#": 1753,
+        "Seg": "BTX",
+        "Seq#": 19,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 515,
+        "Chapter": "4.21.3.19"
+      },
+      {
+        "Description": "BP Transfusion Start Date/Time of Status",
+        "Item#": 1750,
+        "Seg": "BTX",
+        "Seq#": 16,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.21.3.16"
+      },
+      {
+        "Description": "BP Transfusion Verifier",
+        "Item#": 1749,
+        "Seg": "BTX",
+        "Seq#": 15,
+        "Len": 250,
+        "DT": "XCN",
+        "Chapter": "4.21.3.15"
+      },
+      {
+        "Description": "BP Transfusion/Disposition Status",
+        "Item#": 1745,
+        "Seg": "BTX",
+        "Seq#": 11,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 513,
+        "Chapter": "4.21.3.11"
+      },
+      {
+        "Description": "BP Units",
+        "Item#": 1744,
+        "Seg": "BTX",
+        "Seq#": 10,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.21.3.10"
+      },
+      {
+        "Description": "CP Commercial Product",
+        "Item#": 1739,
+        "Seg": "BTX",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 512,
+        "Chapter": "4.21.3.5"
+      },
+      {
+        "Description": "CP Lot Number",
+        "Item#": 1741,
+        "Seg": "BTX",
+        "Seq#": 7,
+        "Len": 22,
+        "DT": "EI",
+        "Chapter": "4.21.3.7"
+      },
+      {
+        "Description": "CP Manufacturer",
+        "Item#": 1740,
+        "Seg": "BTX",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "XON",
+        "Chapter": "4.21.3.6"
+      },
+      {
+        "Description": "Set ID - BTX",
+        "Item#": 1735,
+        "Seg": "BTX",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "4.21.3.1"
+      }
+]

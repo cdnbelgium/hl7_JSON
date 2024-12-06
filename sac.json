@@ -1,0 +1,424 @@
+[
+    {
+        "Description": "Accession Identifier",
+        "Item#": 1330,
+        "Seg": "SAC",
+        "Seq#": 2,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "13.4.3.2"
+      },
+      {
+        "Description": "Additive",
+        "Item#": 647,
+        "Seg": "SAC",
+        "Seq#": 27,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 371,
+        "Chapter": "13.4.3.27"
+      },
+      {
+        "Description": "Artificial Blood",
+        "Item#": 1369,
+        "Seg": "SAC",
+        "Seq#": 42,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 375,
+        "Chapter": "13.4.3.42"
+      },
+      {
+        "Description": "Available Specimen Volume",
+        "Item#": 1349,
+        "Seg": "SAC",
+        "Seq#": 22,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.22"
+      },
+      {
+        "Description": "Barrier Delta",
+        "Item#": 1345,
+        "Seg": "SAC",
+        "Seq#": 18,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.18"
+      },
+      {
+        "Description": "Bottom Delta",
+        "Item#": 1346,
+        "Seg": "SAC",
+        "Seq#": 19,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.19"
+      },
+      {
+        "Description": "Cap Type",
+        "Item#": 1353,
+        "Seg": "SAC",
+        "Seq#": 26,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 381,
+        "Chapter": "13.4.3.26"
+      },
+      {
+        "Description": "Carrier Identifier",
+        "Item#": 1337,
+        "Seg": "SAC",
+        "Seq#": 10,
+        "Len": 705,
+        "DT": "EI",
+        "Chapter": "13.4.3.10"
+      },
+      {
+        "Description": "Carrier Type",
+        "Item#": 1336,
+        "Seg": "SAC",
+        "Seq#": 9,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 378,
+        "Chapter": "13.4.3.9"
+      },
+      {
+        "Description": "Container Diameter",
+        "Item#": 1344,
+        "Seg": "SAC",
+        "Seq#": 17,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.17"
+      },
+      {
+        "Description": "Container Height",
+        "Item#": 1343,
+        "Seg": "SAC",
+        "Seq#": 16,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.16"
+      },
+      {
+        "Description": "Container Height/Diameter/Delta Units",
+        "Item#": 1347,
+        "Seg": "SAC",
+        "Seq#": 20,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.3.20"
+      },
+      {
+        "Description": "Container Identifier",
+        "Item#": 1331,
+        "Seg": "SAC",
+        "Seq#": 3,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "13.4.3.3"
+      },
+      {
+        "Description": "Container Status",
+        "Item#": 1335,
+        "Seg": "SAC",
+        "Seq#": 8,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 370,
+        "Chapter": "13.4.3.8"
+      },
+      {
+        "Description": "Container Volume",
+        "Item#": 644,
+        "Seg": "SAC",
+        "Seq#": 21,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.21"
+      },
+      {
+        "Description": "Dilution Factor",
+        "Item#": 1356,
+        "Seg": "SAC",
+        "Seq#": 29,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "13.4.3.29"
+      },
+      {
+        "Description": "Drug Interference",
+        "Item#": 1368,
+        "Seg": "SAC",
+        "Seq#": 41,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 382,
+        "Chapter": "13.4.3.41"
+      },
+      {
+        "Description": "Equipment Container Identifier",
+        "Item#": 1333,
+        "Seg": "SAC",
+        "Seq#": 5,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "13.4.3.5"
+      },
+      {
+        "Description": "External Accession Identifier",
+        "Item#": 1329,
+        "Seg": "SAC",
+        "Seq#": 1,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "13.4.3.1"
+      },
+      {
+        "Description": "Fibrin Index",
+        "Item#": 1365,
+        "Seg": "SAC",
+        "Seq#": 38,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.38"
+      },
+      {
+        "Description": "Fibrin Index Units",
+        "Item#": 1366,
+        "Seg": "SAC",
+        "Seq#": 39,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.3.39"
+      },
+      {
+        "Description": "Hemolysis Index",
+        "Item#": 1359,
+        "Seg": "SAC",
+        "Seq#": 32,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.32"
+      },
+      {
+        "Description": "Hemolysis Index Units",
+        "Item#": 1360,
+        "Seg": "SAC",
+        "Seq#": 33,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.3.33"
+      },
+      {
+        "Description": "Icterus Index",
+        "Item#": 1363,
+        "Seg": "SAC",
+        "Seq#": 36,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.36"
+      },
+      {
+        "Description": "Icterus Index Units",
+        "Item#": 1364,
+        "Seg": "SAC",
+        "Seq#": 37,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.3.37"
+      },
+      {
+        "Description": "Initial Specimen Volume",
+        "Item#": 1350,
+        "Seg": "SAC",
+        "Seq#": 23,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.23"
+      },
+      {
+        "Description": "Lipemia Index",
+        "Item#": 1361,
+        "Seg": "SAC",
+        "Seq#": 34,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.3.34"
+      },
+      {
+        "Description": "Lipemia Index Units",
+        "Item#": 1362,
+        "Seg": "SAC",
+        "Seq#": 35,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.3.35"
+      },
+      {
+        "Description": "Location",
+        "Item#": 1342,
+        "Seg": "SAC",
+        "Seq#": 15,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "13.4.3.15"
+      },
+      {
+        "Description": "Other Environmental Factors",
+        "Item#": 1371,
+        "Seg": "SAC",
+        "Seq#": 44,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 377,
+        "Chapter": "13.4.3.44"
+      },
+      {
+        "Description": "Position in Carrier",
+        "Item#": 1338,
+        "Seg": "SAC",
+        "Seq#": 11,
+        "Len": 80,
+        "DT": "NA",
+        "Chapter": "13.4.3.11"
+      },
+      {
+        "Description": "Position in Tray",
+        "Item#": 1341,
+        "Seg": "SAC",
+        "Seq#": 14,
+        "Len": 80,
+        "DT": "NA",
+        "Chapter": "13.4.3.14"
+      },
+      {
+        "Description": "Primary (Parent) Container Identifier",
+        "Item#": 1332,
+        "Seg": "SAC",
+        "Seq#": 4,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "13.4.3.4"
+      },
+      {
+        "Description": "Registration Date/Time",
+        "Item#": 1334,
+        "Seg": "SAC",
+        "Seq#": 7,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "13.4.3.7"
+      },
+      {
+        "Description": "Separator Type",
+        "Item#": 1352,
+        "Seg": "SAC",
+        "Seq#": 25,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 380,
+        "Chapter": "13.4.3.25"
+      },
+      {
+        "Description": "Special Handling Code",
+        "Item#": 1370,
+        "Seg": "SAC",
+        "Seq#": 43,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 376,
+        "Chapter": "13.4.3.43"
+      },
+      {
+        "Description": "Specimen Component",
+        "Item#": 1355,
+        "Seg": "SAC",
+        "Seq#": 28,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 372,
+        "Chapter": "13.4.3.28"
+      },
+      {
+        "Description": "Specimen Source",
+        "Item#": 249,
+        "Seg": "SAC",
+        "Seq#": 6,
+        "Len": 0,
+        "DT": "SPS",
+        "Chapter": "13.4.3.6"
+      },
+      {
+        "Description": "System Induced Contaminants",
+        "Item#": 1367,
+        "Seg": "SAC",
+        "Seq#": 40,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 374,
+        "Chapter": "13.4.3.40"
+      },
+      {
+        "Description": "Temperature",
+        "Item#": 1358,
+        "Seg": "SAC",
+        "Seq#": 31,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "13.4.3.31"
+      },
+      {
+        "Description": "Tray Identifier",
+        "Item#": 1340,
+        "Seg": "SAC",
+        "Seq#": 13,
+        "Len": 427,
+        "DT": "EI",
+        "Chapter": "13.4.3.13"
+      },
+      {
+        "Description": "Tray Type - SAC",
+        "Item#": 1339,
+        "Seg": "SAC",
+        "Seq#": 12,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 379,
+        "Chapter": "13.4.3.12"
+      },
+      {
+        "Description": "Treatment",
+        "Item#": 1357,
+        "Seg": "SAC",
+        "Seq#": 30,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 373,
+        "Chapter": "13.4.3.30"
+      },
+      {
+        "Description": "Volume Units",
+        "Item#": 1351,
+        "Seg": "SAC",
+        "Seq#": 24,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.3.24"
+      }
+]

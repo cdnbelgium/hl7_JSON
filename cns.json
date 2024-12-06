@@ -1,0 +1,58 @@
+[
+    {
+        "Description": "Ending Notification Code",
+        "Item#": 1407,
+        "Seg": "CNS",
+        "Seq#": 6,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.8.6"
+      },
+      {
+        "Description": "Ending Notification Date/Time",
+        "Item#": 1405,
+        "Seg": "CNS",
+        "Seq#": 4,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "13.4.8.4"
+      },
+      {
+        "Description": "Ending Notification Reference Number",
+        "Item#": 1403,
+        "Seg": "CNS",
+        "Seq#": 2,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.8.2"
+      },
+      {
+        "Description": "Starting Notification Code",
+        "Item#": 1406,
+        "Seg": "CNS",
+        "Seq#": 5,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "13.4.8.5"
+      },
+      {
+        "Description": "Starting Notification Date/Time",
+        "Item#": 1404,
+        "Seg": "CNS",
+        "Seq#": 3,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "13.4.8.3"
+      },
+      {
+        "Description": "Starting Notification Reference Number",
+        "Item#": 1402,
+        "Seg": "CNS",
+        "Seq#": 1,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "13.4.8.1"
+      }
+]

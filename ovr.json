@@ -1,0 +1,49 @@
+[
+    {
+        "Description": "Business Rule Override Code",
+        "Item#": 1830,
+        "Seg": "OVR",
+        "Seq#": 2,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 521,
+        "Chapter": "2.14.11.2"
+      },
+      {
+        "Description": "Business Rule Override Type",
+        "Item#": 1829,
+        "Seg": "OVR",
+        "Seq#": 1,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 518,
+        "Chapter": "2.14.11.1"
+      },
+      {
+        "Description": "Override Authorized By",
+        "Item#": 1833,
+        "Seg": "OVR",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "XCN",
+        "Chapter": "2.14.11.5"
+      },
+      {
+        "Description": "Override Comments",
+        "Item#": 1831,
+        "Seg": "OVR",
+        "Seq#": 3,
+        "Len": 200,
+        "DT": "TX",
+        "Chapter": "2.14.11.3"
+      },
+      {
+        "Description": "Override Entered By",
+        "Item#": 1832,
+        "Seg": "OVR",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "XCN",
+        "Chapter": "2.14.11.4"
+      }
+]

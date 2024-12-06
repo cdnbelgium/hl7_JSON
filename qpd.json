@@ -1,0 +1,30 @@
+[
+    {
+        "Description": "Message Query Name",
+        "Item#": 1375,
+        "Seg": "QPD",
+        "Seq#": 1,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 471,
+        "Chapter": "5.5.4.1"
+      },
+      {
+        "Description": "Query Tag",
+        "Item#": 696,
+        "Seg": "QPD",
+        "Seq#": 2,
+        "Len": 32,
+        "DT": "ST",
+        "Chapter": "5.5.4.2"
+      },
+      {
+        "Description": "User Parameters (in successive fields)",
+        "Item#": 1435,
+        "Seg": "QPD",
+        "Seq#": 3,
+        "Len": 256,
+        "DT": "varies",
+        "Chapter": "5.5.4.3"
+      }
+]

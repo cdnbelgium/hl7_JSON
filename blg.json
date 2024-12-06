@@ -1,0 +1,41 @@
+[
+    {
+        "Description": "Account ID",
+        "Item#": 236,
+        "Seg": "BLG",
+        "Seq#": 3,
+        "Len": 100,
+        "DT": "CX",
+        "Chapter": "4.5.2.3"
+      },
+      {
+        "Description": "Charge Type",
+        "Item#": 235,
+        "Seg": "BLG",
+        "Seq#": 2,
+        "Len": 50,
+        "DT": "ID",
+        "Table": 122,
+        "Chapter": "4.5.2.2"
+      },
+      {
+        "Description": "Charge Type Reason",
+        "Item#": 1645,
+        "Seg": "BLG",
+        "Seq#": 4,
+        "Len": 60,
+        "DT": "CWE",
+        "Table": 475,
+        "Chapter": "4.5.2.4"
+      },
+      {
+        "Description": "When to Charge",
+        "Item#": 234,
+        "Seg": "BLG",
+        "Seq#": 1,
+        "Len": 40,
+        "DT": "CCD",
+        "Table": 100,
+        "Chapter": "4.5.2.1"
+      }
+]

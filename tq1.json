@@ -1,0 +1,134 @@
+[
+    {
+        "Description": "Condition text",
+        "Item#": 1636,
+        "Seg": "TQ1",
+        "Seq#": 10,
+        "Len": 250,
+        "DT": "TX",
+        "Chapter": "4.5.4.10"
+      },
+      {
+        "Description": "Conjunction",
+        "Item#": 1638,
+        "Seg": "TQ1",
+        "Seq#": 12,
+        "Len": 10,
+        "DT": "ID",
+        "Table": 472,
+        "Chapter": "4.5.4.12"
+      },
+      {
+        "Description": "End date/time",
+        "Item#": 1634,
+        "Seg": "TQ1",
+        "Seq#": 8,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.5.4.8"
+      },
+      {
+        "Description": "Explicit Time",
+        "Item#": 1630,
+        "Seg": "TQ1",
+        "Seq#": 4,
+        "Len": 20,
+        "DT": "TM",
+        "Rep": "Y",
+        "Chapter": "4.5.4.4"
+      },
+      {
+        "Description": "Occurrence duration",
+        "Item#": 1639,
+        "Seg": "TQ1",
+        "Seq#": 13,
+        "Len": 20,
+        "DT": "CQ",
+        "Chapter": "4.5.4.13"
+      },
+      {
+        "Description": "Priority",
+        "Item#": 1635,
+        "Seg": "TQ1",
+        "Seq#": 9,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 485,
+        "Chapter": "4.5.4.9"
+      },
+      {
+        "Description": "Quantity",
+        "Item#": 1628,
+        "Seg": "TQ1",
+        "Seq#": 2,
+        "Len": 20,
+        "DT": "CQ",
+        "Chapter": "4.5.4.2"
+      },
+      {
+        "Description": "Relative Time and Units",
+        "Item#": 1631,
+        "Seg": "TQ1",
+        "Seq#": 5,
+        "Len": 20,
+        "DT": "CQ",
+        "Rep": "Y",
+        "Chapter": "4.5.4.5"
+      },
+      {
+        "Description": "Repeat Pattern",
+        "Item#": 1629,
+        "Seg": "TQ1",
+        "Seq#": 3,
+        "Len": 540,
+        "DT": "RPT",
+        "Rep": "Y",
+        "Chapter": "4.5.4.3"
+      },
+      {
+        "Description": "Service Duration",
+        "Item#": 1632,
+        "Seg": "TQ1",
+        "Seq#": 6,
+        "Len": 20,
+        "DT": "CQ",
+        "Chapter": "4.5.4.6"
+      },
+      {
+        "Description": "Set ID - TQ1",
+        "Item#": 1627,
+        "Seg": "TQ1",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "4.5.4.1"
+      },
+      {
+        "Description": "Start date/time",
+        "Item#": 1633,
+        "Seg": "TQ1",
+        "Seq#": 7,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.5.4.7"
+      },
+      {
+        "Description": "Text instruction",
+        "Item#": 1637,
+        "Seg": "TQ1",
+        "Seq#": 11,
+        "Len": 250,
+        "DT": "TX",
+        "Chapter": "4.5.4.11"
+      },
+      {
+        "Description": "Total occurrences",
+        "Item#": 1640,
+        "Seg": "TQ1",
+        "Seq#": 14,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "4.5.4.14"
+      }
+]

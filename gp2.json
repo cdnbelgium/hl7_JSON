@@ -1,0 +1,139 @@
+[
+    {
+        "Description": "Ambulatory Payment Classification Code",
+        "Item#": 1609,
+        "Seg": "GP2",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 466,
+        "Chapter": "6.5.16.7"
+      },
+      {
+        "Description": "Charge",
+        "Item#": 1605,
+        "Seg": "GP2",
+        "Seq#": 3,
+        "Len": 12,
+        "DT": "CP",
+        "Chapter": "6.5.16.3"
+      },
+      {
+        "Description": "Co-Pay Amount",
+        "Item#": 1620,
+        "Seg": "GP2",
+        "Seq#": 13,
+        "Len": 12,
+        "DT": "CP",
+        "Chapter": "6.5.16.13"
+      },
+      {
+        "Description": "Denial or Rejection Code",
+        "Item#": 1607,
+        "Seg": "GP2",
+        "Seq#": 5,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 460,
+        "Chapter": "6.5.16.5"
+      },
+      {
+        "Description": "Expected CMS Payment Amount",
+        "Item#": 1618,
+        "Seg": "GP2",
+        "Seq#": 11,
+        "Len": 12,
+        "DT": "CP",
+        "Chapter": "6.5.16.11"
+      },
+      {
+        "Description": "Modifier Edit Code",
+        "Item#": 1610,
+        "Seg": "GP2",
+        "Seq#": 8,
+        "Len": 1,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 467,
+        "Chapter": "6.5.16.8"
+      },
+      {
+        "Description": "Number of Service Units",
+        "Item#": 1604,
+        "Seg": "GP2",
+        "Seq#": 2,
+        "Len": 7,
+        "DT": "NM",
+        "Chapter": "6.5.16.2"
+      },
+      {
+        "Description": "OCE Edit Code",
+        "Item#": 1608,
+        "Seg": "GP2",
+        "Seq#": 6,
+        "Len": 3,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 458,
+        "Chapter": "6.5.16.6"
+      },
+      {
+        "Description": "Packaging Status Code",
+        "Item#": 1617,
+        "Seg": "GP2",
+        "Seq#": 10,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 469,
+        "Chapter": "6.5.16.10"
+      },
+      {
+        "Description": "Pay Rate per Service Unit",
+        "Item#": 1621,
+        "Seg": "GP2",
+        "Seq#": 14,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "6.5.16.14"
+      },
+      {
+        "Description": "Payment Adjustment Code",
+        "Item#": 1611,
+        "Seg": "GP2",
+        "Seq#": 9,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 468,
+        "Chapter": "6.5.16.9"
+      },
+      {
+        "Description": "Reimbursement Action Code",
+        "Item#": 1606,
+        "Seg": "GP2",
+        "Seq#": 4,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 459,
+        "Chapter": "6.5.16.4"
+      },
+      {
+        "Description": "Reimbursement Type Code",
+        "Item#": 1619,
+        "Seg": "GP2",
+        "Seq#": 12,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 470,
+        "Chapter": "6.5.16.12"
+      },
+      {
+        "Description": "Revenue Code",
+        "Item#": 1600,
+        "Seg": "GP2",
+        "Seq#": 1,
+        "Len": 3,
+        "DT": "IS",
+        "Table": 456,
+        "Chapter": "6.5.16.1"
+      }
+]

@@ -1,0 +1,348 @@
+[
+    {
+        "Description": "Abort Cycle",
+        "Item#": 2122,
+        "Seg": "SCD",
+        "Seq#": 19,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.19"
+      },
+      {
+        "Description": "Alarm",
+        "Item#": 2123,
+        "Seg": "SCD",
+        "Seq#": 20,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.20"
+      },
+      {
+        "Description": "Attending Doctor",
+        "Item#": 137,
+        "Seg": "SCD",
+        "Seq#": 34,
+        "Len": 250,
+        "DT": "XCN",
+        "Table": 10,
+        "Chapter": "17.7.4.34"
+      },
+      {
+        "Description": "Condition Time",
+        "Item#": 2109,
+        "Seg": "SCD",
+        "Seq#": 6,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.6"
+      },
+      {
+        "Description": "Control Temperature",
+        "Item#": 2117,
+        "Seg": "SCD",
+        "Seq#": 14,
+        "Len": 36,
+        "DT": "CQ",
+        "Chapter": "17.7.4.14"
+      },
+      {
+        "Description": "Cycle Complete Time",
+        "Item#": 2119,
+        "Seg": "SCD",
+        "Seq#": 16,
+        "Len": 16,
+        "DT": "TM",
+        "Chapter": "17.7.4.16"
+      },
+      {
+        "Description": "Cycle Count",
+        "Item#": 2105,
+        "Seg": "SCD",
+        "Seq#": 2,
+        "Len": 16,
+        "DT": "NM",
+        "Chapter": "17.7.4.2"
+      },
+      {
+        "Description": "Cycle Start Date/Time",
+        "Item#": 2114,
+        "Seg": "SCD",
+        "Seq#": 11,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "17.7.4.11"
+      },
+      {
+        "Description": "Cycle Start Time",
+        "Item#": 2104,
+        "Seg": "SCD",
+        "Seq#": 1,
+        "Len": 16,
+        "DT": "TM",
+        "Chapter": "17.7.4.1"
+      },
+      {
+        "Description": "Cycle Type",
+        "Item#": 2131,
+        "Seg": "SCD",
+        "Seq#": 28,
+        "Len": 3,
+        "DT": "CWE",
+        "Table": 702,
+        "Chapter": "17.7.4.28"
+      },
+      {
+        "Description": "Device Status",
+        "Item#": 2113,
+        "Seg": "SCD",
+        "Seq#": 10,
+        "Len": 4,
+        "DT": "CWE",
+        "Table": 682,
+        "Chapter": "17.7.4.10"
+      },
+      {
+        "Description": "Dilution Factor",
+        "Item#": 1356,
+        "Seg": "SCD",
+        "Seq#": 35,
+        "Len": 36,
+        "DT": "SN",
+        "Chapter": "17.7.4.35"
+      },
+      {
+        "Description": "Door Open",
+        "Item#": 2129,
+        "Seg": "SCD",
+        "Seq#": 26,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.26"
+      },
+      {
+        "Description": "Dry Time",
+        "Item#": 2115,
+        "Seg": "SCD",
+        "Seq#": 12,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.12"
+      },
+      {
+        "Description": "Exhaust Time",
+        "Item#": 2111,
+        "Seg": "SCD",
+        "Seq#": 8,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.8"
+      },
+      {
+        "Description": "Fill Time",
+        "Item#": 2139,
+        "Seg": "SCD",
+        "Seq#": 36,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.36"
+      },
+      {
+        "Description": "Injection Rate",
+        "Item#": 2134,
+        "Seg": "SCD",
+        "Seq#": 31,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.31"
+      },
+      {
+        "Description": "Inlet Temperature",
+        "Item#": 2140,
+        "Seg": "SCD",
+        "Seq#": 37,
+        "Len": 36,
+        "DT": "CQ",
+        "Chapter": "17.7.4.37"
+      },
+      {
+        "Description": "Leak Rate",
+        "Item#": 2116,
+        "Seg": "SCD",
+        "Seq#": 13,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.13"
+      },
+      {
+        "Description": "Load Number",
+        "Item#": 2108,
+        "Seg": "SCD",
+        "Seq#": 5,
+        "Len": 16,
+        "DT": "NM",
+        "Chapter": "17.7.4.5"
+      },
+      {
+        "Description": "Long in Charge Phase",
+        "Item#": 2124,
+        "Seg": "SCD",
+        "Seq#": 21,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.21"
+      },
+      {
+        "Description": "Long in Exhaust Phase",
+        "Item#": 2125,
+        "Seg": "SCD",
+        "Seq#": 22,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.22"
+      },
+      {
+        "Description": "Long in Fast Exhaust Phase",
+        "Item#": 2126,
+        "Seg": "SCD",
+        "Seq#": 23,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.23"
+      },
+      {
+        "Description": "Operator - Unload",
+        "Item#": 2128,
+        "Seg": "SCD",
+        "Seq#": 25,
+        "Len": 15,
+        "DT": "XCN",
+        "Chapter": "17.7.4.25"
+      },
+      {
+        "Description": "Over Temperature",
+        "Item#": 2121,
+        "Seg": "SCD",
+        "Seq#": 18,
+        "Len": 36,
+        "DT": "CQ",
+        "Chapter": "17.7.4.18"
+      },
+      {
+        "Description": "Patient Identifier List",
+        "Item#": 106,
+        "Seg": "SCD",
+        "Seq#": 33,
+        "Len": 250,
+        "DT": "CX",
+        "Rep": "Y",
+        "Chapter": "17.7.4.33"
+      },
+      {
+        "Description": "Procedure Code",
+        "Item#": 393,
+        "Seg": "SCD",
+        "Seq#": 32,
+        "Len": 705,
+        "DT": "CNE",
+        "Table": 88,
+        "Chapter": "17.7.4.32"
+      },
+      {
+        "Description": "Reading Failure",
+        "Item#": 2130,
+        "Seg": "SCD",
+        "Seq#": 27,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.27"
+      },
+      {
+        "Description": "Reset",
+        "Item#": 2127,
+        "Seg": "SCD",
+        "Seq#": 24,
+        "Len": 4,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.7.4.24"
+      },
+      {
+        "Description": "Sterilize Time",
+        "Item#": 2110,
+        "Seg": "SCD",
+        "Seq#": 7,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.7"
+      },
+      {
+        "Description": "Sterilizer Temperature",
+        "Item#": 2118,
+        "Seg": "SCD",
+        "Seq#": 15,
+        "Len": 36,
+        "DT": "CQ",
+        "Chapter": "17.7.4.15"
+      },
+      {
+        "Description": "Temp Max",
+        "Item#": 2106,
+        "Seg": "SCD",
+        "Seq#": 3,
+        "Len": 36,
+        "DT": "CQ",
+        "Chapter": "17.7.4.3"
+      },
+      {
+        "Description": "Temp Min",
+        "Item#": 2107,
+        "Seg": "SCD",
+        "Seq#": 4,
+        "Len": 36,
+        "DT": "CQ",
+        "Chapter": "17.7.4.4"
+      },
+      {
+        "Description": "Thermal Rinse Time",
+        "Item#": 2132,
+        "Seg": "SCD",
+        "Seq#": 29,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.29"
+      },
+      {
+        "Description": "Total Cycle Time",
+        "Item#": 2112,
+        "Seg": "SCD",
+        "Seq#": 9,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.9"
+      },
+      {
+        "Description": "Under Temperature",
+        "Item#": 2120,
+        "Seg": "SCD",
+        "Seq#": 17,
+        "Len": 36,
+        "DT": "CQ",
+        "Chapter": "17.7.4.17"
+      },
+      {
+        "Description": "Wash Time",
+        "Item#": 2133,
+        "Seg": "SCD",
+        "Seq#": 30,
+        "Len": 16,
+        "DT": "CQ",
+        "Chapter": "17.7.4.30"
+      }
+]

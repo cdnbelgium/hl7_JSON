@@ -1,0 +1,132 @@
+[
+    {
+        "Description": "Number of Product Experience Reports Filed by Distributor",
+        "Item#": 1246,
+        "Seg": "PSH",
+        "Seq#": 14,
+        "Len": 16,
+        "DT": "NM",
+        "Rep": "Y",
+        "Chapter": "7.12.4.14"
+      },
+      {
+        "Description": "Number of Product Experience Reports Filed by Facility",
+        "Item#": 1245,
+        "Seg": "PSH",
+        "Seq#": 13,
+        "Len": 16,
+        "DT": "NM",
+        "Rep": "Y",
+        "Chapter": "7.12.4.13"
+      },
+      {
+        "Description": "Quantity Distributed",
+        "Item#": 1239,
+        "Seg": "PSH",
+        "Seq#": 7,
+        "Len": 722,
+        "DT": "CQ",
+        "Chapter": "7.12.4.7"
+      },
+      {
+        "Description": "Quantity Distributed Comment",
+        "Item#": 1241,
+        "Seg": "PSH",
+        "Seq#": 9,
+        "Len": 600,
+        "DT": "FT",
+        "Chapter": "7.12.4.9"
+      },
+      {
+        "Description": "Quantity Distributed Method",
+        "Item#": 1240,
+        "Seg": "PSH",
+        "Seq#": 8,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 329,
+        "Chapter": "7.12.4.8"
+      },
+      {
+        "Description": "Quantity in Use",
+        "Item#": 1242,
+        "Seg": "PSH",
+        "Seq#": 10,
+        "Len": 722,
+        "DT": "CQ",
+        "Chapter": "7.12.4.10"
+      },
+      {
+        "Description": "Quantity in Use Comment",
+        "Item#": 1244,
+        "Seg": "PSH",
+        "Seq#": 12,
+        "Len": 600,
+        "DT": "FT",
+        "Chapter": "7.12.4.12"
+      },
+      {
+        "Description": "Quantity in Use Method",
+        "Item#": 1243,
+        "Seg": "PSH",
+        "Seq#": 11,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 329,
+        "Chapter": "7.12.4.11"
+      },
+      {
+        "Description": "Quantity Manufactured",
+        "Item#": 1238,
+        "Seg": "PSH",
+        "Seq#": 6,
+        "Len": 722,
+        "DT": "CQ",
+        "Chapter": "7.12.4.6"
+      },
+      {
+        "Description": "Report Date",
+        "Item#": 1235,
+        "Seg": "PSH",
+        "Seq#": 3,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.4.3"
+      },
+      {
+        "Description": "Report Form Identifier",
+        "Item#": 1297,
+        "Seg": "PSH",
+        "Seq#": 2,
+        "Len": 60,
+        "DT": "ST",
+        "Chapter": "7.12.4.2"
+      },
+      {
+        "Description": "Report Interval End Date",
+        "Item#": 1237,
+        "Seg": "PSH",
+        "Seq#": 5,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.4.5"
+      },
+      {
+        "Description": "Report Interval Start Date",
+        "Item#": 1236,
+        "Seg": "PSH",
+        "Seq#": 4,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "7.12.4.4"
+      },
+      {
+        "Description": "Report Type",
+        "Item#": 1233,
+        "Seg": "PSH",
+        "Seq#": 1,
+        "Len": 60,
+        "DT": "ST",
+        "Chapter": "7.12.4.1"
+      }
+]

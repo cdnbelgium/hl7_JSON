@@ -1,0 +1,148 @@
+[
+    {
+        "Description": "Asserting Entity Instance ID",
+        "Item#": 2245,
+        "Seg": "REL",
+        "Seq#": 6,
+        "Len": 60,
+        "DT": "EI",
+        "Chapter": "12.4.5.6"
+      },
+      {
+        "Description": "Asserting Organization",
+        "Item#": 2247,
+        "Seg": "REL",
+        "Seq#": 8,
+        "Len": 250,
+        "DT": "XON",
+        "Chapter": "12.4.5.8"
+      },
+      {
+        "Description": "Asserting Person",
+        "Item#": 2246,
+        "Seg": "REL",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "XCN",
+        "Chapter": "12.4.5.7"
+      },
+      {
+        "Description": "Assertion Date Range",
+        "Item#": 2250,
+        "Seg": "REL",
+        "Seq#": 11,
+        "Len": 53,
+        "DT": "DR",
+        "Chapter": "12.4.5.11"
+      },
+      {
+        "Description": "Assertor Address",
+        "Item#": 2248,
+        "Seg": "REL",
+        "Seq#": 9,
+        "Len": 250,
+        "DT": "XAD",
+        "Chapter": "12.4.5.9"
+      },
+      {
+        "Description": "Assertor Contact",
+        "Item#": 2249,
+        "Seg": "REL",
+        "Seq#": 10,
+        "Len": 250,
+        "DT": "XTN",
+        "Chapter": "12.4.5.10"
+      },
+      {
+        "Description": "Certainty of Relationship",
+        "Item#": 2252,
+        "Seg": "REL",
+        "Seq#": 13,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.5.13"
+      },
+      {
+        "Description": "Negation Indicator",
+        "Item#": 2251,
+        "Seg": "REL",
+        "Seq#": 12,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "12.4.5.12"
+      },
+      {
+        "Description": "Priority  Sequence No (rel preference for consideration)",
+        "Item#": 2254,
+        "Seg": "REL",
+        "Seq#": 15,
+        "Len": 250,
+        "DT": "NM",
+        "Chapter": "12.4.5.15"
+      },
+      {
+        "Description": "Priority No",
+        "Item#": 2253,
+        "Seg": "REL",
+        "Seq#": 14,
+        "Len": 26,
+        "DT": "NM",
+        "Chapter": "12.4.5.14"
+      },
+      {
+        "Description": "Relationship Type",
+        "Item#": 2241,
+        "Seg": "REL",
+        "Seq#": 2,
+        "Len": 705,
+        "DT": "CWE",
+        "Chapter": "12.4.5.2"
+      },
+      {
+        "Description": "Separability Indicator",
+        "Item#": 2255,
+        "Seg": "REL",
+        "Seq#": 16,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "12.4.5.16"
+      },
+      {
+        "Description": "Set ID -REL",
+        "Item#": 2240,
+        "Seg": "REL",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "12.4.5.1"
+      },
+      {
+        "Description": "Source Information Instance Identifier",
+        "Item#": 2243,
+        "Seg": "REL",
+        "Seq#": 4,
+        "Len": 60,
+        "DT": "EI",
+        "Chapter": "12.4.5.4"
+      },
+      {
+        "Description": "Target Information Instance Identifier",
+        "Item#": 2244,
+        "Seg": "REL",
+        "Seq#": 5,
+        "Len": 60,
+        "DT": "EI",
+        "Chapter": "12.4.5.5"
+      },
+      {
+        "Description": "This Relationship Instance Identifier",
+        "Item#": 2242,
+        "Seg": "REL",
+        "Seq#": 3,
+        "Len": 60,
+        "DT": "EI",
+        "Chapter": "12.4.5.3"
+      }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "Description": "Advance Directive Code",
+        "Item#": 1548,
+        "Seg": "PD1",
+        "Seq#": 15,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 435,
+        "Chapter": "3.4.10.15"
+      },
+      {
+        "Description": "Advance Directive Last Verified Date",
+        "Item#": 2141,
+        "Seg": "PD1",
+        "Seq#": 22,
+        "Len": 8,
+        "DT": "DT",
+        "Chapter": "3.4.10.22"
+      },
+      {
+        "Description": "Duplicate Patient",
+        "Item#": 762,
+        "Seg": "PD1",
+        "Seq#": 10,
+        "Len": 250,
+        "DT": "CX",
+        "Rep": "Y",
+        "Chapter": "3.4.10.10"
+      },
+      {
+        "Description": "Handicap",
+        "Item#": 753,
+        "Seg": "PD1",
+        "Seq#": 6,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 295,
+        "Chapter": "3.4.10.6"
+      },
+      {
+        "Description": "Immunization Registry Status",
+        "Item#": 1569,
+        "Seg": "PD1",
+        "Seq#": 16,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 441,
+        "Chapter": "3.4.10.16"
+      },
+      {
+        "Description": "Immunization Registry Status Effective Date",
+        "Item#": 1570,
+        "Seg": "PD1",
+        "Seq#": 17,
+        "Len": 8,
+        "DT": "DT",
+        "Chapter": "3.4.10.17"
+      },
+      {
+        "Description": "Living Arrangement",
+        "Item#": 742,
+        "Seg": "PD1",
+        "Seq#": 2,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 220,
+        "Chapter": "3.4.10.2"
+      },
+      {
+        "Description": "Living Dependency",
+        "Item#": 755,
+        "Seg": "PD1",
+        "Seq#": 1,
+        "Len": 2,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 223,
+        "Chapter": "3.4.10.1"
+      },
+      {
+        "Description": "Living Will Code",
+        "Item#": 759,
+        "Seg": "PD1",
+        "Seq#": 7,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 315,
+        "Chapter": "3.4.10.7"
+      },
+      {
+        "Description": "Military Branch",
+        "Item#": 1572,
+        "Seg": "PD1",
+        "Seq#": 19,
+        "Len": 5,
+        "DT": "IS",
+        "Table": 140,
+        "Chapter": "3.4.10.19"
+      },
+      {
+        "Description": "Military Rank/Grade",
+        "Item#": 486,
+        "Seg": "PD1",
+        "Seq#": 20,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 141,
+        "Chapter": "3.4.10.20"
+      },
+      {
+        "Description": "Military Status",
+        "Item#": 1573,
+        "Seg": "PD1",
+        "Seq#": 21,
+        "Len": 3,
+        "DT": "IS",
+        "Table": 142,
+        "Chapter": "3.4.10.21"
+      },
+      {
+        "Description": "Organ Donor Code",
+        "Item#": 760,
+        "Seg": "PD1",
+        "Seq#": 8,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 316,
+        "Chapter": "3.4.10.8"
+      },
+      {
+        "Description": "Patient Primary Care Provider Name & ID No.",
+        "Item#": 757,
+        "Seg": "PD1",
+        "Seq#": 4,
+        "Len": 0,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "3.4.10.4"
+      },
+      {
+        "Description": "Patient Primary Facility",
+        "Item#": 756,
+        "Seg": "PD1",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "XON",
+        "Rep": "Y",
+        "Table": 204,
+        "Chapter": "3.4.10.3"
+      },
+      {
+        "Description": "Place of Worship",
+        "Item#": 1567,
+        "Seg": "PD1",
+        "Seq#": 14,
+        "Len": 250,
+        "DT": "XON",
+        "Rep": "Y",
+        "Chapter": "3.4.10.14"
+      },
+      {
+        "Description": "Protection Indicator",
+        "Item#": 744,
+        "Seg": "PD1",
+        "Seq#": 12,
+        "Len": 0,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "3.4.10.12"
+      },
+      {
+        "Description": "Protection Indicator Effective Date",
+        "Item#": 1566,
+        "Seg": "PD1",
+        "Seq#": 13,
+        "Len": 0,
+        "DT": "DT",
+        "Chapter": "3.4.10.13"
+      },
+      {
+        "Description": "Publicity Code",
+        "Item#": 743,
+        "Seg": "PD1",
+        "Seq#": 11,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 215,
+        "Chapter": "3.4.10.11"
+      },
+      {
+        "Description": "Publicity Code Effective Date",
+        "Item#": 1571,
+        "Seg": "PD1",
+        "Seq#": 18,
+        "Len": 8,
+        "DT": "DT",
+        "Chapter": "3.4.10.18"
+      },
+      {
+        "Description": "Separate Bill",
+        "Item#": 761,
+        "Seg": "PD1",
+        "Seq#": 9,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "3.4.10.9"
+      },
+      {
+        "Description": "Student Indicator",
+        "Item#": 745,
+        "Seg": "PD1",
+        "Seq#": 5,
+        "Len": 2,
+        "DT": "IS",
+        "Table": 231,
+        "Chapter": "3.4.10.5"
+      }
+]

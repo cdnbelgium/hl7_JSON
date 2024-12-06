@@ -1,0 +1,426 @@
+[
+    {
+        "Description": "Controlled Substance Schedule",
+        "Item#": 1676,
+        "Seg": "RXE",
+        "Seq#": 35,
+        "Len": 60,
+        "DT": "CWE",
+        "Table": 477,
+        "Chapter": "4.14.4.35"
+      },
+      {
+        "Description": "D/T of Most Recent Refill or Dose Dispensed",
+        "Item#": 328,
+        "Seg": "RXE",
+        "Seq#": 18,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.14.4.18"
+      },
+      {
+        "Description": "Deliver-to Address",
+        "Item#": 1684,
+        "Seg": "RXE",
+        "Seq#": 43,
+        "Len": 250,
+        "DT": "XAD",
+        "Chapter": "4.14.4.43"
+      },
+      {
+        "Description": "Deliver-To Location",
+        "Item#": 299,
+        "Seg": "RXE",
+        "Seq#": 8,
+        "Len": 0,
+        "DT": "LA1",
+        "Chapter": "4.14.4.8"
+      },
+      {
+        "Description": "Deliver-to Patient Location",
+        "Item#": 1683,
+        "Seg": "RXE",
+        "Seq#": 42,
+        "Len": 80,
+        "DT": "PL",
+        "Chapter": "4.14.4.42"
+      },
+      {
+        "Description": "Dispense Amount",
+        "Item#": 323,
+        "Seg": "RXE",
+        "Seq#": 10,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.4.10"
+      },
+      {
+        "Description": "Dispense Package Method",
+        "Item#": 1222,
+        "Seg": "RXE",
+        "Seq#": 30,
+        "Len": 2,
+        "DT": "ID",
+        "Table": 321,
+        "Chapter": "4.14.4.30"
+      },
+      {
+        "Description": "Dispense Package Size",
+        "Item#": 1220,
+        "Seg": "RXE",
+        "Seq#": 28,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.4.28"
+      },
+      {
+        "Description": "Dispense Package Size Unit",
+        "Item#": 1221,
+        "Seg": "RXE",
+        "Seq#": 29,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.29"
+      },
+      {
+        "Description": "Dispense Units",
+        "Item#": 324,
+        "Seg": "RXE",
+        "Seq#": 11,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.11"
+      },
+      {
+        "Description": "Dispensing Pharmacy",
+        "Item#": 1681,
+        "Seg": "RXE",
+        "Seq#": 40,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.40"
+      },
+      {
+        "Description": "Dispensing Pharmacy Address",
+        "Item#": 1682,
+        "Seg": "RXE",
+        "Seq#": 41,
+        "Len": 250,
+        "DT": "XAD",
+        "Chapter": "4.14.4.41"
+      },
+      {
+        "Description": "Formulary Status",
+        "Item#": 1677,
+        "Seg": "RXE",
+        "Seq#": 36,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 478,
+        "Chapter": "4.14.4.36"
+      },
+      {
+        "Description": "Give Amount - Maximum",
+        "Item#": 319,
+        "Seg": "RXE",
+        "Seq#": 4,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.4.4"
+      },
+      {
+        "Description": "Give Amount - Minimum",
+        "Item#": 318,
+        "Seg": "RXE",
+        "Seq#": 3,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.4.3"
+      },
+      {
+        "Description": "Give Code",
+        "Item#": 317,
+        "Seg": "RXE",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 292,
+        "Chapter": "4.14.4.2"
+      },
+      {
+        "Description": "Give Dosage Form",
+        "Item#": 321,
+        "Seg": "RXE",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.6"
+      },
+      {
+        "Description": "Give Drug Strength Volume",
+        "Item#": 1674,
+        "Seg": "RXE",
+        "Seq#": 33,
+        "Len": 5,
+        "DT": "NM",
+        "Chapter": "4.14.4.33"
+      },
+      {
+        "Description": "Give Drug Strength Volume Units",
+        "Item#": 1675,
+        "Seg": "RXE",
+        "Seq#": 34,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.34"
+      },
+      {
+        "Description": "Give Indication",
+        "Item#": 1128,
+        "Seg": "RXE",
+        "Seq#": 27,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.14.4.27"
+      },
+      {
+        "Description": "Give Per (Time Unit)",
+        "Item#": 331,
+        "Seg": "RXE",
+        "Seq#": 22,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "4.14.4.22"
+      },
+      {
+        "Description": "Give Rate Amount",
+        "Item#": 332,
+        "Seg": "RXE",
+        "Seq#": 23,
+        "Len": 6,
+        "DT": "ST",
+        "Chapter": "4.14.4.23"
+      },
+      {
+        "Description": "Give Rate Units",
+        "Item#": 333,
+        "Seg": "RXE",
+        "Seq#": 24,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.24"
+      },
+      {
+        "Description": "Give Strength",
+        "Item#": 1126,
+        "Seg": "RXE",
+        "Seq#": 25,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.4.25"
+      },
+      {
+        "Description": "Give Strength Units",
+        "Item#": 1127,
+        "Seg": "RXE",
+        "Seq#": 26,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.26"
+      },
+      {
+        "Description": "Give Units",
+        "Item#": 320,
+        "Seg": "RXE",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.5"
+      },
+      {
+        "Description": "Initial Dispense Amount",
+        "Item#": 1680,
+        "Seg": "RXE",
+        "Seq#": 39,
+        "Len": 250,
+        "DT": "NM",
+        "Chapter": "4.14.4.39"
+      },
+      {
+        "Description": "Needs Human Review",
+        "Item#": 307,
+        "Seg": "RXE",
+        "Seq#": 20,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "4.14.4.20"
+      },
+      {
+        "Description": "Number Of Refills",
+        "Item#": 304,
+        "Seg": "RXE",
+        "Seq#": 12,
+        "Len": 3,
+        "DT": "NM",
+        "Chapter": "4.14.4.12"
+      },
+      {
+        "Description": "Number of Refills Remaining",
+        "Item#": 326,
+        "Seg": "RXE",
+        "Seq#": 16,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.4.16"
+      },
+      {
+        "Description": "Number of Refills/Doses Dispensed",
+        "Item#": 327,
+        "Seg": "RXE",
+        "Seq#": 17,
+        "Len": 20,
+        "DT": "NM",
+        "Chapter": "4.14.4.17"
+      },
+      {
+        "Description": "Ordering Provider's DEA Number",
+        "Item#": 305,
+        "Seg": "RXE",
+        "Seq#": 13,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "4.14.4.13"
+      },
+      {
+        "Description": "Original Order Date/Time",
+        "Item#": 1673,
+        "Seg": "RXE",
+        "Seq#": 32,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "4.14.4.32"
+      },
+      {
+        "Description": "Pharmaceutical Substance Alternative",
+        "Item#": 1678,
+        "Seg": "RXE",
+        "Seq#": 37,
+        "Len": 60,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.14.4.37"
+      },
+      {
+        "Description": "Pharmacist/Treatment Supplier's Verifier ID",
+        "Item#": 306,
+        "Seg": "RXE",
+        "Seq#": 14,
+        "Len": 250,
+        "DT": "XCN",
+        "Rep": "Y",
+        "Chapter": "4.14.4.14"
+      },
+      {
+        "Description": "Pharmacy of Most Recent Fill",
+        "Item#": 1679,
+        "Seg": "RXE",
+        "Seq#": 38,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 9999,
+        "Chapter": "4.14.4.38"
+      },
+      {
+        "Description": "Pharmacy Order Type",
+        "Item#": 1685,
+        "Seg": "RXE",
+        "Seq#": 44,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 480,
+        "Chapter": "4.14.4.44"
+      },
+      {
+        "Description": "Pharmacy/Treatment Supplier's Special Dispensing Instructions",
+        "Item#": 330,
+        "Seg": "RXE",
+        "Seq#": 21,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.14.4.21"
+      },
+      {
+        "Description": "Prescription Number",
+        "Item#": 325,
+        "Seg": "RXE",
+        "Seq#": 15,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "4.14.4.15"
+      },
+      {
+        "Description": "Provider's Administration Instructions",
+        "Item#": 298,
+        "Seg": "RXE",
+        "Seq#": 7,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.14.4.7"
+      },
+      {
+        "Description": "Quantity/Timing",
+        "Item#": 221,
+        "Seg": "RXE",
+        "Seq#": 1,
+        "Len": 0,
+        "DT": "TQ",
+        "Chapter": "4.14.4.1"
+      },
+      {
+        "Description": "Substitution Status",
+        "Item#": 322,
+        "Seg": "RXE",
+        "Seq#": 9,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 167,
+        "Chapter": "4.14.4.9"
+      },
+      {
+        "Description": "Supplementary Code",
+        "Item#": 1476,
+        "Seg": "RXE",
+        "Seq#": 31,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "4.14.4.31"
+      },
+      {
+        "Description": "Total Daily Dose",
+        "Item#": 329,
+        "Seg": "RXE",
+        "Seq#": 19,
+        "Len": 10,
+        "DT": "CQ",
+        "Chapter": "4.14.4.19"
+      }
+]

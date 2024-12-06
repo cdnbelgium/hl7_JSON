@@ -1,0 +1,386 @@
+[
+    {
+        "Description": "Administrative Sex",
+        "Item#": 111,
+        "Seg": "PID",
+        "Seq#": 8,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 1,
+        "Chapter": "3.4.2.8"
+      },
+      {
+        "Description": "Alternate Patient ID - PID",
+        "Item#": 107,
+        "Seg": "PID",
+        "Seq#": 4,
+        "Len": 0,
+        "DT": "CX",
+        "Rep": "Y",
+        "Chapter": "3.4.2.4"
+      },
+      {
+        "Description": "Birth Order",
+        "Item#": 128,
+        "Seg": "PID",
+        "Seq#": 25,
+        "Len": 2,
+        "DT": "NM",
+        "Chapter": "3.4.2.25"
+      },
+      {
+        "Description": "Birth Place",
+        "Item#": 126,
+        "Seg": "PID",
+        "Seq#": 23,
+        "Len": 250,
+        "DT": "ST",
+        "Chapter": "3.4.2.23"
+      },
+      {
+        "Description": "Breed Code",
+        "Item#": 1540,
+        "Seg": "PID",
+        "Seq#": 36,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 447,
+        "Chapter": "3.4.2.36"
+      },
+      {
+        "Description": "Citizenship",
+        "Item#": 129,
+        "Seg": "PID",
+        "Seq#": 26,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 171,
+        "Chapter": "3.4.2.26"
+      },
+      {
+        "Description": "County Code",
+        "Item#": 115,
+        "Seg": "PID",
+        "Seq#": 12,
+        "Len": 0,
+        "DT": "IS",
+        "Table": 289,
+        "Chapter": "3.4.2.12"
+      },
+      {
+        "Description": "Date/Time of Birth",
+        "Item#": 110,
+        "Seg": "PID",
+        "Seq#": 7,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "3.4.2.7"
+      },
+      {
+        "Description": "Driver's License Number - Patient",
+        "Item#": 123,
+        "Seg": "PID",
+        "Seq#": 20,
+        "Len": 0,
+        "DT": "DLN",
+        "Chapter": "3.4.2.20"
+      },
+      {
+        "Description": "Ethnic Group",
+        "Item#": 125,
+        "Seg": "PID",
+        "Seq#": 22,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 189,
+        "Chapter": "3.4.2.22"
+      },
+      {
+        "Description": "Identity Reliability Code",
+        "Item#": 1536,
+        "Seg": "PID",
+        "Seq#": 32,
+        "Len": 20,
+        "DT": "IS",
+        "Rep": "Y",
+        "Table": 445,
+        "Chapter": "3.4.2.32"
+      },
+      {
+        "Description": "Identity Unknown Indicator",
+        "Item#": 1535,
+        "Seg": "PID",
+        "Seq#": 31,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "3.4.2.31"
+      },
+      {
+        "Description": "Last Update Date/Time",
+        "Item#": 1537,
+        "Seg": "PID",
+        "Seq#": 33,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "3.4.2.33"
+      },
+      {
+        "Description": "Last Update Facility",
+        "Item#": 1538,
+        "Seg": "PID",
+        "Seq#": 34,
+        "Len": 241,
+        "DT": "HD",
+        "Chapter": "3.4.2.34"
+      },
+      {
+        "Description": "Marital Status",
+        "Item#": 119,
+        "Seg": "PID",
+        "Seq#": 16,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 2,
+        "Chapter": "3.4.2.16"
+      },
+      {
+        "Description": "Mother's Identifier",
+        "Item#": 124,
+        "Seg": "PID",
+        "Seq#": 21,
+        "Len": 250,
+        "DT": "CX",
+        "Rep": "Y",
+        "Chapter": "3.4.2.21"
+      },
+      {
+        "Description": "Mother's Maiden Name",
+        "Item#": 109,
+        "Seg": "PID",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Chapter": "3.4.2.6"
+      },
+      {
+        "Description": "Multiple Birth Indicator",
+        "Item#": 127,
+        "Seg": "PID",
+        "Seq#": 24,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "3.4.2.24"
+      },
+      {
+        "Description": "Nationality",
+        "Item#": 739,
+        "Seg": "PID",
+        "Seq#": 28,
+        "Len": 0,
+        "DT": "CWE",
+        "Table": 212,
+        "Chapter": "3.4.2.28"
+      },
+      {
+        "Description": "Patient Account Number",
+        "Item#": 121,
+        "Seg": "PID",
+        "Seq#": 18,
+        "Len": 250,
+        "DT": "CX",
+        "Chapter": "3.4.2.18"
+      },
+      {
+        "Description": "Patient Address",
+        "Item#": 114,
+        "Seg": "PID",
+        "Seq#": 11,
+        "Len": 250,
+        "DT": "XAD",
+        "Rep": "Y",
+        "Chapter": "3.4.2.11"
+      },
+      {
+        "Description": "Patient Alias",
+        "Item#": 112,
+        "Seg": "PID",
+        "Seq#": 9,
+        "Len": 0,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Chapter": "3.4.2.9"
+      },
+      {
+        "Description": "Patient Death Date and Time",
+        "Item#": 740,
+        "Seg": "PID",
+        "Seq#": 29,
+        "Len": 24,
+        "DT": "DTM",
+        "Chapter": "3.4.2.29"
+      },
+      {
+        "Description": "Patient Death Indicator",
+        "Item#": 741,
+        "Seg": "PID",
+        "Seq#": 30,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "3.4.2.30"
+      },
+      {
+        "Description": "Patient ID",
+        "Item#": 105,
+        "Seg": "PID",
+        "Seq#": 2,
+        "Len": 0,
+        "DT": "CX",
+        "Chapter": "3.4.2.2"
+      },
+      {
+        "Description": "Patient Identifier List",
+        "Item#": 106,
+        "Seg": "PID",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "CX",
+        "Rep": "Y",
+        "Chapter": "3.4.2.3"
+      },
+      {
+        "Description": "Patient Name",
+        "Item#": 108,
+        "Seg": "PID",
+        "Seq#": 5,
+        "Len": 250,
+        "DT": "XPN",
+        "Rep": "Y",
+        "Table": 200,
+        "Chapter": "3.4.2.5"
+      },
+      {
+        "Description": "Phone Number - Business",
+        "Item#": 117,
+        "Seg": "PID",
+        "Seq#": 14,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "3.4.2.14"
+      },
+      {
+        "Description": "Phone Number - Home",
+        "Item#": 116,
+        "Seg": "PID",
+        "Seq#": 13,
+        "Len": 250,
+        "DT": "XTN",
+        "Rep": "Y",
+        "Chapter": "3.4.2.13"
+      },
+      {
+        "Description": "Primary Language",
+        "Item#": 118,
+        "Seg": "PID",
+        "Seq#": 15,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 296,
+        "Chapter": "3.4.2.15"
+      },
+      {
+        "Description": "Production Class Code",
+        "Item#": 1542,
+        "Seg": "PID",
+        "Seq#": 38,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 429,
+        "Chapter": "3.4.2.38"
+      },
+      {
+        "Description": "Race",
+        "Item#": 113,
+        "Seg": "PID",
+        "Seq#": 10,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 5,
+        "Chapter": "3.4.2.10"
+      },
+      {
+        "Description": "Religion",
+        "Item#": 120,
+        "Seg": "PID",
+        "Seq#": 17,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 6,
+        "Chapter": "3.4.2.17"
+      },
+      {
+        "Description": "Set ID - PID",
+        "Item#": 104,
+        "Seg": "PID",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "SI",
+        "Chapter": "3.4.2.1"
+      },
+      {
+        "Description": "Species Code",
+        "Item#": 1539,
+        "Seg": "PID",
+        "Seq#": 35,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 446,
+        "Chapter": "3.4.2.35"
+      },
+      {
+        "Description": "SSN Number - Patient",
+        "Item#": 122,
+        "Seg": "PID",
+        "Seq#": 19,
+        "Len": 0,
+        "DT": "ST",
+        "Chapter": "3.4.2.19"
+      },
+      {
+        "Description": "Strain",
+        "Item#": 1541,
+        "Seg": "PID",
+        "Seq#": 37,
+        "Len": 80,
+        "DT": "ST",
+        "Chapter": "3.4.2.37"
+      },
+      {
+        "Description": "Tribal Citizenship",
+        "Item#": 1840,
+        "Seg": "PID",
+        "Seq#": 39,
+        "Len": 705,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 171,
+        "Chapter": "3.4.2.39"
+      },
+      {
+        "Description": "Veterans Military Status",
+        "Item#": 130,
+        "Seg": "PID",
+        "Seq#": 27,
+        "Len": 705,
+        "DT": "CWE",
+        "Table": 172,
+        "Chapter": "3.4.2.27"
+      }
+]

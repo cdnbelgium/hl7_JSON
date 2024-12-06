@@ -1,0 +1,48 @@
+[
+    {
+        "Description": "Primary Vendor Indicator",
+        "Item#": 2220,
+        "Seg": "VND",
+        "Seq#": 5,
+        "Len": 1,
+        "DT": "CNE",
+        "Table": 532,
+        "Chapter": "17.4.4.5"
+      },
+      {
+        "Description": "Set Id - VND",
+        "Item#": 2217,
+        "Seg": "VND",
+        "Seq#": 1,
+        "Len": 2,
+        "DT": "SI",
+        "Chapter": "17.4.4.1"
+      },
+      {
+        "Description": "Vendor Catalog Number",
+        "Item#": 2219,
+        "Seg": "VND",
+        "Seq#": 4,
+        "Len": 20,
+        "DT": "EI",
+        "Chapter": "17.4.4.4"
+      },
+      {
+        "Description": "Vendor Identifier",
+        "Item#": 2218,
+        "Seg": "VND",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "EI",
+        "Chapter": "17.4.4.2"
+      },
+      {
+        "Description": "Vendor Name",
+        "Item#": 2276,
+        "Seg": "VND",
+        "Seq#": 3,
+        "Len": 999,
+        "DT": "ST",
+        "Chapter": "17.4.4.3"
+      }
+]

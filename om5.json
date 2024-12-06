@@ -1,0 +1,31 @@
+[
+    {
+        "Description": "Observation ID Suffixes",
+        "Item#": 656,
+        "Seg": "OM5",
+        "Seq#": 3,
+        "Len": 250,
+        "DT": "ST",
+        "Chapter": "8.8.12.3"
+      },
+      {
+        "Description": "Sequence Number - Test/Observation Master File",
+        "Item#": 586,
+        "Seg": "OM5",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "8.8.12.1"
+      },
+      {
+        "Description": "Test/Observations Included Within an Ordered Test Battery",
+        "Item#": 655,
+        "Seg": "OM5",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 9999,
+        "Chapter": "8.8.12.2"
+      }
+]

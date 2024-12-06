@@ -1,0 +1,11 @@
+[
+    {
+        "Description": "Sequence Number - Test/Observation Master File",
+        "Item#": 586,
+        "Seg": "OM6",
+        "Seq#": 1,
+        "Len": 4,
+        "DT": "NM",
+        "Chapter": "8.8.13.1"
+      }
+]

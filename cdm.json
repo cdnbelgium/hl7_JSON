@@ -1,0 +1,132 @@
+[
+    {
+        "Description": "Active/Inactive Flag",
+        "Item#": 675,
+        "Seg": "CDM",
+        "Seq#": 8,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 183,
+        "Chapter": "8.10.2.8"
+      },
+      {
+        "Description": "Charge Code Alias",
+        "Item#": 983,
+        "Seg": "CDM",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Chapter": "8.10.2.2"
+      },
+      {
+        "Description": "Charge Description Long",
+        "Item#": 985,
+        "Seg": "CDM",
+        "Seq#": 4,
+        "Len": 250,
+        "DT": "ST",
+        "Chapter": "8.10.2.4"
+      },
+      {
+        "Description": "Charge Description Short",
+        "Item#": 984,
+        "Seg": "CDM",
+        "Seq#": 3,
+        "Len": 20,
+        "DT": "ST",
+        "Chapter": "8.10.2.3"
+      },
+      {
+        "Description": "Contract Number",
+        "Item#": 992,
+        "Seg": "CDM",
+        "Seq#": 11,
+        "Len": 250,
+        "DT": "CX",
+        "Rep": "Y",
+        "Chapter": "8.10.2.11"
+      },
+      {
+        "Description": "Contract Organization",
+        "Item#": 993,
+        "Seg": "CDM",
+        "Seq#": 12,
+        "Len": 250,
+        "DT": "XON",
+        "Rep": "Y",
+        "Chapter": "8.10.2.12"
+      },
+      {
+        "Description": "Description Override Indicator",
+        "Item#": 986,
+        "Seg": "CDM",
+        "Seq#": 5,
+        "Len": 1,
+        "DT": "IS",
+        "Table": 268,
+        "Chapter": "8.10.2.5"
+      },
+      {
+        "Description": "Exploding Charges",
+        "Item#": 987,
+        "Seg": "CDM",
+        "Seq#": 6,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 132,
+        "Chapter": "8.10.2.6"
+      },
+      {
+        "Description": "Inventory Number",
+        "Item#": 990,
+        "Seg": "CDM",
+        "Seq#": 9,
+        "Len": 250,
+        "DT": "CWE",
+        "Rep": "Y",
+        "Table": 463,
+        "Chapter": "8.10.2.9"
+      },
+      {
+        "Description": "Primary Key Value - CDM",
+        "Item#": 1306,
+        "Seg": "CDM",
+        "Seq#": 1,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 132,
+        "Chapter": "8.10.2.1"
+      },
+      {
+        "Description": "Procedure Code",
+        "Item#": 393,
+        "Seg": "CDM",
+        "Seq#": 7,
+        "Len": 705,
+        "DT": "CNE",
+        "Rep": "Y",
+        "Table": 88,
+        "Chapter": "8.10.2.7"
+      },
+      {
+        "Description": "Resource Load",
+        "Item#": 991,
+        "Seg": "CDM",
+        "Seq#": 10,
+        "Len": 12,
+        "DT": "NM",
+        "Chapter": "8.10.2.10"
+      },
+      {
+        "Description": "Room Fee Indicator",
+        "Item#": 994,
+        "Seg": "CDM",
+        "Seq#": 13,
+        "Len": 1,
+        "DT": "ID",
+        "Table": 136,
+        "Chapter": "8.10.2.13"
+      }
+]

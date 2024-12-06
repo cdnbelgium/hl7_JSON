@@ -1,0 +1,101 @@
+[
+    {
+        "Description": "Date/Time Selection Qualifier",
+        "Item#": 44,
+        "Seg": "QRF",
+        "Seq#": 8,
+        "Len": 12,
+        "DT": "ID",
+        "Rep": "Y",
+        "Table": 158,
+        "Chapter": "5.10.4.2.8"
+      },
+      {
+        "Description": "Other QRY Subject Filter",
+        "Item#": 41,
+        "Seg": "QRF",
+        "Seq#": 5,
+        "Len": 60,
+        "DT": "ST",
+        "Rep": "Y",
+        "Chapter": "5.10.4.2.5"
+      },
+      {
+        "Description": "Search Confidence Threshold",
+        "Item#": 1442,
+        "Seg": "QRF",
+        "Seq#": 10,
+        "Len": 10,
+        "DT": "NM",
+        "Chapter": "5.10.4.2.1\n0"
+      },
+      {
+        "Description": "What User Qualifier",
+        "Item#": 40,
+        "Seg": "QRF",
+        "Seq#": 4,
+        "Len": 60,
+        "DT": "ST",
+        "Rep": "Y",
+        "Chapter": "5.10.4.2.4"
+      },
+      {
+        "Description": "When Data End Date/Time",
+        "Item#": 39,
+        "Seg": "QRF",
+        "Seq#": 3,
+        "Len": 0,
+        "DT": "DTM",
+        "Chapter": "5.10.4.2.3"
+      },
+      {
+        "Description": "When Data Start Date/Time",
+        "Item#": 38,
+        "Seg": "QRF",
+        "Seq#": 2,
+        "Len": 0,
+        "DT": "DTM",
+        "Chapter": "5.10.4.2.2"
+      },
+      {
+        "Description": "When Quantity/Timing Qualifier",
+        "Item#": 694,
+        "Seg": "QRF",
+        "Seq#": 9,
+        "Len": 0,
+        "DT": "TQ",
+        "Chapter": "5.10.4.2.9"
+      },
+      {
+        "Description": "Where Subject Filter",
+        "Item#": 37,
+        "Seg": "QRF",
+        "Seq#": 1,
+        "Len": 20,
+        "DT": "ST",
+        "Rep": "Y",
+        "Chapter": "5.10.4.2.1"
+      },
+      {
+        "Description": "Which Date/Time Qualifier",
+        "Item#": 42,
+        "Seg": "QRF",
+        "Seq#": 6,
+        "Len": 12,
+        "DT": "ID",
+        "Rep": "Y",
+        "Table": 156,
+        "Chapter": "5.10.4.2.6"
+      },
+      {
+        "Description": "Which Date/Time Status Qualifier",
+        "Item#": 43,
+        "Seg": "QRF",
+        "Seq#": 7,
+        "Len": 12,
+        "DT": "ID",
+        "Rep": "Y",
+        "Table": 157,
+        "Chapter": "5.10.4.2.7"
+      }
+]

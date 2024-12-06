@@ -1,0 +1,21 @@
+[
+    {
+        "Description": "Blood Amount",
+        "Item#": 1529,
+        "Seg": "BLC",
+        "Seq#": 2,
+        "Len": 267,
+        "DT": "CQ",
+        "Chapter": "6.5.13.2"
+      },
+      {
+        "Description": "Blood Product Code",
+        "Item#": 1528,
+        "Seg": "BLC",
+        "Seq#": 1,
+        "Len": 250,
+        "DT": "CWE",
+        "Table": 426,
+        "Chapter": "6.5.13.1"
+      }
+]
