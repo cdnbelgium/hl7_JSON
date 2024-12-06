@@ -1,67 +1,67 @@
 [
-    {
-        "Description": "Action Code",
-        "Item#": 816,
-        "Seg": "PTH",
-        "Seq#": 1,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 287,
-        "Chapter": "12.4.3.1"
-      },
-      {
-        "Description": "Change Pathway Life Cycle Status Date/Time",
-        "Item#": 1211,
-        "Seg": "PTH",
-        "Seq#": 6,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "12.4.3.6"
-      },
-      {
-        "Description": "Mood Code",
-        "Item#": 2239,
-        "Seg": "PTH",
-        "Seq#": 7,
-        "Len": 60,
-        "DT": "CNE",
-        "Table": 725,
-        "Chapter": "12.4.3.7"
-      },
-      {
-        "Description": "Pathway Established Date/Time",
-        "Item#": 1209,
-        "Seg": "PTH",
-        "Seq#": 4,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "12.4.3.4"
-      },
-      {
-        "Description": "Pathway ID",
-        "Item#": 1207,
-        "Seg": "PTH",
-        "Seq#": 2,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "12.4.3.2"
-      },
-      {
-        "Description": "Pathway Instance ID",
-        "Item#": 1208,
-        "Seg": "PTH",
-        "Seq#": 3,
-        "Len": 60,
-        "DT": "EI",
-        "Chapter": "12.4.3.3"
-      },
-      {
-        "Description": "Pathway Life Cycle Status",
-        "Item#": 1210,
-        "Seg": "PTH",
-        "Seq#": 5,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "12.4.3.5"
-      }
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "PTH",
+    "Seq#": 1,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 287,
+    "Chapter": "12.4.3.1"
+  },
+  {
+    "Description": "Pathway ID",
+    "Item#": 1207,
+    "Seg": "PTH",
+    "Seq#": 2,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "12.4.3.2"
+  },
+  {
+    "Description": "Pathway Instance ID",
+    "Item#": 1208,
+    "Seg": "PTH",
+    "Seq#": 3,
+    "Len": 60,
+    "DT": "EI",
+    "Chapter": "12.4.3.3"
+  },
+  {
+    "Description": "Pathway Established Date/Time",
+    "Item#": 1209,
+    "Seg": "PTH",
+    "Seq#": 4,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "12.4.3.4"
+  },
+  {
+    "Description": "Pathway Life Cycle Status",
+    "Item#": 1210,
+    "Seg": "PTH",
+    "Seq#": 5,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "12.4.3.5"
+  },
+  {
+    "Description": "Change Pathway Life Cycle Status Date/Time",
+    "Item#": 1211,
+    "Seg": "PTH",
+    "Seq#": 6,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "12.4.3.6"
+  },
+  {
+    "Description": "Mood Code",
+    "Item#": 2239,
+    "Seg": "PTH",
+    "Seq#": 7,
+    "Len": 60,
+    "DT": "CNE",
+    "Table": 725,
+    "Chapter": "12.4.3.7"
+  }
 ]

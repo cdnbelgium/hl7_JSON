@@ -1,291 +1,291 @@
 [
-    {
-        "Description": "Container Condition",
-        "Item#": 1774,
-        "Seg": "SPM",
-        "Seq#": 28,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 544,
-        "Chapter": "7.4.3.28"
-      },
-      {
-        "Description": "Container Type",
-        "Item#": 1773,
-        "Seg": "SPM",
-        "Seq#": 27,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "7.4.3.27"
-      },
-      {
-        "Description": "Grouped Specimen Count",
-        "Item#": 1763,
-        "Seg": "SPM",
-        "Seq#": 13,
-        "Len": 6,
-        "DT": "NM",
-        "Chapter": "7.4.3.13"
-      },
-      {
-        "Description": "Number of Specimen Containers",
-        "Item#": 1772,
-        "Seg": "SPM",
-        "Seq#": 26,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "7.4.3.26"
-      },
-      {
-        "Description": "Set ID - SPM",
-        "Item#": 1754,
-        "Seg": "SPM",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "7.4.3.1"
-      },
-      {
-        "Description": "Specimen Additives",
-        "Item#": 1758,
-        "Seg": "SPM",
-        "Seq#": 6,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 371,
-        "Chapter": "7.4.3.6"
-      },
-      {
-        "Description": "Specimen Appropriateness",
-        "Item#": 1769,
-        "Seg": "SPM",
-        "Seq#": 23,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 492,
-        "Chapter": "7.4.3.23"
-      },
-      {
-        "Description": "Specimen Availability",
-        "Item#": 1766,
-        "Seg": "SPM",
-        "Seq#": 20,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "7.4.3.20"
-      },
-      {
-        "Description": "Specimen Child Role",
-        "Item#": 1775,
-        "Seg": "SPM",
-        "Seq#": 29,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 494,
-        "Chapter": "7.4.3.29"
-      },
-      {
-        "Description": "Specimen Collection Amount",
-        "Item#": 1902,
-        "Seg": "SPM",
-        "Seq#": 12,
-        "Len": 20,
-        "DT": "CQ",
-        "Chapter": "7.4.3.12"
-      },
-      {
-        "Description": "Specimen Collection Date/Time",
-        "Item#": 1765,
-        "Seg": "SPM",
-        "Seq#": 17,
-        "Len": 49,
-        "DT": "DR",
-        "Chapter": "7.4.3.17"
-      },
-      {
-        "Description": "Specimen Collection Method",
-        "Item#": 1759,
-        "Seg": "SPM",
-        "Seq#": 7,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 488,
-        "Chapter": "7.4.3.7"
-      },
-      {
-        "Description": "Specimen Collection Site",
-        "Item#": 1761,
-        "Seg": "SPM",
-        "Seq#": 10,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 543,
-        "Chapter": "7.4.3.10"
-      },
-      {
-        "Description": "Specimen Condition",
-        "Item#": 1770,
-        "Seg": "SPM",
-        "Seq#": 24,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 493,
-        "Chapter": "7.4.3.24"
-      },
-      {
-        "Description": "Specimen Current Quantity",
-        "Item#": 1771,
-        "Seg": "SPM",
-        "Seq#": 25,
-        "Len": 722,
-        "DT": "CQ",
-        "Chapter": "7.4.3.25"
-      },
-      {
-        "Description": "Specimen Description",
-        "Item#": 1764,
-        "Seg": "SPM",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "7.4.3.14"
-      },
-      {
-        "Description": "Specimen Expiration Date/Time",
-        "Item#": 1904,
-        "Seg": "SPM",
-        "Seq#": 19,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.4.3.19"
-      },
-      {
-        "Description": "Specimen Handling Code",
-        "Item#": 1908,
-        "Seg": "SPM",
-        "Seq#": 15,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 376,
-        "Chapter": "7.4.3.15"
-      },
-      {
-        "Description": "Specimen ID",
-        "Item#": 1755,
-        "Seg": "SPM",
-        "Seq#": 2,
-        "Len": 855,
-        "DT": "EIP",
-        "Chapter": "7.4.3.2"
-      },
-      {
-        "Description": "Specimen Parent IDs",
-        "Item#": 1756,
-        "Seg": "SPM",
-        "Seq#": 3,
-        "Len": 855,
-        "DT": "EIP",
-        "Rep": "Y",
-        "Chapter": "7.4.3.3"
-      },
-      {
-        "Description": "Specimen Quality",
-        "Item#": 1768,
-        "Seg": "SPM",
-        "Seq#": 22,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 491,
-        "Chapter": "7.4.3.22"
-      },
-      {
-        "Description": "Specimen Received Date/Time",
-        "Item#": 248,
-        "Seg": "SPM",
-        "Seq#": 18,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.4.3.18"
-      },
-      {
-        "Description": "Specimen Reject Reason",
-        "Item#": 1767,
-        "Seg": "SPM",
-        "Seq#": 21,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 490,
-        "Chapter": "7.4.3.21"
-      },
-      {
-        "Description": "Specimen Risk Code",
-        "Item#": 1903,
-        "Seg": "SPM",
-        "Seq#": 16,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 489,
-        "Chapter": "7.4.3.16"
-      },
-      {
-        "Description": "Specimen Role",
-        "Item#": 1762,
-        "Seg": "SPM",
-        "Seq#": 11,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 369,
-        "Chapter": "7.4.3.11"
-      },
-      {
-        "Description": "Specimen Source Site",
-        "Item#": 1901,
-        "Seg": "SPM",
-        "Seq#": 8,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "7.4.3.8"
-      },
-      {
-        "Description": "Specimen Source Site Modifier",
-        "Item#": 1760,
-        "Seg": "SPM",
-        "Seq#": 9,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 542,
-        "Chapter": "7.4.3.9"
-      },
-      {
-        "Description": "Specimen Type",
-        "Item#": 1900,
-        "Seg": "SPM",
-        "Seq#": 4,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 487,
-        "Chapter": "7.4.3.4"
-      },
-      {
-        "Description": "Specimen Type Modifier",
-        "Item#": 1757,
-        "Seg": "SPM",
-        "Seq#": 5,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 541,
-        "Chapter": "7.4.3.5"
-      }
+  {
+    "Description": "Set ID - SPM",
+    "Item#": 1754,
+    "Seg": "SPM",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "7.4.3.1"
+  },
+  {
+    "Description": "Specimen ID",
+    "Item#": 1755,
+    "Seg": "SPM",
+    "Seq#": 2,
+    "Len": 855,
+    "DT": "EIP",
+    "Chapter": "7.4.3.2"
+  },
+  {
+    "Description": "Specimen Parent IDs",
+    "Item#": 1756,
+    "Seg": "SPM",
+    "Seq#": 3,
+    "Len": 855,
+    "DT": "EIP",
+    "Rep": "Y",
+    "Chapter": "7.4.3.3"
+  },
+  {
+    "Description": "Specimen Type",
+    "Item#": 1900,
+    "Seg": "SPM",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 487,
+    "Chapter": "7.4.3.4"
+  },
+  {
+    "Description": "Specimen Type Modifier",
+    "Item#": 1757,
+    "Seg": "SPM",
+    "Seq#": 5,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 541,
+    "Chapter": "7.4.3.5"
+  },
+  {
+    "Description": "Specimen Additives",
+    "Item#": 1758,
+    "Seg": "SPM",
+    "Seq#": 6,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 371,
+    "Chapter": "7.4.3.6"
+  },
+  {
+    "Description": "Specimen Collection Method",
+    "Item#": 1759,
+    "Seg": "SPM",
+    "Seq#": 7,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 488,
+    "Chapter": "7.4.3.7"
+  },
+  {
+    "Description": "Specimen Source Site",
+    "Item#": 1901,
+    "Seg": "SPM",
+    "Seq#": 8,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "7.4.3.8"
+  },
+  {
+    "Description": "Specimen Source Site Modifier",
+    "Item#": 1760,
+    "Seg": "SPM",
+    "Seq#": 9,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 542,
+    "Chapter": "7.4.3.9"
+  },
+  {
+    "Description": "Specimen Collection Site",
+    "Item#": 1761,
+    "Seg": "SPM",
+    "Seq#": 10,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 543,
+    "Chapter": "7.4.3.10"
+  },
+  {
+    "Description": "Specimen Role",
+    "Item#": 1762,
+    "Seg": "SPM",
+    "Seq#": 11,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 369,
+    "Chapter": "7.4.3.11"
+  },
+  {
+    "Description": "Specimen Collection Amount",
+    "Item#": 1902,
+    "Seg": "SPM",
+    "Seq#": 12,
+    "Len": 20,
+    "DT": "CQ",
+    "Chapter": "7.4.3.12"
+  },
+  {
+    "Description": "Grouped Specimen Count",
+    "Item#": 1763,
+    "Seg": "SPM",
+    "Seq#": 13,
+    "Len": 6,
+    "DT": "NM",
+    "Chapter": "7.4.3.13"
+  },
+  {
+    "Description": "Specimen Description",
+    "Item#": 1764,
+    "Seg": "SPM",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "7.4.3.14"
+  },
+  {
+    "Description": "Specimen Handling Code",
+    "Item#": 1908,
+    "Seg": "SPM",
+    "Seq#": 15,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 376,
+    "Chapter": "7.4.3.15"
+  },
+  {
+    "Description": "Specimen Risk Code",
+    "Item#": 1903,
+    "Seg": "SPM",
+    "Seq#": 16,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 489,
+    "Chapter": "7.4.3.16"
+  },
+  {
+    "Description": "Specimen Collection Date/Time",
+    "Item#": 1765,
+    "Seg": "SPM",
+    "Seq#": 17,
+    "Len": 49,
+    "DT": "DR",
+    "Chapter": "7.4.3.17"
+  },
+  {
+    "Description": "Specimen Received Date/Time",
+    "Item#": 248,
+    "Seg": "SPM",
+    "Seq#": 18,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.4.3.18"
+  },
+  {
+    "Description": "Specimen Expiration Date/Time",
+    "Item#": 1904,
+    "Seg": "SPM",
+    "Seq#": 19,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.4.3.19"
+  },
+  {
+    "Description": "Specimen Availability",
+    "Item#": 1766,
+    "Seg": "SPM",
+    "Seq#": 20,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "7.4.3.20"
+  },
+  {
+    "Description": "Specimen Reject Reason",
+    "Item#": 1767,
+    "Seg": "SPM",
+    "Seq#": 21,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 490,
+    "Chapter": "7.4.3.21"
+  },
+  {
+    "Description": "Specimen Quality",
+    "Item#": 1768,
+    "Seg": "SPM",
+    "Seq#": 22,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 491,
+    "Chapter": "7.4.3.22"
+  },
+  {
+    "Description": "Specimen Appropriateness",
+    "Item#": 1769,
+    "Seg": "SPM",
+    "Seq#": 23,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 492,
+    "Chapter": "7.4.3.23"
+  },
+  {
+    "Description": "Specimen Condition",
+    "Item#": 1770,
+    "Seg": "SPM",
+    "Seq#": 24,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 493,
+    "Chapter": "7.4.3.24"
+  },
+  {
+    "Description": "Specimen Current Quantity",
+    "Item#": 1771,
+    "Seg": "SPM",
+    "Seq#": 25,
+    "Len": 722,
+    "DT": "CQ",
+    "Chapter": "7.4.3.25"
+  },
+  {
+    "Description": "Number of Specimen Containers",
+    "Item#": 1772,
+    "Seg": "SPM",
+    "Seq#": 26,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "7.4.3.26"
+  },
+  {
+    "Description": "Container Type",
+    "Item#": 1773,
+    "Seg": "SPM",
+    "Seq#": 27,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "7.4.3.27"
+  },
+  {
+    "Description": "Container Condition",
+    "Item#": 1774,
+    "Seg": "SPM",
+    "Seq#": 28,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 544,
+    "Chapter": "7.4.3.28"
+  },
+  {
+    "Description": "Specimen Child Role",
+    "Item#": 1775,
+    "Seg": "SPM",
+    "Seq#": 29,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 494,
+    "Chapter": "7.4.3.29"
+  }
 ]

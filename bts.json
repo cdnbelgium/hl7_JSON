@@ -1,30 +1,30 @@
 [
-    {
-        "Description": "Batch Comment",
-        "Item#": 90,
-        "Seg": "BTS",
-        "Seq#": 2,
-        "Len": 80,
-        "DT": "ST",
-        "Chapter": "2.14.3.2"
-      },
-      {
-        "Description": "Batch Message Count",
-        "Item#": 93,
-        "Seg": "BTS",
-        "Seq#": 1,
-        "Len": 10,
-        "DT": "ST",
-        "Chapter": "2.14.3.1"
-      },
-      {
-        "Description": "Batch Totals",
-        "Item#": 95,
-        "Seg": "BTS",
-        "Seq#": 3,
-        "Len": 100,
-        "DT": "NM",
-        "Rep": "Y",
-        "Chapter": "2.14.3.3"
-      }
+  {
+    "Description": "Batch Message Count",
+    "Item#": 93,
+    "Seg": "BTS",
+    "Seq#": 1,
+    "Len": 10,
+    "DT": "ST",
+    "Chapter": "2.14.3.1"
+  },
+  {
+    "Description": "Batch Comment",
+    "Item#": 90,
+    "Seg": "BTS",
+    "Seq#": 2,
+    "Len": 80,
+    "DT": "ST",
+    "Chapter": "2.14.3.2"
+  },
+  {
+    "Description": "Batch Totals",
+    "Item#": 95,
+    "Seg": "BTS",
+    "Seq#": 3,
+    "Len": 100,
+    "DT": "NM",
+    "Rep": "Y",
+    "Chapter": "2.14.3.3"
+  }
 ]

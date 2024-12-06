@@ -1,22 +1,22 @@
 [
-    {
-        "Description": "Column Description",
-        "Item#": 702,
-        "Seg": "RDF",
-        "Seq#": 2,
-        "Len": 40,
-        "DT": "RCD",
-        "Rep": "Y",
-        "Table": 440,
-        "Chapter": "5.5.7.2"
-      },
-      {
-        "Description": "Number of Columns per Row",
-        "Item#": 701,
-        "Seg": "RDF",
-        "Seq#": 1,
-        "Len": 3,
-        "DT": "NM",
-        "Chapter": "5.5.7.1"
-      }
+  {
+    "Description": "Number of Columns per Row",
+    "Item#": 701,
+    "Seg": "RDF",
+    "Seq#": 1,
+    "Len": 3,
+    "DT": "NM",
+    "Chapter": "5.5.7.1"
+  },
+  {
+    "Description": "Column Description",
+    "Item#": 702,
+    "Seg": "RDF",
+    "Seq#": 2,
+    "Len": 40,
+    "DT": "RCD",
+    "Rep": "Y",
+    "Table": 440,
+    "Chapter": "5.5.7.2"
+  }
 ]

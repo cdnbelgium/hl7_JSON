@@ -1,69 +1,69 @@
 [
-    {
-        "Description": "Prior Alternate Patient ID",
-        "Item#": 212,
-        "Seg": "MRG",
-        "Seq#": 2,
-        "Len": 0,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "3.4.9.2"
-      },
-      {
-        "Description": "Prior Alternate Visit ID",
-        "Item#": 1280,
-        "Seg": "MRG",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "CX",
-        "Chapter": "3.4.9.6"
-      },
-      {
-        "Description": "Prior Patient Account Number",
-        "Item#": 213,
-        "Seg": "MRG",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CX",
-        "Chapter": "3.4.9.3"
-      },
-      {
-        "Description": "Prior Patient ID",
-        "Item#": 214,
-        "Seg": "MRG",
-        "Seq#": 4,
-        "Len": 0,
-        "DT": "CX",
-        "Chapter": "3.4.9.4"
-      },
-      {
-        "Description": "Prior Patient Identifier List",
-        "Item#": 211,
-        "Seg": "MRG",
-        "Seq#": 1,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "3.4.9.1"
-      },
-      {
-        "Description": "Prior Patient Name",
-        "Item#": 1281,
-        "Seg": "MRG",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Table": 200,
-        "Chapter": "3.4.9.7"
-      },
-      {
-        "Description": "Prior Visit Number",
-        "Item#": 1279,
-        "Seg": "MRG",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "CX",
-        "Chapter": "3.4.9.5"
-      }
+  {
+    "Description": "Prior Patient Identifier List",
+    "Item#": 211,
+    "Seg": "MRG",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "3.4.9.1"
+  },
+  {
+    "Description": "Prior Alternate Patient ID",
+    "Item#": 212,
+    "Seg": "MRG",
+    "Seq#": 2,
+    "Len": 0,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "3.4.9.2"
+  },
+  {
+    "Description": "Prior Patient Account Number",
+    "Item#": 213,
+    "Seg": "MRG",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CX",
+    "Chapter": "3.4.9.3"
+  },
+  {
+    "Description": "Prior Patient ID",
+    "Item#": 214,
+    "Seg": "MRG",
+    "Seq#": 4,
+    "Len": 0,
+    "DT": "CX",
+    "Chapter": "3.4.9.4"
+  },
+  {
+    "Description": "Prior Visit Number",
+    "Item#": 1279,
+    "Seg": "MRG",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "CX",
+    "Chapter": "3.4.9.5"
+  },
+  {
+    "Description": "Prior Alternate Visit ID",
+    "Item#": 1280,
+    "Seg": "MRG",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "CX",
+    "Chapter": "3.4.9.6"
+  },
+  {
+    "Description": "Prior Patient Name",
+    "Item#": 1281,
+    "Seg": "MRG",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Table": 200,
+    "Chapter": "3.4.9.7"
+  }
 ]

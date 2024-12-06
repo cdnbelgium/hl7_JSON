@@ -1,47 +1,47 @@
 [
-    {
-        "Description": "Bar Code",
-        "Item#": 2097,
-        "Seg": "SLT",
-        "Seq#": 5,
-        "Len": 30,
-        "DT": "ST",
-        "Chapter": "17.7.2.5"
-      },
-      {
-        "Description": "Device Name",
-        "Item#": 2280,
-        "Seg": "SLT",
-        "Seq#": 2,
-        "Len": 999,
-        "DT": "ST",
-        "Chapter": "17.7.2.2"
-      },
-      {
-        "Description": "Device Number",
-        "Item#": 2094,
-        "Seg": "SLT",
-        "Seq#": 1,
-        "Len": 8,
-        "DT": "EI",
-        "Chapter": "17.7.2.1"
-      },
-      {
-        "Description": "Item Identifier",
-        "Item#": 2096,
-        "Seg": "SLT",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "EI",
-        "Chapter": "17.7.2.4"
-      },
-      {
-        "Description": "Lot Number",
-        "Item#": 2095,
-        "Seg": "SLT",
-        "Seq#": 3,
-        "Len": 11,
-        "DT": "EI",
-        "Chapter": "17.7.2.3"
-      }
+  {
+    "Description": "Device Number",
+    "Item#": 2094,
+    "Seg": "SLT",
+    "Seq#": 1,
+    "Len": 8,
+    "DT": "EI",
+    "Chapter": "17.7.2.1"
+  },
+  {
+    "Description": "Device Name",
+    "Item#": 2280,
+    "Seg": "SLT",
+    "Seq#": 2,
+    "Len": 999,
+    "DT": "ST",
+    "Chapter": "17.7.2.2"
+  },
+  {
+    "Description": "Lot Number",
+    "Item#": 2095,
+    "Seg": "SLT",
+    "Seq#": 3,
+    "Len": 11,
+    "DT": "EI",
+    "Chapter": "17.7.2.3"
+  },
+  {
+    "Description": "Item Identifier",
+    "Item#": 2096,
+    "Seg": "SLT",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "EI",
+    "Chapter": "17.7.2.4"
+  },
+  {
+    "Description": "Bar Code",
+    "Item#": 2097,
+    "Seg": "SLT",
+    "Seq#": 5,
+    "Len": 30,
+    "DT": "ST",
+    "Chapter": "17.7.2.5"
+  }
 ]

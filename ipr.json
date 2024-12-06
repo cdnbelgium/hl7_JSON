@@ -1,75 +1,75 @@
 [
-    {
-        "Description": "Adjudicated/Paid Amount",
-        "Item#": 2035,
-        "Seg": "IPR",
-        "Seq#": 6,
-        "Len": 254,
-        "DT": "CP",
-        "Chapter": "16.4.9.6"
-      },
-      {
-        "Description": "Expected Payment Date/Time",
-        "Item#": 2036,
-        "Seg": "IPR",
-        "Seq#": 7,
-        "Len": 26,
-        "DT": "DTM",
-        "Chapter": "16.4.9.7"
-      },
-      {
-        "Description": "IPR Checksum",
-        "Item#": 2037,
-        "Seg": "IPR",
-        "Seq#": 8,
-        "Len": 10,
-        "DT": "ST",
-        "Chapter": "16.4.9.8"
-      },
-      {
-        "Description": "IPR Date/Time",
-        "Item#": 2034,
-        "Seg": "IPR",
-        "Seq#": 5,
-        "Len": 26,
-        "DT": "DTM",
-        "Chapter": "16.4.9.5"
-      },
-      {
-        "Description": "IPR Identifier",
-        "Item#": 2030,
-        "Seg": "IPR",
-        "Seq#": 1,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.9.1"
-      },
-      {
-        "Description": "IPR Status",
-        "Item#": 2033,
-        "Seg": "IPR",
-        "Seq#": 4,
-        "Len": 177,
-        "DT": "CWE",
-        "Table": 571,
-        "Chapter": "16.4.9.4"
-      },
-      {
-        "Description": "Payer Cross Reference Identifier",
-        "Item#": 2032,
-        "Seg": "IPR",
-        "Seq#": 3,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.9.3"
-      },
-      {
-        "Description": "Provider Cross Reference Identifier",
-        "Item#": 2031,
-        "Seg": "IPR",
-        "Seq#": 2,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.9.2"
-      }
+  {
+    "Description": "IPR Identifier",
+    "Item#": 2030,
+    "Seg": "IPR",
+    "Seq#": 1,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.9.1"
+  },
+  {
+    "Description": "Provider Cross Reference Identifier",
+    "Item#": 2031,
+    "Seg": "IPR",
+    "Seq#": 2,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.9.2"
+  },
+  {
+    "Description": "Payer Cross Reference Identifier",
+    "Item#": 2032,
+    "Seg": "IPR",
+    "Seq#": 3,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.9.3"
+  },
+  {
+    "Description": "IPR Status",
+    "Item#": 2033,
+    "Seg": "IPR",
+    "Seq#": 4,
+    "Len": 177,
+    "DT": "CWE",
+    "Table": 571,
+    "Chapter": "16.4.9.4"
+  },
+  {
+    "Description": "IPR Date/Time",
+    "Item#": 2034,
+    "Seg": "IPR",
+    "Seq#": 5,
+    "Len": 26,
+    "DT": "DTM",
+    "Chapter": "16.4.9.5"
+  },
+  {
+    "Description": "Adjudicated/Paid Amount",
+    "Item#": 2035,
+    "Seg": "IPR",
+    "Seq#": 6,
+    "Len": 254,
+    "DT": "CP",
+    "Chapter": "16.4.9.6"
+  },
+  {
+    "Description": "Expected Payment Date/Time",
+    "Item#": 2036,
+    "Seg": "IPR",
+    "Seq#": 7,
+    "Len": 26,
+    "DT": "DTM",
+    "Chapter": "16.4.9.7"
+  },
+  {
+    "Description": "IPR Checksum",
+    "Item#": 2037,
+    "Seg": "IPR",
+    "Seq#": 8,
+    "Len": 10,
+    "DT": "ST",
+    "Chapter": "16.4.9.8"
+  }
 ]

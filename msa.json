@@ -1,77 +1,77 @@
 [
-    {
-        "Description": "Acknowledgment Code",
-        "Item#": 18,
-        "Seg": "MSA",
-        "Seq#": 1,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 8,
-        "Chapter": "2.14.8.1"
-      },
-      {
-        "Description": "Delayed Acknowledgment Type",
-        "Item#": 22,
-        "Seg": "MSA",
-        "Seq#": 5,
-        "Len": 0,
-        "DT": "-",
-        "Chapter": "2.14.8.5"
-      },
-      {
-        "Description": "Error Condition",
-        "Item#": 23,
-        "Seg": "MSA",
-        "Seq#": 6,
-        "Len": 0,
-        "DT": "CE",
-        "Table": 357,
-        "Chapter": "2.14.8.6"
-      },
-      {
-        "Description": "Expected Sequence Number",
-        "Item#": 21,
-        "Seg": "MSA",
-        "Seq#": 4,
-        "Len": 15,
-        "DT": "NM",
-        "Chapter": "2.14.8.4"
-      },
-      {
-        "Description": "Message Control ID",
-        "Item#": 10,
-        "Seg": "MSA",
-        "Seq#": 2,
-        "Len": 199,
-        "DT": "ST",
-        "Chapter": "2.14.8.2"
-      },
-      {
-        "Description": "Message Waiting Number",
-        "Item#": 1827,
-        "Seg": "MSA",
-        "Seq#": 7,
-        "Len": 5,
-        "DT": "NM",
-        "Chapter": "2.14.8.7"
-      },
-      {
-        "Description": "Message Waiting Priority",
-        "Item#": 1828,
-        "Seg": "MSA",
-        "Seq#": 8,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 520,
-        "Chapter": "2.14.8.8"
-      },
-      {
-        "Description": "Text Message",
-        "Item#": 20,
-        "Seg": "MSA",
-        "Seq#": 3,
-        "Len": 0,
-        "DT": "ST",
-        "Chapter": "2.14.8.3"
-      }
+  {
+    "Description": "Acknowledgment Code",
+    "Item#": 18,
+    "Seg": "MSA",
+    "Seq#": 1,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 8,
+    "Chapter": "2.14.8.1"
+  },
+  {
+    "Description": "Message Control ID",
+    "Item#": 10,
+    "Seg": "MSA",
+    "Seq#": 2,
+    "Len": 199,
+    "DT": "ST",
+    "Chapter": "2.14.8.2"
+  },
+  {
+    "Description": "Text Message",
+    "Item#": 20,
+    "Seg": "MSA",
+    "Seq#": 3,
+    "Len": 0,
+    "DT": "ST",
+    "Chapter": "2.14.8.3"
+  },
+  {
+    "Description": "Expected Sequence Number",
+    "Item#": 21,
+    "Seg": "MSA",
+    "Seq#": 4,
+    "Len": 15,
+    "DT": "NM",
+    "Chapter": "2.14.8.4"
+  },
+  {
+    "Description": "Delayed Acknowledgment Type",
+    "Item#": 22,
+    "Seg": "MSA",
+    "Seq#": 5,
+    "Len": 0,
+    "DT": "-",
+    "Chapter": "2.14.8.5"
+  },
+  {
+    "Description": "Error Condition",
+    "Item#": 23,
+    "Seg": "MSA",
+    "Seq#": 6,
+    "Len": 0,
+    "DT": "CE",
+    "Table": 357,
+    "Chapter": "2.14.8.6"
+  },
+  {
+    "Description": "Message Waiting Number",
+    "Item#": 1827,
+    "Seg": "MSA",
+    "Seq#": 7,
+    "Len": 5,
+    "DT": "NM",
+    "Chapter": "2.14.8.7"
+  },
+  {
+    "Description": "Message Waiting Priority",
+    "Item#": 1828,
+    "Seg": "MSA",
+    "Seq#": 8,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 520,
+    "Chapter": "2.14.8.8"
+  }
 ]

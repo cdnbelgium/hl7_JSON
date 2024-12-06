@@ -1,137 +1,137 @@
 [
-    {
-      "Description": "Abstract Completion Date/Time",
-      "Item#": 1520,
-      "Seg": "ABS",
-      "Seq#": 7,
-      "Len": 24,
-      "DT": "DTM",
-      "Chapter": "6.5.12.7"
-    },
-    {
-      "Description": "Abstracted By",
-      "Item#": 1521,
-      "Seg": "ABS",
-      "Seq#": 8,
-      "Len": 250,
-      "DT": "XCN",
-      "Chapter": "6.5.12.8"
-    },
-    {
-      "Description": "Attested By",
-      "Item#": 1518,
-      "Seg": "ABS",
-      "Seq#": 5,
-      "Len": 250,
-      "DT": "XCN",
-      "Chapter": "6.5.12.5"
-    },
-    {
-      "Description": "Caesarian Section Indicator",
-      "Item#": 1523,
-      "Seg": "ABS",
-      "Seq#": 10,
-      "Len": 1,
-      "DT": "ID",
-      "Table": 136,
-      "Chapter": "6.5.12.10"
-    },
-    {
-      "Description": "Case Category Code",
-      "Item#": 1522,
-      "Seg": "ABS",
-      "Seq#": 9,
-      "Len": 250,
-      "DT": "CWE",
-      "Table": 423,
-      "Chapter": "6.5.12.9"
-    },
-    {
-      "Description": "Date/Time of Attestation",
-      "Item#": 1517,
-      "Seg": "ABS",
-      "Seq#": 4,
-      "Len": 24,
-      "DT": "DTM",
-      "Chapter": "6.5.12.4"
-    },
-    {
-      "Description": "Discharge Care Provider",
-      "Item#": 1514,
-      "Seg": "ABS",
-      "Seq#": 1,
-      "Len": 250,
-      "DT": "XCN",
-      "Table": 10,
-      "Chapter": "6.5.12.1"
-    },
-    {
-      "Description": "Gestation Category Code",
-      "Item#": 1524,
-      "Seg": "ABS",
-      "Seq#": 11,
-      "Len": 250,
-      "DT": "CWE",
-      "Table": 424,
-      "Chapter": "6.5.12.11"
-    },
-    {
-      "Description": "Gestation Period - Weeks",
-      "Item#": 1525,
-      "Seg": "ABS",
-      "Seq#": 12,
-      "Len": 3,
-      "DT": "NM",
-      "Chapter": "6.5.12.12"
-    },
-    {
-      "Description": "Newborn Code",
-      "Item#": 1526,
-      "Seg": "ABS",
-      "Seq#": 13,
-      "Len": 250,
-      "DT": "CWE",
-      "Table": 425,
-      "Chapter": "6.5.12.13"
-    },
-    {
-      "Description": "Severity of Illness Code",
-      "Item#": 1516,
-      "Seg": "ABS",
-      "Seq#": 3,
-      "Len": 250,
-      "DT": "CWE",
-      "Table": 421,
-      "Chapter": "6.5.12.3"
-    },
-    {
-      "Description": "Stillborn Indicator",
-      "Item#": 1527,
-      "Seg": "ABS",
-      "Seq#": 14,
-      "Len": 1,
-      "DT": "ID",
-      "Table": 136,
-      "Chapter": "6.5.12.14"
-    },
-    {
-      "Description": "Transfer Medical Service Code",
-      "Item#": 1515,
-      "Seg": "ABS",
-      "Seq#": 2,
-      "Len": 250,
-      "DT": "CWE",
-      "Table": 69,
-      "Chapter": "6.5.12.2"
-    },
-    {
-      "Description": "Triage Code",
-      "Item#": 1519,
-      "Seg": "ABS",
-      "Seq#": 6,
-      "Len": 250,
-      "DT": "CWE",
-      "Table": 422,
-      "Chapter": "6.5.12.6"
-    }
-  ]
+  {
+    "Description": "Discharge Care Provider",
+    "Item#": 1514,
+    "Seg": "ABS",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "XCN",
+    "Table": 10,
+    "Chapter": "6.5.12.1"
+  },
+  {
+    "Description": "Transfer Medical Service Code",
+    "Item#": 1515,
+    "Seg": "ABS",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 69,
+    "Chapter": "6.5.12.2"
+  },
+  {
+    "Description": "Severity of Illness Code",
+    "Item#": 1516,
+    "Seg": "ABS",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 421,
+    "Chapter": "6.5.12.3"
+  },
+  {
+    "Description": "Date/Time of Attestation",
+    "Item#": 1517,
+    "Seg": "ABS",
+    "Seq#": 4,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "6.5.12.4"
+  },
+  {
+    "Description": "Attested By",
+    "Item#": 1518,
+    "Seg": "ABS",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "XCN",
+    "Chapter": "6.5.12.5"
+  },
+  {
+    "Description": "Triage Code",
+    "Item#": 1519,
+    "Seg": "ABS",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 422,
+    "Chapter": "6.5.12.6"
+  },
+  {
+    "Description": "Abstract Completion Date/Time",
+    "Item#": 1520,
+    "Seg": "ABS",
+    "Seq#": 7,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "6.5.12.7"
+  },
+  {
+    "Description": "Abstracted By",
+    "Item#": 1521,
+    "Seg": "ABS",
+    "Seq#": 8,
+    "Len": 250,
+    "DT": "XCN",
+    "Chapter": "6.5.12.8"
+  },
+  {
+    "Description": "Case Category Code",
+    "Item#": 1522,
+    "Seg": "ABS",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 423,
+    "Chapter": "6.5.12.9"
+  },
+  {
+    "Description": "Caesarian Section Indicator",
+    "Item#": 1523,
+    "Seg": "ABS",
+    "Seq#": 10,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.12.10"
+  },
+  {
+    "Description": "Gestation Category Code",
+    "Item#": 1524,
+    "Seg": "ABS",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 424,
+    "Chapter": "6.5.12.11"
+  },
+  {
+    "Description": "Gestation Period - Weeks",
+    "Item#": 1525,
+    "Seg": "ABS",
+    "Seq#": 12,
+    "Len": 3,
+    "DT": "NM",
+    "Chapter": "6.5.12.12"
+  },
+  {
+    "Description": "Newborn Code",
+    "Item#": 1526,
+    "Seg": "ABS",
+    "Seq#": 13,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 425,
+    "Chapter": "6.5.12.13"
+  },
+  {
+    "Description": "Stillborn Indicator",
+    "Item#": 1527,
+    "Seg": "ABS",
+    "Seq#": 14,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.12.14"
+  }
+]

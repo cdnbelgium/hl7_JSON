@@ -1,293 +1,293 @@
 [
-    {
-        "Description": "Activation Date",
-        "Item#": 1878,
-        "Seg": "CER",
-        "Seq#": 25,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.2.25"
-      },
-      {
-        "Description": "Authority Key Identifier",
-        "Item#": 1870,
-        "Seg": "CER",
-        "Seq#": 16,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "15.4.2.16"
-      },
-      {
-        "Description": "Basic Constraint",
-        "Item#": 1871,
-        "Seg": "CER",
-        "Seq#": 17,
-        "Len": 250,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.2.17"
-      },
-      {
-        "Description": "Certificate Domain",
-        "Item#": 1866,
-        "Seg": "CER",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "15.4.2.11"
-      },
-      {
-        "Description": "Certificate Status Code",
-        "Item#": 1884,
-        "Seg": "CER",
-        "Seq#": 31,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 536,
-        "Chapter": "15.4.2.31"
-      },
-      {
-        "Description": "Certificate Type",
-        "Item#": 1865,
-        "Seg": "CER",
-        "Seq#": 10,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "15.4.2.10"
-      },
-      {
-        "Description": "CRL Distribution Point",
-        "Item#": 1872,
-        "Seg": "CER",
-        "Seq#": 18,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Chapter": "15.4.2.18"
-      },
-      {
-        "Description": "Expiration Date",
-        "Item#": 1880,
-        "Seg": "CER",
-        "Seq#": 27,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.2.27"
-      },
-      {
-        "Description": "Granting Authority",
-        "Item#": 1859,
-        "Seg": "CER",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "XON",
-        "Chapter": "15.4.2.4"
-      },
-      {
-        "Description": "Granting Country",
-        "Item#": 1862,
-        "Seg": "CER",
-        "Seq#": 7,
-        "Len": 3,
-        "DT": "ID",
-        "Table": 399,
-        "Chapter": "15.4.2.7"
-      },
-      {
-        "Description": "Granting County/Parish",
-        "Item#": 1864,
-        "Seg": "CER",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 289,
-        "Chapter": "15.4.2.9"
-      },
-      {
-        "Description": "Granting Date",
-        "Item#": 1876,
-        "Seg": "CER",
-        "Seq#": 23,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.2.23"
-      },
-      {
-        "Description": "Granting State/Province",
-        "Item#": 1863,
-        "Seg": "CER",
-        "Seq#": 8,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 347,
-        "Chapter": "15.4.2.8"
-      },
-      {
-        "Description": "Inactivation Date",
-        "Item#": 1879,
-        "Seg": "CER",
-        "Seq#": 26,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.2.26"
-      },
-      {
-        "Description": "Issuing Authority",
-        "Item#": 1860,
-        "Seg": "CER",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "XCN",
-        "Chapter": "15.4.2.5"
-      },
-      {
-        "Description": "Issuing Date",
-        "Item#": 1877,
-        "Seg": "CER",
-        "Seq#": 24,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.2.24"
-      },
-      {
-        "Description": "Jurisdiction Breadth",
-        "Item#": 1895,
-        "Seg": "CER",
-        "Seq#": 22,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 547,
-        "Chapter": "15.4.2.22"
-      },
-      {
-        "Description": "Jurisdiction Country",
-        "Item#": 1875,
-        "Seg": "CER",
-        "Seq#": 19,
-        "Len": 3,
-        "DT": "ID",
-        "Table": 399,
-        "Chapter": "15.4.2.19"
-      },
-      {
-        "Description": "Jurisdiction County/Parish",
-        "Item#": 1874,
-        "Seg": "CER",
-        "Seq#": 21,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 289,
-        "Chapter": "15.4.2.21"
-      },
-      {
-        "Description": "Jurisdiction State/Province",
-        "Item#": 1873,
-        "Seg": "CER",
-        "Seq#": 20,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 347,
-        "Chapter": "15.4.2.20"
-      },
-      {
-        "Description": "Renewal Date",
-        "Item#": 1881,
-        "Seg": "CER",
-        "Seq#": 28,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.2.28"
-      },
-      {
-        "Description": "Revocation Date",
-        "Item#": 1882,
-        "Seg": "CER",
-        "Seq#": 29,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.2.29"
-      },
-      {
-        "Description": "Revocation Reason Code",
-        "Item#": 1883,
-        "Seg": "CER",
-        "Seq#": 30,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "15.4.2.30"
-      },
-      {
-        "Description": "Serial Number",
-        "Item#": 1857,
-        "Seg": "CER",
-        "Seq#": 2,
-        "Len": 80,
-        "DT": "ST",
-        "Chapter": "15.4.2.2"
-      },
-      {
-        "Description": "Set ID - CER",
-        "Item#": 1856,
-        "Seg": "CER",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "15.4.2.1"
-      },
-      {
-        "Description": "Signature of Issuing Authority",
-        "Item#": 1861,
-        "Seg": "CER",
-        "Seq#": 6,
-        "Len": 65536,
-        "DT": "ED",
-        "Chapter": "15.4.2.6"
-      },
-      {
-        "Description": "Subject Directory Attribute Extension",
-        "Item#": 1868,
-        "Seg": "CER",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Chapter": "15.4.2.14"
-      },
-      {
-        "Description": "Subject ID",
-        "Item#": 1867,
-        "Seg": "CER",
-        "Seq#": 12,
-        "Len": 250,
-        "DT": "ID",
-        "Chapter": "15.4.2.12"
-      },
-      {
-        "Description": "Subject Name",
-        "Item#": 1907,
-        "Seg": "CER",
-        "Seq#": 13,
-        "Len": 250,
-        "DT": "ST",
-        "Chapter": "15.4.2.13"
-      },
-      {
-        "Description": "Subject Public Key Info",
-        "Item#": 1869,
-        "Seg": "CER",
-        "Seq#": 15,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "15.4.2.15"
-      },
-      {
-        "Description": "Version",
-        "Item#": 1858,
-        "Seg": "CER",
-        "Seq#": 3,
-        "Len": 80,
-        "DT": "ST",
-        "Chapter": "15.4.2.3"
-      }
+  {
+    "Description": "Set ID - CER",
+    "Item#": 1856,
+    "Seg": "CER",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "15.4.2.1"
+  },
+  {
+    "Description": "Serial Number",
+    "Item#": 1857,
+    "Seg": "CER",
+    "Seq#": 2,
+    "Len": 80,
+    "DT": "ST",
+    "Chapter": "15.4.2.2"
+  },
+  {
+    "Description": "Version",
+    "Item#": 1858,
+    "Seg": "CER",
+    "Seq#": 3,
+    "Len": 80,
+    "DT": "ST",
+    "Chapter": "15.4.2.3"
+  },
+  {
+    "Description": "Granting Authority",
+    "Item#": 1859,
+    "Seg": "CER",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "XON",
+    "Chapter": "15.4.2.4"
+  },
+  {
+    "Description": "Issuing Authority",
+    "Item#": 1860,
+    "Seg": "CER",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "XCN",
+    "Chapter": "15.4.2.5"
+  },
+  {
+    "Description": "Signature of Issuing Authority",
+    "Item#": 1861,
+    "Seg": "CER",
+    "Seq#": 6,
+    "Len": 65536,
+    "DT": "ED",
+    "Chapter": "15.4.2.6"
+  },
+  {
+    "Description": "Granting Country",
+    "Item#": 1862,
+    "Seg": "CER",
+    "Seq#": 7,
+    "Len": 3,
+    "DT": "ID",
+    "Table": 399,
+    "Chapter": "15.4.2.7"
+  },
+  {
+    "Description": "Granting State/Province",
+    "Item#": 1863,
+    "Seg": "CER",
+    "Seq#": 8,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 347,
+    "Chapter": "15.4.2.8"
+  },
+  {
+    "Description": "Granting County/Parish",
+    "Item#": 1864,
+    "Seg": "CER",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 289,
+    "Chapter": "15.4.2.9"
+  },
+  {
+    "Description": "Certificate Type",
+    "Item#": 1865,
+    "Seg": "CER",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "15.4.2.10"
+  },
+  {
+    "Description": "Certificate Domain",
+    "Item#": 1866,
+    "Seg": "CER",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "15.4.2.11"
+  },
+  {
+    "Description": "Subject ID",
+    "Item#": 1867,
+    "Seg": "CER",
+    "Seq#": 12,
+    "Len": 250,
+    "DT": "ID",
+    "Chapter": "15.4.2.12"
+  },
+  {
+    "Description": "Subject Name",
+    "Item#": 1907,
+    "Seg": "CER",
+    "Seq#": 13,
+    "Len": 250,
+    "DT": "ST",
+    "Chapter": "15.4.2.13"
+  },
+  {
+    "Description": "Subject Directory Attribute Extension",
+    "Item#": 1868,
+    "Seg": "CER",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Chapter": "15.4.2.14"
+  },
+  {
+    "Description": "Subject Public Key Info",
+    "Item#": 1869,
+    "Seg": "CER",
+    "Seq#": 15,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "15.4.2.15"
+  },
+  {
+    "Description": "Authority Key Identifier",
+    "Item#": 1870,
+    "Seg": "CER",
+    "Seq#": 16,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "15.4.2.16"
+  },
+  {
+    "Description": "Basic Constraint",
+    "Item#": 1871,
+    "Seg": "CER",
+    "Seq#": 17,
+    "Len": 250,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.2.17"
+  },
+  {
+    "Description": "CRL Distribution Point",
+    "Item#": 1872,
+    "Seg": "CER",
+    "Seq#": 18,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Chapter": "15.4.2.18"
+  },
+  {
+    "Description": "Jurisdiction Country",
+    "Item#": 1875,
+    "Seg": "CER",
+    "Seq#": 19,
+    "Len": 3,
+    "DT": "ID",
+    "Table": 399,
+    "Chapter": "15.4.2.19"
+  },
+  {
+    "Description": "Jurisdiction State/Province",
+    "Item#": 1873,
+    "Seg": "CER",
+    "Seq#": 20,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 347,
+    "Chapter": "15.4.2.20"
+  },
+  {
+    "Description": "Jurisdiction County/Parish",
+    "Item#": 1874,
+    "Seg": "CER",
+    "Seq#": 21,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 289,
+    "Chapter": "15.4.2.21"
+  },
+  {
+    "Description": "Jurisdiction Breadth",
+    "Item#": 1895,
+    "Seg": "CER",
+    "Seq#": 22,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 547,
+    "Chapter": "15.4.2.22"
+  },
+  {
+    "Description": "Granting Date",
+    "Item#": 1876,
+    "Seg": "CER",
+    "Seq#": 23,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.2.23"
+  },
+  {
+    "Description": "Issuing Date",
+    "Item#": 1877,
+    "Seg": "CER",
+    "Seq#": 24,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.2.24"
+  },
+  {
+    "Description": "Activation Date",
+    "Item#": 1878,
+    "Seg": "CER",
+    "Seq#": 25,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.2.25"
+  },
+  {
+    "Description": "Inactivation Date",
+    "Item#": 1879,
+    "Seg": "CER",
+    "Seq#": 26,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.2.26"
+  },
+  {
+    "Description": "Expiration Date",
+    "Item#": 1880,
+    "Seg": "CER",
+    "Seq#": 27,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.2.27"
+  },
+  {
+    "Description": "Renewal Date",
+    "Item#": 1881,
+    "Seg": "CER",
+    "Seq#": 28,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.2.28"
+  },
+  {
+    "Description": "Revocation Date",
+    "Item#": 1882,
+    "Seg": "CER",
+    "Seq#": 29,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.2.29"
+  },
+  {
+    "Description": "Revocation Reason Code",
+    "Item#": 1883,
+    "Seg": "CER",
+    "Seq#": 30,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "15.4.2.30"
+  },
+  {
+    "Description": "Certificate Status Code",
+    "Item#": 1884,
+    "Seg": "CER",
+    "Seq#": 31,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 536,
+    "Chapter": "15.4.2.31"
+  }
 ]

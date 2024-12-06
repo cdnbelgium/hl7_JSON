@@ -1,68 +1,68 @@
 [
-    {
-        "Description": "Payee Address",
-        "Item#": 1944,
-        "Seg": "PYE",
-        "Seq#": 6,
-        "Len": 235,
-        "DT": "XAD",
-        "Chapter": "16.4.3.6"
-      },
-      {
-        "Description": "Payee Identification List",
-        "Item#": 1942,
-        "Seg": "PYE",
-        "Seq#": 4,
-        "Len": 183,
-        "DT": "XON",
-        "Chapter": "16.4.3.4"
-      },
-      {
-        "Description": "Payee Person Name",
-        "Item#": 1943,
-        "Seg": "PYE",
-        "Seq#": 5,
-        "Len": 466,
-        "DT": "XPN",
-        "Chapter": "16.4.3.5"
-      },
-      {
-        "Description": "Payee Relationship to Invoice (Patient)",
-        "Item#": 1941,
-        "Seg": "PYE",
-        "Seq#": 3,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 558,
-        "Chapter": "16.4.3.3"
-      },
-      {
-        "Description": "Payee Type",
-        "Item#": 1940,
-        "Seg": "PYE",
-        "Seq#": 2,
-        "Len": 6,
-        "DT": "IS",
-        "Table": 557,
-        "Chapter": "16.4.3.2"
-      },
-      {
-        "Description": "Payment Method",
-        "Item#": 1945,
-        "Seg": "PYE",
-        "Seq#": 7,
-        "Len": 80,
-        "DT": "IS",
-        "Table": 570,
-        "Chapter": "16.4.3.7"
-      },
-      {
-        "Description": "Set ID - PYE",
-        "Item#": 1939,
-        "Seg": "PYE",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "16.4.3.1"
-      }
+  {
+    "Description": "Set ID - PYE",
+    "Item#": 1939,
+    "Seg": "PYE",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "16.4.3.1"
+  },
+  {
+    "Description": "Payee Type",
+    "Item#": 1940,
+    "Seg": "PYE",
+    "Seq#": 2,
+    "Len": 6,
+    "DT": "IS",
+    "Table": 557,
+    "Chapter": "16.4.3.2"
+  },
+  {
+    "Description": "Payee Relationship to Invoice (Patient)",
+    "Item#": 1941,
+    "Seg": "PYE",
+    "Seq#": 3,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 558,
+    "Chapter": "16.4.3.3"
+  },
+  {
+    "Description": "Payee Identification List",
+    "Item#": 1942,
+    "Seg": "PYE",
+    "Seq#": 4,
+    "Len": 183,
+    "DT": "XON",
+    "Chapter": "16.4.3.4"
+  },
+  {
+    "Description": "Payee Person Name",
+    "Item#": 1943,
+    "Seg": "PYE",
+    "Seq#": 5,
+    "Len": 466,
+    "DT": "XPN",
+    "Chapter": "16.4.3.5"
+  },
+  {
+    "Description": "Payee Address",
+    "Item#": 1944,
+    "Seg": "PYE",
+    "Seq#": 6,
+    "Len": 235,
+    "DT": "XAD",
+    "Chapter": "16.4.3.6"
+  },
+  {
+    "Description": "Payment Method",
+    "Item#": 1945,
+    "Seg": "PYE",
+    "Seq#": 7,
+    "Len": 80,
+    "DT": "IS",
+    "Table": 570,
+    "Chapter": "16.4.3.7"
+  }
 ]

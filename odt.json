@@ -1,32 +1,32 @@
 [
-    {
-        "Description": "Service Period",
-        "Item#": 270,
-        "Seg": "ODT",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "4.8.2.2"
-      },
-      {
-        "Description": "Text Instruction",
-        "Item#": 272,
-        "Seg": "ODT",
-        "Seq#": 3,
-        "Len": 80,
-        "DT": "ST",
-        "Chapter": "4.8.2.3"
-      },
-      {
-        "Description": "Tray Type",
-        "Item#": 273,
-        "Seg": "ODT",
-        "Seq#": 1,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 160,
-        "Chapter": "4.8.2.1"
-      }
+  {
+    "Description": "Tray Type",
+    "Item#": 273,
+    "Seg": "ODT",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 160,
+    "Chapter": "4.8.2.1"
+  },
+  {
+    "Description": "Service Period",
+    "Item#": 270,
+    "Seg": "ODT",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "4.8.2.2"
+  },
+  {
+    "Description": "Text Instruction",
+    "Item#": 272,
+    "Seg": "ODT",
+    "Seq#": 3,
+    "Len": 80,
+    "DT": "ST",
+    "Chapter": "4.8.2.3"
+  }
 ]

@@ -1,63 +1,12 @@
 [
-    {
-    "Description": "Allow Substitution Code",
-    "Item#": 895,
-    "Seg": "AIS",
-    "Seq#": 9,
-    "Len": 10,
-    "DT": "IS",
-    "Table": 279,
-    "Chapter": "10.6.4.9"
-  },
   {
-    "Description": "Duration",
-    "Item#": 893,
+    "Description": "Set ID - AIS",
+    "Item#": 890,
     "Seg": "AIS",
-    "Seq#": 7,
-    "Len": 20,
-    "DT": "NM",
-    "Chapter": "10.6.4.7"
-  },
-  {
-    "Description": "Duration Units",
-    "Item#": 894,
-    "Seg": "AIS",
-    "Seq#": 8,
-    "Len": 250,
-    "DT": "CNE",
-    "Chapter": "10.6.4.8"
-  },
-  {
-    "Description": "Filler Status Code",
-    "Item#": 889,
-    "Seg": "AIS",
-    "Seq#": 10,
-    "Len": 250,
-    "DT": "CWE",
-    "Table": 278,
-    "Chapter": "10.6.4.10"
-  },
-  {
-    "Description": "Filler Supplemental Service Information",
-    "Item#": 1475,
-    "Seg": "AIS",
-    "Seq#": 12,
-    "Len": 705,
-    "DT": "CWE",
-    "Rep": "Y",
-    "Table": 411,
-    "Chapter": "10.6.4.12"
-  },
-  {
-    "Description": "Placer Supplemental Service Information",
-    "Item#": 1474,
-    "Seg": "AIS",
-    "Seq#": 11,
-    "Len": 705,
-    "DT": "CWE",
-    "Rep": "Y",
-    "Table": 411,
-    "Chapter": "10.6.4.11"
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "10.6.4.1"
   },
   {
     "Description": "Segment Action Code",
@@ -70,13 +19,13 @@
     "Chapter": "10.6.4.2"
   },
   {
-    "Description": "Set ID - AIS",
-    "Item#": 890,
+    "Description": "Universal Service Identifier",
+    "Item#": 238,
     "Seg": "AIS",
-    "Seq#": 1,
-    "Len": 4,
-    "DT": "SI",
-    "Chapter": "10.6.4.1"
+    "Seq#": 3,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "10.6.4.3"
   },
   {
     "Description": "Start Date/Time",
@@ -106,12 +55,63 @@
     "Chapter": "10.6.4.6"
   },
   {
-    "Description": "Universal Service Identifier",
-    "Item#": 238,
+    "Description": "Duration",
+    "Item#": 893,
     "Seg": "AIS",
-    "Seq#": 3,
+    "Seq#": 7,
+    "Len": 20,
+    "DT": "NM",
+    "Chapter": "10.6.4.7"
+  },
+  {
+    "Description": "Duration Units",
+    "Item#": 894,
+    "Seg": "AIS",
+    "Seq#": 8,
+    "Len": 250,
+    "DT": "CNE",
+    "Chapter": "10.6.4.8"
+  },
+  {
+    "Description": "Allow Substitution Code",
+    "Item#": 895,
+    "Seg": "AIS",
+    "Seq#": 9,
+    "Len": 10,
+    "DT": "IS",
+    "Table": 279,
+    "Chapter": "10.6.4.9"
+  },
+  {
+    "Description": "Filler Status Code",
+    "Item#": 889,
+    "Seg": "AIS",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 278,
+    "Chapter": "10.6.4.10"
+  },
+  {
+    "Description": "Placer Supplemental Service Information",
+    "Item#": 1474,
+    "Seg": "AIS",
+    "Seq#": 11,
     "Len": 705,
     "DT": "CWE",
-    "Chapter": "10.6.4.3"
+    "Rep": "Y",
+    "Table": 411,
+    "Chapter": "10.6.4.11"
+  },
+  {
+    "Description": "Filler Supplemental Service Information",
+    "Item#": 1475,
+    "Seg": "AIS",
+    "Seq#": 12,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 411,
+    "Chapter": "10.6.4.12"
   }
 ]

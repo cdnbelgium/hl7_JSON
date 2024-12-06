@@ -1,77 +1,77 @@
 [
-    {
-        "Description": "Disability End Date",
-        "Item#": 1288,
-        "Seg": "DB1",
-        "Seq#": 6,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.11.6"
-      },
-      {
-        "Description": "Disability Indicator",
-        "Item#": 1286,
-        "Seg": "DB1",
-        "Seq#": 4,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.11.4"
-      },
-      {
-        "Description": "Disability Return to Work Date",
-        "Item#": 1289,
-        "Seg": "DB1",
-        "Seq#": 7,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.11.7"
-      },
-      {
-        "Description": "Disability Start Date",
-        "Item#": 1287,
-        "Seg": "DB1",
-        "Seq#": 5,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.11.5"
-      },
-      {
-        "Description": "Disability Unable to Work Date",
-        "Item#": 1290,
-        "Seg": "DB1",
-        "Seq#": 8,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.11.8"
-      },
-      {
-        "Description": "Disabled Person Code",
-        "Item#": 1284,
-        "Seg": "DB1",
-        "Seq#": 2,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 334,
-        "Chapter": "3.4.11.2"
-      },
-      {
-        "Description": "Disabled Person Identifier",
-        "Item#": 1285,
-        "Seg": "DB1",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "3.4.11.3"
-      },
-      {
-        "Description": "Set ID - DB1",
-        "Item#": 1283,
-        "Seg": "DB1",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "3.4.11.1"
-      }
+  {
+    "Description": "Set ID - DB1",
+    "Item#": 1283,
+    "Seg": "DB1",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "3.4.11.1"
+  },
+  {
+    "Description": "Disabled Person Code",
+    "Item#": 1284,
+    "Seg": "DB1",
+    "Seq#": 2,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 334,
+    "Chapter": "3.4.11.2"
+  },
+  {
+    "Description": "Disabled Person Identifier",
+    "Item#": 1285,
+    "Seg": "DB1",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "3.4.11.3"
+  },
+  {
+    "Description": "Disability Indicator",
+    "Item#": 1286,
+    "Seg": "DB1",
+    "Seq#": 4,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.11.4"
+  },
+  {
+    "Description": "Disability Start Date",
+    "Item#": 1287,
+    "Seg": "DB1",
+    "Seq#": 5,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.11.5"
+  },
+  {
+    "Description": "Disability End Date",
+    "Item#": 1288,
+    "Seg": "DB1",
+    "Seq#": 6,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.11.6"
+  },
+  {
+    "Description": "Disability Return to Work Date",
+    "Item#": 1289,
+    "Seg": "DB1",
+    "Seq#": 7,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.11.7"
+  },
+  {
+    "Description": "Disability Unable to Work Date",
+    "Item#": 1290,
+    "Seg": "DB1",
+    "Seq#": 8,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.11.8"
+  }
 ]

@@ -1,231 +1,231 @@
 [
-    {
-        "Description": "Category Description",
-        "Item#": 1482,
-        "Seg": "OM7",
-        "Seq#": 4,
-        "Len": 200,
-        "DT": "TX",
-        "Chapter": "8.8.14.4"
-      },
-      {
-        "Description": "Category Identifier",
-        "Item#": 1481,
-        "Seg": "OM7",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 412,
-        "Chapter": "8.8.14.3"
-      },
-      {
-        "Description": "Category Synonym",
-        "Item#": 1483,
-        "Seg": "OM7",
-        "Seq#": 5,
-        "Len": 200,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "8.8.14.5"
-      },
-      {
-        "Description": "Consent Effective End Date/Time",
-        "Item#": 1492,
-        "Seg": "OM7",
-        "Seq#": 14,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.8.14.14"
-      },
-      {
-        "Description": "Consent Effective Start Date/Time",
-        "Item#": 1491,
-        "Seg": "OM7",
-        "Seq#": 13,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.8.14.13"
-      },
-      {
-        "Description": "Consent Identifier",
-        "Item#": 1490,
-        "Seg": "OM7",
-        "Seq#": 12,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 413,
-        "Chapter": "8.8.14.12"
-      },
-      {
-        "Description": "Consent Indicator",
-        "Item#": 1489,
-        "Seg": "OM7",
-        "Seq#": 11,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "8.8.14.11"
-      },
-      {
-        "Description": "Consent Interval Quantity",
-        "Item#": 1493,
-        "Seg": "OM7",
-        "Seq#": 15,
-        "Len": 5,
-        "DT": "NM",
-        "Chapter": "8.8.14.15"
-      },
-      {
-        "Description": "Consent Interval Units",
-        "Item#": 1494,
-        "Seg": "OM7",
-        "Seq#": 16,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 414,
-        "Chapter": "8.8.14.16"
-      },
-      {
-        "Description": "Consent Waiting Period Quantity",
-        "Item#": 1495,
-        "Seg": "OM7",
-        "Seq#": 17,
-        "Len": 5,
-        "DT": "NM",
-        "Chapter": "8.8.14.17"
-      },
-      {
-        "Description": "Consent Waiting Period Units",
-        "Item#": 1496,
-        "Seg": "OM7",
-        "Seq#": 18,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 414,
-        "Chapter": "8.8.14.18"
-      },
-      {
-        "Description": "Effective Date/Time of Change",
-        "Item#": 607,
-        "Seg": "OM7",
-        "Seq#": 19,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.8.14.19"
-      },
-      {
-        "Description": "Effective Test/Service End Date/Time",
-        "Item#": 1485,
-        "Seg": "OM7",
-        "Seq#": 7,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.8.14.7"
-      },
-      {
-        "Description": "Effective Test/Service Start Date/Time",
-        "Item#": 1484,
-        "Seg": "OM7",
-        "Seq#": 6,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.8.14.6"
-      },
-      {
-        "Description": "Entered By",
-        "Item#": 224,
-        "Seg": "OM7",
-        "Seq#": 20,
-        "Len": 3220,
-        "DT": "XCN",
-        "Chapter": "8.8.14.20"
-      },
-      {
-        "Description": "Formulary Status",
-        "Item#": 1498,
-        "Seg": "OM7",
-        "Seq#": 22,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 473,
-        "Chapter": "8.8.14.22"
-      },
-      {
-        "Description": "Orderable-at Location",
-        "Item#": 1497,
-        "Seg": "OM7",
-        "Seq#": 21,
-        "Len": 200,
-        "DT": "PL",
-        "Rep": "Y",
-        "Chapter": "8.8.14.21"
-      },
-      {
-        "Description": "Primary Key Value - CDM",
-        "Item#": 1306,
-        "Seg": "OM7",
-        "Seq#": 24,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 132,
-        "Chapter": "8.8.14.24"
-      },
-      {
-        "Description": "Sequence Number - Test/Observation Master File",
-        "Item#": 586,
-        "Seg": "OM7",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "8.8.14.1"
-      },
-      {
-        "Description": "Special Order Indicator",
-        "Item#": 1499,
-        "Seg": "OM7",
-        "Seq#": 23,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "8.8.14.23"
-      },
-      {
-        "Description": "Test/Service Default Duration Quantity",
-        "Item#": 1486,
-        "Seg": "OM7",
-        "Seq#": 8,
-        "Len": 5,
-        "DT": "NM",
-        "Chapter": "8.8.14.8"
-      },
-      {
-        "Description": "Test/Service Default Duration Units",
-        "Item#": 1487,
-        "Seg": "OM7",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.14.9"
-      },
-      {
-        "Description": "Test/Service Default Frequency",
-        "Item#": 1488,
-        "Seg": "OM7",
-        "Seq#": 10,
-        "Len": 60,
-        "DT": "IS",
-        "Chapter": "8.8.14.10"
-      },
-      {
-        "Description": "Universal Service Identifier",
-        "Item#": 238,
-        "Seg": "OM7",
-        "Seq#": 2,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "8.8.14.2"
-      }
+  {
+    "Description": "Sequence Number - Test/Observation Master File",
+    "Item#": 586,
+    "Seg": "OM7",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "8.8.14.1"
+  },
+  {
+    "Description": "Universal Service Identifier",
+    "Item#": 238,
+    "Seg": "OM7",
+    "Seq#": 2,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "8.8.14.2"
+  },
+  {
+    "Description": "Category Identifier",
+    "Item#": 1481,
+    "Seg": "OM7",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 412,
+    "Chapter": "8.8.14.3"
+  },
+  {
+    "Description": "Category Description",
+    "Item#": 1482,
+    "Seg": "OM7",
+    "Seq#": 4,
+    "Len": 200,
+    "DT": "TX",
+    "Chapter": "8.8.14.4"
+  },
+  {
+    "Description": "Category Synonym",
+    "Item#": 1483,
+    "Seg": "OM7",
+    "Seq#": 5,
+    "Len": 200,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "8.8.14.5"
+  },
+  {
+    "Description": "Effective Test/Service Start Date/Time",
+    "Item#": 1484,
+    "Seg": "OM7",
+    "Seq#": 6,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.8.14.6"
+  },
+  {
+    "Description": "Effective Test/Service End Date/Time",
+    "Item#": 1485,
+    "Seg": "OM7",
+    "Seq#": 7,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.8.14.7"
+  },
+  {
+    "Description": "Test/Service Default Duration Quantity",
+    "Item#": 1486,
+    "Seg": "OM7",
+    "Seq#": 8,
+    "Len": 5,
+    "DT": "NM",
+    "Chapter": "8.8.14.8"
+  },
+  {
+    "Description": "Test/Service Default Duration Units",
+    "Item#": 1487,
+    "Seg": "OM7",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.14.9"
+  },
+  {
+    "Description": "Test/Service Default Frequency",
+    "Item#": 1488,
+    "Seg": "OM7",
+    "Seq#": 10,
+    "Len": 60,
+    "DT": "IS",
+    "Chapter": "8.8.14.10"
+  },
+  {
+    "Description": "Consent Indicator",
+    "Item#": 1489,
+    "Seg": "OM7",
+    "Seq#": 11,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "8.8.14.11"
+  },
+  {
+    "Description": "Consent Identifier",
+    "Item#": 1490,
+    "Seg": "OM7",
+    "Seq#": 12,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 413,
+    "Chapter": "8.8.14.12"
+  },
+  {
+    "Description": "Consent Effective Start Date/Time",
+    "Item#": 1491,
+    "Seg": "OM7",
+    "Seq#": 13,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.8.14.13"
+  },
+  {
+    "Description": "Consent Effective End Date/Time",
+    "Item#": 1492,
+    "Seg": "OM7",
+    "Seq#": 14,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.8.14.14"
+  },
+  {
+    "Description": "Consent Interval Quantity",
+    "Item#": 1493,
+    "Seg": "OM7",
+    "Seq#": 15,
+    "Len": 5,
+    "DT": "NM",
+    "Chapter": "8.8.14.15"
+  },
+  {
+    "Description": "Consent Interval Units",
+    "Item#": 1494,
+    "Seg": "OM7",
+    "Seq#": 16,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 414,
+    "Chapter": "8.8.14.16"
+  },
+  {
+    "Description": "Consent Waiting Period Quantity",
+    "Item#": 1495,
+    "Seg": "OM7",
+    "Seq#": 17,
+    "Len": 5,
+    "DT": "NM",
+    "Chapter": "8.8.14.17"
+  },
+  {
+    "Description": "Consent Waiting Period Units",
+    "Item#": 1496,
+    "Seg": "OM7",
+    "Seq#": 18,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 414,
+    "Chapter": "8.8.14.18"
+  },
+  {
+    "Description": "Effective Date/Time of Change",
+    "Item#": 607,
+    "Seg": "OM7",
+    "Seq#": 19,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.8.14.19"
+  },
+  {
+    "Description": "Entered By",
+    "Item#": 224,
+    "Seg": "OM7",
+    "Seq#": 20,
+    "Len": 3220,
+    "DT": "XCN",
+    "Chapter": "8.8.14.20"
+  },
+  {
+    "Description": "Orderable-at Location",
+    "Item#": 1497,
+    "Seg": "OM7",
+    "Seq#": 21,
+    "Len": 200,
+    "DT": "PL",
+    "Rep": "Y",
+    "Chapter": "8.8.14.21"
+  },
+  {
+    "Description": "Formulary Status",
+    "Item#": 1498,
+    "Seg": "OM7",
+    "Seq#": 22,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 473,
+    "Chapter": "8.8.14.22"
+  },
+  {
+    "Description": "Special Order Indicator",
+    "Item#": 1499,
+    "Seg": "OM7",
+    "Seq#": 23,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "8.8.14.23"
+  },
+  {
+    "Description": "Primary Key Value - CDM",
+    "Item#": 1306,
+    "Seg": "OM7",
+    "Seq#": 24,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 132,
+    "Chapter": "8.8.14.24"
+  }
 ]

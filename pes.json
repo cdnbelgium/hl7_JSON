@@ -1,129 +1,129 @@
 [
-    {
-        "Description": "Event Report Date",
-        "Item#": 1069,
-        "Seg": "PES",
-        "Seq#": 10,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.12.1.10"
-      },
-      {
-        "Description": "Event Report Source",
-        "Item#": 1071,
-        "Seg": "PES",
-        "Seq#": 12,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 235,
-        "Chapter": "7.12.1.12"
-      },
-      {
-        "Description": "Event Report Timing/Type",
-        "Item#": 1070,
-        "Seg": "PES",
-        "Seq#": 11,
-        "Len": 3,
-        "DT": "ID",
-        "Rep": "Y",
-        "Table": 234,
-        "Chapter": "7.12.1.11"
-      },
-      {
-        "Description": "Event Reported To",
-        "Item#": 1072,
-        "Seg": "PES",
-        "Seq#": 13,
-        "Len": 1,
-        "DT": "ID",
-        "Rep": "Y",
-        "Table": 236,
-        "Chapter": "7.12.1.13"
-      },
-      {
-        "Description": "Sender Address",
-        "Item#": 1062,
-        "Seg": "PES",
-        "Seq#": 3,
-        "Len": 2915,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "7.12.1.3"
-      },
-      {
-        "Description": "Sender Aware Date/Time",
-        "Item#": 1068,
-        "Seg": "PES",
-        "Seq#": 9,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.12.1.9"
-      },
-      {
-        "Description": "Sender Comment",
-        "Item#": 1067,
-        "Seg": "PES",
-        "Seq#": 8,
-        "Len": 600,
-        "DT": "FT",
-        "Chapter": "7.12.1.8"
-      },
-      {
-        "Description": "Sender Event Description",
-        "Item#": 1066,
-        "Seg": "PES",
-        "Seq#": 7,
-        "Len": 600,
-        "DT": "FT",
-        "Rep": "Y",
-        "Chapter": "7.12.1.7"
-      },
-      {
-        "Description": "Sender Event Identifier",
-        "Item#": 1064,
-        "Seg": "PES",
-        "Seq#": 5,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "7.12.1.5"
-      },
-      {
-        "Description": "Sender Individual Name",
-        "Item#": 1060,
-        "Seg": "PES",
-        "Seq#": 2,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "7.12.1.2"
-      },
-      {
-        "Description": "Sender Organization Name",
-        "Item#": 1059,
-        "Seg": "PES",
-        "Seq#": 1,
-        "Len": 567,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "7.12.1.1"
-      },
-      {
-        "Description": "Sender Sequence Number",
-        "Item#": 1065,
-        "Seg": "PES",
-        "Seq#": 6,
-        "Len": 16,
-        "DT": "NM",
-        "Chapter": "7.12.1.6"
-      },
-      {
-        "Description": "Sender Telephone",
-        "Item#": 1063,
-        "Seg": "PES",
-        "Seq#": 4,
-        "Len": 2743,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "7.12.1.4"
-      }
+  {
+    "Description": "Sender Organization Name",
+    "Item#": 1059,
+    "Seg": "PES",
+    "Seq#": 1,
+    "Len": 567,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "7.12.1.1"
+  },
+  {
+    "Description": "Sender Individual Name",
+    "Item#": 1060,
+    "Seg": "PES",
+    "Seq#": 2,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "7.12.1.2"
+  },
+  {
+    "Description": "Sender Address",
+    "Item#": 1062,
+    "Seg": "PES",
+    "Seq#": 3,
+    "Len": 2915,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "7.12.1.3"
+  },
+  {
+    "Description": "Sender Telephone",
+    "Item#": 1063,
+    "Seg": "PES",
+    "Seq#": 4,
+    "Len": 2743,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "7.12.1.4"
+  },
+  {
+    "Description": "Sender Event Identifier",
+    "Item#": 1064,
+    "Seg": "PES",
+    "Seq#": 5,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "7.12.1.5"
+  },
+  {
+    "Description": "Sender Sequence Number",
+    "Item#": 1065,
+    "Seg": "PES",
+    "Seq#": 6,
+    "Len": 16,
+    "DT": "NM",
+    "Chapter": "7.12.1.6"
+  },
+  {
+    "Description": "Sender Event Description",
+    "Item#": 1066,
+    "Seg": "PES",
+    "Seq#": 7,
+    "Len": 600,
+    "DT": "FT",
+    "Rep": "Y",
+    "Chapter": "7.12.1.7"
+  },
+  {
+    "Description": "Sender Comment",
+    "Item#": 1067,
+    "Seg": "PES",
+    "Seq#": 8,
+    "Len": 600,
+    "DT": "FT",
+    "Chapter": "7.12.1.8"
+  },
+  {
+    "Description": "Sender Aware Date/Time",
+    "Item#": 1068,
+    "Seg": "PES",
+    "Seq#": 9,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.12.1.9"
+  },
+  {
+    "Description": "Event Report Date",
+    "Item#": 1069,
+    "Seg": "PES",
+    "Seq#": 10,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.12.1.10"
+  },
+  {
+    "Description": "Event Report Timing/Type",
+    "Item#": 1070,
+    "Seg": "PES",
+    "Seq#": 11,
+    "Len": 3,
+    "DT": "ID",
+    "Rep": "Y",
+    "Table": 234,
+    "Chapter": "7.12.1.11"
+  },
+  {
+    "Description": "Event Report Source",
+    "Item#": 1071,
+    "Seg": "PES",
+    "Seq#": 12,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 235,
+    "Chapter": "7.12.1.12"
+  },
+  {
+    "Description": "Event Reported To",
+    "Item#": 1072,
+    "Seg": "PES",
+    "Seq#": 13,
+    "Len": 1,
+    "DT": "ID",
+    "Rep": "Y",
+    "Table": 236,
+    "Chapter": "7.12.1.13"
+  }
 ]

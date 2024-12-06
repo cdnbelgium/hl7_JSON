@@ -1,75 +1,75 @@
 [
-    {
-        "Description": "Abnormal Text/Codes for Categorical Observations",
-        "Item#": 639,
-        "Seg": "OM3",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.10.5"
-      },
-      {
-        "Description": "Critical Text/Codes for Categorical Observations",
-        "Item#": 640,
-        "Seg": "OM3",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.10.6"
-      },
-      {
-        "Description": "Normal Text/Codes for Categorical Observations",
-        "Item#": 638,
-        "Seg": "OM3",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.10.4"
-      },
-      {
-        "Description": "Preferred Coding System",
-        "Item#": 636,
-        "Seg": "OM3",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.10.2"
-      },
-      {
-        "Description": "Sequence Number - Test/Observation Master File",
-        "Item#": 586,
-        "Seg": "OM3",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "8.8.10.1"
-      },
-      {
-        "Description": "Valid Coded \"Answers\"",
-        "Item#": 637,
-        "Seg": "OM3",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.10.3"
-      },
-      {
-        "Description": "Value Type",
-        "Item#": 570,
-        "Seg": "OM3",
-        "Seq#": 7,
-        "Len": 3,
-        "DT": "ID",
-        "Table": 125,
-        "Chapter": "8.8.10.7"
-      }
+  {
+    "Description": "Sequence Number - Test/Observation Master File",
+    "Item#": 586,
+    "Seg": "OM3",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "8.8.10.1"
+  },
+  {
+    "Description": "Preferred Coding System",
+    "Item#": 636,
+    "Seg": "OM3",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.10.2"
+  },
+  {
+    "Description": "Valid Coded \"Answers\"",
+    "Item#": 637,
+    "Seg": "OM3",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.10.3"
+  },
+  {
+    "Description": "Normal Text/Codes for Categorical Observations",
+    "Item#": 638,
+    "Seg": "OM3",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.10.4"
+  },
+  {
+    "Description": "Abnormal Text/Codes for Categorical Observations",
+    "Item#": 639,
+    "Seg": "OM3",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.10.5"
+  },
+  {
+    "Description": "Critical Text/Codes for Categorical Observations",
+    "Item#": 640,
+    "Seg": "OM3",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.10.6"
+  },
+  {
+    "Description": "Value Type",
+    "Item#": 570,
+    "Seg": "OM3",
+    "Seq#": 7,
+    "Len": 3,
+    "DT": "ID",
+    "Table": 125,
+    "Chapter": "8.8.10.7"
+  }
 ]

@@ -1,487 +1,487 @@
 [
-    {
-        "Description": "Accommodation Code",
-        "Item#": 182,
-        "Seg": "PV2",
-        "Seq#": 2,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 129,
-        "Chapter": "3.4.4.2"
-      },
-      {
-        "Description": "Actual Length of Inpatient Stay",
-        "Item#": 712,
-        "Seg": "PV2",
-        "Seq#": 11,
-        "Len": 3,
-        "DT": "NM",
-        "Chapter": "3.4.4.11"
-      },
-      {
-        "Description": "Admission Level of Care Code",
-        "Item#": 1545,
-        "Seg": "PV2",
-        "Seq#": 40,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 432,
-        "Chapter": "3.4.4.40"
-      },
-      {
-        "Description": "Admit Reason",
-        "Item#": 183,
-        "Seg": "PV2",
-        "Seq#": 3,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "3.4.4.3"
-      },
-      {
-        "Description": "Advance Directive Code",
-        "Item#": 1548,
-        "Seg": "PV2",
-        "Seq#": 45,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 435,
-        "Chapter": "3.4.4.45"
-      },
-      {
-        "Description": "Advance Directive Last Verified Date",
-        "Item#": 2141,
-        "Seg": "PV2",
-        "Seq#": 50,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.4.50"
-      },
-      {
-        "Description": "Baby Detained Indicator",
-        "Item#": 738,
-        "Seg": "PV2",
-        "Seq#": 37,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.37"
-      },
-      {
-        "Description": "Billing Media Code",
-        "Item#": 733,
-        "Seg": "PV2",
-        "Seq#": 32,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.32"
-      },
-      {
-        "Description": "Clinic Organization Name",
-        "Item#": 724,
-        "Seg": "PV2",
-        "Seq#": 23,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "3.4.4.23"
-      },
-      {
-        "Description": "Employment Illness Related Indicator",
-        "Item#": 716,
-        "Seg": "PV2",
-        "Seq#": 15,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.15"
-      },
-      {
-        "Description": "Estimated Length of Inpatient Stay",
-        "Item#": 711,
-        "Seg": "PV2",
-        "Seq#": 10,
-        "Len": 3,
-        "DT": "NM",
-        "Chapter": "3.4.4.10"
-      },
-      {
-        "Description": "Expected Admit Date/Time",
-        "Item#": 188,
-        "Seg": "PV2",
-        "Seq#": 8,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "3.4.4.8"
-      },
-      {
-        "Description": "Expected Discharge Date/Time",
-        "Item#": 189,
-        "Seg": "PV2",
-        "Seq#": 9,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "3.4.4.9"
-      },
-      {
-        "Description": "Expected Discharge Disposition",
-        "Item#": 728,
-        "Seg": "PV2",
-        "Seq#": 27,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 112,
-        "Chapter": "3.4.4.27"
-      },
-      {
-        "Description": "Expected LOA Return Date/Time",
-        "Item#": 1550,
-        "Seg": "PV2",
-        "Seq#": 47,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "3.4.4.47"
-      },
-      {
-        "Description": "Expected Number of Insurance Plans",
-        "Item#": 721,
-        "Seg": "PV2",
-        "Seq#": 20,
-        "Len": 1,
-        "DT": "NM",
-        "Chapter": "3.4.4.20"
-      },
-      {
-        "Description": "Expected Pre-admission Testing Date/Time",
-        "Item#": 1841,
-        "Seg": "PV2",
-        "Seq#": 48,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "3.4.4.48"
-      },
-      {
-        "Description": "Expected Surgery Date and Time",
-        "Item#": 734,
-        "Seg": "PV2",
-        "Seq#": 33,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "3.4.4.33"
-      },
-      {
-        "Description": "First Similar Illness Date",
-        "Item#": 730,
-        "Seg": "PV2",
-        "Seq#": 29,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.4.29"
-      },
-      {
-        "Description": "Living Will Code",
-        "Item#": 759,
-        "Seg": "PV2",
-        "Seq#": 43,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 315,
-        "Chapter": "3.4.4.43"
-      },
-      {
-        "Description": "Military Non-Availability Code",
-        "Item#": 736,
-        "Seg": "PV2",
-        "Seq#": 35,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.35"
-      },
-      {
-        "Description": "Military Partnership Code",
-        "Item#": 735,
-        "Seg": "PV2",
-        "Seq#": 34,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.34"
-      },
-      {
-        "Description": "Mode of Arrival Code",
-        "Item#": 1543,
-        "Seg": "PV2",
-        "Seq#": 38,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 430,
-        "Chapter": "3.4.4.38"
-      },
-      {
-        "Description": "Newborn Baby Indicator",
-        "Item#": 737,
-        "Seg": "PV2",
-        "Seq#": 36,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.36"
-      },
-      {
-        "Description": "Notify Clergy Code",
-        "Item#": 1842,
-        "Seg": "PV2",
-        "Seq#": 49,
-        "Len": 20,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 534,
-        "Chapter": "3.4.4.49"
-      },
-      {
-        "Description": "Organ Donor Code",
-        "Item#": 760,
-        "Seg": "PV2",
-        "Seq#": 44,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 316,
-        "Chapter": "3.4.4.44"
-      },
-      {
-        "Description": "Patient Charge Adjustment Code",
-        "Item#": 731,
-        "Seg": "PV2",
-        "Seq#": 30,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 218,
-        "Chapter": "3.4.4.30"
-      },
-      {
-        "Description": "Patient Condition Code",
-        "Item#": 1547,
-        "Seg": "PV2",
-        "Seq#": 42,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 434,
-        "Chapter": "3.4.4.42"
-      },
-      {
-        "Description": "Patient Status Code",
-        "Item#": 725,
-        "Seg": "PV2",
-        "Seq#": 24,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 216,
-        "Chapter": "3.4.4.24"
-      },
-      {
-        "Description": "Patient Status Effective Date",
-        "Item#": 1549,
-        "Seg": "PV2",
-        "Seq#": 46,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.4.46"
-      },
-      {
-        "Description": "Patient Valuables",
-        "Item#": 185,
-        "Seg": "PV2",
-        "Seq#": 5,
-        "Len": 25,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "3.4.4.5"
-      },
-      {
-        "Description": "Patient Valuables Location",
-        "Item#": 186,
-        "Seg": "PV2",
-        "Seq#": 6,
-        "Len": 25,
-        "DT": "ST",
-        "Chapter": "3.4.4.6"
-      },
-      {
-        "Description": "Precaution Code",
-        "Item#": 1546,
-        "Seg": "PV2",
-        "Seq#": 41,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 433,
-        "Chapter": "3.4.4.41"
-      },
-      {
-        "Description": "Previous Service Date",
-        "Item#": 715,
-        "Seg": "PV2",
-        "Seq#": 14,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.4.14"
-      },
-      {
-        "Description": "Previous Treatment Date",
-        "Item#": 727,
-        "Seg": "PV2",
-        "Seq#": 26,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.4.26"
-      },
-      {
-        "Description": "Prior Pending Location",
-        "Item#": 181,
-        "Seg": "PV2",
-        "Seq#": 1,
-        "Len": 80,
-        "DT": "PL",
-        "Chapter": "3.4.4.1"
-      },
-      {
-        "Description": "Purge Status Code",
-        "Item#": 717,
-        "Seg": "PV2",
-        "Seq#": 16,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 213,
-        "Chapter": "3.4.4.16"
-      },
-      {
-        "Description": "Purge Status Date",
-        "Item#": 718,
-        "Seg": "PV2",
-        "Seq#": 17,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.4.17"
-      },
-      {
-        "Description": "Recreational Drug Use Code",
-        "Item#": 1544,
-        "Seg": "PV2",
-        "Seq#": 39,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 431,
-        "Chapter": "3.4.4.39"
-      },
-      {
-        "Description": "Recurring Service Code",
-        "Item#": 732,
-        "Seg": "PV2",
-        "Seq#": 31,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 219,
-        "Chapter": "3.4.4.31"
-      },
-      {
-        "Description": "Referral Source Code",
-        "Item#": 714,
-        "Seg": "PV2",
-        "Seq#": 13,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "3.4.4.13"
-      },
-      {
-        "Description": "Retention Indicator",
-        "Item#": 720,
-        "Seg": "PV2",
-        "Seq#": 19,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.19"
-      },
-      {
-        "Description": "Signature on File Date",
-        "Item#": 729,
-        "Seg": "PV2",
-        "Seq#": 28,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.4.28"
-      },
-      {
-        "Description": "Special Program Code",
-        "Item#": 719,
-        "Seg": "PV2",
-        "Seq#": 18,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 214,
-        "Chapter": "3.4.4.18"
-      },
-      {
-        "Description": "Transfer Reason",
-        "Item#": 184,
-        "Seg": "PV2",
-        "Seq#": 4,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "3.4.4.4"
-      },
-      {
-        "Description": "Visit Description",
-        "Item#": 713,
-        "Seg": "PV2",
-        "Seq#": 12,
-        "Len": 50,
-        "DT": "ST",
-        "Chapter": "3.4.4.12"
-      },
-      {
-        "Description": "Visit Priority Code",
-        "Item#": 726,
-        "Seg": "PV2",
-        "Seq#": 25,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 217,
-        "Chapter": "3.4.4.25"
-      },
-      {
-        "Description": "Visit Protection Indicator",
-        "Item#": 723,
-        "Seg": "PV2",
-        "Seq#": 22,
-        "Len": 0,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "3.4.4.22"
-      },
-      {
-        "Description": "Visit Publicity Code",
-        "Item#": 722,
-        "Seg": "PV2",
-        "Seq#": 21,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 215,
-        "Chapter": "3.4.4.21"
-      },
-      {
-        "Description": "Visit User Code",
-        "Item#": 187,
-        "Seg": "PV2",
-        "Seq#": 7,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 130,
-        "Chapter": "3.4.4.7"
-      }
+  {
+    "Description": "Prior Pending Location",
+    "Item#": 181,
+    "Seg": "PV2",
+    "Seq#": 1,
+    "Len": 80,
+    "DT": "PL",
+    "Chapter": "3.4.4.1"
+  },
+  {
+    "Description": "Accommodation Code",
+    "Item#": 182,
+    "Seg": "PV2",
+    "Seq#": 2,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 129,
+    "Chapter": "3.4.4.2"
+  },
+  {
+    "Description": "Admit Reason",
+    "Item#": 183,
+    "Seg": "PV2",
+    "Seq#": 3,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "3.4.4.3"
+  },
+  {
+    "Description": "Transfer Reason",
+    "Item#": 184,
+    "Seg": "PV2",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "3.4.4.4"
+  },
+  {
+    "Description": "Patient Valuables",
+    "Item#": 185,
+    "Seg": "PV2",
+    "Seq#": 5,
+    "Len": 25,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "3.4.4.5"
+  },
+  {
+    "Description": "Patient Valuables Location",
+    "Item#": 186,
+    "Seg": "PV2",
+    "Seq#": 6,
+    "Len": 25,
+    "DT": "ST",
+    "Chapter": "3.4.4.6"
+  },
+  {
+    "Description": "Visit User Code",
+    "Item#": 187,
+    "Seg": "PV2",
+    "Seq#": 7,
+    "Len": 2,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 130,
+    "Chapter": "3.4.4.7"
+  },
+  {
+    "Description": "Expected Admit Date/Time",
+    "Item#": 188,
+    "Seg": "PV2",
+    "Seq#": 8,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "3.4.4.8"
+  },
+  {
+    "Description": "Expected Discharge Date/Time",
+    "Item#": 189,
+    "Seg": "PV2",
+    "Seq#": 9,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "3.4.4.9"
+  },
+  {
+    "Description": "Estimated Length of Inpatient Stay",
+    "Item#": 711,
+    "Seg": "PV2",
+    "Seq#": 10,
+    "Len": 3,
+    "DT": "NM",
+    "Chapter": "3.4.4.10"
+  },
+  {
+    "Description": "Actual Length of Inpatient Stay",
+    "Item#": 712,
+    "Seg": "PV2",
+    "Seq#": 11,
+    "Len": 3,
+    "DT": "NM",
+    "Chapter": "3.4.4.11"
+  },
+  {
+    "Description": "Visit Description",
+    "Item#": 713,
+    "Seg": "PV2",
+    "Seq#": 12,
+    "Len": 50,
+    "DT": "ST",
+    "Chapter": "3.4.4.12"
+  },
+  {
+    "Description": "Referral Source Code",
+    "Item#": 714,
+    "Seg": "PV2",
+    "Seq#": 13,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "3.4.4.13"
+  },
+  {
+    "Description": "Previous Service Date",
+    "Item#": 715,
+    "Seg": "PV2",
+    "Seq#": 14,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.4.14"
+  },
+  {
+    "Description": "Employment Illness Related Indicator",
+    "Item#": 716,
+    "Seg": "PV2",
+    "Seq#": 15,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.15"
+  },
+  {
+    "Description": "Purge Status Code",
+    "Item#": 717,
+    "Seg": "PV2",
+    "Seq#": 16,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 213,
+    "Chapter": "3.4.4.16"
+  },
+  {
+    "Description": "Purge Status Date",
+    "Item#": 718,
+    "Seg": "PV2",
+    "Seq#": 17,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.4.17"
+  },
+  {
+    "Description": "Special Program Code",
+    "Item#": 719,
+    "Seg": "PV2",
+    "Seq#": 18,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 214,
+    "Chapter": "3.4.4.18"
+  },
+  {
+    "Description": "Retention Indicator",
+    "Item#": 720,
+    "Seg": "PV2",
+    "Seq#": 19,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.19"
+  },
+  {
+    "Description": "Expected Number of Insurance Plans",
+    "Item#": 721,
+    "Seg": "PV2",
+    "Seq#": 20,
+    "Len": 1,
+    "DT": "NM",
+    "Chapter": "3.4.4.20"
+  },
+  {
+    "Description": "Visit Publicity Code",
+    "Item#": 722,
+    "Seg": "PV2",
+    "Seq#": 21,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 215,
+    "Chapter": "3.4.4.21"
+  },
+  {
+    "Description": "Visit Protection Indicator",
+    "Item#": 723,
+    "Seg": "PV2",
+    "Seq#": 22,
+    "Len": 0,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.22"
+  },
+  {
+    "Description": "Clinic Organization Name",
+    "Item#": 724,
+    "Seg": "PV2",
+    "Seq#": 23,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "3.4.4.23"
+  },
+  {
+    "Description": "Patient Status Code",
+    "Item#": 725,
+    "Seg": "PV2",
+    "Seq#": 24,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 216,
+    "Chapter": "3.4.4.24"
+  },
+  {
+    "Description": "Visit Priority Code",
+    "Item#": 726,
+    "Seg": "PV2",
+    "Seq#": 25,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 217,
+    "Chapter": "3.4.4.25"
+  },
+  {
+    "Description": "Previous Treatment Date",
+    "Item#": 727,
+    "Seg": "PV2",
+    "Seq#": 26,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.4.26"
+  },
+  {
+    "Description": "Expected Discharge Disposition",
+    "Item#": 728,
+    "Seg": "PV2",
+    "Seq#": 27,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 112,
+    "Chapter": "3.4.4.27"
+  },
+  {
+    "Description": "Signature on File Date",
+    "Item#": 729,
+    "Seg": "PV2",
+    "Seq#": 28,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.4.28"
+  },
+  {
+    "Description": "First Similar Illness Date",
+    "Item#": 730,
+    "Seg": "PV2",
+    "Seq#": 29,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.4.29"
+  },
+  {
+    "Description": "Patient Charge Adjustment Code",
+    "Item#": 731,
+    "Seg": "PV2",
+    "Seq#": 30,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 218,
+    "Chapter": "3.4.4.30"
+  },
+  {
+    "Description": "Recurring Service Code",
+    "Item#": 732,
+    "Seg": "PV2",
+    "Seq#": 31,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 219,
+    "Chapter": "3.4.4.31"
+  },
+  {
+    "Description": "Billing Media Code",
+    "Item#": 733,
+    "Seg": "PV2",
+    "Seq#": 32,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.32"
+  },
+  {
+    "Description": "Expected Surgery Date and Time",
+    "Item#": 734,
+    "Seg": "PV2",
+    "Seq#": 33,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "3.4.4.33"
+  },
+  {
+    "Description": "Military Partnership Code",
+    "Item#": 735,
+    "Seg": "PV2",
+    "Seq#": 34,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.34"
+  },
+  {
+    "Description": "Military Non-Availability Code",
+    "Item#": 736,
+    "Seg": "PV2",
+    "Seq#": 35,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.35"
+  },
+  {
+    "Description": "Newborn Baby Indicator",
+    "Item#": 737,
+    "Seg": "PV2",
+    "Seq#": 36,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.36"
+  },
+  {
+    "Description": "Baby Detained Indicator",
+    "Item#": 738,
+    "Seg": "PV2",
+    "Seq#": 37,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "3.4.4.37"
+  },
+  {
+    "Description": "Mode of Arrival Code",
+    "Item#": 1543,
+    "Seg": "PV2",
+    "Seq#": 38,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 430,
+    "Chapter": "3.4.4.38"
+  },
+  {
+    "Description": "Recreational Drug Use Code",
+    "Item#": 1544,
+    "Seg": "PV2",
+    "Seq#": 39,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 431,
+    "Chapter": "3.4.4.39"
+  },
+  {
+    "Description": "Admission Level of Care Code",
+    "Item#": 1545,
+    "Seg": "PV2",
+    "Seq#": 40,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 432,
+    "Chapter": "3.4.4.40"
+  },
+  {
+    "Description": "Precaution Code",
+    "Item#": 1546,
+    "Seg": "PV2",
+    "Seq#": 41,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 433,
+    "Chapter": "3.4.4.41"
+  },
+  {
+    "Description": "Patient Condition Code",
+    "Item#": 1547,
+    "Seg": "PV2",
+    "Seq#": 42,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 434,
+    "Chapter": "3.4.4.42"
+  },
+  {
+    "Description": "Living Will Code",
+    "Item#": 759,
+    "Seg": "PV2",
+    "Seq#": 43,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 315,
+    "Chapter": "3.4.4.43"
+  },
+  {
+    "Description": "Organ Donor Code",
+    "Item#": 760,
+    "Seg": "PV2",
+    "Seq#": 44,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 316,
+    "Chapter": "3.4.4.44"
+  },
+  {
+    "Description": "Advance Directive Code",
+    "Item#": 1548,
+    "Seg": "PV2",
+    "Seq#": 45,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 435,
+    "Chapter": "3.4.4.45"
+  },
+  {
+    "Description": "Patient Status Effective Date",
+    "Item#": 1549,
+    "Seg": "PV2",
+    "Seq#": 46,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.4.46"
+  },
+  {
+    "Description": "Expected LOA Return Date/Time",
+    "Item#": 1550,
+    "Seg": "PV2",
+    "Seq#": 47,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "3.4.4.47"
+  },
+  {
+    "Description": "Expected Pre-admission Testing Date/Time",
+    "Item#": 1841,
+    "Seg": "PV2",
+    "Seq#": 48,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "3.4.4.48"
+  },
+  {
+    "Description": "Notify Clergy Code",
+    "Item#": 1842,
+    "Seg": "PV2",
+    "Seq#": 49,
+    "Len": 20,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 534,
+    "Chapter": "3.4.4.49"
+  },
+  {
+    "Description": "Advance Directive Last Verified Date",
+    "Item#": 2141,
+    "Seg": "PV2",
+    "Seq#": 50,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.4.50"
+  }
 ]

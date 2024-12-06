@@ -1,121 +1,121 @@
 [
-    {
-        "Description": "Activation Date - LDP",
-        "Item#": 969,
-        "Seg": "LDP",
-        "Seq#": 7,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.9.5.7"
-      },
-      {
-        "Description": "Active/Inactive Flag",
-        "Item#": 675,
-        "Seg": "LDP",
-        "Seq#": 6,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 183,
-        "Chapter": "8.9.5.6"
-      },
-      {
-        "Description": "Contact Phone",
-        "Item#": 978,
-        "Seg": "LDP",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "XTN",
-        "Chapter": "8.9.5.11"
-      },
-      {
-        "Description": "Inactivated Reason",
-        "Item#": 971,
-        "Seg": "LDP",
-        "Seq#": 9,
-        "Len": 80,
-        "DT": "ST",
-        "Chapter": "8.9.5.9"
-      },
-      {
-        "Description": "Inactivation Date - LDP",
-        "Item#": 970,
-        "Seg": "LDP",
-        "Seq#": 8,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.9.5.8"
-      },
-      {
-        "Description": "Location Cost Center",
-        "Item#": 1584,
-        "Seg": "LDP",
-        "Seq#": 12,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 462,
-        "Chapter": "8.9.5.12"
-      },
-      {
-        "Description": "Location Department",
-        "Item#": 964,
-        "Seg": "LDP",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 264,
-        "Chapter": "8.9.5.2"
-      },
-      {
-        "Description": "Location Service",
-        "Item#": 965,
-        "Seg": "LDP",
-        "Seq#": 3,
-        "Len": 3,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 69,
-        "Chapter": "8.9.5.3"
-      },
-      {
-        "Description": "Primary Key Value - LDP",
-        "Item#": 963,
-        "Seg": "LDP",
-        "Seq#": 1,
-        "Len": 200,
-        "DT": "PL",
-        "Chapter": "8.9.5.1"
-      },
-      {
-        "Description": "Specialty Type",
-        "Item#": 966,
-        "Seg": "LDP",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 265,
-        "Chapter": "8.9.5.4"
-      },
-      {
-        "Description": "Valid Patient Classes",
-        "Item#": 967,
-        "Seg": "LDP",
-        "Seq#": 5,
-        "Len": 1,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 4,
-        "Chapter": "8.9.5.5"
-      },
-      {
-        "Description": "Visiting Hours",
-        "Item#": 976,
-        "Seg": "LDP",
-        "Seq#": 10,
-        "Len": 80,
-        "DT": "VH",
-        "Rep": "Y",
-        "Table": 267,
-        "Chapter": "8.9.5.10"
-      }
+  {
+    "Description": "Primary Key Value - LDP",
+    "Item#": 963,
+    "Seg": "LDP",
+    "Seq#": 1,
+    "Len": 200,
+    "DT": "PL",
+    "Chapter": "8.9.5.1"
+  },
+  {
+    "Description": "Location Department",
+    "Item#": 964,
+    "Seg": "LDP",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 264,
+    "Chapter": "8.9.5.2"
+  },
+  {
+    "Description": "Location Service",
+    "Item#": 965,
+    "Seg": "LDP",
+    "Seq#": 3,
+    "Len": 3,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 69,
+    "Chapter": "8.9.5.3"
+  },
+  {
+    "Description": "Specialty Type",
+    "Item#": 966,
+    "Seg": "LDP",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 265,
+    "Chapter": "8.9.5.4"
+  },
+  {
+    "Description": "Valid Patient Classes",
+    "Item#": 967,
+    "Seg": "LDP",
+    "Seq#": 5,
+    "Len": 1,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 4,
+    "Chapter": "8.9.5.5"
+  },
+  {
+    "Description": "Active/Inactive Flag",
+    "Item#": 675,
+    "Seg": "LDP",
+    "Seq#": 6,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 183,
+    "Chapter": "8.9.5.6"
+  },
+  {
+    "Description": "Activation Date - LDP",
+    "Item#": 969,
+    "Seg": "LDP",
+    "Seq#": 7,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.9.5.7"
+  },
+  {
+    "Description": "Inactivation Date - LDP",
+    "Item#": 970,
+    "Seg": "LDP",
+    "Seq#": 8,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.9.5.8"
+  },
+  {
+    "Description": "Inactivated Reason",
+    "Item#": 971,
+    "Seg": "LDP",
+    "Seq#": 9,
+    "Len": 80,
+    "DT": "ST",
+    "Chapter": "8.9.5.9"
+  },
+  {
+    "Description": "Visiting Hours",
+    "Item#": 976,
+    "Seg": "LDP",
+    "Seq#": 10,
+    "Len": 80,
+    "DT": "VH",
+    "Rep": "Y",
+    "Table": 267,
+    "Chapter": "8.9.5.10"
+  },
+  {
+    "Description": "Contact Phone",
+    "Item#": 978,
+    "Seg": "LDP",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "XTN",
+    "Chapter": "8.9.5.11"
+  },
+  {
+    "Description": "Location Cost Center",
+    "Item#": 1584,
+    "Seg": "LDP",
+    "Seq#": 12,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 462,
+    "Chapter": "8.9.5.12"
+  }
 ]

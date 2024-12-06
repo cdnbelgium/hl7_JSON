@@ -1,50 +1,50 @@
 [
-    {
-        "Description": "Alert Level",
-        "Item#": 1325,
-        "Seg": "EQU",
-        "Seq#": 5,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 367,
-        "Chapter": "13.4.1.5"
-      },
-      {
-        "Description": "Equipment Instance Identifier",
-        "Item#": 1479,
-        "Seg": "EQU",
-        "Seq#": 1,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "13.4.1.1"
-      },
-      {
-        "Description": "Equipment State",
-        "Item#": 1323,
-        "Seg": "EQU",
-        "Seq#": 3,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 365,
-        "Chapter": "13.4.1.3"
-      },
-      {
-        "Description": "Event Date/Time",
-        "Item#": 1322,
-        "Seg": "EQU",
-        "Seq#": 2,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "13.4.1.2"
-      },
-      {
-        "Description": "Local/Remote Control State",
-        "Item#": 1324,
-        "Seg": "EQU",
-        "Seq#": 4,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 366,
-        "Chapter": "13.4.1.4"
-      }
+  {
+    "Description": "Equipment Instance Identifier",
+    "Item#": 1479,
+    "Seg": "EQU",
+    "Seq#": 1,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "13.4.1.1"
+  },
+  {
+    "Description": "Event Date/Time",
+    "Item#": 1322,
+    "Seg": "EQU",
+    "Seq#": 2,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "13.4.1.2"
+  },
+  {
+    "Description": "Equipment State",
+    "Item#": 1323,
+    "Seg": "EQU",
+    "Seq#": 3,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 365,
+    "Chapter": "13.4.1.3"
+  },
+  {
+    "Description": "Local/Remote Control State",
+    "Item#": 1324,
+    "Seg": "EQU",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 366,
+    "Chapter": "13.4.1.4"
+  },
+  {
+    "Description": "Alert Level",
+    "Item#": 1325,
+    "Seg": "EQU",
+    "Seq#": 5,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 367,
+    "Chapter": "13.4.1.5"
+  }
 ]

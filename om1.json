@@ -1,462 +1,462 @@
 [
-    {
-        "Description": "Address of Outside Site(s)",
-        "Item#": 613,
-        "Seg": "OM1",
-        "Seq#": 28,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "8.8.8.28"
-      },
-      {
-        "Description": "Challenge Information",
-        "Item#": 939,
-        "Seg": "OM1",
-        "Seq#": 44,
-        "Len": 200,
-        "DT": "TX",
-        "Table": 256,
-        "Chapter": "8.8.8.44"
-      },
-      {
-        "Description": "Coded Representation of Method",
-        "Item#": 599,
-        "Seg": "OM1",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.8.14"
-      },
-      {
-        "Description": "Confidentiality Code",
-        "Item#": 615,
-        "Seg": "OM1",
-        "Seq#": 30,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 177,
-        "Chapter": "8.8.8.30"
-      },
-      {
-        "Description": "Contraindications to Observations",
-        "Item#": 618,
-        "Seg": "OM1",
-        "Seq#": 33,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.33"
-      },
-      {
-        "Description": "Date/Time Stamp for any change in Definition for the Observation",
-        "Item#": 606,
-        "Seg": "OM1",
-        "Seq#": 21,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.8.8.21"
-      },
-      {
-        "Description": "Description of Test Methods",
-        "Item#": 626,
-        "Seg": "OM1",
-        "Seq#": 41,
-        "Len": 65536,
-        "DT": "TX",
-        "Chapter": "8.8.8.41"
-      },
-      {
-        "Description": "Effective Date/Time of Change",
-        "Item#": 607,
-        "Seg": "OM1",
-        "Seq#": 22,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.8.8.22"
-      },
-      {
-        "Description": "Factors that may Affect the Observation",
-        "Item#": 624,
-        "Seg": "OM1",
-        "Seq#": 39,
-        "Len": 200,
-        "DT": "TX",
-        "Chapter": "8.8.8.39"
-      },
-      {
-        "Description": "Fixed Canned Message",
-        "Item#": 621,
-        "Seg": "OM1",
-        "Seq#": 36,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.36"
-      },
-      {
-        "Description": "Identity of Instrument Used to Perform this Study",
-        "Item#": 598,
-        "Seg": "OM1",
-        "Seq#": 13,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.8.13"
-      },
-      {
-        "Description": "Interpretation of Observations",
-        "Item#": 617,
-        "Seg": "OM1",
-        "Seq#": 32,
-        "Len": 65536,
-        "DT": "TX",
-        "Chapter": "8.8.8.32"
-      },
-      {
-        "Description": "Kind of Quantity Observed",
-        "Item#": 937,
-        "Seg": "OM1",
-        "Seq#": 42,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 254,
-        "Chapter": "8.8.8.42"
-      },
-      {
-        "Description": "Modality Of Imaging Measurement",
-        "Item#": 942,
-        "Seg": "OM1",
-        "Seq#": 47,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 259,
-        "Chapter": "8.8.8.47"
-      },
-      {
-        "Description": "Nature of Service/Test/Observation",
-        "Item#": 603,
-        "Seg": "OM1",
-        "Seq#": 18,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 174,
-        "Chapter": "8.8.8.18"
-      },
-      {
-        "Description": "Observation Description",
-        "Item#": 591,
-        "Seg": "OM1",
-        "Seq#": 6,
-        "Len": 200,
-        "DT": "TX",
-        "Chapter": "8.8.8.6"
-      },
-      {
-        "Description": "Observation Producing Department/Section",
-        "Item#": 601,
-        "Seg": "OM1",
-        "Seq#": 16,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.8.16"
-      },
-      {
-        "Description": "Observations Required to Interpret the Observation",
-        "Item#": 616,
-        "Seg": "OM1",
-        "Seq#": 31,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.31"
-      },
-      {
-        "Description": "Orderability",
-        "Item#": 597,
-        "Seg": "OM1",
-        "Seq#": 12,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "8.8.8.12"
-      },
-      {
-        "Description": "Other Names",
-        "Item#": 593,
-        "Seg": "OM1",
-        "Seq#": 8,
-        "Len": 200,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "8.8.8.8"
-      },
-      {
-        "Description": "Other Service/Test/Observation IDs for the Observation",
-        "Item#": 592,
-        "Seg": "OM1",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.7"
-      },
-      {
-        "Description": "Outside Site(s) Where Observation may be Performed",
-        "Item#": 612,
-        "Seg": "OM1",
-        "Seq#": 27,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.8.27"
-      },
-      {
-        "Description": "Patient Preparation",
-        "Item#": 622,
-        "Seg": "OM1",
-        "Seq#": 37,
-        "Len": 200,
-        "DT": "TX",
-        "Chapter": "8.8.8.37"
-      },
-      {
-        "Description": "Permitted Data Types",
-        "Item#": 588,
-        "Seg": "OM1",
-        "Seq#": 3,
-        "Len": 12,
-        "DT": "ID",
-        "Rep": "Y",
-        "Table": 125,
-        "Chapter": "8.8.8.3"
-      },
-      {
-        "Description": "Phone Number of Outside Site",
-        "Item#": 614,
-        "Seg": "OM1",
-        "Seq#": 29,
-        "Len": 250,
-        "DT": "XTN",
-        "Chapter": "8.8.8.29"
-      },
-      {
-        "Description": "Point Versus Interval",
-        "Item#": 938,
-        "Seg": "OM1",
-        "Seq#": 43,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 255,
-        "Chapter": "8.8.8.43"
-      },
-      {
-        "Description": "Portable Device Indicator",
-        "Item#": 600,
-        "Seg": "OM1",
-        "Seq#": 15,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "8.8.8.15"
-      },
-      {
-        "Description": "Preferred Long Name for the Observation",
-        "Item#": 596,
-        "Seg": "OM1",
-        "Seq#": 11,
-        "Len": 200,
-        "DT": "ST",
-        "Chapter": "8.8.8.11"
-      },
-      {
-        "Description": "Preferred Report Name for the Observation",
-        "Item#": 594,
-        "Seg": "OM1",
-        "Seq#": 9,
-        "Len": 30,
-        "DT": "ST",
-        "Chapter": "8.8.8.9"
-      },
-      {
-        "Description": "Preferred Short Name or Mnemonic for Observation",
-        "Item#": 595,
-        "Seg": "OM1",
-        "Seq#": 10,
-        "Len": 8,
-        "DT": "ST",
-        "Chapter": "8.8.8.10"
-      },
-      {
-        "Description": "Procedure Medication",
-        "Item#": 623,
-        "Seg": "OM1",
-        "Seq#": 38,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.38"
-      },
-      {
-        "Description": "Processing Priority",
-        "Item#": 610,
-        "Seg": "OM1",
-        "Seq#": 25,
-        "Len": 40,
-        "DT": "ID",
-        "Rep": "Y",
-        "Table": 168,
-        "Chapter": "8.8.8.25"
-      },
-      {
-        "Description": "Processing Time",
-        "Item#": 609,
-        "Seg": "OM1",
-        "Seq#": 24,
-        "Len": 20,
-        "DT": "NM",
-        "Chapter": "8.8.8.24"
-      },
-      {
-        "Description": "Producer ID",
-        "Item#": 590,
-        "Seg": "OM1",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.5"
-      },
-      {
-        "Description": "Producer's Service/Test/Observation ID",
-        "Item#": 587,
-        "Seg": "OM1",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.2"
-      },
-      {
-        "Description": "Reflex Tests/Observations",
-        "Item#": 619,
-        "Seg": "OM1",
-        "Seq#": 34,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "8.8.8.34"
-      },
-      {
-        "Description": "Relationship Modifier",
-        "Item#": 940,
-        "Seg": "OM1",
-        "Seq#": 45,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 258,
-        "Chapter": "8.8.8.45"
-      },
-      {
-        "Description": "Report Display Order",
-        "Item#": 605,
-        "Seg": "OM1",
-        "Seq#": 20,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "8.8.8.20"
-      },
-      {
-        "Description": "Report Subheader",
-        "Item#": 604,
-        "Seg": "OM1",
-        "Seq#": 19,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.19"
-      },
-      {
-        "Description": "Reporting Priority",
-        "Item#": 611,
-        "Seg": "OM1",
-        "Seq#": 26,
-        "Len": 5,
-        "DT": "ID",
-        "Table": 169,
-        "Chapter": "8.8.8.26"
-      },
-      {
-        "Description": "Rules that Trigger Reflex Testing",
-        "Item#": 620,
-        "Seg": "OM1",
-        "Seq#": 35,
-        "Len": 80,
-        "DT": "TX",
-        "Chapter": "8.8.8.35"
-      },
-      {
-        "Description": "Sequence Number - Test/Observation Master File",
-        "Item#": 586,
-        "Seg": "OM1",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "8.8.8.1"
-      },
-      {
-        "Description": "Service/Test/Observation Performance Schedule",
-        "Item#": 625,
-        "Seg": "OM1",
-        "Seq#": 40,
-        "Len": 60,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "8.8.8.40"
-      },
-      {
-        "Description": "Specimen Required",
-        "Item#": 589,
-        "Seg": "OM1",
-        "Seq#": 4,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "8.8.8.4"
-      },
-      {
-        "Description": "Target Anatomic Site Of Test",
-        "Item#": 941,
-        "Seg": "OM1",
-        "Seq#": 46,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "8.8.8.46"
-      },
-      {
-        "Description": "Telephone Number of Section",
-        "Item#": 602,
-        "Seg": "OM1",
-        "Seq#": 17,
-        "Len": 250,
-        "DT": "XTN",
-        "Chapter": "8.8.8.17"
-      },
-      {
-        "Description": "Typical Turn-Around Time",
-        "Item#": 608,
-        "Seg": "OM1",
-        "Seq#": 23,
-        "Len": 20,
-        "DT": "NM",
-        "Chapter": "8.8.8.23"
-      }
+  {
+    "Description": "Sequence Number - Test/Observation Master File",
+    "Item#": 586,
+    "Seg": "OM1",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "8.8.8.1"
+  },
+  {
+    "Description": "Producer's Service/Test/Observation ID",
+    "Item#": 587,
+    "Seg": "OM1",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.2"
+  },
+  {
+    "Description": "Permitted Data Types",
+    "Item#": 588,
+    "Seg": "OM1",
+    "Seq#": 3,
+    "Len": 12,
+    "DT": "ID",
+    "Rep": "Y",
+    "Table": 125,
+    "Chapter": "8.8.8.3"
+  },
+  {
+    "Description": "Specimen Required",
+    "Item#": 589,
+    "Seg": "OM1",
+    "Seq#": 4,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "8.8.8.4"
+  },
+  {
+    "Description": "Producer ID",
+    "Item#": 590,
+    "Seg": "OM1",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.5"
+  },
+  {
+    "Description": "Observation Description",
+    "Item#": 591,
+    "Seg": "OM1",
+    "Seq#": 6,
+    "Len": 200,
+    "DT": "TX",
+    "Chapter": "8.8.8.6"
+  },
+  {
+    "Description": "Other Service/Test/Observation IDs for the Observation",
+    "Item#": 592,
+    "Seg": "OM1",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.7"
+  },
+  {
+    "Description": "Other Names",
+    "Item#": 593,
+    "Seg": "OM1",
+    "Seq#": 8,
+    "Len": 200,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "8.8.8.8"
+  },
+  {
+    "Description": "Preferred Report Name for the Observation",
+    "Item#": 594,
+    "Seg": "OM1",
+    "Seq#": 9,
+    "Len": 30,
+    "DT": "ST",
+    "Chapter": "8.8.8.9"
+  },
+  {
+    "Description": "Preferred Short Name or Mnemonic for Observation",
+    "Item#": 595,
+    "Seg": "OM1",
+    "Seq#": 10,
+    "Len": 8,
+    "DT": "ST",
+    "Chapter": "8.8.8.10"
+  },
+  {
+    "Description": "Preferred Long Name for the Observation",
+    "Item#": 596,
+    "Seg": "OM1",
+    "Seq#": 11,
+    "Len": 200,
+    "DT": "ST",
+    "Chapter": "8.8.8.11"
+  },
+  {
+    "Description": "Orderability",
+    "Item#": 597,
+    "Seg": "OM1",
+    "Seq#": 12,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "8.8.8.12"
+  },
+  {
+    "Description": "Identity of Instrument Used to Perform this Study",
+    "Item#": 598,
+    "Seg": "OM1",
+    "Seq#": 13,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.8.13"
+  },
+  {
+    "Description": "Coded Representation of Method",
+    "Item#": 599,
+    "Seg": "OM1",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.8.14"
+  },
+  {
+    "Description": "Portable Device Indicator",
+    "Item#": 600,
+    "Seg": "OM1",
+    "Seq#": 15,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "8.8.8.15"
+  },
+  {
+    "Description": "Observation Producing Department/Section",
+    "Item#": 601,
+    "Seg": "OM1",
+    "Seq#": 16,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.8.16"
+  },
+  {
+    "Description": "Telephone Number of Section",
+    "Item#": 602,
+    "Seg": "OM1",
+    "Seq#": 17,
+    "Len": 250,
+    "DT": "XTN",
+    "Chapter": "8.8.8.17"
+  },
+  {
+    "Description": "Nature of Service/Test/Observation",
+    "Item#": 603,
+    "Seg": "OM1",
+    "Seq#": 18,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 174,
+    "Chapter": "8.8.8.18"
+  },
+  {
+    "Description": "Report Subheader",
+    "Item#": 604,
+    "Seg": "OM1",
+    "Seq#": 19,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.19"
+  },
+  {
+    "Description": "Report Display Order",
+    "Item#": 605,
+    "Seg": "OM1",
+    "Seq#": 20,
+    "Len": 20,
+    "DT": "ST",
+    "Chapter": "8.8.8.20"
+  },
+  {
+    "Description": "Date/Time Stamp for any change in Definition for the Observation",
+    "Item#": 606,
+    "Seg": "OM1",
+    "Seq#": 21,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.8.8.21"
+  },
+  {
+    "Description": "Effective Date/Time of Change",
+    "Item#": 607,
+    "Seg": "OM1",
+    "Seq#": 22,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.8.8.22"
+  },
+  {
+    "Description": "Typical Turn-Around Time",
+    "Item#": 608,
+    "Seg": "OM1",
+    "Seq#": 23,
+    "Len": 20,
+    "DT": "NM",
+    "Chapter": "8.8.8.23"
+  },
+  {
+    "Description": "Processing Time",
+    "Item#": 609,
+    "Seg": "OM1",
+    "Seq#": 24,
+    "Len": 20,
+    "DT": "NM",
+    "Chapter": "8.8.8.24"
+  },
+  {
+    "Description": "Processing Priority",
+    "Item#": 610,
+    "Seg": "OM1",
+    "Seq#": 25,
+    "Len": 40,
+    "DT": "ID",
+    "Rep": "Y",
+    "Table": 168,
+    "Chapter": "8.8.8.25"
+  },
+  {
+    "Description": "Reporting Priority",
+    "Item#": 611,
+    "Seg": "OM1",
+    "Seq#": 26,
+    "Len": 5,
+    "DT": "ID",
+    "Table": 169,
+    "Chapter": "8.8.8.26"
+  },
+  {
+    "Description": "Outside Site(s) Where Observation may be Performed",
+    "Item#": 612,
+    "Seg": "OM1",
+    "Seq#": 27,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.8.27"
+  },
+  {
+    "Description": "Address of Outside Site(s)",
+    "Item#": 613,
+    "Seg": "OM1",
+    "Seq#": 28,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "8.8.8.28"
+  },
+  {
+    "Description": "Phone Number of Outside Site",
+    "Item#": 614,
+    "Seg": "OM1",
+    "Seq#": 29,
+    "Len": 250,
+    "DT": "XTN",
+    "Chapter": "8.8.8.29"
+  },
+  {
+    "Description": "Confidentiality Code",
+    "Item#": 615,
+    "Seg": "OM1",
+    "Seq#": 30,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 177,
+    "Chapter": "8.8.8.30"
+  },
+  {
+    "Description": "Observations Required to Interpret the Observation",
+    "Item#": 616,
+    "Seg": "OM1",
+    "Seq#": 31,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.31"
+  },
+  {
+    "Description": "Interpretation of Observations",
+    "Item#": 617,
+    "Seg": "OM1",
+    "Seq#": 32,
+    "Len": 65536,
+    "DT": "TX",
+    "Chapter": "8.8.8.32"
+  },
+  {
+    "Description": "Contraindications to Observations",
+    "Item#": 618,
+    "Seg": "OM1",
+    "Seq#": 33,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.33"
+  },
+  {
+    "Description": "Reflex Tests/Observations",
+    "Item#": 619,
+    "Seg": "OM1",
+    "Seq#": 34,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "8.8.8.34"
+  },
+  {
+    "Description": "Rules that Trigger Reflex Testing",
+    "Item#": 620,
+    "Seg": "OM1",
+    "Seq#": 35,
+    "Len": 80,
+    "DT": "TX",
+    "Chapter": "8.8.8.35"
+  },
+  {
+    "Description": "Fixed Canned Message",
+    "Item#": 621,
+    "Seg": "OM1",
+    "Seq#": 36,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.36"
+  },
+  {
+    "Description": "Patient Preparation",
+    "Item#": 622,
+    "Seg": "OM1",
+    "Seq#": 37,
+    "Len": 200,
+    "DT": "TX",
+    "Chapter": "8.8.8.37"
+  },
+  {
+    "Description": "Procedure Medication",
+    "Item#": 623,
+    "Seg": "OM1",
+    "Seq#": 38,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.38"
+  },
+  {
+    "Description": "Factors that may Affect the Observation",
+    "Item#": 624,
+    "Seg": "OM1",
+    "Seq#": 39,
+    "Len": 200,
+    "DT": "TX",
+    "Chapter": "8.8.8.39"
+  },
+  {
+    "Description": "Service/Test/Observation Performance Schedule",
+    "Item#": 625,
+    "Seg": "OM1",
+    "Seq#": 40,
+    "Len": 60,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "8.8.8.40"
+  },
+  {
+    "Description": "Description of Test Methods",
+    "Item#": 626,
+    "Seg": "OM1",
+    "Seq#": 41,
+    "Len": 65536,
+    "DT": "TX",
+    "Chapter": "8.8.8.41"
+  },
+  {
+    "Description": "Kind of Quantity Observed",
+    "Item#": 937,
+    "Seg": "OM1",
+    "Seq#": 42,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 254,
+    "Chapter": "8.8.8.42"
+  },
+  {
+    "Description": "Point Versus Interval",
+    "Item#": 938,
+    "Seg": "OM1",
+    "Seq#": 43,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 255,
+    "Chapter": "8.8.8.43"
+  },
+  {
+    "Description": "Challenge Information",
+    "Item#": 939,
+    "Seg": "OM1",
+    "Seq#": 44,
+    "Len": 200,
+    "DT": "TX",
+    "Table": 256,
+    "Chapter": "8.8.8.44"
+  },
+  {
+    "Description": "Relationship Modifier",
+    "Item#": 940,
+    "Seg": "OM1",
+    "Seq#": 45,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 258,
+    "Chapter": "8.8.8.45"
+  },
+  {
+    "Description": "Target Anatomic Site Of Test",
+    "Item#": 941,
+    "Seg": "OM1",
+    "Seq#": 46,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "8.8.8.46"
+  },
+  {
+    "Description": "Modality Of Imaging Measurement",
+    "Item#": 942,
+    "Seg": "OM1",
+    "Seq#": 47,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 259,
+    "Chapter": "8.8.8.47"
+  }
 ]

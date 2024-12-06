@@ -1,216 +1,216 @@
 [
-    {
-        "Description": "Blood Deductible",
-        "Item#": 531,
-        "Seg": "UB1",
-        "Seq#": 2,
-        "Len": 0,
-        "DT": "-",
-        "Chapter": "6.5.10.2"
-      },
-      {
-        "Description": "Blood Furnished-Pints",
-        "Item#": 532,
-        "Seg": "UB1",
-        "Seq#": 3,
-        "Len": 2,
-        "DT": "NM",
-        "Chapter": "6.5.10.3"
-      },
-      {
-        "Description": "Blood Not Replaced-Pints",
-        "Item#": 534,
-        "Seg": "UB1",
-        "Seq#": 5,
-        "Len": 2,
-        "DT": "NM",
-        "Chapter": "6.5.10.5"
-      },
-      {
-        "Description": "Blood Replaced-Pints",
-        "Item#": 533,
-        "Seg": "UB1",
-        "Seq#": 4,
-        "Len": 2,
-        "DT": "NM",
-        "Chapter": "6.5.10.4"
-      },
-      {
-        "Description": "Co-Insurance Days",
-        "Item#": 535,
-        "Seg": "UB1",
-        "Seq#": 6,
-        "Len": 0,
-        "DT": "NM",
-        "Chapter": "6.5.10.6"
-      },
-      {
-        "Description": "Condition Code",
-        "Item#": 536,
-        "Seg": "UB1",
-        "Seq#": 7,
-        "Len": 0,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 43,
-        "Chapter": "6.5.10.7"
-      },
-      {
-        "Description": "Covered Days",
-        "Item#": 537,
-        "Seg": "UB1",
-        "Seq#": 8,
-        "Len": 0,
-        "DT": "NM",
-        "Chapter": "6.5.10.8"
-      },
-      {
-        "Description": "Non Covered Days",
-        "Item#": 538,
-        "Seg": "UB1",
-        "Seq#": 9,
-        "Len": 0,
-        "DT": "NM",
-        "Chapter": "6.5.10.9"
-      },
-      {
-        "Description": "Number Of Grace Days",
-        "Item#": 540,
-        "Seg": "UB1",
-        "Seq#": 11,
-        "Len": 2,
-        "DT": "NM",
-        "Chapter": "6.5.10.11"
-      },
-      {
-        "Description": "Occur Span End Date",
-        "Item#": 548,
-        "Seg": "UB1",
-        "Seq#": 19,
-        "Len": 0,
-        "DT": "DT",
-        "Chapter": "6.5.10.19"
-      },
-      {
-        "Description": "Occur Span Start Date",
-        "Item#": 547,
-        "Seg": "UB1",
-        "Seq#": 18,
-        "Len": 0,
-        "DT": "DT",
-        "Chapter": "6.5.10.18"
-      },
-      {
-        "Description": "Occurrence",
-        "Item#": 545,
-        "Seg": "UB1",
-        "Seq#": 16,
-        "Len": 0,
-        "DT": "OCD",
-        "Rep": "Y",
-        "Chapter": "6.5.10.16"
-      },
-      {
-        "Description": "Occurrence Span",
-        "Item#": 546,
-        "Seg": "UB1",
-        "Seq#": 17,
-        "Len": 0,
-        "DT": "CWE",
-        "Table": 351,
-        "Chapter": "6.5.10.17"
-      },
-      {
-        "Description": "PSRO/UR Approval Indicator",
-        "Item#": 542,
-        "Seg": "UB1",
-        "Seq#": 13,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 349,
-        "Chapter": "6.5.10.13"
-      },
-      {
-        "Description": "PSRO/UR Approved Stay-Fm",
-        "Item#": 543,
-        "Seg": "UB1",
-        "Seq#": 14,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.10.14"
-      },
-      {
-        "Description": "PSRO/UR Approved Stay-To",
-        "Item#": 544,
-        "Seg": "UB1",
-        "Seq#": 15,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.10.15"
-      },
-      {
-        "Description": "Set ID - UB1",
-        "Item#": 530,
-        "Seg": "UB1",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "6.5.10.1"
-      },
-      {
-        "Description": "Special Program Indicator",
-        "Item#": 541,
-        "Seg": "UB1",
-        "Seq#": 12,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 348,
-        "Chapter": "6.5.10.12"
-      },
-      {
-        "Description": "UB-82 Locator 2",
-        "Item#": 549,
-        "Seg": "UB1",
-        "Seq#": 20,
-        "Len": 0,
-        "DT": "ST",
-        "Chapter": "6.5.10.20"
-      },
-      {
-        "Description": "UB-82 Locator 27",
-        "Item#": 551,
-        "Seg": "UB1",
-        "Seq#": 22,
-        "Len": 0,
-        "DT": "ST",
-        "Chapter": "6.5.10.22"
-      },
-      {
-        "Description": "UB-82 Locator 45",
-        "Item#": 552,
-        "Seg": "UB1",
-        "Seq#": 23,
-        "Len": 0,
-        "DT": "ST",
-        "Chapter": "6.5.10.23"
-      },
-      {
-        "Description": "UB-82 Locator 9",
-        "Item#": 550,
-        "Seg": "UB1",
-        "Seq#": 21,
-        "Len": 0,
-        "DT": "ST",
-        "Chapter": "6.5.10.21"
-      },
-      {
-        "Description": "Value Amount & Code",
-        "Item#": 539,
-        "Seg": "UB1",
-        "Seq#": 10,
-        "Len": 0,
-        "DT": "UVC",
-        "Rep": "Y",
-        "Chapter": "6.5.10.10"
-      }
+  {
+    "Description": "Set ID - UB1",
+    "Item#": 530,
+    "Seg": "UB1",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "6.5.10.1"
+  },
+  {
+    "Description": "Blood Deductible",
+    "Item#": 531,
+    "Seg": "UB1",
+    "Seq#": 2,
+    "Len": 0,
+    "DT": "-",
+    "Chapter": "6.5.10.2"
+  },
+  {
+    "Description": "Blood Furnished-Pints",
+    "Item#": 532,
+    "Seg": "UB1",
+    "Seq#": 3,
+    "Len": 2,
+    "DT": "NM",
+    "Chapter": "6.5.10.3"
+  },
+  {
+    "Description": "Blood Replaced-Pints",
+    "Item#": 533,
+    "Seg": "UB1",
+    "Seq#": 4,
+    "Len": 2,
+    "DT": "NM",
+    "Chapter": "6.5.10.4"
+  },
+  {
+    "Description": "Blood Not Replaced-Pints",
+    "Item#": 534,
+    "Seg": "UB1",
+    "Seq#": 5,
+    "Len": 2,
+    "DT": "NM",
+    "Chapter": "6.5.10.5"
+  },
+  {
+    "Description": "Co-Insurance Days",
+    "Item#": 535,
+    "Seg": "UB1",
+    "Seq#": 6,
+    "Len": 0,
+    "DT": "NM",
+    "Chapter": "6.5.10.6"
+  },
+  {
+    "Description": "Condition Code",
+    "Item#": 536,
+    "Seg": "UB1",
+    "Seq#": 7,
+    "Len": 0,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 43,
+    "Chapter": "6.5.10.7"
+  },
+  {
+    "Description": "Covered Days",
+    "Item#": 537,
+    "Seg": "UB1",
+    "Seq#": 8,
+    "Len": 0,
+    "DT": "NM",
+    "Chapter": "6.5.10.8"
+  },
+  {
+    "Description": "Non Covered Days",
+    "Item#": 538,
+    "Seg": "UB1",
+    "Seq#": 9,
+    "Len": 0,
+    "DT": "NM",
+    "Chapter": "6.5.10.9"
+  },
+  {
+    "Description": "Value Amount & Code",
+    "Item#": 539,
+    "Seg": "UB1",
+    "Seq#": 10,
+    "Len": 0,
+    "DT": "UVC",
+    "Rep": "Y",
+    "Chapter": "6.5.10.10"
+  },
+  {
+    "Description": "Number Of Grace Days",
+    "Item#": 540,
+    "Seg": "UB1",
+    "Seq#": 11,
+    "Len": 2,
+    "DT": "NM",
+    "Chapter": "6.5.10.11"
+  },
+  {
+    "Description": "Special Program Indicator",
+    "Item#": 541,
+    "Seg": "UB1",
+    "Seq#": 12,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 348,
+    "Chapter": "6.5.10.12"
+  },
+  {
+    "Description": "PSRO/UR Approval Indicator",
+    "Item#": 542,
+    "Seg": "UB1",
+    "Seq#": 13,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 349,
+    "Chapter": "6.5.10.13"
+  },
+  {
+    "Description": "PSRO/UR Approved Stay-Fm",
+    "Item#": 543,
+    "Seg": "UB1",
+    "Seq#": 14,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.10.14"
+  },
+  {
+    "Description": "PSRO/UR Approved Stay-To",
+    "Item#": 544,
+    "Seg": "UB1",
+    "Seq#": 15,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.10.15"
+  },
+  {
+    "Description": "Occurrence",
+    "Item#": 545,
+    "Seg": "UB1",
+    "Seq#": 16,
+    "Len": 0,
+    "DT": "OCD",
+    "Rep": "Y",
+    "Chapter": "6.5.10.16"
+  },
+  {
+    "Description": "Occurrence Span",
+    "Item#": 546,
+    "Seg": "UB1",
+    "Seq#": 17,
+    "Len": 0,
+    "DT": "CWE",
+    "Table": 351,
+    "Chapter": "6.5.10.17"
+  },
+  {
+    "Description": "Occur Span Start Date",
+    "Item#": 547,
+    "Seg": "UB1",
+    "Seq#": 18,
+    "Len": 0,
+    "DT": "DT",
+    "Chapter": "6.5.10.18"
+  },
+  {
+    "Description": "Occur Span End Date",
+    "Item#": 548,
+    "Seg": "UB1",
+    "Seq#": 19,
+    "Len": 0,
+    "DT": "DT",
+    "Chapter": "6.5.10.19"
+  },
+  {
+    "Description": "UB-82 Locator 2",
+    "Item#": 549,
+    "Seg": "UB1",
+    "Seq#": 20,
+    "Len": 0,
+    "DT": "ST",
+    "Chapter": "6.5.10.20"
+  },
+  {
+    "Description": "UB-82 Locator 9",
+    "Item#": 550,
+    "Seg": "UB1",
+    "Seq#": 21,
+    "Len": 0,
+    "DT": "ST",
+    "Chapter": "6.5.10.21"
+  },
+  {
+    "Description": "UB-82 Locator 27",
+    "Item#": 551,
+    "Seg": "UB1",
+    "Seq#": 22,
+    "Len": 0,
+    "DT": "ST",
+    "Chapter": "6.5.10.22"
+  },
+  {
+    "Description": "UB-82 Locator 45",
+    "Item#": 552,
+    "Seg": "UB1",
+    "Seq#": 23,
+    "Len": 0,
+    "DT": "ST",
+    "Chapter": "6.5.10.23"
+  }
 ]

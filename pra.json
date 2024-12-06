@@ -1,124 +1,124 @@
 [
-    {
-        "Description": "Date Entered Practice",
-        "Item#": 1296,
-        "Seg": "PRA",
-        "Seq#": 8,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "15.4.6.8"
-      },
-      {
-        "Description": "Date Left Practice",
-        "Item#": 1348,
-        "Seg": "PRA",
-        "Seq#": 10,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "15.4.6.10"
-      },
-      {
-        "Description": "Government Reimbursement Billing Eligibility",
-        "Item#": 1388,
-        "Seg": "PRA",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 401,
-        "Chapter": "15.4.6.11"
-      },
-      {
-        "Description": "Institution",
-        "Item#": 1613,
-        "Seg": "PRA",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 537,
-        "Chapter": "15.4.6.9"
-      },
-      {
-        "Description": "Practitioner Category",
-        "Item#": 687,
-        "Seg": "PRA",
-        "Seq#": 3,
-        "Len": 3,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 186,
-        "Chapter": "15.4.6.3"
-      },
-      {
-        "Description": "Practitioner Group",
-        "Item#": 686,
-        "Seg": "PRA",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 358,
-        "Chapter": "15.4.6.2"
-      },
-      {
-        "Description": "Practitioner ID Numbers",
-        "Item#": 690,
-        "Seg": "PRA",
-        "Seq#": 6,
-        "Len": 0,
-        "DT": "PLN",
-        "Rep": "Y",
-        "Table": 338,
-        "Chapter": "15.4.6.6"
-      },
-      {
-        "Description": "Primary Key Value - PRA",
-        "Item#": 685,
-        "Seg": "PRA",
-        "Seq#": 1,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "15.4.6.1"
-      },
-      {
-        "Description": "Privileges",
-        "Item#": 691,
-        "Seg": "PRA",
-        "Seq#": 7,
-        "Len": 770,
-        "DT": "PIP",
-        "Rep": "Y",
-        "Chapter": "15.4.6.7"
-      },
-      {
-        "Description": "Provider Billing",
-        "Item#": 688,
-        "Seg": "PRA",
-        "Seq#": 4,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 187,
-        "Chapter": "15.4.6.4"
-      },
-      {
-        "Description": "Set ID - PRA",
-        "Item#": 1616,
-        "Seg": "PRA",
-        "Seq#": 12,
-        "Len": 60,
-        "DT": "SI",
-        "Chapter": "15.4.6.12"
-      },
-      {
-        "Description": "Specialty",
-        "Item#": 689,
-        "Seg": "PRA",
-        "Seq#": 5,
-        "Len": 112,
-        "DT": "SPD",
-        "Rep": "Y",
-        "Table": 337,
-        "Chapter": "15.4.6.5"
-      }
+  {
+    "Description": "Primary Key Value - PRA",
+    "Item#": 685,
+    "Seg": "PRA",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "15.4.6.1"
+  },
+  {
+    "Description": "Practitioner Group",
+    "Item#": 686,
+    "Seg": "PRA",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 358,
+    "Chapter": "15.4.6.2"
+  },
+  {
+    "Description": "Practitioner Category",
+    "Item#": 687,
+    "Seg": "PRA",
+    "Seq#": 3,
+    "Len": 3,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 186,
+    "Chapter": "15.4.6.3"
+  },
+  {
+    "Description": "Provider Billing",
+    "Item#": 688,
+    "Seg": "PRA",
+    "Seq#": 4,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 187,
+    "Chapter": "15.4.6.4"
+  },
+  {
+    "Description": "Specialty",
+    "Item#": 689,
+    "Seg": "PRA",
+    "Seq#": 5,
+    "Len": 112,
+    "DT": "SPD",
+    "Rep": "Y",
+    "Table": 337,
+    "Chapter": "15.4.6.5"
+  },
+  {
+    "Description": "Practitioner ID Numbers",
+    "Item#": 690,
+    "Seg": "PRA",
+    "Seq#": 6,
+    "Len": 0,
+    "DT": "PLN",
+    "Rep": "Y",
+    "Table": 338,
+    "Chapter": "15.4.6.6"
+  },
+  {
+    "Description": "Privileges",
+    "Item#": 691,
+    "Seg": "PRA",
+    "Seq#": 7,
+    "Len": 770,
+    "DT": "PIP",
+    "Rep": "Y",
+    "Chapter": "15.4.6.7"
+  },
+  {
+    "Description": "Date Entered Practice",
+    "Item#": 1296,
+    "Seg": "PRA",
+    "Seq#": 8,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "15.4.6.8"
+  },
+  {
+    "Description": "Institution",
+    "Item#": 1613,
+    "Seg": "PRA",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 537,
+    "Chapter": "15.4.6.9"
+  },
+  {
+    "Description": "Date Left Practice",
+    "Item#": 1348,
+    "Seg": "PRA",
+    "Seq#": 10,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "15.4.6.10"
+  },
+  {
+    "Description": "Government Reimbursement Billing Eligibility",
+    "Item#": 1388,
+    "Seg": "PRA",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 401,
+    "Chapter": "15.4.6.11"
+  },
+  {
+    "Description": "Set ID - PRA",
+    "Item#": 1616,
+    "Seg": "PRA",
+    "Seq#": 12,
+    "Len": 60,
+    "DT": "SI",
+    "Chapter": "15.4.6.12"
+  }
 ]

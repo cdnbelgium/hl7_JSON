@@ -1,56 +1,56 @@
 [
-    {
-        "Description": "Software Binary ID",
-        "Item#": 1837,
-        "Seg": "SFT",
-        "Seq#": 4,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "2.14.12.4"
-      },
-      {
-        "Description": "Software Certified Version or Release Number",
-        "Item#": 1835,
-        "Seg": "SFT",
-        "Seq#": 2,
-        "Len": 15,
-        "DT": "ST",
-        "Chapter": "2.14.12.2"
-      },
-      {
-        "Description": "Software Install Date",
-        "Item#": 1839,
-        "Seg": "SFT",
-        "Seq#": 6,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "2.14.12.6"
-      },
-      {
-        "Description": "Software Product Information",
-        "Item#": 1838,
-        "Seg": "SFT",
-        "Seq#": 5,
-        "Len": 1024,
-        "DT": "TX",
-        "Chapter": "2.14.12.5"
-      },
-      {
-        "Description": "Software Product Name",
-        "Item#": 1836,
-        "Seg": "SFT",
-        "Seq#": 3,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "2.14.12.3"
-      },
-      {
-        "Description": "Software Vendor Organization",
-        "Item#": 1834,
-        "Seg": "SFT",
-        "Seq#": 1,
-        "Len": 567,
-        "DT": "XON",
-        "Chapter": "2.14.12.1"
-      }
+  {
+    "Description": "Software Vendor Organization",
+    "Item#": 1834,
+    "Seg": "SFT",
+    "Seq#": 1,
+    "Len": 567,
+    "DT": "XON",
+    "Chapter": "2.14.12.1"
+  },
+  {
+    "Description": "Software Certified Version or Release Number",
+    "Item#": 1835,
+    "Seg": "SFT",
+    "Seq#": 2,
+    "Len": 15,
+    "DT": "ST",
+    "Chapter": "2.14.12.2"
+  },
+  {
+    "Description": "Software Product Name",
+    "Item#": 1836,
+    "Seg": "SFT",
+    "Seq#": 3,
+    "Len": 20,
+    "DT": "ST",
+    "Chapter": "2.14.12.3"
+  },
+  {
+    "Description": "Software Binary ID",
+    "Item#": 1837,
+    "Seg": "SFT",
+    "Seq#": 4,
+    "Len": 20,
+    "DT": "ST",
+    "Chapter": "2.14.12.4"
+  },
+  {
+    "Description": "Software Product Information",
+    "Item#": 1838,
+    "Seg": "SFT",
+    "Seq#": 5,
+    "Len": 1024,
+    "DT": "TX",
+    "Chapter": "2.14.12.5"
+  },
+  {
+    "Description": "Software Install Date",
+    "Item#": 1839,
+    "Seg": "SFT",
+    "Seq#": 6,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "2.14.12.6"
+  }
 ]

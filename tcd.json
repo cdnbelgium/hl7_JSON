@@ -1,77 +1,77 @@
 [
-    {
-        "Description": "Analyte Repeat Status",
-        "Item#": 1425,
-        "Seg": "TCD",
-        "Seq#": 8,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 389,
-        "Chapter": "13.4.10.8"
-      },
-      {
-        "Description": "Auto-Dilution Factor",
-        "Item#": 1420,
-        "Seg": "TCD",
-        "Seq#": 2,
-        "Len": 36,
-        "DT": "SN",
-        "Chapter": "13.4.10.2"
-      },
-      {
-        "Description": "Automatic Repeat Allowed",
-        "Item#": 1416,
-        "Seg": "TCD",
-        "Seq#": 6,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "13.4.10.6"
-      },
-      {
-        "Description": "Endogenous Content of Pre-Dilution Diluent",
-        "Item#": 1413,
-        "Seg": "TCD",
-        "Seq#": 5,
-        "Len": 36,
-        "DT": "SN",
-        "Chapter": "13.4.10.5"
-      },
-      {
-        "Description": "Pre-Dilution Factor",
-        "Item#": 1422,
-        "Seg": "TCD",
-        "Seq#": 4,
-        "Len": 36,
-        "DT": "SN",
-        "Chapter": "13.4.10.4"
-      },
-      {
-        "Description": "Reflex Allowed",
-        "Item#": 1424,
-        "Seg": "TCD",
-        "Seq#": 7,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "13.4.10.7"
-      },
-      {
-        "Description": "Rerun Dilution Factor",
-        "Item#": 1421,
-        "Seg": "TCD",
-        "Seq#": 3,
-        "Len": 36,
-        "DT": "SN",
-        "Chapter": "13.4.10.3"
-      },
-      {
-        "Description": "Universal Service Identifier",
-        "Item#": 238,
-        "Seg": "TCD",
-        "Seq#": 1,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "13.4.10.1"
-      }
+  {
+    "Description": "Universal Service Identifier",
+    "Item#": 238,
+    "Seg": "TCD",
+    "Seq#": 1,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "13.4.10.1"
+  },
+  {
+    "Description": "Auto-Dilution Factor",
+    "Item#": 1420,
+    "Seg": "TCD",
+    "Seq#": 2,
+    "Len": 36,
+    "DT": "SN",
+    "Chapter": "13.4.10.2"
+  },
+  {
+    "Description": "Rerun Dilution Factor",
+    "Item#": 1421,
+    "Seg": "TCD",
+    "Seq#": 3,
+    "Len": 36,
+    "DT": "SN",
+    "Chapter": "13.4.10.3"
+  },
+  {
+    "Description": "Pre-Dilution Factor",
+    "Item#": 1422,
+    "Seg": "TCD",
+    "Seq#": 4,
+    "Len": 36,
+    "DT": "SN",
+    "Chapter": "13.4.10.4"
+  },
+  {
+    "Description": "Endogenous Content of Pre-Dilution Diluent",
+    "Item#": 1413,
+    "Seg": "TCD",
+    "Seq#": 5,
+    "Len": 36,
+    "DT": "SN",
+    "Chapter": "13.4.10.5"
+  },
+  {
+    "Description": "Automatic Repeat Allowed",
+    "Item#": 1416,
+    "Seg": "TCD",
+    "Seq#": 6,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "13.4.10.6"
+  },
+  {
+    "Description": "Reflex Allowed",
+    "Item#": 1424,
+    "Seg": "TCD",
+    "Seq#": 7,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "13.4.10.7"
+  },
+  {
+    "Description": "Analyte Repeat Status",
+    "Item#": 1425,
+    "Seg": "TCD",
+    "Seq#": 8,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 389,
+    "Chapter": "13.4.10.8"
+  }
 ]

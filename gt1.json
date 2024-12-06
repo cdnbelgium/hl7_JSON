@@ -1,562 +1,562 @@
 [
+  {
+      "Description": "Ambulatory Status",
+      "Item#": 145,
+      "Seg": "GT1",
+      "Seq#": 34,
+      "Len": 2,
+      "DT": "IS",
+      "Rep": "Y",
+      "Table": 9,
+      "Chapter": "6.5.5.34"
+    },
     {
-        "Description": "Ambulatory Status",
-        "Item#": 145,
-        "Seg": "GT1",
-        "Seq#": 34,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 9,
-        "Chapter": "6.5.5.34"
-      },
-      {
-        "Description": "Citizenship",
-        "Item#": 129,
-        "Seg": "GT1",
-        "Seq#": 35,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 171,
-        "Chapter": "6.5.5.35"
-      },
-      {
-        "Description": "Contact Person's Name",
-        "Item#": 748,
-        "Seg": "GT1",
-        "Seq#": 45,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Table": 200,
-        "Chapter": "6.5.5.45"
-      },
-      {
-        "Description": "Contact Person's Telephone Number",
-        "Item#": 749,
-        "Seg": "GT1",
-        "Seq#": 46,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.46"
-      },
-      {
-        "Description": "Contact Reason",
-        "Item#": 747,
-        "Seg": "GT1",
-        "Seq#": 47,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 222,
-        "Chapter": "6.5.5.47"
-      },
-      {
-        "Description": "Contact Relationship",
-        "Item#": 784,
-        "Seg": "GT1",
-        "Seq#": 48,
-        "Len": 3,
-        "DT": "IS",
-        "Table": 63,
-        "Chapter": "6.5.5.48"
-      },
-      {
-        "Description": "Employment Stop Date",
-        "Item#": 783,
-        "Seg": "GT1",
-        "Seq#": 32,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.5.32"
-      },
-      {
-        "Description": "Ethnic Group",
-        "Item#": 125,
-        "Seg": "GT1",
-        "Seq#": 44,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 189,
-        "Chapter": "6.5.5.44"
-      },
-      {
-        "Description": "Guarantor Address",
-        "Item#": 409,
-        "Seg": "GT1",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "6.5.5.5"
-      },
-      {
-        "Description": "Guarantor Administrative Sex",
-        "Item#": 413,
-        "Seg": "GT1",
-        "Seq#": 9,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 1,
-        "Chapter": "6.5.5.9"
-      },
-      {
-        "Description": "Guarantor Billing Hold Flag",
-        "Item#": 773,
-        "Seg": "GT1",
-        "Seq#": 22,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.5.22"
-      },
-      {
-        "Description": "Guarantor Birth Place",
-        "Item#": 1851,
-        "Seg": "GT1",
-        "Seq#": 56,
-        "Len": 250,
-        "DT": "ST",
-        "Chapter": "6.5.5.56"
-      },
-      {
-        "Description": "Guarantor Charge Adjustment Code",
-        "Item#": 777,
-        "Seg": "GT1",
-        "Seq#": 26,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 218,
-        "Chapter": "6.5.5.26"
-      },
-      {
-        "Description": "Guarantor Credit Rating Code",
-        "Item#": 774,
-        "Seg": "GT1",
-        "Seq#": 23,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 341,
-        "Chapter": "6.5.5.23"
-      },
-      {
-        "Description": "Guarantor Date - Begin",
-        "Item#": 417,
-        "Seg": "GT1",
-        "Seq#": 13,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.5.13"
-      },
-      {
-        "Description": "Guarantor Date - End",
-        "Item#": 418,
-        "Seg": "GT1",
-        "Seq#": 14,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.5.14"
-      },
-      {
-        "Description": "Guarantor Date/Time Of Birth",
-        "Item#": 412,
-        "Seg": "GT1",
-        "Seq#": 8,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "6.5.5.8"
-      },
-      {
-        "Description": "Guarantor Death Date And Time",
-        "Item#": 775,
-        "Seg": "GT1",
-        "Seq#": 24,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "6.5.5.24"
-      },
-      {
-        "Description": "Guarantor Death Flag",
-        "Item#": 776,
-        "Seg": "GT1",
-        "Seq#": 25,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.5.25"
-      },
-      {
-        "Description": "Guarantor Employee ID Number",
-        "Item#": 423,
-        "Seg": "GT1",
-        "Seq#": 19,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.5.19"
-      },
-      {
-        "Description": "Guarantor Employer Address",
-        "Item#": 421,
-        "Seg": "GT1",
-        "Seq#": 17,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "6.5.5.17"
-      },
-      {
-        "Description": "Guarantor Employer ID Number",
-        "Item#": 780,
-        "Seg": "GT1",
-        "Seq#": 29,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.5.29"
-      },
-      {
-        "Description": "Guarantor Employer Name",
-        "Item#": 420,
-        "Seg": "GT1",
-        "Seq#": 16,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.16"
-      },
-      {
-        "Description": "Guarantor Employer Phone Number",
-        "Item#": 422,
-        "Seg": "GT1",
-        "Seq#": 18,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.18"
-      },
-      {
-        "Description": "Guarantor Employer's Organization Name",
-        "Item#": 1299,
-        "Seg": "GT1",
-        "Seq#": 51,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "6.5.5.51"
-      },
-      {
-        "Description": "Guarantor Employment Status",
-        "Item#": 424,
-        "Seg": "GT1",
-        "Seq#": 20,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 66,
-        "Chapter": "6.5.5.20"
-      },
-      {
-        "Description": "Guarantor Financial Class",
-        "Item#": 1231,
-        "Seg": "GT1",
-        "Seq#": 54,
-        "Len": 50,
-        "DT": "FC",
-        "Chapter": "6.5.5.54"
-      },
-      {
-        "Description": "Guarantor Hire Effective Date",
-        "Item#": 782,
-        "Seg": "GT1",
-        "Seq#": 31,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.5.31"
-      },
-      {
-        "Description": "Guarantor Household Annual Income",
-        "Item#": 778,
-        "Seg": "GT1",
-        "Seq#": 27,
-        "Len": 10,
-        "DT": "CP",
-        "Chapter": "6.5.5.27"
-      },
-      {
-        "Description": "Guarantor Household Size",
-        "Item#": 779,
-        "Seg": "GT1",
-        "Seq#": 28,
-        "Len": 3,
-        "DT": "NM",
-        "Chapter": "6.5.5.28"
-      },
-      {
-        "Description": "Guarantor Marital Status Code",
-        "Item#": 781,
-        "Seg": "GT1",
-        "Seq#": 30,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 2,
-        "Chapter": "6.5.5.30"
-      },
-      {
-        "Description": "Guarantor Name",
-        "Item#": 407,
-        "Seg": "GT1",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.3"
-      },
-      {
-        "Description": "Guarantor Number",
-        "Item#": 406,
-        "Seg": "GT1",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.5.2"
-      },
-      {
-        "Description": "Guarantor Organization Name",
-        "Item#": 425,
-        "Seg": "GT1",
-        "Seq#": 21,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "6.5.5.21"
-      },
-      {
-        "Description": "Guarantor Ph Num - Business",
-        "Item#": 411,
-        "Seg": "GT1",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.7"
-      },
-      {
-        "Description": "Guarantor Ph Num - Home",
-        "Item#": 410,
-        "Seg": "GT1",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.6"
-      },
-      {
-        "Description": "Guarantor Priority",
-        "Item#": 419,
-        "Seg": "GT1",
-        "Seq#": 15,
-        "Len": 2,
-        "DT": "NM",
-        "Chapter": "6.5.5.15"
-      },
-      {
-        "Description": "Guarantor Race",
-        "Item#": 1291,
-        "Seg": "GT1",
-        "Seq#": 55,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 5,
-        "Chapter": "6.5.5.55"
-      },
-      {
-        "Description": "Guarantor Relationship",
-        "Item#": 415,
-        "Seg": "GT1",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 63,
-        "Chapter": "6.5.5.11"
-      },
-      {
-        "Description": "Guarantor Spouse Name",
-        "Item#": 408,
-        "Seg": "GT1",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.4"
-      },
-      {
-        "Description": "Guarantor SSN",
-        "Item#": 416,
-        "Seg": "GT1",
-        "Seq#": 12,
-        "Len": 11,
-        "DT": "ST",
-        "Chapter": "6.5.5.12"
-      },
-      {
-        "Description": "Guarantor Type",
-        "Item#": 414,
-        "Seg": "GT1",
-        "Seq#": 10,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 68,
-        "Chapter": "6.5.5.10"
-      },
-      {
-        "Description": "Handicap",
-        "Item#": 753,
-        "Seg": "GT1",
-        "Seq#": 52,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 295,
-        "Chapter": "6.5.5.52"
-      },
-      {
-        "Description": "Job Code/Class",
-        "Item#": 786,
-        "Seg": "GT1",
-        "Seq#": 50,
-        "Len": 20,
-        "DT": "JCC",
-        "Chapter": "6.5.5.50"
-      },
-      {
-        "Description": "Job Status",
-        "Item#": 752,
-        "Seg": "GT1",
-        "Seq#": 53,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 311,
-        "Chapter": "6.5.5.53"
-      },
-      {
-        "Description": "Job Title",
-        "Item#": 785,
-        "Seg": "GT1",
-        "Seq#": 49,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "6.5.5.49"
-      },
-      {
-        "Description": "Living Arrangement",
-        "Item#": 742,
-        "Seg": "GT1",
-        "Seq#": 37,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 220,
-        "Chapter": "6.5.5.37"
-      },
-      {
-        "Description": "Living Dependency",
-        "Item#": 755,
-        "Seg": "GT1",
-        "Seq#": 33,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 223,
-        "Chapter": "6.5.5.33"
-      },
-      {
-        "Description": "Mother's Maiden Name",
-        "Item#": 109,
-        "Seg": "GT1",
-        "Seq#": 42,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.5.42"
-      },
-      {
-        "Description": "Nationality",
-        "Item#": 739,
-        "Seg": "GT1",
-        "Seq#": 43,
-        "Len": 0,
-        "DT": "CWE",
-        "Table": 212,
-        "Chapter": "6.5.5.43"
-      },
-      {
-        "Description": "Primary Language",
-        "Item#": 118,
-        "Seg": "GT1",
-        "Seq#": 36,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 296,
-        "Chapter": "6.5.5.36"
-      },
-      {
-        "Description": "Protection Indicator",
-        "Item#": 744,
-        "Seg": "GT1",
-        "Seq#": 39,
-        "Len": 0,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.5.39"
-      },
-      {
-        "Description": "Publicity Code",
-        "Item#": 743,
-        "Seg": "GT1",
-        "Seq#": 38,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 215,
-        "Chapter": "6.5.5.38"
-      },
-      {
-        "Description": "Religion",
-        "Item#": 120,
-        "Seg": "GT1",
-        "Seq#": 41,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 6,
-        "Chapter": "6.5.5.41"
-      },
-      {
-        "Description": "Set ID - GT1",
-        "Item#": 405,
-        "Seg": "GT1",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "6.5.5.1"
-      },
-      {
-        "Description": "Student Indicator",
-        "Item#": 745,
-        "Seg": "GT1",
-        "Seq#": 40,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 231,
-        "Chapter": "6.5.5.40"
-      },
-      {
-        "Description": "VIP Indicator",
-        "Item#": 146,
-        "Seg": "GT1",
-        "Seq#": 57,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 99,
-        "Chapter": "6.5.5.57"
-      }
+      "Description": "Citizenship",
+      "Item#": 129,
+      "Seg": "GT1",
+      "Seq#": 35,
+      "Len": 705,
+      "DT": "CWE",
+      "Rep": "Y",
+      "Table": 171,
+      "Chapter": "6.5.5.35"
+    },
+    {
+      "Description": "Contact Person's Name",
+      "Item#": 748,
+      "Seg": "GT1",
+      "Seq#": 45,
+      "Len": 250,
+      "DT": "XPN",
+      "Rep": "Y",
+      "Table": 200,
+      "Chapter": "6.5.5.45"
+    },
+    {
+      "Description": "Contact Person's Telephone Number",
+      "Item#": 749,
+      "Seg": "GT1",
+      "Seq#": 46,
+      "Len": 250,
+      "DT": "XTN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.46"
+    },
+    {
+      "Description": "Contact Reason",
+      "Item#": 747,
+      "Seg": "GT1",
+      "Seq#": 47,
+      "Len": 705,
+      "DT": "CWE",
+      "Table": 222,
+      "Chapter": "6.5.5.47"
+    },
+    {
+      "Description": "Contact Relationship",
+      "Item#": 784,
+      "Seg": "GT1",
+      "Seq#": 48,
+      "Len": 3,
+      "DT": "IS",
+      "Table": 63,
+      "Chapter": "6.5.5.48"
+    },
+    {
+      "Description": "Employment Stop Date",
+      "Item#": 783,
+      "Seg": "GT1",
+      "Seq#": 32,
+      "Len": 8,
+      "DT": "DT",
+      "Chapter": "6.5.5.32"
+    },
+    {
+      "Description": "Ethnic Group",
+      "Item#": 125,
+      "Seg": "GT1",
+      "Seq#": 44,
+      "Len": 705,
+      "DT": "CWE",
+      "Rep": "Y",
+      "Table": 189,
+      "Chapter": "6.5.5.44"
+    },
+    {
+      "Description": "Guarantor Address",
+      "Item#": 409,
+      "Seg": "GT1",
+      "Seq#": 5,
+      "Len": 250,
+      "DT": "XAD",
+      "Rep": "Y",
+      "Chapter": "6.5.5.5"
+    },
+    {
+      "Description": "Guarantor Administrative Sex",
+      "Item#": 413,
+      "Seg": "GT1",
+      "Seq#": 9,
+      "Len": 1,
+      "DT": "IS",
+      "Table": 1,
+      "Chapter": "6.5.5.9"
+    },
+    {
+      "Description": "Guarantor Billing Hold Flag",
+      "Item#": 773,
+      "Seg": "GT1",
+      "Seq#": 22,
+      "Len": 1,
+      "DT": "ID",
+      "Table": 136,
+      "Chapter": "6.5.5.22"
+    },
+    {
+      "Description": "Guarantor Birth Place",
+      "Item#": 1851,
+      "Seg": "GT1",
+      "Seq#": 56,
+      "Len": 250,
+      "DT": "ST",
+      "Chapter": "6.5.5.56"
+    },
+    {
+      "Description": "Guarantor Charge Adjustment Code",
+      "Item#": 777,
+      "Seg": "GT1",
+      "Seq#": 26,
+      "Len": 250,
+      "DT": "CWE",
+      "Table": 218,
+      "Chapter": "6.5.5.26"
+    },
+    {
+      "Description": "Guarantor Credit Rating Code",
+      "Item#": 774,
+      "Seg": "GT1",
+      "Seq#": 23,
+      "Len": 250,
+      "DT": "CWE",
+      "Table": 341,
+      "Chapter": "6.5.5.23"
+    },
+    {
+      "Description": "Guarantor Date - Begin",
+      "Item#": 417,
+      "Seg": "GT1",
+      "Seq#": 13,
+      "Len": 8,
+      "DT": "DT",
+      "Chapter": "6.5.5.13"
+    },
+    {
+      "Description": "Guarantor Date - End",
+      "Item#": 418,
+      "Seg": "GT1",
+      "Seq#": 14,
+      "Len": 8,
+      "DT": "DT",
+      "Chapter": "6.5.5.14"
+    },
+    {
+      "Description": "Guarantor Date/Time Of Birth",
+      "Item#": 412,
+      "Seg": "GT1",
+      "Seq#": 8,
+      "Len": 24,
+      "DT": "DTM",
+      "Chapter": "6.5.5.8"
+    },
+    {
+      "Description": "Guarantor Death Date And Time",
+      "Item#": 775,
+      "Seg": "GT1",
+      "Seq#": 24,
+      "Len": 24,
+      "DT": "DTM",
+      "Chapter": "6.5.5.24"
+    },
+    {
+      "Description": "Guarantor Death Flag",
+      "Item#": 776,
+      "Seg": "GT1",
+      "Seq#": 25,
+      "Len": 1,
+      "DT": "ID",
+      "Table": 136,
+      "Chapter": "6.5.5.25"
+    },
+    {
+      "Description": "Guarantor Employee ID Number",
+      "Item#": 423,
+      "Seg": "GT1",
+      "Seq#": 19,
+      "Len": 250,
+      "DT": "CX",
+      "Rep": "Y",
+      "Chapter": "6.5.5.19"
+    },
+    {
+      "Description": "Guarantor Employer Address",
+      "Item#": 421,
+      "Seg": "GT1",
+      "Seq#": 17,
+      "Len": 250,
+      "DT": "XAD",
+      "Rep": "Y",
+      "Chapter": "6.5.5.17"
+    },
+    {
+      "Description": "Guarantor Employer ID Number",
+      "Item#": 780,
+      "Seg": "GT1",
+      "Seq#": 29,
+      "Len": 250,
+      "DT": "CX",
+      "Rep": "Y",
+      "Chapter": "6.5.5.29"
+    },
+    {
+      "Description": "Guarantor Employer Name",
+      "Item#": 420,
+      "Seg": "GT1",
+      "Seq#": 16,
+      "Len": 250,
+      "DT": "XPN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.16"
+    },
+    {
+      "Description": "Guarantor Employer Phone Number",
+      "Item#": 422,
+      "Seg": "GT1",
+      "Seq#": 18,
+      "Len": 250,
+      "DT": "XTN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.18"
+    },
+    {
+      "Description": "Guarantor Employer's Organization Name",
+      "Item#": 1299,
+      "Seg": "GT1",
+      "Seq#": 51,
+      "Len": 250,
+      "DT": "XON",
+      "Rep": "Y",
+      "Chapter": "6.5.5.51"
+    },
+    {
+      "Description": "Guarantor Employment Status",
+      "Item#": 424,
+      "Seg": "GT1",
+      "Seq#": 20,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 66,
+      "Chapter": "6.5.5.20"
+    },
+    {
+      "Description": "Guarantor Financial Class",
+      "Item#": 1231,
+      "Seg": "GT1",
+      "Seq#": 54,
+      "Len": 50,
+      "DT": "FC",
+      "Chapter": "6.5.5.54"
+    },
+    {
+      "Description": "Guarantor Hire Effective Date",
+      "Item#": 782,
+      "Seg": "GT1",
+      "Seq#": 31,
+      "Len": 8,
+      "DT": "DT",
+      "Chapter": "6.5.5.31"
+    },
+    {
+      "Description": "Guarantor Household Annual Income",
+      "Item#": 778,
+      "Seg": "GT1",
+      "Seq#": 27,
+      "Len": 10,
+      "DT": "CP",
+      "Chapter": "6.5.5.27"
+    },
+    {
+      "Description": "Guarantor Household Size",
+      "Item#": 779,
+      "Seg": "GT1",
+      "Seq#": 28,
+      "Len": 3,
+      "DT": "NM",
+      "Chapter": "6.5.5.28"
+    },
+    {
+      "Description": "Guarantor Marital Status Code",
+      "Item#": 781,
+      "Seg": "GT1",
+      "Seq#": 30,
+      "Len": 250,
+      "DT": "CWE",
+      "Table": 2,
+      "Chapter": "6.5.5.30"
+    },
+    {
+      "Description": "Guarantor Name",
+      "Item#": 407,
+      "Seg": "GT1",
+      "Seq#": 3,
+      "Len": 250,
+      "DT": "XPN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.3"
+    },
+    {
+      "Description": "Guarantor Number",
+      "Item#": 406,
+      "Seg": "GT1",
+      "Seq#": 2,
+      "Len": 250,
+      "DT": "CX",
+      "Rep": "Y",
+      "Chapter": "6.5.5.2"
+    },
+    {
+      "Description": "Guarantor Organization Name",
+      "Item#": 425,
+      "Seg": "GT1",
+      "Seq#": 21,
+      "Len": 250,
+      "DT": "XON",
+      "Rep": "Y",
+      "Chapter": "6.5.5.21"
+    },
+    {
+      "Description": "Guarantor Ph Num - Business",
+      "Item#": 411,
+      "Seg": "GT1",
+      "Seq#": 7,
+      "Len": 250,
+      "DT": "XTN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.7"
+    },
+    {
+      "Description": "Guarantor Ph Num - Home",
+      "Item#": 410,
+      "Seg": "GT1",
+      "Seq#": 6,
+      "Len": 250,
+      "DT": "XTN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.6"
+    },
+    {
+      "Description": "Guarantor Priority",
+      "Item#": 419,
+      "Seg": "GT1",
+      "Seq#": 15,
+      "Len": 2,
+      "DT": "NM",
+      "Chapter": "6.5.5.15"
+    },
+    {
+      "Description": "Guarantor Race",
+      "Item#": 1291,
+      "Seg": "GT1",
+      "Seq#": 55,
+      "Len": 250,
+      "DT": "CWE",
+      "Rep": "Y",
+      "Table": 5,
+      "Chapter": "6.5.5.55"
+    },
+    {
+      "Description": "Guarantor Relationship",
+      "Item#": 415,
+      "Seg": "GT1",
+      "Seq#": 11,
+      "Len": 250,
+      "DT": "CWE",
+      "Table": 63,
+      "Chapter": "6.5.5.11"
+    },
+    {
+      "Description": "Guarantor Spouse Name",
+      "Item#": 408,
+      "Seg": "GT1",
+      "Seq#": 4,
+      "Len": 250,
+      "DT": "XPN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.4"
+    },
+    {
+      "Description": "Guarantor SSN",
+      "Item#": 416,
+      "Seg": "GT1",
+      "Seq#": 12,
+      "Len": 11,
+      "DT": "ST",
+      "Chapter": "6.5.5.12"
+    },
+    {
+      "Description": "Guarantor Type",
+      "Item#": 414,
+      "Seg": "GT1",
+      "Seq#": 10,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 68,
+      "Chapter": "6.5.5.10"
+    },
+    {
+      "Description": "Handicap",
+      "Item#": 753,
+      "Seg": "GT1",
+      "Seq#": 52,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 295,
+      "Chapter": "6.5.5.52"
+    },
+    {
+      "Description": "Job Code/Class",
+      "Item#": 786,
+      "Seg": "GT1",
+      "Seq#": 50,
+      "Len": 20,
+      "DT": "JCC",
+      "Chapter": "6.5.5.50"
+    },
+    {
+      "Description": "Job Status",
+      "Item#": 752,
+      "Seg": "GT1",
+      "Seq#": 53,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 311,
+      "Chapter": "6.5.5.53"
+    },
+    {
+      "Description": "Job Title",
+      "Item#": 785,
+      "Seg": "GT1",
+      "Seq#": 49,
+      "Len": 20,
+      "DT": "ST",
+      "Chapter": "6.5.5.49"
+    },
+    {
+      "Description": "Living Arrangement",
+      "Item#": 742,
+      "Seg": "GT1",
+      "Seq#": 37,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 220,
+      "Chapter": "6.5.5.37"
+    },
+    {
+      "Description": "Living Dependency",
+      "Item#": 755,
+      "Seg": "GT1",
+      "Seq#": 33,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 223,
+      "Chapter": "6.5.5.33"
+    },
+    {
+      "Description": "Mother's Maiden Name",
+      "Item#": 109,
+      "Seg": "GT1",
+      "Seq#": 42,
+      "Len": 250,
+      "DT": "XPN",
+      "Rep": "Y",
+      "Chapter": "6.5.5.42"
+    },
+    {
+      "Description": "Nationality",
+      "Item#": 739,
+      "Seg": "GT1",
+      "Seq#": 43,
+      "Len": 0,
+      "DT": "CWE",
+      "Table": 212,
+      "Chapter": "6.5.5.43"
+    },
+    {
+      "Description": "Primary Language",
+      "Item#": 118,
+      "Seg": "GT1",
+      "Seq#": 36,
+      "Len": 705,
+      "DT": "CWE",
+      "Table": 296,
+      "Chapter": "6.5.5.36"
+    },
+    {
+      "Description": "Protection Indicator",
+      "Item#": 744,
+      "Seg": "GT1",
+      "Seq#": 39,
+      "Len": 0,
+      "DT": "ID",
+      "Table": 136,
+      "Chapter": "6.5.5.39"
+    },
+    {
+      "Description": "Publicity Code",
+      "Item#": 743,
+      "Seg": "GT1",
+      "Seq#": 38,
+      "Len": 705,
+      "DT": "CWE",
+      "Table": 215,
+      "Chapter": "6.5.5.38"
+    },
+    {
+      "Description": "Religion",
+      "Item#": 120,
+      "Seg": "GT1",
+      "Seq#": 41,
+      "Len": 705,
+      "DT": "CWE",
+      "Table": 6,
+      "Chapter": "6.5.5.41"
+    },
+    {
+      "Description": "Set ID - GT1",
+      "Item#": 405,
+      "Seg": "GT1",
+      "Seq#": 1,
+      "Len": 4,
+      "DT": "SI",
+      "Chapter": "6.5.5.1"
+    },
+    {
+      "Description": "Student Indicator",
+      "Item#": 745,
+      "Seg": "GT1",
+      "Seq#": 40,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 231,
+      "Chapter": "6.5.5.40"
+    },
+    {
+      "Description": "VIP Indicator",
+      "Item#": 146,
+      "Seg": "GT1",
+      "Seq#": 57,
+      "Len": 2,
+      "DT": "IS",
+      "Table": 99,
+      "Chapter": "6.5.5.57"
+    }
 ]

@@ -1,190 +1,190 @@
 [
-    {
-        "Description": "Action Reason",
-        "Item#": 1553,
-        "Seg": "IAM",
-        "Seq#": 8,
-        "Len": 60,
-        "DT": "ST",
-        "Chapter": "3.4.7.8"
-      },
-      {
-        "Description": "Alert Device Code",
-        "Item#": 1561,
-        "Seg": "IAM",
-        "Seq#": 16,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 437,
-        "Chapter": "3.4.7.16"
-      },
-      {
-        "Description": "Allergen Code/Mnemonic/Description",
-        "Item#": 205,
-        "Seg": "IAM",
-        "Seq#": 3,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "3.4.7.3"
-      },
-      {
-        "Description": "Allergen Group Code/Mnemonic/Description",
-        "Item#": 1555,
-        "Seg": "IAM",
-        "Seq#": 10,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "3.4.7.10"
-      },
-      {
-        "Description": "Allergen Type Code",
-        "Item#": 204,
-        "Seg": "IAM",
-        "Seq#": 2,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 127,
-        "Chapter": "3.4.7.2"
-      },
-      {
-        "Description": "Allergy Action Code",
-        "Item#": 1551,
-        "Seg": "IAM",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "CNE",
-        "Table": 206,
-        "Chapter": "3.4.7.6"
-      },
-      {
-        "Description": "Allergy Clinical Status Code",
-        "Item#": 1562,
-        "Seg": "IAM",
-        "Seq#": 17,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 438,
-        "Chapter": "3.4.7.17"
-      },
-      {
-        "Description": "Allergy Reaction Code",
-        "Item#": 207,
-        "Seg": "IAM",
-        "Seq#": 5,
-        "Len": 15,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "3.4.7.5"
-      },
-      {
-        "Description": "Allergy Severity Code",
-        "Item#": 206,
-        "Seg": "IAM",
-        "Seq#": 4,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 128,
-        "Chapter": "3.4.7.4"
-      },
-      {
-        "Description": "Allergy Unique Identifier",
-        "Item#": 1552,
-        "Seg": "IAM",
-        "Seq#": 7,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "3.4.7.7"
-      },
-      {
-        "Description": "Onset Date",
-        "Item#": 1556,
-        "Seg": "IAM",
-        "Seq#": 11,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "3.4.7.11"
-      },
-      {
-        "Description": "Onset Date Text",
-        "Item#": 1557,
-        "Seg": "IAM",
-        "Seq#": 12,
-        "Len": 60,
-        "DT": "ST",
-        "Chapter": "3.4.7.12"
-      },
-      {
-        "Description": "Relationship to Patient Code",
-        "Item#": 1560,
-        "Seg": "IAM",
-        "Seq#": 15,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 63,
-        "Chapter": "3.4.7.15"
-      },
-      {
-        "Description": "Reported By",
-        "Item#": 1559,
-        "Seg": "IAM",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "XPN",
-        "Chapter": "3.4.7.14"
-      },
-      {
-        "Description": "Reported Date/Time",
-        "Item#": 1558,
-        "Seg": "IAM",
-        "Seq#": 13,
-        "Len": 8,
-        "DT": "DTM",
-        "Chapter": "3.4.7.13"
-      },
-      {
-        "Description": "Sensitivity to Causative Agent Code",
-        "Item#": 1554,
-        "Seg": "IAM",
-        "Seq#": 9,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 436,
-        "Chapter": "3.4.7.9"
-      },
-      {
-        "Description": "Set ID - IAM",
-        "Item#": 1612,
-        "Seg": "IAM",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "3.4.7.1"
-      },
-      {
-        "Description": "Statused at Date/Time",
-        "Item#": 1565,
-        "Seg": "IAM",
-        "Seq#": 20,
-        "Len": 8,
-        "DT": "DTM",
-        "Chapter": "3.4.7.20"
-      },
-      {
-        "Description": "Statused by Organization",
-        "Item#": 1564,
-        "Seg": "IAM",
-        "Seq#": 19,
-        "Len": 250,
-        "DT": "XON",
-        "Chapter": "3.4.7.19"
-      },
-      {
-        "Description": "Statused by Person",
-        "Item#": 1563,
-        "Seg": "IAM",
-        "Seq#": 18,
-        "Len": 250,
-        "DT": "XCN",
-        "Chapter": "3.4.7.18"
-      }
+  {
+    "Description": "Set ID - IAM",
+    "Item#": 1612,
+    "Seg": "IAM",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "3.4.7.1"
+  },
+  {
+    "Description": "Allergen Type Code",
+    "Item#": 204,
+    "Seg": "IAM",
+    "Seq#": 2,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 127,
+    "Chapter": "3.4.7.2"
+  },
+  {
+    "Description": "Allergen Code/Mnemonic/Description",
+    "Item#": 205,
+    "Seg": "IAM",
+    "Seq#": 3,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "3.4.7.3"
+  },
+  {
+    "Description": "Allergy Severity Code",
+    "Item#": 206,
+    "Seg": "IAM",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 128,
+    "Chapter": "3.4.7.4"
+  },
+  {
+    "Description": "Allergy Reaction Code",
+    "Item#": 207,
+    "Seg": "IAM",
+    "Seq#": 5,
+    "Len": 15,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "3.4.7.5"
+  },
+  {
+    "Description": "Allergy Action Code",
+    "Item#": 1551,
+    "Seg": "IAM",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "CNE",
+    "Table": 206,
+    "Chapter": "3.4.7.6"
+  },
+  {
+    "Description": "Allergy Unique Identifier",
+    "Item#": 1552,
+    "Seg": "IAM",
+    "Seq#": 7,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "3.4.7.7"
+  },
+  {
+    "Description": "Action Reason",
+    "Item#": 1553,
+    "Seg": "IAM",
+    "Seq#": 8,
+    "Len": 60,
+    "DT": "ST",
+    "Chapter": "3.4.7.8"
+  },
+  {
+    "Description": "Sensitivity to Causative Agent Code",
+    "Item#": 1554,
+    "Seg": "IAM",
+    "Seq#": 9,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 436,
+    "Chapter": "3.4.7.9"
+  },
+  {
+    "Description": "Allergen Group Code/Mnemonic/Description",
+    "Item#": 1555,
+    "Seg": "IAM",
+    "Seq#": 10,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "3.4.7.10"
+  },
+  {
+    "Description": "Onset Date",
+    "Item#": 1556,
+    "Seg": "IAM",
+    "Seq#": 11,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.7.11"
+  },
+  {
+    "Description": "Onset Date Text",
+    "Item#": 1557,
+    "Seg": "IAM",
+    "Seq#": 12,
+    "Len": 60,
+    "DT": "ST",
+    "Chapter": "3.4.7.12"
+  },
+  {
+    "Description": "Reported Date/Time",
+    "Item#": 1558,
+    "Seg": "IAM",
+    "Seq#": 13,
+    "Len": 8,
+    "DT": "DTM",
+    "Chapter": "3.4.7.13"
+  },
+  {
+    "Description": "Reported By",
+    "Item#": 1559,
+    "Seg": "IAM",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "XPN",
+    "Chapter": "3.4.7.14"
+  },
+  {
+    "Description": "Relationship to Patient Code",
+    "Item#": 1560,
+    "Seg": "IAM",
+    "Seq#": 15,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 63,
+    "Chapter": "3.4.7.15"
+  },
+  {
+    "Description": "Alert Device Code",
+    "Item#": 1561,
+    "Seg": "IAM",
+    "Seq#": 16,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 437,
+    "Chapter": "3.4.7.16"
+  },
+  {
+    "Description": "Allergy Clinical Status Code",
+    "Item#": 1562,
+    "Seg": "IAM",
+    "Seq#": 17,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 438,
+    "Chapter": "3.4.7.17"
+  },
+  {
+    "Description": "Statused by Person",
+    "Item#": 1563,
+    "Seg": "IAM",
+    "Seq#": 18,
+    "Len": 250,
+    "DT": "XCN",
+    "Chapter": "3.4.7.18"
+  },
+  {
+    "Description": "Statused by Organization",
+    "Item#": 1564,
+    "Seg": "IAM",
+    "Seq#": 19,
+    "Len": 250,
+    "DT": "XON",
+    "Chapter": "3.4.7.19"
+  },
+  {
+    "Description": "Statused at Date/Time",
+    "Item#": 1565,
+    "Seg": "IAM",
+    "Seq#": 20,
+    "Len": 8,
+    "DT": "DTM",
+    "Chapter": "3.4.7.20"
+  }
 ]

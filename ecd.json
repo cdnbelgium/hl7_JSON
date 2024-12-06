@@ -1,50 +1,50 @@
 [
-    {
-        "Description": "Parameters",
-        "Item#": 1394,
-        "Seg": "ECD",
-        "Seq#": 5,
-        "Len": 65536,
-        "DT": "TX",
-        "Rep": "Y",
-        "Chapter": "13.4.5.5"
-      },
-      {
-        "Description": "Reference Command Number",
-        "Item#": 1390,
-        "Seg": "ECD",
-        "Seq#": 1,
-        "Len": 20,
-        "DT": "NM",
-        "Chapter": "13.4.5.1"
-      },
-      {
-        "Description": "Remote Control Command",
-        "Item#": 1391,
-        "Seg": "ECD",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 368,
-        "Chapter": "13.4.5.2"
-      },
-      {
-        "Description": "Requested Completion Time",
-        "Item#": 1393,
-        "Seg": "ECD",
-        "Seq#": 4,
-        "Len": 0,
-        "DT": "TQ",
-        "Chapter": "13.4.5.4"
-      },
-      {
-        "Description": "Response Required",
-        "Item#": 1392,
-        "Seg": "ECD",
-        "Seq#": 3,
-        "Len": 80,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "13.4.5.3"
-      }
+  {
+    "Description": "Reference Command Number",
+    "Item#": 1390,
+    "Seg": "ECD",
+    "Seq#": 1,
+    "Len": 20,
+    "DT": "NM",
+    "Chapter": "13.4.5.1"
+  },
+  {
+    "Description": "Remote Control Command",
+    "Item#": 1391,
+    "Seg": "ECD",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 368,
+    "Chapter": "13.4.5.2"
+  },
+  {
+    "Description": "Response Required",
+    "Item#": 1392,
+    "Seg": "ECD",
+    "Seq#": 3,
+    "Len": 80,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "13.4.5.3"
+  },
+  {
+    "Description": "Requested Completion Time",
+    "Item#": 1393,
+    "Seg": "ECD",
+    "Seq#": 4,
+    "Len": 0,
+    "DT": "TQ",
+    "Chapter": "13.4.5.4"
+  },
+  {
+    "Description": "Parameters",
+    "Item#": 1394,
+    "Seg": "ECD",
+    "Seq#": 5,
+    "Len": 65536,
+    "DT": "TX",
+    "Rep": "Y",
+    "Chapter": "13.4.5.5"
+  }
 ]

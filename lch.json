@@ -1,50 +1,50 @@
 [
-    {
-        "Description": "Location Characteristic ID",
-        "Item#": 1295,
-        "Seg": "LCH",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 324,
-        "Chapter": "8.9.3.4"
-      },
-      {
-        "Description": "Location Characteristic Value - LCH",
-        "Item#": 1294,
-        "Seg": "LCH",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 136,
-        "Chapter": "8.9.3.5"
-      },
-      {
-        "Description": "Primary Key Value - LCH",
-        "Item#": 1305,
-        "Seg": "LCH",
-        "Seq#": 1,
-        "Len": 200,
-        "DT": "PL",
-        "Chapter": "8.9.3.1"
-      },
-      {
-        "Description": "Segment Action Code",
-        "Item#": 763,
-        "Seg": "LCH",
-        "Seq#": 2,
-        "Len": 3,
-        "DT": "ID",
-        "Table": 206,
-        "Chapter": "8.9.3.2"
-      },
-      {
-        "Description": "Segment Unique Key",
-        "Item#": 764,
-        "Seg": "LCH",
-        "Seq#": 3,
-        "Len": 80,
-        "DT": "EI",
-        "Chapter": "8.9.3.3"
-      }
+  {
+    "Description": "Primary Key Value - LCH",
+    "Item#": 1305,
+    "Seg": "LCH",
+    "Seq#": 1,
+    "Len": 200,
+    "DT": "PL",
+    "Chapter": "8.9.3.1"
+  },
+  {
+    "Description": "Segment Action Code",
+    "Item#": 763,
+    "Seg": "LCH",
+    "Seq#": 2,
+    "Len": 3,
+    "DT": "ID",
+    "Table": 206,
+    "Chapter": "8.9.3.2"
+  },
+  {
+    "Description": "Segment Unique Key",
+    "Item#": 764,
+    "Seg": "LCH",
+    "Seq#": 3,
+    "Len": 80,
+    "DT": "EI",
+    "Chapter": "8.9.3.3"
+  },
+  {
+    "Description": "Location Characteristic ID",
+    "Item#": 1295,
+    "Seg": "LCH",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 324,
+    "Chapter": "8.9.3.4"
+  },
+  {
+    "Description": "Location Characteristic Value - LCH",
+    "Item#": 1294,
+    "Seg": "LCH",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 136,
+    "Chapter": "8.9.3.5"
+  }
 ]

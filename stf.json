@@ -1,391 +1,391 @@
 [
-    {
-        "Description": "Active/Inactive Flag",
-        "Item#": 675,
-        "Seg": "STF",
-        "Seq#": 7,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 183,
-        "Chapter": "15.4.8.7"
-      },
-      {
-        "Description": "Additional Insured on Auto",
-        "Item#": 1275,
-        "Seg": "STF",
-        "Seq#": 21,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.8.21"
-      },
-      {
-        "Description": "Administrative Sex",
-        "Item#": 111,
-        "Seg": "STF",
-        "Seq#": 5,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 1,
-        "Chapter": "15.4.8.5"
-      },
-      {
-        "Description": "Auto Ins Expires",
-        "Item#": 1232,
-        "Seg": "STF",
-        "Seq#": 24,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "15.4.8.24"
-      },
-      {
-        "Description": "Backup Person ID",
-        "Item#": 682,
-        "Seg": "STF",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Chapter": "15.4.8.14"
-      },
-      {
-        "Description": "Citizenship",
-        "Item#": 129,
-        "Seg": "STF",
-        "Seq#": 30,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 171,
-        "Chapter": "15.4.8.30"
-      },
-      {
-        "Description": "Copy Auto Ins",
-        "Item#": 1229,
-        "Seg": "STF",
-        "Seq#": 23,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.8.23"
-      },
-      {
-        "Description": "Cost Center Code",
-        "Item#": 1891,
-        "Seg": "STF",
-        "Seq#": 36,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 539,
-        "Chapter": "15.4.8.36"
-      },
-      {
-        "Description": "Date Last DMV Review",
-        "Item#": 1298,
-        "Seg": "STF",
-        "Seq#": 25,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "15.4.8.25"
-      },
-      {
-        "Description": "Date Next DMV Review",
-        "Item#": 1234,
-        "Seg": "STF",
-        "Seq#": 26,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "15.4.8.26"
-      },
-      {
-        "Description": "Date/Time of Birth",
-        "Item#": 110,
-        "Seg": "STF",
-        "Seq#": 6,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.8.6"
-      },
-      {
-        "Description": "Date/Time of Death",
-        "Item#": 1886,
-        "Seg": "STF",
-        "Seq#": 31,
-        "Len": 8,
-        "DT": "DTM",
-        "Chapter": "15.4.8.31"
-      },
-      {
-        "Description": "Death Indicator",
-        "Item#": 1887,
-        "Seg": "STF",
-        "Seq#": 32,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.8.32"
-      },
-      {
-        "Description": "Department",
-        "Item#": 676,
-        "Seg": "STF",
-        "Seq#": 8,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 184,
-        "Chapter": "15.4.8.8"
-      },
-      {
-        "Description": "Driver's License Number - Staff",
-        "Item#": 1302,
-        "Seg": "STF",
-        "Seq#": 22,
-        "Len": 25,
-        "DT": "DLN",
-        "Chapter": "15.4.8.22"
-      },
-      {
-        "Description": "E-Mail Address",
-        "Item#": 683,
-        "Seg": "STF",
-        "Seq#": 15,
-        "Len": 40,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "15.4.8.15"
-      },
-      {
-        "Description": "Employment Status Code",
-        "Item#": 1276,
-        "Seg": "STF",
-        "Seq#": 20,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 66,
-        "Chapter": "15.4.8.20"
-      },
-      {
-        "Description": "Ethnic Group",
-        "Item#": 125,
-        "Seg": "STF",
-        "Seq#": 28,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 189,
-        "Chapter": "15.4.8.28"
-      },
-      {
-        "Description": "Expected Return Date",
-        "Item#": 1890,
-        "Seg": "STF",
-        "Seq#": 35,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "15.4.8.35"
-      },
-      {
-        "Description": "Generic Classification Indicator",
-        "Item#": 1892,
-        "Seg": "STF",
-        "Seq#": 37,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.8.37"
-      },
-      {
-        "Description": "Generic resource type or category",
-        "Item#": 2184,
-        "Seg": "STF",
-        "Seq#": 39,
-        "Len": 1,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 771,
-        "Chapter": "15.4.8.39"
-      },
-      {
-        "Description": "Hospital Service - STF",
-        "Item#": 677,
-        "Seg": "STF",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 69,
-        "Chapter": "15.4.8.9"
-      },
-      {
-        "Description": "Inactive Reason Code",
-        "Item#": 1893,
-        "Seg": "STF",
-        "Seq#": 38,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 540,
-        "Chapter": "15.4.8.38"
-      },
-      {
-        "Description": "Institution Activation Date",
-        "Item#": 680,
-        "Seg": "STF",
-        "Seq#": 12,
-        "Len": 276,
-        "DT": "DIN",
-        "Rep": "Y",
-        "Table": 537,
-        "Chapter": "15.4.8.12"
-      },
-      {
-        "Description": "Institution Inactivation Date",
-        "Item#": 681,
-        "Seg": "STF",
-        "Seq#": 13,
-        "Len": 276,
-        "DT": "DIN",
-        "Rep": "Y",
-        "Table": 537,
-        "Chapter": "15.4.8.13"
-      },
-      {
-        "Description": "Institution Relationship Period",
-        "Item#": 1889,
-        "Seg": "STF",
-        "Seq#": 34,
-        "Len": 52,
-        "DT": "DR",
-        "Chapter": "15.4.8.34"
-      },
-      {
-        "Description": "Institution Relationship Type Code",
-        "Item#": 1888,
-        "Seg": "STF",
-        "Seq#": 33,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 538,
-        "Chapter": "15.4.8.33"
-      },
-      {
-        "Description": "Job Code/Class",
-        "Item#": 786,
-        "Seg": "STF",
-        "Seq#": 19,
-        "Len": 20,
-        "DT": "JCC",
-        "Chapter": "15.4.8.19"
-      },
-      {
-        "Description": "Job Title",
-        "Item#": 785,
-        "Seg": "STF",
-        "Seq#": 18,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "15.4.8.18"
-      },
-      {
-        "Description": "Marital Status",
-        "Item#": 119,
-        "Seg": "STF",
-        "Seq#": 17,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 2,
-        "Chapter": "15.4.8.17"
-      },
-      {
-        "Description": "Office/Home Address/Birthplace",
-        "Item#": 679,
-        "Seg": "STF",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "15.4.8.11"
-      },
-      {
-        "Description": "Phone",
-        "Item#": 678,
-        "Seg": "STF",
-        "Seq#": 10,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "15.4.8.10"
-      },
-      {
-        "Description": "Preferred Method of Contact",
-        "Item#": 684,
-        "Seg": "STF",
-        "Seq#": 16,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 185,
-        "Chapter": "15.4.8.16"
-      },
-      {
-        "Description": "Primary Key Value - STF",
-        "Item#": 671,
-        "Seg": "STF",
-        "Seq#": 1,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "15.4.8.1"
-      },
-      {
-        "Description": "Race",
-        "Item#": 113,
-        "Seg": "STF",
-        "Seq#": 27,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 5,
-        "Chapter": "15.4.8.27"
-      },
-      {
-        "Description": "Re-activation Approval Indicator",
-        "Item#": 1596,
-        "Seg": "STF",
-        "Seq#": 29,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.8.29"
-      },
-      {
-        "Description": "Staff Identifier List",
-        "Item#": 672,
-        "Seg": "STF",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Table": 61,
-        "Chapter": "15.4.8.2"
-      },
-      {
-        "Description": "Staff Name",
-        "Item#": 673,
-        "Seg": "STF",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "15.4.8.3"
-      },
-      {
-        "Description": "Staff Type",
-        "Item#": 674,
-        "Seg": "STF",
-        "Seq#": 4,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 182,
-        "Chapter": "15.4.8.4"
-      }
+  {
+    "Description": "Primary Key Value - STF",
+    "Item#": 671,
+    "Seg": "STF",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "15.4.8.1"
+  },
+  {
+    "Description": "Staff Identifier List",
+    "Item#": 672,
+    "Seg": "STF",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Table": 61,
+    "Chapter": "15.4.8.2"
+  },
+  {
+    "Description": "Staff Name",
+    "Item#": 673,
+    "Seg": "STF",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "15.4.8.3"
+  },
+  {
+    "Description": "Staff Type",
+    "Item#": 674,
+    "Seg": "STF",
+    "Seq#": 4,
+    "Len": 2,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 182,
+    "Chapter": "15.4.8.4"
+  },
+  {
+    "Description": "Administrative Sex",
+    "Item#": 111,
+    "Seg": "STF",
+    "Seq#": 5,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 1,
+    "Chapter": "15.4.8.5"
+  },
+  {
+    "Description": "Date/Time of Birth",
+    "Item#": 110,
+    "Seg": "STF",
+    "Seq#": 6,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.8.6"
+  },
+  {
+    "Description": "Active/Inactive Flag",
+    "Item#": 675,
+    "Seg": "STF",
+    "Seq#": 7,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 183,
+    "Chapter": "15.4.8.7"
+  },
+  {
+    "Description": "Department",
+    "Item#": 676,
+    "Seg": "STF",
+    "Seq#": 8,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 184,
+    "Chapter": "15.4.8.8"
+  },
+  {
+    "Description": "Hospital Service - STF",
+    "Item#": 677,
+    "Seg": "STF",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 69,
+    "Chapter": "15.4.8.9"
+  },
+  {
+    "Description": "Phone",
+    "Item#": 678,
+    "Seg": "STF",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "15.4.8.10"
+  },
+  {
+    "Description": "Office/Home Address/Birthplace",
+    "Item#": 679,
+    "Seg": "STF",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "15.4.8.11"
+  },
+  {
+    "Description": "Institution Activation Date",
+    "Item#": 680,
+    "Seg": "STF",
+    "Seq#": 12,
+    "Len": 276,
+    "DT": "DIN",
+    "Rep": "Y",
+    "Table": 537,
+    "Chapter": "15.4.8.12"
+  },
+  {
+    "Description": "Institution Inactivation Date",
+    "Item#": 681,
+    "Seg": "STF",
+    "Seq#": 13,
+    "Len": 276,
+    "DT": "DIN",
+    "Rep": "Y",
+    "Table": 537,
+    "Chapter": "15.4.8.13"
+  },
+  {
+    "Description": "Backup Person ID",
+    "Item#": 682,
+    "Seg": "STF",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Chapter": "15.4.8.14"
+  },
+  {
+    "Description": "E-Mail Address",
+    "Item#": 683,
+    "Seg": "STF",
+    "Seq#": 15,
+    "Len": 40,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "15.4.8.15"
+  },
+  {
+    "Description": "Preferred Method of Contact",
+    "Item#": 684,
+    "Seg": "STF",
+    "Seq#": 16,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 185,
+    "Chapter": "15.4.8.16"
+  },
+  {
+    "Description": "Marital Status",
+    "Item#": 119,
+    "Seg": "STF",
+    "Seq#": 17,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 2,
+    "Chapter": "15.4.8.17"
+  },
+  {
+    "Description": "Job Title",
+    "Item#": 785,
+    "Seg": "STF",
+    "Seq#": 18,
+    "Len": 20,
+    "DT": "ST",
+    "Chapter": "15.4.8.18"
+  },
+  {
+    "Description": "Job Code/Class",
+    "Item#": 786,
+    "Seg": "STF",
+    "Seq#": 19,
+    "Len": 20,
+    "DT": "JCC",
+    "Chapter": "15.4.8.19"
+  },
+  {
+    "Description": "Employment Status Code",
+    "Item#": 1276,
+    "Seg": "STF",
+    "Seq#": 20,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 66,
+    "Chapter": "15.4.8.20"
+  },
+  {
+    "Description": "Additional Insured on Auto",
+    "Item#": 1275,
+    "Seg": "STF",
+    "Seq#": 21,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.8.21"
+  },
+  {
+    "Description": "Driver's License Number - Staff",
+    "Item#": 1302,
+    "Seg": "STF",
+    "Seq#": 22,
+    "Len": 25,
+    "DT": "DLN",
+    "Chapter": "15.4.8.22"
+  },
+  {
+    "Description": "Copy Auto Ins",
+    "Item#": 1229,
+    "Seg": "STF",
+    "Seq#": 23,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.8.23"
+  },
+  {
+    "Description": "Auto Ins Expires",
+    "Item#": 1232,
+    "Seg": "STF",
+    "Seq#": 24,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "15.4.8.24"
+  },
+  {
+    "Description": "Date Last DMV Review",
+    "Item#": 1298,
+    "Seg": "STF",
+    "Seq#": 25,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "15.4.8.25"
+  },
+  {
+    "Description": "Date Next DMV Review",
+    "Item#": 1234,
+    "Seg": "STF",
+    "Seq#": 26,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "15.4.8.26"
+  },
+  {
+    "Description": "Race",
+    "Item#": 113,
+    "Seg": "STF",
+    "Seq#": 27,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 5,
+    "Chapter": "15.4.8.27"
+  },
+  {
+    "Description": "Ethnic Group",
+    "Item#": 125,
+    "Seg": "STF",
+    "Seq#": 28,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 189,
+    "Chapter": "15.4.8.28"
+  },
+  {
+    "Description": "Re-activation Approval Indicator",
+    "Item#": 1596,
+    "Seg": "STF",
+    "Seq#": 29,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.8.29"
+  },
+  {
+    "Description": "Citizenship",
+    "Item#": 129,
+    "Seg": "STF",
+    "Seq#": 30,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 171,
+    "Chapter": "15.4.8.30"
+  },
+  {
+    "Description": "Date/Time of Death",
+    "Item#": 1886,
+    "Seg": "STF",
+    "Seq#": 31,
+    "Len": 8,
+    "DT": "DTM",
+    "Chapter": "15.4.8.31"
+  },
+  {
+    "Description": "Death Indicator",
+    "Item#": 1887,
+    "Seg": "STF",
+    "Seq#": 32,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.8.32"
+  },
+  {
+    "Description": "Institution Relationship Type Code",
+    "Item#": 1888,
+    "Seg": "STF",
+    "Seq#": 33,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 538,
+    "Chapter": "15.4.8.33"
+  },
+  {
+    "Description": "Institution Relationship Period",
+    "Item#": 1889,
+    "Seg": "STF",
+    "Seq#": 34,
+    "Len": 52,
+    "DT": "DR",
+    "Chapter": "15.4.8.34"
+  },
+  {
+    "Description": "Expected Return Date",
+    "Item#": 1890,
+    "Seg": "STF",
+    "Seq#": 35,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "15.4.8.35"
+  },
+  {
+    "Description": "Cost Center Code",
+    "Item#": 1891,
+    "Seg": "STF",
+    "Seq#": 36,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 539,
+    "Chapter": "15.4.8.36"
+  },
+  {
+    "Description": "Generic Classification Indicator",
+    "Item#": 1892,
+    "Seg": "STF",
+    "Seq#": 37,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.8.37"
+  },
+  {
+    "Description": "Inactive Reason Code",
+    "Item#": 1893,
+    "Seg": "STF",
+    "Seq#": 38,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 540,
+    "Chapter": "15.4.8.38"
+  },
+  {
+    "Description": "Generic resource type or category",
+    "Item#": 2184,
+    "Seg": "STF",
+    "Seq#": 39,
+    "Len": 1,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 771,
+    "Chapter": "15.4.8.39"
+  }
 ]

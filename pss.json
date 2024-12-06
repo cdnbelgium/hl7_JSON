@@ -1,47 +1,47 @@
 [
-    {
-        "Description": "Billed Amount",
-        "Item#": 1949,
-        "Seg": "PSS",
-        "Seq#": 4,
-        "Len": 254,
-        "DT": "CP",
-        "Chapter": "16.4.4.4"
-      },
-      {
-        "Description": "Payer Product/Service Section Number",
-        "Item#": 1947,
-        "Seg": "PSS",
-        "Seq#": 2,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.4.2"
-      },
-      {
-        "Description": "Product/Service Section Sequence Number",
-        "Item#": 1948,
-        "Seg": "PSS",
-        "Seq#": 3,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "16.4.4.3"
-      },
-      {
-        "Description": "Provider Product/Service Section Number",
-        "Item#": 1946,
-        "Seg": "PSS",
-        "Seq#": 1,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.4.1"
-      },
-      {
-        "Description": "Section Description or Heading",
-        "Item#": 2043,
-        "Seg": "PSS",
-        "Seq#": 5,
-        "Len": 254,
-        "DT": "ST",
-        "Chapter": "16.4.4.5"
-      }
+  {
+    "Description": "Provider Product/Service Section Number",
+    "Item#": 1946,
+    "Seg": "PSS",
+    "Seq#": 1,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.4.1"
+  },
+  {
+    "Description": "Payer Product/Service Section Number",
+    "Item#": 1947,
+    "Seg": "PSS",
+    "Seq#": 2,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.4.2"
+  },
+  {
+    "Description": "Product/Service Section Sequence Number",
+    "Item#": 1948,
+    "Seg": "PSS",
+    "Seq#": 3,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "16.4.4.3"
+  },
+  {
+    "Description": "Billed Amount",
+    "Item#": 1949,
+    "Seg": "PSS",
+    "Seq#": 4,
+    "Len": 254,
+    "DT": "CP",
+    "Chapter": "16.4.4.4"
+  },
+  {
+    "Description": "Section Description or Heading",
+    "Item#": 2043,
+    "Seg": "PSS",
+    "Seq#": 5,
+    "Len": 254,
+    "DT": "ST",
+    "Chapter": "16.4.4.5"
+  }
 ]

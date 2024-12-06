@@ -1,166 +1,166 @@
 [
-    {
-        "Description": "Co-Insurance Days (9)",
-        "Item#": 554,
-        "Seg": "UB2",
-        "Seq#": 2,
-        "Len": 3,
-        "DT": "ST",
-        "Chapter": "6.5.11.2"
-      },
-      {
-        "Description": "Condition Code (24-30)",
-        "Item#": 555,
-        "Seg": "UB2",
-        "Seq#": 3,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 43,
-        "Chapter": "6.5.11.3"
-      },
-      {
-        "Description": "Covered Days (7)",
-        "Item#": 556,
-        "Seg": "UB2",
-        "Seq#": 4,
-        "Len": 3,
-        "DT": "ST",
-        "Chapter": "6.5.11.4"
-      },
-      {
-        "Description": "Document Control Number",
-        "Item#": 564,
-        "Seg": "UB2",
-        "Seq#": 12,
-        "Len": 23,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "6.5.11.12"
-      },
-      {
-        "Description": "Non-Covered Days (8)",
-        "Item#": 557,
-        "Seg": "UB2",
-        "Seq#": 5,
-        "Len": 4,
-        "DT": "ST",
-        "Chapter": "6.5.11.5"
-      },
-      {
-        "Description": "Occurrence Code & Date (32-35)",
-        "Item#": 559,
-        "Seg": "UB2",
-        "Seq#": 7,
-        "Len": 259,
-        "DT": "OCD",
-        "Rep": "Y",
-        "Chapter": "6.5.11.7"
-      },
-      {
-        "Description": "Occurrence Span Code/Dates (36)",
-        "Item#": 560,
-        "Seg": "UB2",
-        "Seq#": 8,
-        "Len": 268,
-        "DT": "OSP",
-        "Rep": "Y",
-        "Chapter": "6.5.11.8"
-      },
-      {
-        "Description": "Set ID - UB2",
-        "Item#": 553,
-        "Seg": "UB2",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "6.5.11.1"
-      },
-      {
-        "Description": "Special Visit Count",
-        "Item#": 815,
-        "Seg": "UB2",
-        "Seq#": 17,
-        "Len": 3,
-        "DT": "NM",
-        "Chapter": "6.5.11.17"
-      },
-      {
-        "Description": "UB92 Locator 11 (State)",
-        "Item#": 562,
-        "Seg": "UB2",
-        "Seq#": 10,
-        "Len": 12,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "6.5.11.10"
-      },
-      {
-        "Description": "UB92 Locator 2 (State)",
-        "Item#": 561,
-        "Seg": "UB2",
-        "Seq#": 9,
-        "Len": 29,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "6.5.11.9"
-      },
-      {
-        "Description": "UB92 Locator 31 (National)",
-        "Item#": 563,
-        "Seg": "UB2",
-        "Seq#": 11,
-        "Len": 5,
-        "DT": "ST",
-        "Chapter": "6.5.11.11"
-      },
-      {
-        "Description": "UB92 Locator 49 (National)",
-        "Item#": 565,
-        "Seg": "UB2",
-        "Seq#": 13,
-        "Len": 4,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "6.5.11.13"
-      },
-      {
-        "Description": "UB92 Locator 56 (State)",
-        "Item#": 566,
-        "Seg": "UB2",
-        "Seq#": 14,
-        "Len": 14,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "6.5.11.14"
-      },
-      {
-        "Description": "UB92 Locator 57 (National)",
-        "Item#": 567,
-        "Seg": "UB2",
-        "Seq#": 15,
-        "Len": 27,
-        "DT": "ST",
-        "Chapter": "6.5.11.15"
-      },
-      {
-        "Description": "UB92 Locator 78 (State)",
-        "Item#": 568,
-        "Seg": "UB2",
-        "Seq#": 16,
-        "Len": 2,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "6.5.11.16"
-      },
-      {
-        "Description": "Value Amount & Code",
-        "Item#": 558,
-        "Seg": "UB2",
-        "Seq#": 6,
-        "Len": 41,
-        "DT": "UVC",
-        "Rep": "Y",
-        "Chapter": "6.5.11.6"
-      }
+  {
+    "Description": "Set ID - UB2",
+    "Item#": 553,
+    "Seg": "UB2",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "6.5.11.1"
+  },
+  {
+    "Description": "Co-Insurance Days (9)",
+    "Item#": 554,
+    "Seg": "UB2",
+    "Seq#": 2,
+    "Len": 3,
+    "DT": "ST",
+    "Chapter": "6.5.11.2"
+  },
+  {
+    "Description": "Condition Code (24-30)",
+    "Item#": 555,
+    "Seg": "UB2",
+    "Seq#": 3,
+    "Len": 2,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 43,
+    "Chapter": "6.5.11.3"
+  },
+  {
+    "Description": "Covered Days (7)",
+    "Item#": 556,
+    "Seg": "UB2",
+    "Seq#": 4,
+    "Len": 3,
+    "DT": "ST",
+    "Chapter": "6.5.11.4"
+  },
+  {
+    "Description": "Non-Covered Days (8)",
+    "Item#": 557,
+    "Seg": "UB2",
+    "Seq#": 5,
+    "Len": 4,
+    "DT": "ST",
+    "Chapter": "6.5.11.5"
+  },
+  {
+    "Description": "Value Amount & Code",
+    "Item#": 558,
+    "Seg": "UB2",
+    "Seq#": 6,
+    "Len": 41,
+    "DT": "UVC",
+    "Rep": "Y",
+    "Chapter": "6.5.11.6"
+  },
+  {
+    "Description": "Occurrence Code & Date (32-35)",
+    "Item#": 559,
+    "Seg": "UB2",
+    "Seq#": 7,
+    "Len": 259,
+    "DT": "OCD",
+    "Rep": "Y",
+    "Chapter": "6.5.11.7"
+  },
+  {
+    "Description": "Occurrence Span Code/Dates (36)",
+    "Item#": 560,
+    "Seg": "UB2",
+    "Seq#": 8,
+    "Len": 268,
+    "DT": "OSP",
+    "Rep": "Y",
+    "Chapter": "6.5.11.8"
+  },
+  {
+    "Description": "UB92 Locator 2 (State)",
+    "Item#": 561,
+    "Seg": "UB2",
+    "Seq#": 9,
+    "Len": 29,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "6.5.11.9"
+  },
+  {
+    "Description": "UB92 Locator 11 (State)",
+    "Item#": 562,
+    "Seg": "UB2",
+    "Seq#": 10,
+    "Len": 12,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "6.5.11.10"
+  },
+  {
+    "Description": "UB92 Locator 31 (National)",
+    "Item#": 563,
+    "Seg": "UB2",
+    "Seq#": 11,
+    "Len": 5,
+    "DT": "ST",
+    "Chapter": "6.5.11.11"
+  },
+  {
+    "Description": "Document Control Number",
+    "Item#": 564,
+    "Seg": "UB2",
+    "Seq#": 12,
+    "Len": 23,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "6.5.11.12"
+  },
+  {
+    "Description": "UB92 Locator 49 (National)",
+    "Item#": 565,
+    "Seg": "UB2",
+    "Seq#": 13,
+    "Len": 4,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "6.5.11.13"
+  },
+  {
+    "Description": "UB92 Locator 56 (State)",
+    "Item#": 566,
+    "Seg": "UB2",
+    "Seq#": 14,
+    "Len": 14,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "6.5.11.14"
+  },
+  {
+    "Description": "UB92 Locator 57 (National)",
+    "Item#": 567,
+    "Seg": "UB2",
+    "Seq#": 15,
+    "Len": 27,
+    "DT": "ST",
+    "Chapter": "6.5.11.15"
+  },
+  {
+    "Description": "UB92 Locator 78 (State)",
+    "Item#": 568,
+    "Seg": "UB2",
+    "Seq#": 16,
+    "Len": 2,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "6.5.11.16"
+  },
+  {
+    "Description": "Special Visit Count",
+    "Item#": 815,
+    "Seg": "UB2",
+    "Seq#": 17,
+    "Len": 3,
+    "DT": "NM",
+    "Chapter": "6.5.11.17"
+  }
 ]

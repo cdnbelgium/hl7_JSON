@@ -1,42 +1,42 @@
 [
-    {
-        "Description": "Language Ability Code",
-        "Item#": 1457,
-        "Seg": "LAN",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 403,
-        "Chapter": "15.4.4.3"
-      },
-      {
-        "Description": "Language Code",
-        "Item#": 1456,
-        "Seg": "LAN",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 296,
-        "Chapter": "15.4.4.2"
-      },
-      {
-        "Description": "Language Proficiency Code",
-        "Item#": 1458,
-        "Seg": "LAN",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 404,
-        "Chapter": "15.4.4.4"
-      },
-      {
-        "Description": "Set ID - LAN",
-        "Item#": 1455,
-        "Seg": "LAN",
-        "Seq#": 1,
-        "Len": 60,
-        "DT": "SI",
-        "Chapter": "15.4.4.1"
-      }
+  {
+    "Description": "Set ID - LAN",
+    "Item#": 1455,
+    "Seg": "LAN",
+    "Seq#": 1,
+    "Len": 60,
+    "DT": "SI",
+    "Chapter": "15.4.4.1"
+  },
+  {
+    "Description": "Language Code",
+    "Item#": 1456,
+    "Seg": "LAN",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 296,
+    "Chapter": "15.4.4.2"
+  },
+  {
+    "Description": "Language Ability Code",
+    "Item#": 1457,
+    "Seg": "LAN",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 403,
+    "Chapter": "15.4.4.3"
+  },
+  {
+    "Description": "Language Proficiency Code",
+    "Item#": 1458,
+    "Seg": "LAN",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 404,
+    "Chapter": "15.4.4.4"
+  }
 ]

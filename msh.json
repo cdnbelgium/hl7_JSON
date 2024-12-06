@@ -1,238 +1,238 @@
 [
-    {
-        "Description": "Accept Acknowledgment Type",
-        "Item#": 15,
-        "Seg": "MSH",
-        "Seq#": 15,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 155,
-        "Chapter": "2.14.9.15"
-      },
-      {
-        "Description": "Alternate Character Set Handling Scheme",
-        "Item#": 1317,
-        "Seg": "MSH",
-        "Seq#": 20,
-        "Len": 20,
-        "DT": "ID",
-        "Table": 356,
-        "Chapter": "2.14.9.20"
-      },
-      {
-        "Description": "Application Acknowledgment Type",
-        "Item#": 16,
-        "Seg": "MSH",
-        "Seq#": 16,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 155,
-        "Chapter": "2.14.9.16"
-      },
-      {
-        "Description": "Character Set",
-        "Item#": 692,
-        "Seg": "MSH",
-        "Seq#": 18,
-        "Len": 16,
-        "DT": "ID",
-        "Rep": "Y",
-        "Table": 211,
-        "Chapter": "2.14.9.18"
-      },
-      {
-        "Description": "Continuation Pointer",
-        "Item#": 14,
-        "Seg": "MSH",
-        "Seq#": 14,
-        "Len": 180,
-        "DT": "ST",
-        "Chapter": "2.14.9.14"
-      },
-      {
-        "Description": "Country Code",
-        "Item#": 17,
-        "Seg": "MSH",
-        "Seq#": 17,
-        "Len": 3,
-        "DT": "ID",
-        "Table": 399,
-        "Chapter": "2.14.9.17"
-      },
-      {
-        "Description": "Date/Time of Message",
-        "Item#": 7,
-        "Seg": "MSH",
-        "Seq#": 7,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "2.14.9.7"
-      },
-      {
-        "Description": "Encoding Characters",
-        "Item#": 2,
-        "Seg": "MSH",
-        "Seq#": 2,
-        "Len": 4,
-        "DT": "ST",
-        "Chapter": "2.14.9.2"
-      },
-      {
-        "Description": "Field Separator",
-        "Item#": 1,
-        "Seg": "MSH",
-        "Seq#": 1,
-        "Len": 1,
-        "DT": "ST",
-        "Chapter": "2.14.9.1"
-      },
-      {
-        "Description": "Message Control ID",
-        "Item#": 10,
-        "Seg": "MSH",
-        "Seq#": 10,
-        "Len": 199,
-        "DT": "ST",
-        "Chapter": "2.14.9.10"
-      },
-      {
-        "Description": "Message Profile Identifier",
-        "Item#": 1598,
-        "Seg": "MSH",
-        "Seq#": 21,
-        "Len": 427,
-        "DT": "EI",
-        "Rep": "Y",
-        "Chapter": "2.14.9.21"
-      },
-      {
-        "Description": "Message Type",
-        "Item#": 9,
-        "Seg": "MSH",
-        "Seq#": 9,
-        "Len": 15,
-        "DT": "MSG",
-        "Chapter": "2.14.9.9"
-      },
-      {
-        "Description": "Principal Language Of Message",
-        "Item#": 693,
-        "Seg": "MSH",
-        "Seq#": 19,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "2.14.9.19"
-      },
-      {
-        "Description": "Processing ID",
-        "Item#": 11,
-        "Seg": "MSH",
-        "Seq#": 11,
-        "Len": 3,
-        "DT": "PT",
-        "Chapter": "2.14.9.11"
-      },
-      {
-        "Description": "Receiving Application",
-        "Item#": 5,
-        "Seg": "MSH",
-        "Seq#": 5,
-        "Len": 227,
-        "DT": "HD",
-        "Table": 361,
-        "Chapter": "2.14.9.5"
-      },
-      {
-        "Description": "Receiving Facility",
-        "Item#": 6,
-        "Seg": "MSH",
-        "Seq#": 6,
-        "Len": 227,
-        "DT": "HD",
-        "Table": 362,
-        "Chapter": "2.14.9.6"
-      },
-      {
-        "Description": "Receiving Network Address",
-        "Item#": 1826,
-        "Seg": "MSH",
-        "Seq#": 25,
-        "Len": 227,
-        "DT": "HD",
-        "Chapter": "2.14.9.25"
-      },
-      {
-        "Description": "Receiving Responsible Organization",
-        "Item#": 1824,
-        "Seg": "MSH",
-        "Seq#": 23,
-        "Len": 567,
-        "DT": "XON",
-        "Chapter": "2.14.9.23"
-      },
-      {
-        "Description": "Security",
-        "Item#": 8,
-        "Seg": "MSH",
-        "Seq#": 8,
-        "Len": 40,
-        "DT": "ST",
-        "Chapter": "2.14.9.8"
-      },
-      {
-        "Description": "Sending Application",
-        "Item#": 3,
-        "Seg": "MSH",
-        "Seq#": 3,
-        "Len": 227,
-        "DT": "HD",
-        "Table": 361,
-        "Chapter": "2.14.9.3"
-      },
-      {
-        "Description": "Sending Facility",
-        "Item#": 4,
-        "Seg": "MSH",
-        "Seq#": 4,
-        "Len": 227,
-        "DT": "HD",
-        "Table": 362,
-        "Chapter": "2.14.9.4"
-      },
-      {
-        "Description": "Sending Network Address",
-        "Item#": 1825,
-        "Seg": "MSH",
-        "Seq#": 24,
-        "Len": 227,
-        "DT": "HD",
-        "Chapter": "2.14.9.24"
-      },
-      {
-        "Description": "Sending Responsible Organization",
-        "Item#": 1823,
-        "Seg": "MSH",
-        "Seq#": 22,
-        "Len": 567,
-        "DT": "XON",
-        "Chapter": "2.14.9.22"
-      },
-      {
-        "Description": "Sequence Number",
-        "Item#": 13,
-        "Seg": "MSH",
-        "Seq#": 13,
-        "Len": 15,
-        "DT": "NM",
-        "Chapter": "2.14.9.13"
-      },
-      {
-        "Description": "Version ID",
-        "Item#": 12,
-        "Seg": "MSH",
-        "Seq#": 12,
-        "Len": 60,
-        "DT": "VID",
-        "Chapter": "2.14.9.12"
-      }
+  {
+    "Description": "Field Separator",
+    "Item#": 1,
+    "Seg": "MSH",
+    "Seq#": 1,
+    "Len": 1,
+    "DT": "ST",
+    "Chapter": "2.14.9.1"
+  },
+  {
+    "Description": "Encoding Characters",
+    "Item#": 2,
+    "Seg": "MSH",
+    "Seq#": 2,
+    "Len": 4,
+    "DT": "ST",
+    "Chapter": "2.14.9.2"
+  },
+  {
+    "Description": "Sending Application",
+    "Item#": 3,
+    "Seg": "MSH",
+    "Seq#": 3,
+    "Len": 227,
+    "DT": "HD",
+    "Table": 361,
+    "Chapter": "2.14.9.3"
+  },
+  {
+    "Description": "Sending Facility",
+    "Item#": 4,
+    "Seg": "MSH",
+    "Seq#": 4,
+    "Len": 227,
+    "DT": "HD",
+    "Table": 362,
+    "Chapter": "2.14.9.4"
+  },
+  {
+    "Description": "Receiving Application",
+    "Item#": 5,
+    "Seg": "MSH",
+    "Seq#": 5,
+    "Len": 227,
+    "DT": "HD",
+    "Table": 361,
+    "Chapter": "2.14.9.5"
+  },
+  {
+    "Description": "Receiving Facility",
+    "Item#": 6,
+    "Seg": "MSH",
+    "Seq#": 6,
+    "Len": 227,
+    "DT": "HD",
+    "Table": 362,
+    "Chapter": "2.14.9.6"
+  },
+  {
+    "Description": "Date/Time of Message",
+    "Item#": 7,
+    "Seg": "MSH",
+    "Seq#": 7,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "2.14.9.7"
+  },
+  {
+    "Description": "Security",
+    "Item#": 8,
+    "Seg": "MSH",
+    "Seq#": 8,
+    "Len": 40,
+    "DT": "ST",
+    "Chapter": "2.14.9.8"
+  },
+  {
+    "Description": "Message Type",
+    "Item#": 9,
+    "Seg": "MSH",
+    "Seq#": 9,
+    "Len": 15,
+    "DT": "MSG",
+    "Chapter": "2.14.9.9"
+  },
+  {
+    "Description": "Message Control ID",
+    "Item#": 10,
+    "Seg": "MSH",
+    "Seq#": 10,
+    "Len": 199,
+    "DT": "ST",
+    "Chapter": "2.14.9.10"
+  },
+  {
+    "Description": "Processing ID",
+    "Item#": 11,
+    "Seg": "MSH",
+    "Seq#": 11,
+    "Len": 3,
+    "DT": "PT",
+    "Chapter": "2.14.9.11"
+  },
+  {
+    "Description": "Version ID",
+    "Item#": 12,
+    "Seg": "MSH",
+    "Seq#": 12,
+    "Len": 60,
+    "DT": "VID",
+    "Chapter": "2.14.9.12"
+  },
+  {
+    "Description": "Sequence Number",
+    "Item#": 13,
+    "Seg": "MSH",
+    "Seq#": 13,
+    "Len": 15,
+    "DT": "NM",
+    "Chapter": "2.14.9.13"
+  },
+  {
+    "Description": "Continuation Pointer",
+    "Item#": 14,
+    "Seg": "MSH",
+    "Seq#": 14,
+    "Len": 180,
+    "DT": "ST",
+    "Chapter": "2.14.9.14"
+  },
+  {
+    "Description": "Accept Acknowledgment Type",
+    "Item#": 15,
+    "Seg": "MSH",
+    "Seq#": 15,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 155,
+    "Chapter": "2.14.9.15"
+  },
+  {
+    "Description": "Application Acknowledgment Type",
+    "Item#": 16,
+    "Seg": "MSH",
+    "Seq#": 16,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 155,
+    "Chapter": "2.14.9.16"
+  },
+  {
+    "Description": "Country Code",
+    "Item#": 17,
+    "Seg": "MSH",
+    "Seq#": 17,
+    "Len": 3,
+    "DT": "ID",
+    "Table": 399,
+    "Chapter": "2.14.9.17"
+  },
+  {
+    "Description": "Character Set",
+    "Item#": 692,
+    "Seg": "MSH",
+    "Seq#": 18,
+    "Len": 16,
+    "DT": "ID",
+    "Rep": "Y",
+    "Table": 211,
+    "Chapter": "2.14.9.18"
+  },
+  {
+    "Description": "Principal Language Of Message",
+    "Item#": 693,
+    "Seg": "MSH",
+    "Seq#": 19,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "2.14.9.19"
+  },
+  {
+    "Description": "Alternate Character Set Handling Scheme",
+    "Item#": 1317,
+    "Seg": "MSH",
+    "Seq#": 20,
+    "Len": 20,
+    "DT": "ID",
+    "Table": 356,
+    "Chapter": "2.14.9.20"
+  },
+  {
+    "Description": "Message Profile Identifier",
+    "Item#": 1598,
+    "Seg": "MSH",
+    "Seq#": 21,
+    "Len": 427,
+    "DT": "EI",
+    "Rep": "Y",
+    "Chapter": "2.14.9.21"
+  },
+  {
+    "Description": "Sending Responsible Organization",
+    "Item#": 1823,
+    "Seg": "MSH",
+    "Seq#": 22,
+    "Len": 567,
+    "DT": "XON",
+    "Chapter": "2.14.9.22"
+  },
+  {
+    "Description": "Receiving Responsible Organization",
+    "Item#": 1824,
+    "Seg": "MSH",
+    "Seq#": 23,
+    "Len": 567,
+    "DT": "XON",
+    "Chapter": "2.14.9.23"
+  },
+  {
+    "Description": "Sending Network Address",
+    "Item#": 1825,
+    "Seg": "MSH",
+    "Seq#": 24,
+    "Len": 227,
+    "DT": "HD",
+    "Chapter": "2.14.9.24"
+  },
+  {
+    "Description": "Receiving Network Address",
+    "Item#": 1826,
+    "Seg": "MSH",
+    "Seq#": 25,
+    "Len": 227,
+    "DT": "HD",
+    "Chapter": "2.14.9.25"
+  }
 ]

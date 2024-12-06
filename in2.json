@@ -1,714 +1,714 @@
 [
-    {
-        "Description": "Ambulatory Status",
-        "Item#": 145,
-        "Seg": "IN2",
-        "Seq#": 32,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 9,
-        "Chapter": "6.5.7.32"
-      },
-      {
-        "Description": "Baby Coverage",
-        "Item#": 490,
-        "Seg": "IN2",
-        "Seq#": 19,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.7.19"
-      },
-      {
-        "Description": "Blood Deductible",
-        "Item#": 492,
-        "Seg": "IN2",
-        "Seq#": 21,
-        "Len": 1,
-        "DT": "ST",
-        "Chapter": "6.5.7.21"
-      },
-      {
-        "Description": "Citizenship",
-        "Item#": 129,
-        "Seg": "IN2",
-        "Seq#": 33,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 171,
-        "Chapter": "6.5.7.33"
-      },
-      {
-        "Description": "Combine Baby Bill",
-        "Item#": 491,
-        "Seg": "IN2",
-        "Seq#": 20,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.7.20"
-      },
-      {
-        "Description": "Copay Limit Flag",
-        "Item#": 807,
-        "Seg": "IN2",
-        "Seq#": 67,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.7.67"
-      },
-      {
-        "Description": "Daily Deductible",
-        "Item#": 501,
-        "Seg": "IN2",
-        "Seq#": 30,
-        "Len": 25,
-        "DT": "DDI",
-        "Chapter": "6.5.7.30"
-      },
-      {
-        "Description": "Dependent Of Military Recipient",
-        "Item#": 482,
-        "Seg": "IN2",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 342,
-        "Chapter": "6.5.7.11"
-      },
-      {
-        "Description": "Eligibility Source",
-        "Item#": 498,
-        "Seg": "IN2",
-        "Seq#": 27,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 144,
-        "Chapter": "6.5.7.27"
-      },
-      {
-        "Description": "Employer Contact Person Name",
-        "Item#": 789,
-        "Seg": "IN2",
-        "Seq#": 49,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.49"
-      },
-      {
-        "Description": "Employer Contact Person Phone Number",
-        "Item#": 790,
-        "Seg": "IN2",
-        "Seq#": 50,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.50"
-      },
-      {
-        "Description": "Employer Contact Reason",
-        "Item#": 791,
-        "Seg": "IN2",
-        "Seq#": 51,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 222,
-        "Chapter": "6.5.7.51"
-      },
-      {
-        "Description": "Employer Information Data",
-        "Item#": 475,
-        "Seg": "IN2",
-        "Seq#": 4,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 139,
-        "Chapter": "6.5.7.4"
-      },
-      {
-        "Description": "Employment Stop Date",
-        "Item#": 783,
-        "Seg": "IN2",
-        "Seq#": 45,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.7.45"
-      },
-      {
-        "Description": "Ethnic Group",
-        "Item#": 125,
-        "Seg": "IN2",
-        "Seq#": 42,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 189,
-        "Chapter": "6.5.7.42"
-      },
-      {
-        "Description": "Guarantor's Relationship to Insured",
-        "Item#": 802,
-        "Seg": "IN2",
-        "Seq#": 62,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 63,
-        "Chapter": "6.5.7.62"
-      },
-      {
-        "Description": "Insurance Co Contact Phone Number",
-        "Item#": 798,
-        "Seg": "IN2",
-        "Seq#": 58,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.58"
-      },
-      {
-        "Description": "Insurance Co Contact Reason",
-        "Item#": 797,
-        "Seg": "IN2",
-        "Seq#": 57,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 232,
-        "Chapter": "6.5.7.57"
-      },
-      {
-        "Description": "Insured Employer Organization Name and ID",
-        "Item#": 810,
-        "Seg": "IN2",
-        "Seq#": 70,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "6.5.7.70"
-      },
-      {
-        "Description": "Insured Organization Name and ID",
-        "Item#": 809,
-        "Seg": "IN2",
-        "Seq#": 69,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "6.5.7.69"
-      },
-      {
-        "Description": "Insured's Contact Person Phone Number",
-        "Item#": 793,
-        "Seg": "IN2",
-        "Seq#": 53,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.53"
-      },
-      {
-        "Description": "Insured's Contact Person Reason",
-        "Item#": 794,
-        "Seg": "IN2",
-        "Seq#": 54,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 222,
-        "Chapter": "6.5.7.54"
-      },
-      {
-        "Description": "Insured's Contact Person's Name",
-        "Item#": 792,
-        "Seg": "IN2",
-        "Seq#": 52,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.52"
-      },
-      {
-        "Description": "Insured's Employee ID",
-        "Item#": 472,
-        "Seg": "IN2",
-        "Seq#": 1,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.7.1"
-      },
-      {
-        "Description": "Insured's Employer Phone Number",
-        "Item#": 804,
-        "Seg": "IN2",
-        "Seq#": 64,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.64"
-      },
-      {
-        "Description": "Insured's Employer's Name and ID",
-        "Item#": 474,
-        "Seg": "IN2",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.3"
-      },
-      {
-        "Description": "Insured's Employment Start Date",
-        "Item#": 787,
-        "Seg": "IN2",
-        "Seq#": 44,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.7.44"
-      },
-      {
-        "Description": "Insured's Phone Number - Home",
-        "Item#": 803,
-        "Seg": "IN2",
-        "Seq#": 63,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.63"
-      },
-      {
-        "Description": "Insured's Social Security Number",
-        "Item#": 473,
-        "Seg": "IN2",
-        "Seq#": 2,
-        "Len": 11,
-        "DT": "ST",
-        "Chapter": "6.5.7.2"
-      },
-      {
-        "Description": "Job Code/Class",
-        "Item#": 786,
-        "Seg": "IN2",
-        "Seq#": 47,
-        "Len": 20,
-        "DT": "JCC",
-        "Chapter": "6.5.7.47"
-      },
-      {
-        "Description": "Job Status",
-        "Item#": 752,
-        "Seg": "IN2",
-        "Seq#": 48,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 311,
-        "Chapter": "6.5.7.48"
-      },
-      {
-        "Description": "Job Title",
-        "Item#": 785,
-        "Seg": "IN2",
-        "Seq#": 46,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "6.5.7.46"
-      },
-      {
-        "Description": "Living Arrangement",
-        "Item#": 742,
-        "Seg": "IN2",
-        "Seq#": 35,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 220,
-        "Chapter": "6.5.7.35"
-      },
-      {
-        "Description": "Living Dependency",
-        "Item#": 755,
-        "Seg": "IN2",
-        "Seq#": 31,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 223,
-        "Chapter": "6.5.7.31"
-      },
-      {
-        "Description": "Mail Claim Party",
-        "Item#": 476,
-        "Seg": "IN2",
-        "Seq#": 5,
-        "Len": 1,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 137,
-        "Chapter": "6.5.7.5"
-      },
-      {
-        "Description": "Marital Status",
-        "Item#": 119,
-        "Seg": "IN2",
-        "Seq#": 43,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 2,
-        "Chapter": "6.5.7.43"
-      },
-      {
-        "Description": "Medicaid Case Name",
-        "Item#": 478,
-        "Seg": "IN2",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.7"
-      },
-      {
-        "Description": "Medicaid Case Number",
-        "Item#": 479,
-        "Seg": "IN2",
-        "Seq#": 8,
-        "Len": 15,
-        "DT": "ST",
-        "Chapter": "6.5.7.8"
-      },
-      {
-        "Description": "Medicare Health Ins Card Number",
-        "Item#": 477,
-        "Seg": "IN2",
-        "Seq#": 6,
-        "Len": 15,
-        "DT": "ST",
-        "Chapter": "6.5.7.6"
-      },
-      {
-        "Description": "Military Handicapped Program",
-        "Item#": 805,
-        "Seg": "IN2",
-        "Seq#": 65,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 343,
-        "Chapter": "6.5.7.65"
-      },
-      {
-        "Description": "Military ID Number",
-        "Item#": 481,
-        "Seg": "IN2",
-        "Seq#": 10,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "6.5.7.10"
-      },
-      {
-        "Description": "Military Non-Avail Cert On File",
-        "Item#": 489,
-        "Seg": "IN2",
-        "Seq#": 18,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.7.18"
-      },
-      {
-        "Description": "Military Organization",
-        "Item#": 483,
-        "Seg": "IN2",
-        "Seq#": 12,
-        "Len": 25,
-        "DT": "ST",
-        "Chapter": "6.5.7.12"
-      },
-      {
-        "Description": "Military Rank/Grade",
-        "Item#": 486,
-        "Seg": "IN2",
-        "Seq#": 15,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 141,
-        "Chapter": "6.5.7.15"
-      },
-      {
-        "Description": "Military Retire Date",
-        "Item#": 488,
-        "Seg": "IN2",
-        "Seq#": 17,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.7.17"
-      },
-      {
-        "Description": "Military Service",
-        "Item#": 485,
-        "Seg": "IN2",
-        "Seq#": 14,
-        "Len": 14,
-        "DT": "IS",
-        "Table": 140,
-        "Chapter": "6.5.7.14"
-      },
-      {
-        "Description": "Military Sponsor Name",
-        "Item#": 480,
-        "Seg": "IN2",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.9"
-      },
-      {
-        "Description": "Military Station",
-        "Item#": 484,
-        "Seg": "IN2",
-        "Seq#": 13,
-        "Len": 25,
-        "DT": "ST",
-        "Chapter": "6.5.7.13"
-      },
-      {
-        "Description": "Military Status",
-        "Item#": 487,
-        "Seg": "IN2",
-        "Seq#": 16,
-        "Len": 3,
-        "DT": "IS",
-        "Table": 142,
-        "Chapter": "6.5.7.16"
-      },
-      {
-        "Description": "Mother's Maiden Name",
-        "Item#": 109,
-        "Seg": "IN2",
-        "Seq#": 40,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.40"
-      },
-      {
-        "Description": "Nationality",
-        "Item#": 739,
-        "Seg": "IN2",
-        "Seq#": 41,
-        "Len": 0,
-        "DT": "CWE",
-        "Table": 212,
-        "Chapter": "6.5.7.41"
-      },
-      {
-        "Description": "Non-Covered Insurance Code",
-        "Item#": 495,
-        "Seg": "IN2",
-        "Seq#": 24,
-        "Len": 8,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 143,
-        "Chapter": "6.5.7.24"
-      },
-      {
-        "Description": "Patient Member Number",
-        "Item#": 801,
-        "Seg": "IN2",
-        "Seq#": 61,
-        "Len": 250,
-        "DT": "CX",
-        "Chapter": "6.5.7.61"
-      },
-      {
-        "Description": "Patient's Relationship to Insured",
-        "Item#": 811,
-        "Seg": "IN2",
-        "Seq#": 72,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 344,
-        "Chapter": "6.5.7.72"
-      },
-      {
-        "Description": "Payor ID",
-        "Item#": 496,
-        "Seg": "IN2",
-        "Seq#": 25,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.7.25"
-      },
-      {
-        "Description": "Payor Subscriber ID",
-        "Item#": 497,
-        "Seg": "IN2",
-        "Seq#": 26,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.7.26"
-      },
-      {
-        "Description": "Policy Scope",
-        "Item#": 799,
-        "Seg": "IN2",
-        "Seq#": 59,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 312,
-        "Chapter": "6.5.7.59"
-      },
-      {
-        "Description": "Policy Source",
-        "Item#": 800,
-        "Seg": "IN2",
-        "Seq#": 60,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 313,
-        "Chapter": "6.5.7.60"
-      },
-      {
-        "Description": "Policy Type/Amount",
-        "Item#": 500,
-        "Seg": "IN2",
-        "Seq#": 29,
-        "Len": 56,
-        "DT": "PTA",
-        "Rep": "Y",
-        "Chapter": "6.5.7.29"
-      },
-      {
-        "Description": "Primary Language",
-        "Item#": 118,
-        "Seg": "IN2",
-        "Seq#": 34,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 296,
-        "Chapter": "6.5.7.34"
-      },
-      {
-        "Description": "Protection Indicator",
-        "Item#": 744,
-        "Seg": "IN2",
-        "Seq#": 37,
-        "Len": 0,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.7.37"
-      },
-      {
-        "Description": "Publicity Code",
-        "Item#": 743,
-        "Seg": "IN2",
-        "Seq#": 36,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 215,
-        "Chapter": "6.5.7.36"
-      },
-      {
-        "Description": "Race",
-        "Item#": 113,
-        "Seg": "IN2",
-        "Seq#": 71,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 5,
-        "Chapter": "6.5.7.71"
-      },
-      {
-        "Description": "Relationship to the Patient Start Date",
-        "Item#": 795,
-        "Seg": "IN2",
-        "Seq#": 55,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.7.55"
-      },
-      {
-        "Description": "Relationship to the Patient Stop Date",
-        "Item#": 796,
-        "Seg": "IN2",
-        "Seq#": 56,
-        "Len": 8,
-        "DT": "DT",
-        "Rep": "Y",
-        "Chapter": "6.5.7.56"
-      },
-      {
-        "Description": "Religion",
-        "Item#": 120,
-        "Seg": "IN2",
-        "Seq#": 39,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 6,
-        "Chapter": "6.5.7.39"
-      },
-      {
-        "Description": "Room Coverage Type/Amount",
-        "Item#": 499,
-        "Seg": "IN2",
-        "Seq#": 28,
-        "Len": 82,
-        "DT": "RMC",
-        "Rep": "Y",
-        "Chapter": "6.5.7.28"
-      },
-      {
-        "Description": "Special Coverage Approval Name",
-        "Item#": 493,
-        "Seg": "IN2",
-        "Seq#": 22,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.7.22"
-      },
-      {
-        "Description": "Special Coverage Approval Title",
-        "Item#": 494,
-        "Seg": "IN2",
-        "Seq#": 23,
-        "Len": 30,
-        "DT": "ST",
-        "Chapter": "6.5.7.23"
-      },
-      {
-        "Description": "Stoploss Limit Flag",
-        "Item#": 808,
-        "Seg": "IN2",
-        "Seq#": 68,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.7.68"
-      },
-      {
-        "Description": "Student Indicator",
-        "Item#": 745,
-        "Seg": "IN2",
-        "Seq#": 38,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 231,
-        "Chapter": "6.5.7.38"
-      },
-      {
-        "Description": "Suspend Flag",
-        "Item#": 806,
-        "Seg": "IN2",
-        "Seq#": 66,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.7.66"
-      }
+  {
+    "Description": "Insured's Employee ID",
+    "Item#": 472,
+    "Seg": "IN2",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "6.5.7.1"
+  },
+  {
+    "Description": "Insured's Social Security Number",
+    "Item#": 473,
+    "Seg": "IN2",
+    "Seq#": 2,
+    "Len": 11,
+    "DT": "ST",
+    "Chapter": "6.5.7.2"
+  },
+  {
+    "Description": "Insured's Employer's Name and ID",
+    "Item#": 474,
+    "Seg": "IN2",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.3"
+  },
+  {
+    "Description": "Employer Information Data",
+    "Item#": 475,
+    "Seg": "IN2",
+    "Seq#": 4,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 139,
+    "Chapter": "6.5.7.4"
+  },
+  {
+    "Description": "Mail Claim Party",
+    "Item#": 476,
+    "Seg": "IN2",
+    "Seq#": 5,
+    "Len": 1,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 137,
+    "Chapter": "6.5.7.5"
+  },
+  {
+    "Description": "Medicare Health Ins Card Number",
+    "Item#": 477,
+    "Seg": "IN2",
+    "Seq#": 6,
+    "Len": 15,
+    "DT": "ST",
+    "Chapter": "6.5.7.6"
+  },
+  {
+    "Description": "Medicaid Case Name",
+    "Item#": 478,
+    "Seg": "IN2",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.7"
+  },
+  {
+    "Description": "Medicaid Case Number",
+    "Item#": 479,
+    "Seg": "IN2",
+    "Seq#": 8,
+    "Len": 15,
+    "DT": "ST",
+    "Chapter": "6.5.7.8"
+  },
+  {
+    "Description": "Military Sponsor Name",
+    "Item#": 480,
+    "Seg": "IN2",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.9"
+  },
+  {
+    "Description": "Military ID Number",
+    "Item#": 481,
+    "Seg": "IN2",
+    "Seq#": 10,
+    "Len": 20,
+    "DT": "ST",
+    "Chapter": "6.5.7.10"
+  },
+  {
+    "Description": "Dependent Of Military Recipient",
+    "Item#": 482,
+    "Seg": "IN2",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 342,
+    "Chapter": "6.5.7.11"
+  },
+  {
+    "Description": "Military Organization",
+    "Item#": 483,
+    "Seg": "IN2",
+    "Seq#": 12,
+    "Len": 25,
+    "DT": "ST",
+    "Chapter": "6.5.7.12"
+  },
+  {
+    "Description": "Military Station",
+    "Item#": 484,
+    "Seg": "IN2",
+    "Seq#": 13,
+    "Len": 25,
+    "DT": "ST",
+    "Chapter": "6.5.7.13"
+  },
+  {
+    "Description": "Military Service",
+    "Item#": 485,
+    "Seg": "IN2",
+    "Seq#": 14,
+    "Len": 14,
+    "DT": "IS",
+    "Table": 140,
+    "Chapter": "6.5.7.14"
+  },
+  {
+    "Description": "Military Rank/Grade",
+    "Item#": 486,
+    "Seg": "IN2",
+    "Seq#": 15,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 141,
+    "Chapter": "6.5.7.15"
+  },
+  {
+    "Description": "Military Status",
+    "Item#": 487,
+    "Seg": "IN2",
+    "Seq#": 16,
+    "Len": 3,
+    "DT": "IS",
+    "Table": 142,
+    "Chapter": "6.5.7.16"
+  },
+  {
+    "Description": "Military Retire Date",
+    "Item#": 488,
+    "Seg": "IN2",
+    "Seq#": 17,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.7.17"
+  },
+  {
+    "Description": "Military Non-Avail Cert On File",
+    "Item#": 489,
+    "Seg": "IN2",
+    "Seq#": 18,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.7.18"
+  },
+  {
+    "Description": "Baby Coverage",
+    "Item#": 490,
+    "Seg": "IN2",
+    "Seq#": 19,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.7.19"
+  },
+  {
+    "Description": "Combine Baby Bill",
+    "Item#": 491,
+    "Seg": "IN2",
+    "Seq#": 20,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.7.20"
+  },
+  {
+    "Description": "Blood Deductible",
+    "Item#": 492,
+    "Seg": "IN2",
+    "Seq#": 21,
+    "Len": 1,
+    "DT": "ST",
+    "Chapter": "6.5.7.21"
+  },
+  {
+    "Description": "Special Coverage Approval Name",
+    "Item#": 493,
+    "Seg": "IN2",
+    "Seq#": 22,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.22"
+  },
+  {
+    "Description": "Special Coverage Approval Title",
+    "Item#": 494,
+    "Seg": "IN2",
+    "Seq#": 23,
+    "Len": 30,
+    "DT": "ST",
+    "Chapter": "6.5.7.23"
+  },
+  {
+    "Description": "Non-Covered Insurance Code",
+    "Item#": 495,
+    "Seg": "IN2",
+    "Seq#": 24,
+    "Len": 8,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 143,
+    "Chapter": "6.5.7.24"
+  },
+  {
+    "Description": "Payor ID",
+    "Item#": 496,
+    "Seg": "IN2",
+    "Seq#": 25,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "6.5.7.25"
+  },
+  {
+    "Description": "Payor Subscriber ID",
+    "Item#": 497,
+    "Seg": "IN2",
+    "Seq#": 26,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "6.5.7.26"
+  },
+  {
+    "Description": "Eligibility Source",
+    "Item#": 498,
+    "Seg": "IN2",
+    "Seq#": 27,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 144,
+    "Chapter": "6.5.7.27"
+  },
+  {
+    "Description": "Room Coverage Type/Amount",
+    "Item#": 499,
+    "Seg": "IN2",
+    "Seq#": 28,
+    "Len": 82,
+    "DT": "RMC",
+    "Rep": "Y",
+    "Chapter": "6.5.7.28"
+  },
+  {
+    "Description": "Policy Type/Amount",
+    "Item#": 500,
+    "Seg": "IN2",
+    "Seq#": 29,
+    "Len": 56,
+    "DT": "PTA",
+    "Rep": "Y",
+    "Chapter": "6.5.7.29"
+  },
+  {
+    "Description": "Daily Deductible",
+    "Item#": 501,
+    "Seg": "IN2",
+    "Seq#": 30,
+    "Len": 25,
+    "DT": "DDI",
+    "Chapter": "6.5.7.30"
+  },
+  {
+    "Description": "Living Dependency",
+    "Item#": 755,
+    "Seg": "IN2",
+    "Seq#": 31,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 223,
+    "Chapter": "6.5.7.31"
+  },
+  {
+    "Description": "Ambulatory Status",
+    "Item#": 145,
+    "Seg": "IN2",
+    "Seq#": 32,
+    "Len": 2,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 9,
+    "Chapter": "6.5.7.32"
+  },
+  {
+    "Description": "Citizenship",
+    "Item#": 129,
+    "Seg": "IN2",
+    "Seq#": 33,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 171,
+    "Chapter": "6.5.7.33"
+  },
+  {
+    "Description": "Primary Language",
+    "Item#": 118,
+    "Seg": "IN2",
+    "Seq#": 34,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 296,
+    "Chapter": "6.5.7.34"
+  },
+  {
+    "Description": "Living Arrangement",
+    "Item#": 742,
+    "Seg": "IN2",
+    "Seq#": 35,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 220,
+    "Chapter": "6.5.7.35"
+  },
+  {
+    "Description": "Publicity Code",
+    "Item#": 743,
+    "Seg": "IN2",
+    "Seq#": 36,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 215,
+    "Chapter": "6.5.7.36"
+  },
+  {
+    "Description": "Protection Indicator",
+    "Item#": 744,
+    "Seg": "IN2",
+    "Seq#": 37,
+    "Len": 0,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.7.37"
+  },
+  {
+    "Description": "Student Indicator",
+    "Item#": 745,
+    "Seg": "IN2",
+    "Seq#": 38,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 231,
+    "Chapter": "6.5.7.38"
+  },
+  {
+    "Description": "Religion",
+    "Item#": 120,
+    "Seg": "IN2",
+    "Seq#": 39,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 6,
+    "Chapter": "6.5.7.39"
+  },
+  {
+    "Description": "Mother's Maiden Name",
+    "Item#": 109,
+    "Seg": "IN2",
+    "Seq#": 40,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.40"
+  },
+  {
+    "Description": "Nationality",
+    "Item#": 739,
+    "Seg": "IN2",
+    "Seq#": 41,
+    "Len": 0,
+    "DT": "CWE",
+    "Table": 212,
+    "Chapter": "6.5.7.41"
+  },
+  {
+    "Description": "Ethnic Group",
+    "Item#": 125,
+    "Seg": "IN2",
+    "Seq#": 42,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 189,
+    "Chapter": "6.5.7.42"
+  },
+  {
+    "Description": "Marital Status",
+    "Item#": 119,
+    "Seg": "IN2",
+    "Seq#": 43,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 2,
+    "Chapter": "6.5.7.43"
+  },
+  {
+    "Description": "Insured's Employment Start Date",
+    "Item#": 787,
+    "Seg": "IN2",
+    "Seq#": 44,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.7.44"
+  },
+  {
+    "Description": "Employment Stop Date",
+    "Item#": 783,
+    "Seg": "IN2",
+    "Seq#": 45,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.7.45"
+  },
+  {
+    "Description": "Job Title",
+    "Item#": 785,
+    "Seg": "IN2",
+    "Seq#": 46,
+    "Len": 20,
+    "DT": "ST",
+    "Chapter": "6.5.7.46"
+  },
+  {
+    "Description": "Job Code/Class",
+    "Item#": 786,
+    "Seg": "IN2",
+    "Seq#": 47,
+    "Len": 20,
+    "DT": "JCC",
+    "Chapter": "6.5.7.47"
+  },
+  {
+    "Description": "Job Status",
+    "Item#": 752,
+    "Seg": "IN2",
+    "Seq#": 48,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 311,
+    "Chapter": "6.5.7.48"
+  },
+  {
+    "Description": "Employer Contact Person Name",
+    "Item#": 789,
+    "Seg": "IN2",
+    "Seq#": 49,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.49"
+  },
+  {
+    "Description": "Employer Contact Person Phone Number",
+    "Item#": 790,
+    "Seg": "IN2",
+    "Seq#": 50,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.50"
+  },
+  {
+    "Description": "Employer Contact Reason",
+    "Item#": 791,
+    "Seg": "IN2",
+    "Seq#": 51,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 222,
+    "Chapter": "6.5.7.51"
+  },
+  {
+    "Description": "Insured's Contact Person's Name",
+    "Item#": 792,
+    "Seg": "IN2",
+    "Seq#": 52,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.52"
+  },
+  {
+    "Description": "Insured's Contact Person Phone Number",
+    "Item#": 793,
+    "Seg": "IN2",
+    "Seq#": 53,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.53"
+  },
+  {
+    "Description": "Insured's Contact Person Reason",
+    "Item#": 794,
+    "Seg": "IN2",
+    "Seq#": 54,
+    "Len": 2,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 222,
+    "Chapter": "6.5.7.54"
+  },
+  {
+    "Description": "Relationship to the Patient Start Date",
+    "Item#": 795,
+    "Seg": "IN2",
+    "Seq#": 55,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.7.55"
+  },
+  {
+    "Description": "Relationship to the Patient Stop Date",
+    "Item#": 796,
+    "Seg": "IN2",
+    "Seq#": 56,
+    "Len": 8,
+    "DT": "DT",
+    "Rep": "Y",
+    "Chapter": "6.5.7.56"
+  },
+  {
+    "Description": "Insurance Co Contact Reason",
+    "Item#": 797,
+    "Seg": "IN2",
+    "Seq#": 57,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 232,
+    "Chapter": "6.5.7.57"
+  },
+  {
+    "Description": "Insurance Co Contact Phone Number",
+    "Item#": 798,
+    "Seg": "IN2",
+    "Seq#": 58,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.58"
+  },
+  {
+    "Description": "Policy Scope",
+    "Item#": 799,
+    "Seg": "IN2",
+    "Seq#": 59,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 312,
+    "Chapter": "6.5.7.59"
+  },
+  {
+    "Description": "Policy Source",
+    "Item#": 800,
+    "Seg": "IN2",
+    "Seq#": 60,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 313,
+    "Chapter": "6.5.7.60"
+  },
+  {
+    "Description": "Patient Member Number",
+    "Item#": 801,
+    "Seg": "IN2",
+    "Seq#": 61,
+    "Len": 250,
+    "DT": "CX",
+    "Chapter": "6.5.7.61"
+  },
+  {
+    "Description": "Guarantor's Relationship to Insured",
+    "Item#": 802,
+    "Seg": "IN2",
+    "Seq#": 62,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 63,
+    "Chapter": "6.5.7.62"
+  },
+  {
+    "Description": "Insured's Phone Number - Home",
+    "Item#": 803,
+    "Seg": "IN2",
+    "Seq#": 63,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.63"
+  },
+  {
+    "Description": "Insured's Employer Phone Number",
+    "Item#": 804,
+    "Seg": "IN2",
+    "Seq#": 64,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "6.5.7.64"
+  },
+  {
+    "Description": "Military Handicapped Program",
+    "Item#": 805,
+    "Seg": "IN2",
+    "Seq#": 65,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 343,
+    "Chapter": "6.5.7.65"
+  },
+  {
+    "Description": "Suspend Flag",
+    "Item#": 806,
+    "Seg": "IN2",
+    "Seq#": 66,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.7.66"
+  },
+  {
+    "Description": "Copay Limit Flag",
+    "Item#": 807,
+    "Seg": "IN2",
+    "Seq#": 67,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.7.67"
+  },
+  {
+    "Description": "Stoploss Limit Flag",
+    "Item#": 808,
+    "Seg": "IN2",
+    "Seq#": 68,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.7.68"
+  },
+  {
+    "Description": "Insured Organization Name and ID",
+    "Item#": 809,
+    "Seg": "IN2",
+    "Seq#": 69,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "6.5.7.69"
+  },
+  {
+    "Description": "Insured Employer Organization Name and ID",
+    "Item#": 810,
+    "Seg": "IN2",
+    "Seq#": 70,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "6.5.7.70"
+  },
+  {
+    "Description": "Race",
+    "Item#": 113,
+    "Seg": "IN2",
+    "Seq#": 71,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 5,
+    "Chapter": "6.5.7.71"
+  },
+  {
+    "Description": "Patient's Relationship to Insured",
+    "Item#": 811,
+    "Seg": "IN2",
+    "Seq#": 72,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 344,
+    "Chapter": "6.5.7.72"
+  }
 ]

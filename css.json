@@ -1,32 +1,32 @@
 [
-    {
-        "Description": "Study Quality Control Codes",
-        "Item#": 1057,
-        "Seg": "CSS",
-        "Seq#": 3,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "7.8.3.3"
-      },
-      {
-        "Description": "Study Scheduled Patient Time Point",
-        "Item#": 1056,
-        "Seg": "CSS",
-        "Seq#": 2,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.8.3.2"
-      },
-      {
-        "Description": "Study Scheduled Time Point",
-        "Item#": 1055,
-        "Seg": "CSS",
-        "Seq#": 1,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "7.8.3.1"
-      }
+  {
+    "Description": "Study Scheduled Time Point",
+    "Item#": 1055,
+    "Seg": "CSS",
+    "Seq#": 1,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "7.8.3.1"
+  },
+  {
+    "Description": "Study Scheduled Patient Time Point",
+    "Item#": 1056,
+    "Seg": "CSS",
+    "Seq#": 2,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.8.3.2"
+  },
+  {
+    "Description": "Study Quality Control Codes",
+    "Item#": 1057,
+    "Seg": "CSS",
+    "Seq#": 3,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "7.8.3.3"
+  }
 ]

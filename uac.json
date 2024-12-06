@@ -1,21 +1,21 @@
 [
-    {
-        "Description": "User Authentication Credential",
-        "Item#": 2268,
-        "Seg": "UAC",
-        "Seq#": 2,
-        "Len": 65536,
-        "DT": "ED",
-        "Chapter": "2.14.13.2"
-      },
-      {
-        "Description": "User Authentication Credential Type Code",
-        "Item#": 2267,
-        "Seg": "UAC",
-        "Seq#": 1,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 615,
-        "Chapter": "2.14.13.1"
-      }
+  {
+    "Description": "User Authentication Credential Type Code",
+    "Item#": 2267,
+    "Seg": "UAC",
+    "Seq#": 1,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 615,
+    "Chapter": "2.14.13.1"
+  },
+  {
+    "Description": "User Authentication Credential",
+    "Item#": 2268,
+    "Seg": "UAC",
+    "Seq#": 2,
+    "Len": 65536,
+    "DT": "ED",
+    "Chapter": "2.14.13.2"
+  }
 ]

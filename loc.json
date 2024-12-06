@@ -1,93 +1,93 @@
 [
-    {
-        "Description": "License Number",
-        "Item#": 951,
-        "Seg": "LOC",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 461,
-        "Chapter": "8.9.2.7"
-      },
-      {
-        "Description": "Location Address",
-        "Item#": 948,
-        "Seg": "LOC",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "8.9.2.5"
-      },
-      {
-        "Description": "Location Description",
-        "Item#": 944,
-        "Seg": "LOC",
-        "Seq#": 2,
-        "Len": 48,
-        "DT": "ST",
-        "Chapter": "8.9.2.2"
-      },
-      {
-        "Description": "Location Equipment",
-        "Item#": 953,
-        "Seg": "LOC",
-        "Seq#": 8,
-        "Len": 3,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 261,
-        "Chapter": "8.9.2.8"
-      },
-      {
-        "Description": "Location Phone",
-        "Item#": 949,
-        "Seg": "LOC",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "8.9.2.6"
-      },
-      {
-        "Description": "Location Service Code",
-        "Item#": 1583,
-        "Seg": "LOC",
-        "Seq#": 9,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 442,
-        "Chapter": "8.9.2.9"
-      },
-      {
-        "Description": "Location Type - LOC",
-        "Item#": 945,
-        "Seg": "LOC",
-        "Seq#": 3,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 260,
-        "Chapter": "8.9.2.3"
-      },
-      {
-        "Description": "Organization Name - LOC",
-        "Item#": 947,
-        "Seg": "LOC",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "8.9.2.4"
-      },
-      {
-        "Description": "Primary Key Value - LOC",
-        "Item#": 1307,
-        "Seg": "LOC",
-        "Seq#": 1,
-        "Len": 200,
-        "DT": "PL",
-        "Chapter": "8.9.2.1"
-      }
+  {
+    "Description": "Primary Key Value - LOC",
+    "Item#": 1307,
+    "Seg": "LOC",
+    "Seq#": 1,
+    "Len": 200,
+    "DT": "PL",
+    "Chapter": "8.9.2.1"
+  },
+  {
+    "Description": "Location Description",
+    "Item#": 944,
+    "Seg": "LOC",
+    "Seq#": 2,
+    "Len": 48,
+    "DT": "ST",
+    "Chapter": "8.9.2.2"
+  },
+  {
+    "Description": "Location Type - LOC",
+    "Item#": 945,
+    "Seg": "LOC",
+    "Seq#": 3,
+    "Len": 2,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 260,
+    "Chapter": "8.9.2.3"
+  },
+  {
+    "Description": "Organization Name - LOC",
+    "Item#": 947,
+    "Seg": "LOC",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "8.9.2.4"
+  },
+  {
+    "Description": "Location Address",
+    "Item#": 948,
+    "Seg": "LOC",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "8.9.2.5"
+  },
+  {
+    "Description": "Location Phone",
+    "Item#": 949,
+    "Seg": "LOC",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "8.9.2.6"
+  },
+  {
+    "Description": "License Number",
+    "Item#": 951,
+    "Seg": "LOC",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 461,
+    "Chapter": "8.9.2.7"
+  },
+  {
+    "Description": "Location Equipment",
+    "Item#": 953,
+    "Seg": "LOC",
+    "Seq#": 8,
+    "Len": 3,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 261,
+    "Chapter": "8.9.2.8"
+  },
+  {
+    "Description": "Location Service Code",
+    "Item#": 1583,
+    "Seg": "LOC",
+    "Seq#": 9,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 442,
+    "Chapter": "8.9.2.9"
+  }
 ]

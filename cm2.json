@@ -1,39 +1,39 @@
 [
-    {
-        "Description": "Description of Time Point",
-        "Item#": 1026,
-        "Seg": "CM2",
-        "Seq#": 3,
-        "Len": 300,
-        "DT": "ST",
-        "Chapter": "8.11.4.3"
-      },
-      {
-        "Description": "Events Scheduled This Time Point",
-        "Item#": 1027,
-        "Seg": "CM2",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Chapter": "8.11.4.4"
-      },
-      {
-        "Description": "Scheduled Time Point",
-        "Item#": 1025,
-        "Seg": "CM2",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "8.11.4.2"
-      },
-      {
-        "Description": "Set ID- CM2",
-        "Item#": 1024,
-        "Seg": "CM2",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "8.11.4.1"
-      }
+  {
+    "Description": "Set ID- CM2",
+    "Item#": 1024,
+    "Seg": "CM2",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "8.11.4.1"
+  },
+  {
+    "Description": "Scheduled Time Point",
+    "Item#": 1025,
+    "Seg": "CM2",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "8.11.4.2"
+  },
+  {
+    "Description": "Description of Time Point",
+    "Item#": 1026,
+    "Seg": "CM2",
+    "Seq#": 3,
+    "Len": 300,
+    "DT": "ST",
+    "Chapter": "8.11.4.3"
+  },
+  {
+    "Description": "Events Scheduled This Time Point",
+    "Item#": 1027,
+    "Seg": "CM2",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Chapter": "8.11.4.4"
+  }
 ]

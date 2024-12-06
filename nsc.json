@@ -1,84 +1,84 @@
 [
-    {
-        "Description": "Application Change Type",
-        "Item#": 1188,
-        "Seg": "NSC",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "IS",
-        "Table": 409,
-        "Chapter": "14.4.2.1"
-      },
-      {
-        "Description": "Current Application",
-        "Item#": 1191,
-        "Seg": "NSC",
-        "Seq#": 4,
-        "Len": 30,
-        "DT": "HD",
-        "Chapter": "14.4.2.4"
-      },
-      {
-        "Description": "Current CPU",
-        "Item#": 1189,
-        "Seg": "NSC",
-        "Seq#": 2,
-        "Len": 30,
-        "DT": "ST",
-        "Chapter": "14.4.2.2"
-      },
-      {
-        "Description": "Current Facility",
-        "Item#": 1192,
-        "Seg": "NSC",
-        "Seq#": 5,
-        "Len": 30,
-        "DT": "HD",
-        "Chapter": "14.4.2.5"
-      },
-      {
-        "Description": "Current Fileserver",
-        "Item#": 1190,
-        "Seg": "NSC",
-        "Seq#": 3,
-        "Len": 30,
-        "DT": "ST",
-        "Chapter": "14.4.2.3"
-      },
-      {
-        "Description": "New Application",
-        "Item#": 1195,
-        "Seg": "NSC",
-        "Seq#": 8,
-        "Len": 30,
-        "DT": "HD",
-        "Chapter": "14.4.2.8"
-      },
-      {
-        "Description": "New CPU",
-        "Item#": 1193,
-        "Seg": "NSC",
-        "Seq#": 6,
-        "Len": 30,
-        "DT": "ST",
-        "Chapter": "14.4.2.6"
-      },
-      {
-        "Description": "New Facility",
-        "Item#": 1196,
-        "Seg": "NSC",
-        "Seq#": 9,
-        "Len": 30,
-        "DT": "HD",
-        "Chapter": "14.4.2.9"
-      },
-      {
-        "Description": "New Fileserver",
-        "Item#": 1194,
-        "Seg": "NSC",
-        "Seq#": 7,
-        "Len": 30,
-        "DT": "ST",
-        "Chapter": "14.4.2.7"
-      }
+  {
+    "Description": "Application Change Type",
+    "Item#": 1188,
+    "Seg": "NSC",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "IS",
+    "Table": 409,
+    "Chapter": "14.4.2.1"
+  },
+  {
+    "Description": "Current CPU",
+    "Item#": 1189,
+    "Seg": "NSC",
+    "Seq#": 2,
+    "Len": 30,
+    "DT": "ST",
+    "Chapter": "14.4.2.2"
+  },
+  {
+    "Description": "Current Fileserver",
+    "Item#": 1190,
+    "Seg": "NSC",
+    "Seq#": 3,
+    "Len": 30,
+    "DT": "ST",
+    "Chapter": "14.4.2.3"
+  },
+  {
+    "Description": "Current Application",
+    "Item#": 1191,
+    "Seg": "NSC",
+    "Seq#": 4,
+    "Len": 30,
+    "DT": "HD",
+    "Chapter": "14.4.2.4"
+  },
+  {
+    "Description": "Current Facility",
+    "Item#": 1192,
+    "Seg": "NSC",
+    "Seq#": 5,
+    "Len": 30,
+    "DT": "HD",
+    "Chapter": "14.4.2.5"
+  },
+  {
+    "Description": "New CPU",
+    "Item#": 1193,
+    "Seg": "NSC",
+    "Seq#": 6,
+    "Len": 30,
+    "DT": "ST",
+    "Chapter": "14.4.2.6"
+  },
+  {
+    "Description": "New Fileserver",
+    "Item#": 1194,
+    "Seg": "NSC",
+    "Seq#": 7,
+    "Len": 30,
+    "DT": "ST",
+    "Chapter": "14.4.2.7"
+  },
+  {
+    "Description": "New Application",
+    "Item#": 1195,
+    "Seg": "NSC",
+    "Seq#": 8,
+    "Len": 30,
+    "DT": "HD",
+    "Chapter": "14.4.2.8"
+  },
+  {
+    "Description": "New Facility",
+    "Item#": 1196,
+    "Seg": "NSC",
+    "Seq#": 9,
+    "Len": 30,
+    "DT": "HD",
+    "Chapter": "14.4.2.9"
+  }
 ]

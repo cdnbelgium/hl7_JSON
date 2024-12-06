@@ -1,59 +1,59 @@
 [
-    {
-        "Description": "Location Relationship ID",
-        "Item#": 1277,
-        "Seg": "LRL",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 325,
-        "Chapter": "8.9.4.4"
-      },
-      {
-        "Description": "Organizational Location Relationship Value",
-        "Item#": 1301,
-        "Seg": "LRL",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "8.9.4.5"
-      },
-      {
-        "Description": "Patient Location Relationship Value",
-        "Item#": 1292,
-        "Seg": "LRL",
-        "Seq#": 6,
-        "Len": 80,
-        "DT": "PL",
-        "Chapter": "8.9.4.6"
-      },
-      {
-        "Description": "Primary Key Value - LRL",
-        "Item#": 943,
-        "Seg": "LRL",
-        "Seq#": 1,
-        "Len": 200,
-        "DT": "PL",
-        "Chapter": "8.9.4.1"
-      },
-      {
-        "Description": "Segment Action Code",
-        "Item#": 763,
-        "Seg": "LRL",
-        "Seq#": 2,
-        "Len": 3,
-        "DT": "ID",
-        "Table": 206,
-        "Chapter": "8.9.4.2"
-      },
-      {
-        "Description": "Segment Unique Key",
-        "Item#": 764,
-        "Seg": "LRL",
-        "Seq#": 3,
-        "Len": 80,
-        "DT": "EI",
-        "Chapter": "8.9.4.3"
-      }
+  {
+    "Description": "Primary Key Value - LRL",
+    "Item#": 943,
+    "Seg": "LRL",
+    "Seq#": 1,
+    "Len": 200,
+    "DT": "PL",
+    "Chapter": "8.9.4.1"
+  },
+  {
+    "Description": "Segment Action Code",
+    "Item#": 763,
+    "Seg": "LRL",
+    "Seq#": 2,
+    "Len": 3,
+    "DT": "ID",
+    "Table": 206,
+    "Chapter": "8.9.4.2"
+  },
+  {
+    "Description": "Segment Unique Key",
+    "Item#": 764,
+    "Seg": "LRL",
+    "Seq#": 3,
+    "Len": 80,
+    "DT": "EI",
+    "Chapter": "8.9.4.3"
+  },
+  {
+    "Description": "Location Relationship ID",
+    "Item#": 1277,
+    "Seg": "LRL",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 325,
+    "Chapter": "8.9.4.4"
+  },
+  {
+    "Description": "Organizational Location Relationship Value",
+    "Item#": 1301,
+    "Seg": "LRL",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "8.9.4.5"
+  },
+  {
+    "Description": "Patient Location Relationship Value",
+    "Item#": 1292,
+    "Seg": "LRL",
+    "Seq#": 6,
+    "Len": 80,
+    "DT": "PL",
+    "Chapter": "8.9.4.6"
+  }
 ]

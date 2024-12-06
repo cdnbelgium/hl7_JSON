@@ -1,67 +1,67 @@
 [
-    {
-        "Description": "Default Order Unit Of Measure Indicator",
-        "Item#": 2223,
-        "Seg": "PKG",
-        "Seq#": 3,
-        "Len": 1,
-        "DT": "CNE",
-        "Table": 532,
-        "Chapter": "17.4.5.3"
-      },
-      {
-        "Description": "Future Item Price",
-        "Item#": 2226,
-        "Seg": "PKG",
-        "Seq#": 6,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "17.4.5.6"
-      },
-      {
-        "Description": "Future Item Price Effective Date",
-        "Item#": 2227,
-        "Seg": "PKG",
-        "Seq#": 7,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "17.4.5.7"
-      },
-      {
-        "Description": "Package Quantity",
-        "Item#": 2224,
-        "Seg": "PKG",
-        "Seq#": 4,
-        "Len": 12,
-        "DT": "NM",
-        "Chapter": "17.4.5.4"
-      },
-      {
-        "Description": "Packaging Units",
-        "Item#": 2222,
-        "Seg": "PKG",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 818,
-        "Chapter": "17.4.5.2"
-      },
-      {
-        "Description": "Price",
-        "Item#": 2225,
-        "Seg": "PKG",
-        "Seq#": 5,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "17.4.5.5"
-      },
-      {
-        "Description": "Set Id - PKG",
-        "Item#": 2221,
-        "Seg": "PKG",
-        "Seq#": 1,
-        "Len": 2,
-        "DT": "SI",
-        "Chapter": "17.4.5.1"
-      }
+  {
+    "Description": "Set Id - PKG",
+    "Item#": 2221,
+    "Seg": "PKG",
+    "Seq#": 1,
+    "Len": 2,
+    "DT": "SI",
+    "Chapter": "17.4.5.1"
+  },
+  {
+    "Description": "Packaging Units",
+    "Item#": 2222,
+    "Seg": "PKG",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 818,
+    "Chapter": "17.4.5.2"
+  },
+  {
+    "Description": "Default Order Unit Of Measure Indicator",
+    "Item#": 2223,
+    "Seg": "PKG",
+    "Seq#": 3,
+    "Len": 1,
+    "DT": "CNE",
+    "Table": 532,
+    "Chapter": "17.4.5.3"
+  },
+  {
+    "Description": "Package Quantity",
+    "Item#": 2224,
+    "Seg": "PKG",
+    "Seq#": 4,
+    "Len": 12,
+    "DT": "NM",
+    "Chapter": "17.4.5.4"
+  },
+  {
+    "Description": "Price",
+    "Item#": 2225,
+    "Seg": "PKG",
+    "Seq#": 5,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "17.4.5.5"
+  },
+  {
+    "Description": "Future Item Price",
+    "Item#": 2226,
+    "Seg": "PKG",
+    "Seq#": 6,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "17.4.5.6"
+  },
+  {
+    "Description": "Future Item Price Effective Date",
+    "Item#": 2227,
+    "Seg": "PKG",
+    "Seq#": 7,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "17.4.5.7"
+  }
 ]

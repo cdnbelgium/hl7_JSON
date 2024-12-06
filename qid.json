@@ -1,21 +1,21 @@
 [
-    {
-        "Description": "Message Query Name",
-        "Item#": 1375,
-        "Seg": "QID",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 471,
-        "Chapter": "5.5.3.2"
-      },
-      {
-        "Description": "Query Tag",
-        "Item#": 696,
-        "Seg": "QID",
-        "Seq#": 1,
-        "Len": 32,
-        "DT": "ST",
-        "Chapter": "5.5.3.1"
-      }
+  {
+    "Description": "Query Tag",
+    "Item#": 696,
+    "Seg": "QID",
+    "Seq#": 1,
+    "Len": 32,
+    "DT": "ST",
+    "Chapter": "5.5.3.1"
+  },
+  {
+    "Description": "Message Query Name",
+    "Item#": 1375,
+    "Seg": "QID",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 471,
+    "Chapter": "5.5.3.2"
+  }
 ]

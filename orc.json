@@ -1,303 +1,303 @@
 [
-    {
-        "Description": "Action By",
-        "Item#": 233,
-        "Seg": "ORC",
-        "Seq#": 19,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "4.5.1.19"
-      },
-      {
-        "Description": "Advanced Beneficiary Notice Code",
-        "Item#": 1310,
-        "Seg": "ORC",
-        "Seq#": 20,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 339,
-        "Chapter": "4.5.1.20"
-      },
-      {
-        "Description": "Advanced Beneficiary Notice Override Reason",
-        "Item#": 1641,
-        "Seg": "ORC",
-        "Seq#": 26,
-        "Len": 60,
-        "DT": "CWE",
-        "Table": 552,
-        "Chapter": "4.5.1.26"
-      },
-      {
-        "Description": "Call Back Phone Number",
-        "Item#": 228,
-        "Seg": "ORC",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "4.5.1.14"
-      },
-      {
-        "Description": "Confidentiality Code",
-        "Item#": 615,
-        "Seg": "ORC",
-        "Seq#": 28,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 177,
-        "Chapter": "4.5.1.28"
-      },
-      {
-        "Description": "Date/Time of Transaction",
-        "Item#": 223,
-        "Seg": "ORC",
-        "Seq#": 9,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "4.5.1.9"
-      },
-      {
-        "Description": "Entered By",
-        "Item#": 224,
-        "Seg": "ORC",
-        "Seq#": 10,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "4.5.1.10"
-      },
-      {
-        "Description": "Enterer Authorization Mode",
-        "Item#": 1644,
-        "Seg": "ORC",
-        "Seq#": 30,
-        "Len": 250,
-        "DT": "CNE",
-        "Table": 483,
-        "Chapter": "4.5.1.30"
-      },
-      {
-        "Description": "Enterer's Location",
-        "Item#": 227,
-        "Seg": "ORC",
-        "Seq#": 13,
-        "Len": 80,
-        "DT": "PL",
-        "Chapter": "4.5.1.13"
-      },
-      {
-        "Description": "Entering Device",
-        "Item#": 232,
-        "Seg": "ORC",
-        "Seq#": 18,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "4.5.1.18"
-      },
-      {
-        "Description": "Entering Organization",
-        "Item#": 231,
-        "Seg": "ORC",
-        "Seq#": 17,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "4.5.1.17"
-      },
-      {
-        "Description": "Filler Order Number",
-        "Item#": 217,
-        "Seg": "ORC",
-        "Seq#": 3,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "4.5.1.3"
-      },
-      {
-        "Description": "Filler's Expected Availability Date/Time",
-        "Item#": 1642,
-        "Seg": "ORC",
-        "Seq#": 27,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "4.5.1.27"
-      },
-      {
-        "Description": "Order Control",
-        "Item#": 215,
-        "Seg": "ORC",
-        "Seq#": 1,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 119,
-        "Chapter": "4.5.1.1"
-      },
-      {
-        "Description": "Order Control Code Reason",
-        "Item#": 230,
-        "Seg": "ORC",
-        "Seq#": 16,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "4.5.1.16"
-      },
-      {
-        "Description": "Order Effective Date/Time",
-        "Item#": 229,
-        "Seg": "ORC",
-        "Seq#": 15,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "4.5.1.15"
-      },
-      {
-        "Description": "Order Status",
-        "Item#": 219,
-        "Seg": "ORC",
-        "Seq#": 5,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 38,
-        "Chapter": "4.5.1.5"
-      },
-      {
-        "Description": "Order Status Modifier",
-        "Item#": 1473,
-        "Seg": "ORC",
-        "Seq#": 25,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "4.5.1.25"
-      },
-      {
-        "Description": "Order Type",
-        "Item#": 1643,
-        "Seg": "ORC",
-        "Seq#": 29,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 482,
-        "Chapter": "4.5.1.29"
-      },
-      {
-        "Description": "Ordering Facility Address",
-        "Item#": 1312,
-        "Seg": "ORC",
-        "Seq#": 22,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "4.5.1.22"
-      },
-      {
-        "Description": "Ordering Facility Name",
-        "Item#": 1311,
-        "Seg": "ORC",
-        "Seq#": 21,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "4.5.1.21"
-      },
-      {
-        "Description": "Ordering Facility Phone Number",
-        "Item#": 1313,
-        "Seg": "ORC",
-        "Seq#": 23,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "4.5.1.23"
-      },
-      {
-        "Description": "Ordering Provider",
-        "Item#": 226,
-        "Seg": "ORC",
-        "Seq#": 12,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "4.5.1.12"
-      },
-      {
-        "Description": "Ordering Provider Address",
-        "Item#": 1314,
-        "Seg": "ORC",
-        "Seq#": 24,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "4.5.1.24"
-      },
-      {
-        "Description": "Parent",
-        "Item#": 222,
-        "Seg": "ORC",
-        "Seq#": 8,
-        "Len": 200,
-        "DT": "EIP",
-        "Chapter": "4.5.1.8"
-      },
-      {
-        "Description": "Parent Universal Service Identifier",
-        "Item#": 2287,
-        "Seg": "ORC",
-        "Seq#": 31,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "4.5.1.31"
-      },
-      {
-        "Description": "Placer Group Number",
-        "Item#": 218,
-        "Seg": "ORC",
-        "Seq#": 4,
-        "Len": 22,
-        "DT": "EI",
-        "Chapter": "4.5.1.4"
-      },
-      {
-        "Description": "Placer Order Number",
-        "Item#": 216,
-        "Seg": "ORC",
-        "Seq#": 2,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "4.5.1.2"
-      },
-      {
-        "Description": "Quantity/Timing",
-        "Item#": 221,
-        "Seg": "ORC",
-        "Seq#": 7,
-        "Len": 0,
-        "DT": "TQ",
-        "Rep": "Y",
-        "Chapter": "4.5.1.7"
-      },
-      {
-        "Description": "Response Flag",
-        "Item#": 220,
-        "Seg": "ORC",
-        "Seq#": 6,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 121,
-        "Chapter": "4.5.1.6"
-      },
-      {
-        "Description": "Verified By",
-        "Item#": 225,
-        "Seg": "ORC",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "4.5.1.11"
-      }
+  {
+    "Description": "Order Control",
+    "Item#": 215,
+    "Seg": "ORC",
+    "Seq#": 1,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 119,
+    "Chapter": "4.5.1.1"
+  },
+  {
+    "Description": "Placer Order Number",
+    "Item#": 216,
+    "Seg": "ORC",
+    "Seq#": 2,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "4.5.1.2"
+  },
+  {
+    "Description": "Filler Order Number",
+    "Item#": 217,
+    "Seg": "ORC",
+    "Seq#": 3,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "4.5.1.3"
+  },
+  {
+    "Description": "Placer Group Number",
+    "Item#": 218,
+    "Seg": "ORC",
+    "Seq#": 4,
+    "Len": 22,
+    "DT": "EI",
+    "Chapter": "4.5.1.4"
+  },
+  {
+    "Description": "Order Status",
+    "Item#": 219,
+    "Seg": "ORC",
+    "Seq#": 5,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 38,
+    "Chapter": "4.5.1.5"
+  },
+  {
+    "Description": "Response Flag",
+    "Item#": 220,
+    "Seg": "ORC",
+    "Seq#": 6,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 121,
+    "Chapter": "4.5.1.6"
+  },
+  {
+    "Description": "Quantity/Timing",
+    "Item#": 221,
+    "Seg": "ORC",
+    "Seq#": 7,
+    "Len": 0,
+    "DT": "TQ",
+    "Rep": "Y",
+    "Chapter": "4.5.1.7"
+  },
+  {
+    "Description": "Parent",
+    "Item#": 222,
+    "Seg": "ORC",
+    "Seq#": 8,
+    "Len": 200,
+    "DT": "EIP",
+    "Chapter": "4.5.1.8"
+  },
+  {
+    "Description": "Date/Time of Transaction",
+    "Item#": 223,
+    "Seg": "ORC",
+    "Seq#": 9,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "4.5.1.9"
+  },
+  {
+    "Description": "Entered By",
+    "Item#": 224,
+    "Seg": "ORC",
+    "Seq#": 10,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "4.5.1.10"
+  },
+  {
+    "Description": "Verified By",
+    "Item#": 225,
+    "Seg": "ORC",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "4.5.1.11"
+  },
+  {
+    "Description": "Ordering Provider",
+    "Item#": 226,
+    "Seg": "ORC",
+    "Seq#": 12,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "4.5.1.12"
+  },
+  {
+    "Description": "Enterer's Location",
+    "Item#": 227,
+    "Seg": "ORC",
+    "Seq#": 13,
+    "Len": 80,
+    "DT": "PL",
+    "Chapter": "4.5.1.13"
+  },
+  {
+    "Description": "Call Back Phone Number",
+    "Item#": 228,
+    "Seg": "ORC",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "4.5.1.14"
+  },
+  {
+    "Description": "Order Effective Date/Time",
+    "Item#": 229,
+    "Seg": "ORC",
+    "Seq#": 15,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "4.5.1.15"
+  },
+  {
+    "Description": "Order Control Code Reason",
+    "Item#": 230,
+    "Seg": "ORC",
+    "Seq#": 16,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.5.1.16"
+  },
+  {
+    "Description": "Entering Organization",
+    "Item#": 231,
+    "Seg": "ORC",
+    "Seq#": 17,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.5.1.17"
+  },
+  {
+    "Description": "Entering Device",
+    "Item#": 232,
+    "Seg": "ORC",
+    "Seq#": 18,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.5.1.18"
+  },
+  {
+    "Description": "Action By",
+    "Item#": 233,
+    "Seg": "ORC",
+    "Seq#": 19,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "4.5.1.19"
+  },
+  {
+    "Description": "Advanced Beneficiary Notice Code",
+    "Item#": 1310,
+    "Seg": "ORC",
+    "Seq#": 20,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 339,
+    "Chapter": "4.5.1.20"
+  },
+  {
+    "Description": "Ordering Facility Name",
+    "Item#": 1311,
+    "Seg": "ORC",
+    "Seq#": 21,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "4.5.1.21"
+  },
+  {
+    "Description": "Ordering Facility Address",
+    "Item#": 1312,
+    "Seg": "ORC",
+    "Seq#": 22,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "4.5.1.22"
+  },
+  {
+    "Description": "Ordering Facility Phone Number",
+    "Item#": 1313,
+    "Seg": "ORC",
+    "Seq#": 23,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "4.5.1.23"
+  },
+  {
+    "Description": "Ordering Provider Address",
+    "Item#": 1314,
+    "Seg": "ORC",
+    "Seq#": 24,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "4.5.1.24"
+  },
+  {
+    "Description": "Order Status Modifier",
+    "Item#": 1473,
+    "Seg": "ORC",
+    "Seq#": 25,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.5.1.25"
+  },
+  {
+    "Description": "Advanced Beneficiary Notice Override Reason",
+    "Item#": 1641,
+    "Seg": "ORC",
+    "Seq#": 26,
+    "Len": 60,
+    "DT": "CWE",
+    "Table": 552,
+    "Chapter": "4.5.1.26"
+  },
+  {
+    "Description": "Filler's Expected Availability Date/Time",
+    "Item#": 1642,
+    "Seg": "ORC",
+    "Seq#": 27,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "4.5.1.27"
+  },
+  {
+    "Description": "Confidentiality Code",
+    "Item#": 615,
+    "Seg": "ORC",
+    "Seq#": 28,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 177,
+    "Chapter": "4.5.1.28"
+  },
+  {
+    "Description": "Order Type",
+    "Item#": 1643,
+    "Seg": "ORC",
+    "Seq#": 29,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 482,
+    "Chapter": "4.5.1.29"
+  },
+  {
+    "Description": "Enterer Authorization Mode",
+    "Item#": 1644,
+    "Seg": "ORC",
+    "Seq#": 30,
+    "Len": 250,
+    "DT": "CNE",
+    "Table": 483,
+    "Chapter": "4.5.1.30"
+  },
+  {
+    "Description": "Parent Universal Service Identifier",
+    "Item#": 2287,
+    "Seg": "ORC",
+    "Seq#": 31,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "4.5.1.31"
+  }
 ]

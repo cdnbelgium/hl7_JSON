@@ -1,53 +1,53 @@
 [
-    {
-        "Description": "OCE Edits per Visit Code",
-        "Item#": 1602,
-        "Seg": "GP1",
-        "Seq#": 4,
-        "Len": 2,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 458,
-        "Chapter": "6.5.15.4"
-      },
-      {
-        "Description": "Outlier Cost",
-        "Item#": 387,
-        "Seg": "GP1",
-        "Seq#": 5,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "6.5.15.5"
-      },
-      {
-        "Description": "Overall Claim Disposition Code",
-        "Item#": 1601,
-        "Seg": "GP1",
-        "Seq#": 3,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 457,
-        "Chapter": "6.5.15.3"
-      },
-      {
-        "Description": "Revenue Code",
-        "Item#": 1600,
-        "Seg": "GP1",
-        "Seq#": 2,
-        "Len": 3,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 456,
-        "Chapter": "6.5.15.2"
-      },
-      {
-        "Description": "Type of Bill Code",
-        "Item#": 1599,
-        "Seg": "GP1",
-        "Seq#": 1,
-        "Len": 3,
-        "DT": "IS",
-        "Table": 455,
-        "Chapter": "6.5.15.1"
-      }
+  {
+    "Description": "Type of Bill Code",
+    "Item#": 1599,
+    "Seg": "GP1",
+    "Seq#": 1,
+    "Len": 3,
+    "DT": "IS",
+    "Table": 455,
+    "Chapter": "6.5.15.1"
+  },
+  {
+    "Description": "Revenue Code",
+    "Item#": 1600,
+    "Seg": "GP1",
+    "Seq#": 2,
+    "Len": 3,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 456,
+    "Chapter": "6.5.15.2"
+  },
+  {
+    "Description": "Overall Claim Disposition Code",
+    "Item#": 1601,
+    "Seg": "GP1",
+    "Seq#": 3,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 457,
+    "Chapter": "6.5.15.3"
+  },
+  {
+    "Description": "OCE Edits per Visit Code",
+    "Item#": 1602,
+    "Seg": "GP1",
+    "Seq#": 4,
+    "Len": 2,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 458,
+    "Chapter": "6.5.15.4"
+  },
+  {
+    "Description": "Outlier Cost",
+    "Item#": 387,
+    "Seg": "GP1",
+    "Seq#": 5,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "6.5.15.5"
+  }
 ]

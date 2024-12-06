@@ -1,48 +1,48 @@
 [
+  {
+      "Description": "End Date/Time",
+      "Item#": 1432,
+      "Seg": "EQP",
+      "Seq#": 4,
+      "Len": 24,
+      "DT": "DTM",
+      "Chapter": "13.4.12.4"
+    },
     {
-        "Description": "End Date/Time",
-        "Item#": 1432,
-        "Seg": "EQP",
-        "Seq#": 4,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "13.4.12.4"
-      },
-      {
-        "Description": "Event type",
-        "Item#": 1430,
-        "Seg": "EQP",
-        "Seq#": 1,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 450,
-        "Chapter": "13.4.12.1"
-      },
-      {
-        "Description": "File Name",
-        "Item#": 1431,
-        "Seg": "EQP",
-        "Seq#": 2,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "13.4.12.2"
-      },
-      {
-        "Description": "Start Date/Time",
-        "Item#": 1202,
-        "Seg": "EQP",
-        "Seq#": 3,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "13.4.12.3"
-      },
-      {
-        "Description": "Transaction Data",
-        "Item#": 1433,
-        "Seg": "EQP",
-        "Seq#": 5,
-        "Len": 65536,
-        "DT": "FT",
-        "Chapter": "13.4.12.5"
-      }
+      "Description": "Event type",
+      "Item#": 1430,
+      "Seg": "EQP",
+      "Seq#": 1,
+      "Len": 705,
+      "DT": "CWE",
+      "Table": 450,
+      "Chapter": "13.4.12.1"
+    },
+    {
+      "Description": "File Name",
+      "Item#": 1431,
+      "Seg": "EQP",
+      "Seq#": 2,
+      "Len": 20,
+      "DT": "ST",
+      "Chapter": "13.4.12.2"
+    },
+    {
+      "Description": "Start Date/Time",
+      "Item#": 1202,
+      "Seg": "EQP",
+      "Seq#": 3,
+      "Len": 24,
+      "DT": "DTM",
+      "Chapter": "13.4.12.3"
+    },
+    {
+      "Description": "Transaction Data",
+      "Item#": 1433,
+      "Seg": "EQP",
+      "Seq#": 5,
+      "Len": 65536,
+      "DT": "FT",
+      "Chapter": "13.4.12.5"
+    }
 ]

@@ -1,61 +1,61 @@
 [
-    {
-        "Description": "Access Restriction Action Code",
-        "Item#": 2144,
-        "Seg": "ARV",
-        "Seq#": 2,
-        "Len": 705,
-        "DT": "CNE",
-        "Table": 206,
-        "Chapter": "3.4.13.2"
-      },
-      {
-        "Description": "Access Restriction Date Range",
-        "Item#": 2148,
-        "Seg": "ARV",
-        "Seq#": 6,
-        "Len": 49,
-        "DT": "DR",
-        "Chapter": "3.4.13.6"
-      },
-      {
-        "Description": "Access Restriction Reason",
-        "Item#": 2146,
-        "Seg": "ARV",
-        "Seq#": 4,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 719,
-        "Chapter": "3.4.13.4"
-      },
-      {
-        "Description": "Access Restriction Value",
-        "Item#": 2145,
-        "Seg": "ARV",
-        "Seq#": 3,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 717,
-        "Chapter": "3.4.13.3"
-      },
-      {
-        "Description": "Set ID",
-        "Item#": 2143,
-        "Seg": "ARV",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "3.4.13.1"
-      },
-      {
-        "Description": "Special Access Restriction Instructions",
-        "Item#": 2147,
-        "Seg": "ARV",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "3.4.13.5"
-      }
+  {
+    "Description": "Set ID",
+    "Item#": 2143,
+    "Seg": "ARV",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "3.4.13.1"
+  },
+  {
+    "Description": "Access Restriction Action Code",
+    "Item#": 2144,
+    "Seg": "ARV",
+    "Seq#": 2,
+    "Len": 705,
+    "DT": "CNE",
+    "Table": 206,
+    "Chapter": "3.4.13.2"
+  },
+  {
+    "Description": "Access Restriction Value",
+    "Item#": 2145,
+    "Seg": "ARV",
+    "Seq#": 3,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 717,
+    "Chapter": "3.4.13.3"
+  },
+  {
+    "Description": "Access Restriction Reason",
+    "Item#": 2146,
+    "Seg": "ARV",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 719,
+    "Chapter": "3.4.13.4"
+  },
+  {
+    "Description": "Special Access Restriction Instructions",
+    "Item#": 2147,
+    "Seg": "ARV",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "3.4.13.5"
+  },
+  {
+    "Description": "Access Restriction Date Range",
+    "Item#": 2148,
+    "Seg": "ARV",
+    "Seq#": 6,
+    "Len": 49,
+    "DT": "DR",
+    "Chapter": "3.4.13.6"
+  }
 ]

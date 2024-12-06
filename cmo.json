@@ -1,105 +1,105 @@
 [
-    {
-        "Description": "Alternate Study ID",
-        "Item#": 1036,
-        "Seg": "CM0",
-        "Seq#": 3,
-        "Len": 427,
-        "DT": "EI",
-        "Rep": "Y",
-        "Chapter": "8.11.2.3"
-      },
-      {
-        "Description": "Chairman of Study",
-        "Item#": 1014,
-        "Seg": "CM0",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "8.11.2.5"
-      },
-      {
-        "Description": "Contact for Study",
-        "Item#": 1018,
-        "Seg": "CM0",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "8.11.2.9"
-      },
-      {
-        "Description": "Contact's Address",
-        "Item#": 1020,
-        "Seg": "CM0",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "8.11.2.11"
-      },
-      {
-        "Description": "Contact's Telephone Number",
-        "Item#": 1019,
-        "Seg": "CM0",
-        "Seq#": 10,
-        "Len": 250,
-        "DT": "XTN",
-        "Chapter": "8.11.2.10"
-      },
-      {
-        "Description": "Last Accrual Date",
-        "Item#": 1017,
-        "Seg": "CM0",
-        "Seq#": 8,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "8.11.2.8"
-      },
-      {
-        "Description": "Last IRB Approval Date",
-        "Item#": 1015,
-        "Seg": "CM0",
-        "Seq#": 6,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "8.11.2.6"
-      },
-      {
-        "Description": "Set ID - CM0",
-        "Item#": 1010,
-        "Seg": "CM0",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "8.11.2.1"
-      },
-      {
-        "Description": "Sponsor Study ID",
-        "Item#": 1011,
-        "Seg": "CM0",
-        "Seq#": 2,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "8.11.2.2"
-      },
-      {
-        "Description": "Title of Study",
-        "Item#": 1013,
-        "Seg": "CM0",
-        "Seq#": 4,
-        "Len": 300,
-        "DT": "ST",
-        "Chapter": "8.11.2.4"
-      },
-      {
-        "Description": "Total Accrual to Date",
-        "Item#": 1016,
-        "Seg": "CM0",
-        "Seq#": 7,
-        "Len": 8,
-        "DT": "NM",
-        "Chapter": "8.11.2.7"
-      }
+  {
+    "Description": "Set ID - CM0",
+    "Item#": 1010,
+    "Seg": "CM0",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "8.11.2.1"
+  },
+  {
+    "Description": "Sponsor Study ID",
+    "Item#": 1011,
+    "Seg": "CM0",
+    "Seq#": 2,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "8.11.2.2"
+  },
+  {
+    "Description": "Alternate Study ID",
+    "Item#": 1036,
+    "Seg": "CM0",
+    "Seq#": 3,
+    "Len": 427,
+    "DT": "EI",
+    "Rep": "Y",
+    "Chapter": "8.11.2.3"
+  },
+  {
+    "Description": "Title of Study",
+    "Item#": 1013,
+    "Seg": "CM0",
+    "Seq#": 4,
+    "Len": 300,
+    "DT": "ST",
+    "Chapter": "8.11.2.4"
+  },
+  {
+    "Description": "Chairman of Study",
+    "Item#": 1014,
+    "Seg": "CM0",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "8.11.2.5"
+  },
+  {
+    "Description": "Last IRB Approval Date",
+    "Item#": 1015,
+    "Seg": "CM0",
+    "Seq#": 6,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "8.11.2.6"
+  },
+  {
+    "Description": "Total Accrual to Date",
+    "Item#": 1016,
+    "Seg": "CM0",
+    "Seq#": 7,
+    "Len": 8,
+    "DT": "NM",
+    "Chapter": "8.11.2.7"
+  },
+  {
+    "Description": "Last Accrual Date",
+    "Item#": 1017,
+    "Seg": "CM0",
+    "Seq#": 8,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "8.11.2.8"
+  },
+  {
+    "Description": "Contact for Study",
+    "Item#": 1018,
+    "Seg": "CM0",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "8.11.2.9"
+  },
+  {
+    "Description": "Contact's Telephone Number",
+    "Item#": 1019,
+    "Seg": "CM0",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "XTN",
+    "Chapter": "8.11.2.10"
+  },
+  {
+    "Description": "Contact's Address",
+    "Item#": 1020,
+    "Seg": "CM0",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "8.11.2.11"
+  }
 ]

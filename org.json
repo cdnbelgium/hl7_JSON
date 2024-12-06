@@ -1,119 +1,119 @@
 [
-    {
-        "Description": "Board Approval Indicator",
-        "Item#": 1467,
-        "Seg": "ORG",
-        "Seq#": 11,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.5.11"
-      },
-      {
-        "Description": "Effective Date Range",
-        "Item#": 1465,
-        "Seg": "ORG",
-        "Seq#": 9,
-        "Len": 52,
-        "DT": "DR",
-        "Chapter": "15.4.5.9"
-      },
-      {
-        "Description": "Employment Status Code",
-        "Item#": 1276,
-        "Seg": "ORG",
-        "Seq#": 10,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 66,
-        "Chapter": "15.4.5.10"
-      },
-      {
-        "Description": "Health Care Provider Area of Specialization Code",
-        "Item#": 1615,
-        "Seg": "ORG",
-        "Seq#": 8,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 454,
-        "Chapter": "15.4.5.8"
-      },
-      {
-        "Description": "Health Care Provider Classification Code",
-        "Item#": 1614,
-        "Seg": "ORG",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 453,
-        "Chapter": "15.4.5.7"
-      },
-      {
-        "Description": "Health Care Provider Type Code",
-        "Item#": 1464,
-        "Seg": "ORG",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 452,
-        "Chapter": "15.4.5.6"
-      },
-      {
-        "Description": "Organization Unit Code",
-        "Item#": 1460,
-        "Seg": "ORG",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 405,
-        "Chapter": "15.4.5.2"
-      },
-      {
-        "Description": "Organization Unit Type Code",
-        "Item#": 1625,
-        "Seg": "ORG",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 474,
-        "Chapter": "15.4.5.3"
-      },
-      {
-        "Description": "Practitioner Org Unit Identifier",
-        "Item#": 1463,
-        "Seg": "ORG",
-        "Seq#": 5,
-        "Len": 60,
-        "DT": "CX",
-        "Chapter": "15.4.5.5"
-      },
-      {
-        "Description": "Primary Care Physician Indicator",
-        "Item#": 1468,
-        "Seg": "ORG",
-        "Seq#": 12,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.5.12"
-      },
-      {
-        "Description": "Primary Org Unit Indicator",
-        "Item#": 1462,
-        "Seg": "ORG",
-        "Seq#": 4,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "15.4.5.4"
-      },
-      {
-        "Description": "Set ID - ORG",
-        "Item#": 1459,
-        "Seg": "ORG",
-        "Seq#": 1,
-        "Len": 60,
-        "DT": "SI",
-        "Chapter": "15.4.5.1"
-      }
+  {
+    "Description": "Set ID - ORG",
+    "Item#": 1459,
+    "Seg": "ORG",
+    "Seq#": 1,
+    "Len": 60,
+    "DT": "SI",
+    "Chapter": "15.4.5.1"
+  },
+  {
+    "Description": "Organization Unit Code",
+    "Item#": 1460,
+    "Seg": "ORG",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 405,
+    "Chapter": "15.4.5.2"
+  },
+  {
+    "Description": "Organization Unit Type Code",
+    "Item#": 1625,
+    "Seg": "ORG",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 474,
+    "Chapter": "15.4.5.3"
+  },
+  {
+    "Description": "Primary Org Unit Indicator",
+    "Item#": 1462,
+    "Seg": "ORG",
+    "Seq#": 4,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.5.4"
+  },
+  {
+    "Description": "Practitioner Org Unit Identifier",
+    "Item#": 1463,
+    "Seg": "ORG",
+    "Seq#": 5,
+    "Len": 60,
+    "DT": "CX",
+    "Chapter": "15.4.5.5"
+  },
+  {
+    "Description": "Health Care Provider Type Code",
+    "Item#": 1464,
+    "Seg": "ORG",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 452,
+    "Chapter": "15.4.5.6"
+  },
+  {
+    "Description": "Health Care Provider Classification Code",
+    "Item#": 1614,
+    "Seg": "ORG",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 453,
+    "Chapter": "15.4.5.7"
+  },
+  {
+    "Description": "Health Care Provider Area of Specialization Code",
+    "Item#": 1615,
+    "Seg": "ORG",
+    "Seq#": 8,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 454,
+    "Chapter": "15.4.5.8"
+  },
+  {
+    "Description": "Effective Date Range",
+    "Item#": 1465,
+    "Seg": "ORG",
+    "Seq#": 9,
+    "Len": 52,
+    "DT": "DR",
+    "Chapter": "15.4.5.9"
+  },
+  {
+    "Description": "Employment Status Code",
+    "Item#": 1276,
+    "Seg": "ORG",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 66,
+    "Chapter": "15.4.5.10"
+  },
+  {
+    "Description": "Board Approval Indicator",
+    "Item#": 1467,
+    "Seg": "ORG",
+    "Seq#": 11,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.5.11"
+  },
+  {
+    "Description": "Primary Care Physician Indicator",
+    "Item#": 1468,
+    "Seg": "ORG",
+    "Seq#": 12,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "15.4.5.12"
+  }
 ]

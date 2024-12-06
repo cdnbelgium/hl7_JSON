@@ -1,510 +1,510 @@
 [
-    {
-        "Description": "Assignment Of Benefits",
-        "Item#": 445,
-        "Seg": "IN1",
-        "Seq#": 20,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 135,
-        "Chapter": "6.5.6.20"
-      },
-      {
-        "Description": "Authorization Information",
-        "Item#": 439,
-        "Seg": "IN1",
-        "Seq#": 14,
-        "Len": 239,
-        "DT": "AUI",
-        "Chapter": "6.5.6.14"
-      },
-      {
-        "Description": "Billing Status",
-        "Item#": 457,
-        "Seg": "IN1",
-        "Seq#": 32,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 22,
-        "Chapter": "6.5.6.32"
-      },
-      {
-        "Description": "Company Plan Code",
-        "Item#": 460,
-        "Seg": "IN1",
-        "Seq#": 35,
-        "Len": 20,
-        "DT": "IS",
-        "Table": 42,
-        "Chapter": "6.5.6.35"
-      },
-      {
-        "Description": "Coord Of Ben. Priority",
-        "Item#": 447,
-        "Seg": "IN1",
-        "Seq#": 22,
-        "Len": 2,
-        "DT": "ST",
-        "Chapter": "6.5.6.22"
-      },
-      {
-        "Description": "Coordination Of Benefits",
-        "Item#": 446,
-        "Seg": "IN1",
-        "Seq#": 21,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 173,
-        "Chapter": "6.5.6.21"
-      },
-      {
-        "Description": "Coverage Type",
-        "Item#": 1227,
-        "Seg": "IN1",
-        "Seq#": 47,
-        "Len": 3,
-        "DT": "IS",
-        "Table": 309,
-        "Chapter": "6.5.6.47"
-      },
-      {
-        "Description": "Delay Before L.R. Day",
-        "Item#": 459,
-        "Seg": "IN1",
-        "Seq#": 34,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "6.5.6.34"
-      },
-      {
-        "Description": "Group Name",
-        "Item#": 434,
-        "Seg": "IN1",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "6.5.6.9"
-      },
-      {
-        "Description": "Group Number",
-        "Item#": 433,
-        "Seg": "IN1",
-        "Seq#": 8,
-        "Len": 12,
-        "DT": "ST",
-        "Chapter": "6.5.6.8"
-      },
-      {
-        "Description": "Handicap",
-        "Item#": 753,
-        "Seg": "IN1",
-        "Seq#": 48,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 295,
-        "Chapter": "6.5.6.48"
-      },
-      {
-        "Description": "Insurance Co Contact Person",
-        "Item#": 431,
-        "Seg": "IN1",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.6.6"
-      },
-      {
-        "Description": "Insurance Co Phone Number",
-        "Item#": 432,
-        "Seg": "IN1",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "6.5.6.7"
-      },
-      {
-        "Description": "Insurance Company Address",
-        "Item#": 430,
-        "Seg": "IN1",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "6.5.6.5"
-      },
-      {
-        "Description": "Insurance Company ID",
-        "Item#": 428,
-        "Seg": "IN1",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.6.3"
-      },
-      {
-        "Description": "Insurance Company Name",
-        "Item#": 429,
-        "Seg": "IN1",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "6.5.6.4"
-      },
-      {
-        "Description": "Insurance Plan ID",
-        "Item#": 368,
-        "Seg": "IN1",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 72,
-        "Chapter": "6.5.6.2"
-      },
-      {
-        "Description": "Insured's Address",
-        "Item#": 444,
-        "Seg": "IN1",
-        "Seq#": 19,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "6.5.6.19"
-      },
-      {
-        "Description": "Insured's Administrative Sex",
-        "Item#": 468,
-        "Seg": "IN1",
-        "Seq#": 43,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 1,
-        "Chapter": "6.5.6.43"
-      },
-      {
-        "Description": "Insured's Birth Place",
-        "Item#": 1899,
-        "Seg": "IN1",
-        "Seq#": 52,
-        "Len": 250,
-        "DT": "ST",
-        "Chapter": "6.5.6.52"
-      },
-      {
-        "Description": "Insured's Date Of Birth",
-        "Item#": 443,
-        "Seg": "IN1",
-        "Seq#": 18,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "6.5.6.18"
-      },
-      {
-        "Description": "Insured's Employer's Address",
-        "Item#": 469,
-        "Seg": "IN1",
-        "Seq#": 44,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "6.5.6.44"
-      },
-      {
-        "Description": "Insured's Employment Status",
-        "Item#": 467,
-        "Seg": "IN1",
-        "Seq#": 42,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 66,
-        "Chapter": "6.5.6.42"
-      },
-      {
-        "Description": "Insured's Group Emp ID",
-        "Item#": 435,
-        "Seg": "IN1",
-        "Seq#": 10,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.6.10"
-      },
-      {
-        "Description": "Insured's Group Emp Name",
-        "Item#": 436,
-        "Seg": "IN1",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "XON",
-        "Rep": "Y",
-        "Chapter": "6.5.6.11"
-      },
-      {
-        "Description": "Insured's ID Number",
-        "Item#": 1230,
-        "Seg": "IN1",
-        "Seq#": 49,
-        "Len": 250,
-        "DT": "CX",
-        "Rep": "Y",
-        "Chapter": "6.5.6.49"
-      },
-      {
-        "Description": "Insured's Relationship To Patient",
-        "Item#": 442,
-        "Seg": "IN1",
-        "Seq#": 17,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 63,
-        "Chapter": "6.5.6.17"
-      },
-      {
-        "Description": "Lifetime Reserve Days",
-        "Item#": 458,
-        "Seg": "IN1",
-        "Seq#": 33,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "6.5.6.33"
-      },
-      {
-        "Description": "Name Of Insured",
-        "Item#": 441,
-        "Seg": "IN1",
-        "Seq#": 16,
-        "Len": 250,
-        "DT": "XPN",
-        "Rep": "Y",
-        "Chapter": "6.5.6.16"
-      },
-      {
-        "Description": "Notice Of Admission Date",
-        "Item#": 449,
-        "Seg": "IN1",
-        "Seq#": 24,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.6.24"
-      },
-      {
-        "Description": "Notice Of Admission Flag",
-        "Item#": 448,
-        "Seg": "IN1",
-        "Seq#": 23,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.6.23"
-      },
-      {
-        "Description": "Plan Effective Date",
-        "Item#": 437,
-        "Seg": "IN1",
-        "Seq#": 12,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.6.12"
-      },
-      {
-        "Description": "Plan Expiration Date",
-        "Item#": 438,
-        "Seg": "IN1",
-        "Seq#": 13,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.6.13"
-      },
-      {
-        "Description": "Plan Type",
-        "Item#": 440,
-        "Seg": "IN1",
-        "Seq#": 15,
-        "Len": 3,
-        "DT": "IS",
-        "Table": 86,
-        "Chapter": "6.5.6.15"
-      },
-      {
-        "Description": "Policy Deductible",
-        "Item#": 462,
-        "Seg": "IN1",
-        "Seq#": 37,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "6.5.6.37"
-      },
-      {
-        "Description": "Policy Limit - Amount",
-        "Item#": 463,
-        "Seg": "IN1",
-        "Seq#": 38,
-        "Len": 0,
-        "DT": "-",
-        "Chapter": "6.5.6.38"
-      },
-      {
-        "Description": "Policy Limit - Days",
-        "Item#": 464,
-        "Seg": "IN1",
-        "Seq#": 39,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "6.5.6.39"
-      },
-      {
-        "Description": "Policy Number",
-        "Item#": 461,
-        "Seg": "IN1",
-        "Seq#": 36,
-        "Len": 15,
-        "DT": "ST",
-        "Chapter": "6.5.6.36"
-      },
-      {
-        "Description": "Pre-Admit Cert (PAC)",
-        "Item#": 453,
-        "Seg": "IN1",
-        "Seq#": 28,
-        "Len": 15,
-        "DT": "ST",
-        "Chapter": "6.5.6.28"
-      },
-      {
-        "Description": "Prior Insurance Plan ID",
-        "Item#": 471,
-        "Seg": "IN1",
-        "Seq#": 46,
-        "Len": 8,
-        "DT": "IS",
-        "Table": 72,
-        "Chapter": "6.5.6.46"
-      },
-      {
-        "Description": "Release Information Code",
-        "Item#": 452,
-        "Seg": "IN1",
-        "Seq#": 27,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 93,
-        "Chapter": "6.5.6.27"
-      },
-      {
-        "Description": "Report Of Eligibility Date",
-        "Item#": 451,
-        "Seg": "IN1",
-        "Seq#": 26,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.6.26"
-      },
-      {
-        "Description": "Report Of Eligibility Flag",
-        "Item#": 450,
-        "Seg": "IN1",
-        "Seq#": 25,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "6.5.6.25"
-      },
-      {
-        "Description": "Room Rate - Private",
-        "Item#": 466,
-        "Seg": "IN1",
-        "Seq#": 41,
-        "Len": 0,
-        "DT": "-",
-        "Chapter": "6.5.6.41"
-      },
-      {
-        "Description": "Room Rate - Semi-Private",
-        "Item#": 465,
-        "Seg": "IN1",
-        "Seq#": 40,
-        "Len": 0,
-        "DT": "-",
-        "Chapter": "6.5.6.40"
-      },
-      {
-        "Description": "Set ID - IN1",
-        "Item#": 426,
-        "Seg": "IN1",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "6.5.6.1"
-      },
-      {
-        "Description": "Signature Code",
-        "Item#": 1854,
-        "Seg": "IN1",
-        "Seq#": 50,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 535,
-        "Chapter": "6.5.6.50"
-      },
-      {
-        "Description": "Signature Code Date",
-        "Item#": 1855,
-        "Seg": "IN1",
-        "Seq#": 51,
-        "Len": 8,
-        "DT": "DT",
-        "Chapter": "6.5.6.51"
-      },
-      {
-        "Description": "Type Of Agreement Code",
-        "Item#": 456,
-        "Seg": "IN1",
-        "Seq#": 31,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 98,
-        "Chapter": "6.5.6.31"
-      },
-      {
-        "Description": "Verification By",
-        "Item#": 455,
-        "Seg": "IN1",
-        "Seq#": 30,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "6.5.6.30"
-      },
-      {
-        "Description": "Verification Date/Time",
-        "Item#": 454,
-        "Seg": "IN1",
-        "Seq#": 29,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "6.5.6.29"
-      },
-      {
-        "Description": "Verification Status",
-        "Item#": 470,
-        "Seg": "IN1",
-        "Seq#": 45,
-        "Len": 2,
-        "DT": "ST",
-        "Chapter": "6.5.6.45"
-      },
-      {
-        "Description": "VIP Indicator",
-        "Item#": 1852,
-        "Seg": "IN1",
-        "Seq#": 53,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 99,
-        "Chapter": "6.5.6.53"
-      }
+  {
+    "Description": "Set ID - IN1",
+    "Item#": 426,
+    "Seg": "IN1",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "6.5.6.1"
+  },
+  {
+    "Description": "Insurance Plan ID",
+    "Item#": 368,
+    "Seg": "IN1",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 72,
+    "Chapter": "6.5.6.2"
+  },
+  {
+    "Description": "Insurance Company ID",
+    "Item#": 428,
+    "Seg": "IN1",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "6.5.6.3"
+  },
+  {
+    "Description": "Insurance Company Name",
+    "Item#": 429,
+    "Seg": "IN1",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "6.5.6.4"
+  },
+  {
+    "Description": "Insurance Company Address",
+    "Item#": 430,
+    "Seg": "IN1",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "6.5.6.5"
+  },
+  {
+    "Description": "Insurance Co Contact Person",
+    "Item#": 431,
+    "Seg": "IN1",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.6.6"
+  },
+  {
+    "Description": "Insurance Co Phone Number",
+    "Item#": 432,
+    "Seg": "IN1",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "6.5.6.7"
+  },
+  {
+    "Description": "Group Number",
+    "Item#": 433,
+    "Seg": "IN1",
+    "Seq#": 8,
+    "Len": 12,
+    "DT": "ST",
+    "Chapter": "6.5.6.8"
+  },
+  {
+    "Description": "Group Name",
+    "Item#": 434,
+    "Seg": "IN1",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "6.5.6.9"
+  },
+  {
+    "Description": "Insured's Group Emp ID",
+    "Item#": 435,
+    "Seg": "IN1",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "6.5.6.10"
+  },
+  {
+    "Description": "Insured's Group Emp Name",
+    "Item#": 436,
+    "Seg": "IN1",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "XON",
+    "Rep": "Y",
+    "Chapter": "6.5.6.11"
+  },
+  {
+    "Description": "Plan Effective Date",
+    "Item#": 437,
+    "Seg": "IN1",
+    "Seq#": 12,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.6.12"
+  },
+  {
+    "Description": "Plan Expiration Date",
+    "Item#": 438,
+    "Seg": "IN1",
+    "Seq#": 13,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.6.13"
+  },
+  {
+    "Description": "Authorization Information",
+    "Item#": 439,
+    "Seg": "IN1",
+    "Seq#": 14,
+    "Len": 239,
+    "DT": "AUI",
+    "Chapter": "6.5.6.14"
+  },
+  {
+    "Description": "Plan Type",
+    "Item#": 440,
+    "Seg": "IN1",
+    "Seq#": 15,
+    "Len": 3,
+    "DT": "IS",
+    "Table": 86,
+    "Chapter": "6.5.6.15"
+  },
+  {
+    "Description": "Name Of Insured",
+    "Item#": 441,
+    "Seg": "IN1",
+    "Seq#": 16,
+    "Len": 250,
+    "DT": "XPN",
+    "Rep": "Y",
+    "Chapter": "6.5.6.16"
+  },
+  {
+    "Description": "Insured's Relationship To Patient",
+    "Item#": 442,
+    "Seg": "IN1",
+    "Seq#": 17,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 63,
+    "Chapter": "6.5.6.17"
+  },
+  {
+    "Description": "Insured's Date Of Birth",
+    "Item#": 443,
+    "Seg": "IN1",
+    "Seq#": 18,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "6.5.6.18"
+  },
+  {
+    "Description": "Insured's Address",
+    "Item#": 444,
+    "Seg": "IN1",
+    "Seq#": 19,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "6.5.6.19"
+  },
+  {
+    "Description": "Assignment Of Benefits",
+    "Item#": 445,
+    "Seg": "IN1",
+    "Seq#": 20,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 135,
+    "Chapter": "6.5.6.20"
+  },
+  {
+    "Description": "Coordination Of Benefits",
+    "Item#": 446,
+    "Seg": "IN1",
+    "Seq#": 21,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 173,
+    "Chapter": "6.5.6.21"
+  },
+  {
+    "Description": "Coord Of Ben. Priority",
+    "Item#": 447,
+    "Seg": "IN1",
+    "Seq#": 22,
+    "Len": 2,
+    "DT": "ST",
+    "Chapter": "6.5.6.22"
+  },
+  {
+    "Description": "Notice Of Admission Flag",
+    "Item#": 448,
+    "Seg": "IN1",
+    "Seq#": 23,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.6.23"
+  },
+  {
+    "Description": "Notice Of Admission Date",
+    "Item#": 449,
+    "Seg": "IN1",
+    "Seq#": 24,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.6.24"
+  },
+  {
+    "Description": "Report Of Eligibility Flag",
+    "Item#": 450,
+    "Seg": "IN1",
+    "Seq#": 25,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "6.5.6.25"
+  },
+  {
+    "Description": "Report Of Eligibility Date",
+    "Item#": 451,
+    "Seg": "IN1",
+    "Seq#": 26,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.6.26"
+  },
+  {
+    "Description": "Release Information Code",
+    "Item#": 452,
+    "Seg": "IN1",
+    "Seq#": 27,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 93,
+    "Chapter": "6.5.6.27"
+  },
+  {
+    "Description": "Pre-Admit Cert (PAC)",
+    "Item#": 453,
+    "Seg": "IN1",
+    "Seq#": 28,
+    "Len": 15,
+    "DT": "ST",
+    "Chapter": "6.5.6.28"
+  },
+  {
+    "Description": "Verification Date/Time",
+    "Item#": 454,
+    "Seg": "IN1",
+    "Seq#": 29,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "6.5.6.29"
+  },
+  {
+    "Description": "Verification By",
+    "Item#": 455,
+    "Seg": "IN1",
+    "Seq#": 30,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "6.5.6.30"
+  },
+  {
+    "Description": "Type Of Agreement Code",
+    "Item#": 456,
+    "Seg": "IN1",
+    "Seq#": 31,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 98,
+    "Chapter": "6.5.6.31"
+  },
+  {
+    "Description": "Billing Status",
+    "Item#": 457,
+    "Seg": "IN1",
+    "Seq#": 32,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 22,
+    "Chapter": "6.5.6.32"
+  },
+  {
+    "Description": "Lifetime Reserve Days",
+    "Item#": 458,
+    "Seg": "IN1",
+    "Seq#": 33,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "6.5.6.33"
+  },
+  {
+    "Description": "Delay Before L.R. Day",
+    "Item#": 459,
+    "Seg": "IN1",
+    "Seq#": 34,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "6.5.6.34"
+  },
+  {
+    "Description": "Company Plan Code",
+    "Item#": 460,
+    "Seg": "IN1",
+    "Seq#": 35,
+    "Len": 20,
+    "DT": "IS",
+    "Table": 42,
+    "Chapter": "6.5.6.35"
+  },
+  {
+    "Description": "Policy Number",
+    "Item#": 461,
+    "Seg": "IN1",
+    "Seq#": 36,
+    "Len": 15,
+    "DT": "ST",
+    "Chapter": "6.5.6.36"
+  },
+  {
+    "Description": "Policy Deductible",
+    "Item#": 462,
+    "Seg": "IN1",
+    "Seq#": 37,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "6.5.6.37"
+  },
+  {
+    "Description": "Policy Limit - Amount",
+    "Item#": 463,
+    "Seg": "IN1",
+    "Seq#": 38,
+    "Len": 0,
+    "DT": "-",
+    "Chapter": "6.5.6.38"
+  },
+  {
+    "Description": "Policy Limit - Days",
+    "Item#": 464,
+    "Seg": "IN1",
+    "Seq#": 39,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "6.5.6.39"
+  },
+  {
+    "Description": "Room Rate - Semi-Private",
+    "Item#": 465,
+    "Seg": "IN1",
+    "Seq#": 40,
+    "Len": 0,
+    "DT": "-",
+    "Chapter": "6.5.6.40"
+  },
+  {
+    "Description": "Room Rate - Private",
+    "Item#": 466,
+    "Seg": "IN1",
+    "Seq#": 41,
+    "Len": 0,
+    "DT": "-",
+    "Chapter": "6.5.6.41"
+  },
+  {
+    "Description": "Insured's Employment Status",
+    "Item#": 467,
+    "Seg": "IN1",
+    "Seq#": 42,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 66,
+    "Chapter": "6.5.6.42"
+  },
+  {
+    "Description": "Insured's Administrative Sex",
+    "Item#": 468,
+    "Seg": "IN1",
+    "Seq#": 43,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 1,
+    "Chapter": "6.5.6.43"
+  },
+  {
+    "Description": "Insured's Employer's Address",
+    "Item#": 469,
+    "Seg": "IN1",
+    "Seq#": 44,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "6.5.6.44"
+  },
+  {
+    "Description": "Verification Status",
+    "Item#": 470,
+    "Seg": "IN1",
+    "Seq#": 45,
+    "Len": 2,
+    "DT": "ST",
+    "Chapter": "6.5.6.45"
+  },
+  {
+    "Description": "Prior Insurance Plan ID",
+    "Item#": 471,
+    "Seg": "IN1",
+    "Seq#": 46,
+    "Len": 8,
+    "DT": "IS",
+    "Table": 72,
+    "Chapter": "6.5.6.46"
+  },
+  {
+    "Description": "Coverage Type",
+    "Item#": 1227,
+    "Seg": "IN1",
+    "Seq#": 47,
+    "Len": 3,
+    "DT": "IS",
+    "Table": 309,
+    "Chapter": "6.5.6.47"
+  },
+  {
+    "Description": "Handicap",
+    "Item#": 753,
+    "Seg": "IN1",
+    "Seq#": 48,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 295,
+    "Chapter": "6.5.6.48"
+  },
+  {
+    "Description": "Insured's ID Number",
+    "Item#": 1230,
+    "Seg": "IN1",
+    "Seq#": 49,
+    "Len": 250,
+    "DT": "CX",
+    "Rep": "Y",
+    "Chapter": "6.5.6.49"
+  },
+  {
+    "Description": "Signature Code",
+    "Item#": 1854,
+    "Seg": "IN1",
+    "Seq#": 50,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 535,
+    "Chapter": "6.5.6.50"
+  },
+  {
+    "Description": "Signature Code Date",
+    "Item#": 1855,
+    "Seg": "IN1",
+    "Seq#": 51,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "6.5.6.51"
+  },
+  {
+    "Description": "Insured's Birth Place",
+    "Item#": 1899,
+    "Seg": "IN1",
+    "Seq#": 52,
+    "Len": 250,
+    "DT": "ST",
+    "Chapter": "6.5.6.52"
+  },
+  {
+    "Description": "VIP Indicator",
+    "Item#": 1852,
+    "Seg": "IN1",
+    "Seq#": 53,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 99,
+    "Chapter": "6.5.6.53"
+  }
 ]

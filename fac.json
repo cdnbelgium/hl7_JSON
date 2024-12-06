@@ -1,118 +1,118 @@
 [
-    {
-        "Description": "Contact Address",
-        "Item#": 1166,
-        "Seg": "FAC",
-        "Seq#": 7,
-        "Len": 2915,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "7.12.6.7"
-      },
-      {
-        "Description": "Contact Person",
-        "Item#": 1266,
-        "Seg": "FAC",
-        "Seq#": 5,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "7.12.6.5"
-      },
-      {
-        "Description": "Contact Telecommunication",
-        "Item#": 1269,
-        "Seg": "FAC",
-        "Seq#": 8,
-        "Len": 2743,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "7.12.6.8"
-      },
-      {
-        "Description": "Contact Title",
-        "Item#": 1267,
-        "Seg": "FAC",
-        "Seq#": 6,
-        "Len": 60,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "7.12.6.6"
-      },
-      {
-        "Description": "Facility Address",
-        "Item#": 1264,
-        "Seg": "FAC",
-        "Seq#": 3,
-        "Len": 2915,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "7.12.6.3"
-      },
-      {
-        "Description": "Facility ID-FAC",
-        "Item#": 1262,
-        "Seg": "FAC",
-        "Seq#": 1,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "7.12.6.1"
-      },
-      {
-        "Description": "Facility Telecommunication",
-        "Item#": 1265,
-        "Seg": "FAC",
-        "Seq#": 4,
-        "Len": 2743,
-        "DT": "XTN",
-        "Chapter": "7.12.6.4"
-      },
-      {
-        "Description": "Facility Type",
-        "Item#": 1263,
-        "Seg": "FAC",
-        "Seq#": 2,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 331,
-        "Chapter": "7.12.6.2"
-      },
-      {
-        "Description": "Signature Authority",
-        "Item#": 1270,
-        "Seg": "FAC",
-        "Seq#": 9,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "7.12.6.9"
-      },
-      {
-        "Description": "Signature Authority Address",
-        "Item#": 1272,
-        "Seg": "FAC",
-        "Seq#": 11,
-        "Len": 2915,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "7.12.6.11"
-      },
-      {
-        "Description": "Signature Authority Telecommunication",
-        "Item#": 1273,
-        "Seg": "FAC",
-        "Seq#": 12,
-        "Len": 2743,
-        "DT": "XTN",
-        "Chapter": "7.12.6.12"
-      },
-      {
-        "Description": "Signature Authority Title",
-        "Item#": 1271,
-        "Seg": "FAC",
-        "Seq#": 10,
-        "Len": 199,
-        "DT": "ST",
-        "Chapter": "7.12.6.10"
-      }
+  {
+    "Description": "Facility ID-FAC",
+    "Item#": 1262,
+    "Seg": "FAC",
+    "Seq#": 1,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "7.12.6.1"
+  },
+  {
+    "Description": "Facility Type",
+    "Item#": 1263,
+    "Seg": "FAC",
+    "Seq#": 2,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 331,
+    "Chapter": "7.12.6.2"
+  },
+  {
+    "Description": "Facility Address",
+    "Item#": 1264,
+    "Seg": "FAC",
+    "Seq#": 3,
+    "Len": 2915,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "7.12.6.3"
+  },
+  {
+    "Description": "Facility Telecommunication",
+    "Item#": 1265,
+    "Seg": "FAC",
+    "Seq#": 4,
+    "Len": 2743,
+    "DT": "XTN",
+    "Chapter": "7.12.6.4"
+  },
+  {
+    "Description": "Contact Person",
+    "Item#": 1266,
+    "Seg": "FAC",
+    "Seq#": 5,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "7.12.6.5"
+  },
+  {
+    "Description": "Contact Title",
+    "Item#": 1267,
+    "Seg": "FAC",
+    "Seq#": 6,
+    "Len": 60,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "7.12.6.6"
+  },
+  {
+    "Description": "Contact Address",
+    "Item#": 1166,
+    "Seg": "FAC",
+    "Seq#": 7,
+    "Len": 2915,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "7.12.6.7"
+  },
+  {
+    "Description": "Contact Telecommunication",
+    "Item#": 1269,
+    "Seg": "FAC",
+    "Seq#": 8,
+    "Len": 2743,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "7.12.6.8"
+  },
+  {
+    "Description": "Signature Authority",
+    "Item#": 1270,
+    "Seg": "FAC",
+    "Seq#": 9,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "7.12.6.9"
+  },
+  {
+    "Description": "Signature Authority Title",
+    "Item#": 1271,
+    "Seg": "FAC",
+    "Seq#": 10,
+    "Len": 199,
+    "DT": "ST",
+    "Chapter": "7.12.6.10"
+  },
+  {
+    "Description": "Signature Authority Address",
+    "Item#": 1272,
+    "Seg": "FAC",
+    "Seq#": 11,
+    "Len": 2915,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "7.12.6.11"
+  },
+  {
+    "Description": "Signature Authority Telecommunication",
+    "Item#": 1273,
+    "Seg": "FAC",
+    "Seq#": 12,
+    "Len": 2743,
+    "DT": "XTN",
+    "Chapter": "7.12.6.12"
+  }
 ]

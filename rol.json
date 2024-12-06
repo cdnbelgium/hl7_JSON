@@ -1,126 +1,126 @@
 [
-    {
-        "Description": "Action Code",
-        "Item#": 816,
-        "Seg": "ROL",
-        "Seq#": 2,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 287,
-        "Chapter": "15.4.7.2"
-      },
-      {
-        "Description": "Office/Home Address/Birthplace",
-        "Item#": 679,
-        "Seg": "ROL",
-        "Seq#": 11,
-        "Len": 250,
-        "DT": "XAD",
-        "Rep": "Y",
-        "Chapter": "15.4.7.11"
-      },
-      {
-        "Description": "Organization Unit Type",
-        "Item#": 1461,
-        "Seg": "ROL",
-        "Seq#": 10,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 406,
-        "Chapter": "15.4.7.10"
-      },
-      {
-        "Description": "Person's Location",
-        "Item#": 2183,
-        "Seg": "ROL",
-        "Seq#": 13,
-        "Len": 1230,
-        "DT": "PL",
-        "Chapter": "15.4.7.13"
-      },
-      {
-        "Description": "Phone",
-        "Item#": 678,
-        "Seg": "ROL",
-        "Seq#": 12,
-        "Len": 250,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "15.4.7.12"
-      },
-      {
-        "Description": "Provider Type",
-        "Item#": 1510,
-        "Seg": "ROL",
-        "Seq#": 9,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Chapter": "15.4.7.9"
-      },
-      {
-        "Description": "Role Action Reason",
-        "Item#": 1205,
-        "Seg": "ROL",
-        "Seq#": 8,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "15.4.7.8"
-      },
-      {
-        "Description": "Role Begin Date/Time",
-        "Item#": 1199,
-        "Seg": "ROL",
-        "Seq#": 5,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.7.5"
-      },
-      {
-        "Description": "Role Duration",
-        "Item#": 1201,
-        "Seg": "ROL",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "CWE",
-        "Chapter": "15.4.7.7"
-      },
-      {
-        "Description": "Role End Date/Time",
-        "Item#": 1200,
-        "Seg": "ROL",
-        "Seq#": 6,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "15.4.7.6"
-      },
-      {
-        "Description": "Role Instance ID",
-        "Item#": 1206,
-        "Seg": "ROL",
-        "Seq#": 1,
-        "Len": 60,
-        "DT": "EI",
-        "Chapter": "15.4.7.1"
-      },
-      {
-        "Description": "Role Person",
-        "Item#": 1198,
-        "Seg": "ROL",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "15.4.7.4"
-      },
-      {
-        "Description": "Role-ROL",
-        "Item#": 1197,
-        "Seg": "ROL",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 443,
-        "Chapter": "15.4.7.3"
-      }
+  {
+    "Description": "Role Instance ID",
+    "Item#": 1206,
+    "Seg": "ROL",
+    "Seq#": 1,
+    "Len": 60,
+    "DT": "EI",
+    "Chapter": "15.4.7.1"
+  },
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "ROL",
+    "Seq#": 2,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 287,
+    "Chapter": "15.4.7.2"
+  },
+  {
+    "Description": "Role-ROL",
+    "Item#": 1197,
+    "Seg": "ROL",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 443,
+    "Chapter": "15.4.7.3"
+  },
+  {
+    "Description": "Role Person",
+    "Item#": 1198,
+    "Seg": "ROL",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "15.4.7.4"
+  },
+  {
+    "Description": "Role Begin Date/Time",
+    "Item#": 1199,
+    "Seg": "ROL",
+    "Seq#": 5,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.7.5"
+  },
+  {
+    "Description": "Role End Date/Time",
+    "Item#": 1200,
+    "Seg": "ROL",
+    "Seq#": 6,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "15.4.7.6"
+  },
+  {
+    "Description": "Role Duration",
+    "Item#": 1201,
+    "Seg": "ROL",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "15.4.7.7"
+  },
+  {
+    "Description": "Role Action Reason",
+    "Item#": 1205,
+    "Seg": "ROL",
+    "Seq#": 8,
+    "Len": 250,
+    "DT": "CWE",
+    "Chapter": "15.4.7.8"
+  },
+  {
+    "Description": "Provider Type",
+    "Item#": 1510,
+    "Seg": "ROL",
+    "Seq#": 9,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Chapter": "15.4.7.9"
+  },
+  {
+    "Description": "Organization Unit Type",
+    "Item#": 1461,
+    "Seg": "ROL",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 406,
+    "Chapter": "15.4.7.10"
+  },
+  {
+    "Description": "Office/Home Address/Birthplace",
+    "Item#": 679,
+    "Seg": "ROL",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "XAD",
+    "Rep": "Y",
+    "Chapter": "15.4.7.11"
+  },
+  {
+    "Description": "Phone",
+    "Item#": 678,
+    "Seg": "ROL",
+    "Seq#": 12,
+    "Len": 250,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "15.4.7.12"
+  },
+  {
+    "Description": "Person's Location",
+    "Item#": 2183,
+    "Seg": "ROL",
+    "Seq#": 13,
+    "Len": 1230,
+    "DT": "PL",
+    "Chapter": "15.4.7.13"
+  }
 ]

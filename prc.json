@@ -1,179 +1,179 @@
 [
-    {
-        "Description": "Active/Inactive Flag",
-        "Item#": 675,
-        "Seg": "PRC",
-        "Seq#": 16,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 183,
-        "Chapter": "8.10.3.16"
-      },
-      {
-        "Description": "Billing Category",
-        "Item#": 1007,
-        "Seg": "PRC",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 293,
-        "Chapter": "8.10.3.14"
-      },
-      {
-        "Description": "Charge on Indicator",
-        "Item#": 1009,
-        "Seg": "PRC",
-        "Seq#": 18,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 269,
-        "Chapter": "8.10.3.18"
-      },
-      {
-        "Description": "Chargeable Flag",
-        "Item#": 1008,
-        "Seg": "PRC",
-        "Seq#": 15,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "8.10.3.15"
-      },
-      {
-        "Description": "Cost",
-        "Item#": 989,
-        "Seg": "PRC",
-        "Seq#": 17,
-        "Len": 12,
-        "DT": "MO",
-        "Chapter": "8.10.3.17"
-      },
-      {
-        "Description": "Department",
-        "Item#": 676,
-        "Seg": "PRC",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 184,
-        "Chapter": "8.10.3.3"
-      },
-      {
-        "Description": "Effective End Date",
-        "Item#": 1005,
-        "Seg": "PRC",
-        "Seq#": 12,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.10.3.12"
-      },
-      {
-        "Description": "Effective Start Date",
-        "Item#": 1004,
-        "Seg": "PRC",
-        "Seq#": 11,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "8.10.3.11"
-      },
-      {
-        "Description": "Facility ID-PRC",
-        "Item#": 995,
-        "Seg": "PRC",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 464,
-        "Chapter": "8.10.3.2"
-      },
-      {
-        "Description": "Formula",
-        "Item#": 999,
-        "Seg": "PRC",
-        "Seq#": 6,
-        "Len": 200,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "8.10.3.6"
-      },
-      {
-        "Description": "Maximum Price",
-        "Item#": 1003,
-        "Seg": "PRC",
-        "Seq#": 10,
-        "Len": 12,
-        "DT": "MO",
-        "Chapter": "8.10.3.10"
-      },
-      {
-        "Description": "Maximum Quantity",
-        "Item#": 1001,
-        "Seg": "PRC",
-        "Seq#": 8,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "8.10.3.8"
-      },
-      {
-        "Description": "Minimum Price",
-        "Item#": 1002,
-        "Seg": "PRC",
-        "Seq#": 9,
-        "Len": 12,
-        "DT": "MO",
-        "Chapter": "8.10.3.9"
-      },
-      {
-        "Description": "Minimum Quantity",
-        "Item#": 1000,
-        "Seg": "PRC",
-        "Seq#": 7,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "8.10.3.7"
-      },
-      {
-        "Description": "Price",
-        "Item#": 998,
-        "Seg": "PRC",
-        "Seq#": 5,
-        "Len": 12,
-        "DT": "CP",
-        "Rep": "Y",
-        "Chapter": "8.10.3.5"
-      },
-      {
-        "Description": "Price Override Flag",
-        "Item#": 1006,
-        "Seg": "PRC",
-        "Seq#": 13,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 268,
-        "Chapter": "8.10.3.13"
-      },
-      {
-        "Description": "Primary Key Value-PRC",
-        "Item#": 982,
-        "Seg": "PRC",
-        "Seq#": 1,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 132,
-        "Chapter": "8.10.3.1"
-      },
-      {
-        "Description": "Valid Patient Classes",
-        "Item#": 967,
-        "Seg": "PRC",
-        "Seq#": 4,
-        "Len": 1,
-        "DT": "IS",
-        "Rep": "Y",
-        "Table": 4,
-        "Chapter": "8.10.3.4"
-      }
+  {
+    "Description": "Primary Key Value-PRC",
+    "Item#": 982,
+    "Seg": "PRC",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 132,
+    "Chapter": "8.10.3.1"
+  },
+  {
+    "Description": "Facility ID-PRC",
+    "Item#": 995,
+    "Seg": "PRC",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 464,
+    "Chapter": "8.10.3.2"
+  },
+  {
+    "Description": "Department",
+    "Item#": 676,
+    "Seg": "PRC",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 184,
+    "Chapter": "8.10.3.3"
+  },
+  {
+    "Description": "Valid Patient Classes",
+    "Item#": 967,
+    "Seg": "PRC",
+    "Seq#": 4,
+    "Len": 1,
+    "DT": "IS",
+    "Rep": "Y",
+    "Table": 4,
+    "Chapter": "8.10.3.4"
+  },
+  {
+    "Description": "Price",
+    "Item#": 998,
+    "Seg": "PRC",
+    "Seq#": 5,
+    "Len": 12,
+    "DT": "CP",
+    "Rep": "Y",
+    "Chapter": "8.10.3.5"
+  },
+  {
+    "Description": "Formula",
+    "Item#": 999,
+    "Seg": "PRC",
+    "Seq#": 6,
+    "Len": 200,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "8.10.3.6"
+  },
+  {
+    "Description": "Minimum Quantity",
+    "Item#": 1000,
+    "Seg": "PRC",
+    "Seq#": 7,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "8.10.3.7"
+  },
+  {
+    "Description": "Maximum Quantity",
+    "Item#": 1001,
+    "Seg": "PRC",
+    "Seq#": 8,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "8.10.3.8"
+  },
+  {
+    "Description": "Minimum Price",
+    "Item#": 1002,
+    "Seg": "PRC",
+    "Seq#": 9,
+    "Len": 12,
+    "DT": "MO",
+    "Chapter": "8.10.3.9"
+  },
+  {
+    "Description": "Maximum Price",
+    "Item#": 1003,
+    "Seg": "PRC",
+    "Seq#": 10,
+    "Len": 12,
+    "DT": "MO",
+    "Chapter": "8.10.3.10"
+  },
+  {
+    "Description": "Effective Start Date",
+    "Item#": 1004,
+    "Seg": "PRC",
+    "Seq#": 11,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.10.3.11"
+  },
+  {
+    "Description": "Effective End Date",
+    "Item#": 1005,
+    "Seg": "PRC",
+    "Seq#": 12,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "8.10.3.12"
+  },
+  {
+    "Description": "Price Override Flag",
+    "Item#": 1006,
+    "Seg": "PRC",
+    "Seq#": 13,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 268,
+    "Chapter": "8.10.3.13"
+  },
+  {
+    "Description": "Billing Category",
+    "Item#": 1007,
+    "Seg": "PRC",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 293,
+    "Chapter": "8.10.3.14"
+  },
+  {
+    "Description": "Chargeable Flag",
+    "Item#": 1008,
+    "Seg": "PRC",
+    "Seq#": 15,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "8.10.3.15"
+  },
+  {
+    "Description": "Active/Inactive Flag",
+    "Item#": 675,
+    "Seg": "PRC",
+    "Seq#": 16,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 183,
+    "Chapter": "8.10.3.16"
+  },
+  {
+    "Description": "Cost",
+    "Item#": 989,
+    "Seg": "PRC",
+    "Seq#": 17,
+    "Len": 12,
+    "DT": "MO",
+    "Chapter": "8.10.3.17"
+  },
+  {
+    "Description": "Charge on Indicator",
+    "Item#": 1009,
+    "Seg": "PRC",
+    "Seq#": 18,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 269,
+    "Chapter": "8.10.3.18"
+  }
 ]

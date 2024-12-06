@@ -1,300 +1,300 @@
 [
-    {
-        "Description": "Advanced Beneficiary Notice Code",
-        "Item#": 1310,
-        "Seg": "FT1",
-        "Seq#": 27,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 339,
-        "Chapter": "6.5.1.27"
-      },
-      {
-        "Description": "Assigned Patient Location",
-        "Item#": 133,
-        "Seg": "FT1",
-        "Seq#": 16,
-        "Len": 80,
-        "DT": "PL",
-        "Chapter": "6.5.1.16"
-      },
-      {
-        "Description": "Department Code",
-        "Item#": 367,
-        "Seg": "FT1",
-        "Seq#": 13,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 49,
-        "Chapter": "6.5.1.13"
-      },
-      {
-        "Description": "Diagnosis Code - FT1",
-        "Item#": 371,
-        "Seg": "FT1",
-        "Seq#": 19,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 51,
-        "Chapter": "6.5.1.19"
-      },
-      {
-        "Description": "Entered By Code",
-        "Item#": 765,
-        "Seg": "FT1",
-        "Seq#": 24,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "6.5.1.24"
-      },
-      {
-        "Description": "Fee Schedule",
-        "Item#": 370,
-        "Seg": "FT1",
-        "Seq#": 17,
-        "Len": 1,
-        "DT": "IS",
-        "Table": 24,
-        "Chapter": "6.5.1.17"
-      },
-      {
-        "Description": "Filler Order Number",
-        "Item#": 217,
-        "Seg": "FT1",
-        "Seq#": 23,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "6.5.1.23"
-      },
-      {
-        "Description": "Insurance Amount",
-        "Item#": 369,
-        "Seg": "FT1",
-        "Seq#": 15,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "6.5.1.15"
-      },
-      {
-        "Description": "Insurance Plan ID",
-        "Item#": 368,
-        "Seg": "FT1",
-        "Seq#": 14,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 72,
-        "Chapter": "6.5.1.14"
-      },
-      {
-        "Description": "Medically Necessary Duplicate Procedure Reason",
-        "Item#": 1646,
-        "Seg": "FT1",
-        "Seq#": 28,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 476,
-        "Chapter": "6.5.1.28"
-      },
-      {
-        "Description": "NDC Code",
-        "Item#": 1845,
-        "Seg": "FT1",
-        "Seq#": 29,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 549,
-        "Chapter": "6.5.1.29"
-      },
-      {
-        "Description": "Ordered By Code",
-        "Item#": 373,
-        "Seg": "FT1",
-        "Seq#": 21,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "6.5.1.21"
-      },
-      {
-        "Description": "Patient Type",
-        "Item#": 148,
-        "Seg": "FT1",
-        "Seq#": 18,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 18,
-        "Chapter": "6.5.1.18"
-      },
-      {
-        "Description": "Payment Reference ID",
-        "Item#": 1846,
-        "Seg": "FT1",
-        "Seq#": 30,
-        "Len": 250,
-        "DT": "CX",
-        "Chapter": "6.5.1.30"
-      },
-      {
-        "Description": "Performed By Code",
-        "Item#": 372,
-        "Seg": "FT1",
-        "Seq#": 20,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Table": 84,
-        "Chapter": "6.5.1.20"
-      },
-      {
-        "Description": "Procedure Code",
-        "Item#": 393,
-        "Seg": "FT1",
-        "Seq#": 25,
-        "Len": 705,
-        "DT": "CNE",
-        "Table": 88,
-        "Chapter": "6.5.1.25"
-      },
-      {
-        "Description": "Procedure Code Modifier",
-        "Item#": 1316,
-        "Seg": "FT1",
-        "Seq#": 26,
-        "Len": 705,
-        "DT": "CNE",
-        "Rep": "Y",
-        "Table": 340,
-        "Chapter": "6.5.1.26"
-      },
-      {
-        "Description": "Set ID - FT1",
-        "Item#": 355,
-        "Seg": "FT1",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "6.5.1.1"
-      },
-      {
-        "Description": "Transaction Amount - Extended",
-        "Item#": 365,
-        "Seg": "FT1",
-        "Seq#": 11,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "6.5.1.11"
-      },
-      {
-        "Description": "Transaction amount - unit",
-        "Item#": 366,
-        "Seg": "FT1",
-        "Seq#": 12,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "6.5.1.12"
-      },
-      {
-        "Description": "Transaction Batch ID",
-        "Item#": 357,
-        "Seg": "FT1",
-        "Seq#": 3,
-        "Len": 10,
-        "DT": "ST",
-        "Chapter": "6.5.1.3"
-      },
-      {
-        "Description": "Transaction Code",
-        "Item#": 361,
-        "Seg": "FT1",
-        "Seq#": 7,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 132,
-        "Chapter": "6.5.1.7"
-      },
-      {
-        "Description": "Transaction Date",
-        "Item#": 358,
-        "Seg": "FT1",
-        "Seq#": 4,
-        "Len": 53,
-        "DT": "DR",
-        "Chapter": "6.5.1.4"
-      },
-      {
-        "Description": "Transaction Description",
-        "Item#": 362,
-        "Seg": "FT1",
-        "Seq#": 8,
-        "Len": 0,
-        "DT": "-",
-        "Chapter": "6.5.1.8"
-      },
-      {
-        "Description": "Transaction Description - Alt",
-        "Item#": 363,
-        "Seg": "FT1",
-        "Seq#": 9,
-        "Len": 0,
-        "DT": "-",
-        "Chapter": "6.5.1.9"
-      },
-      {
-        "Description": "Transaction ID",
-        "Item#": 356,
-        "Seg": "FT1",
-        "Seq#": 2,
-        "Len": 12,
-        "DT": "ST",
-        "Chapter": "6.5.1.2"
-      },
-      {
-        "Description": "Transaction Posting Date",
-        "Item#": 359,
-        "Seg": "FT1",
-        "Seq#": 5,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "6.5.1.5"
-      },
-      {
-        "Description": "Transaction Quantity",
-        "Item#": 364,
-        "Seg": "FT1",
-        "Seq#": 10,
-        "Len": 6,
-        "DT": "NM",
-        "Chapter": "6.5.1.10"
-      },
-      {
-        "Description": "Transaction Reference Key",
-        "Item#": 1847,
-        "Seg": "FT1",
-        "Seq#": 31,
-        "Len": 4,
-        "DT": "SI",
-        "Rep": "Y",
-        "Chapter": "6.5.1.31"
-      },
-      {
-        "Description": "Transaction Type",
-        "Item#": 360,
-        "Seg": "FT1",
-        "Seq#": 6,
-        "Len": 8,
-        "DT": "IS",
-        "Table": 17,
-        "Chapter": "6.5.1.6"
-      },
-      {
-        "Description": "Unit Cost",
-        "Item#": 374,
-        "Seg": "FT1",
-        "Seq#": 22,
-        "Len": 12,
-        "DT": "CP",
-        "Chapter": "6.5.1.22"
-      }
+  {
+    "Description": "Set ID - FT1",
+    "Item#": 355,
+    "Seg": "FT1",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "6.5.1.1"
+  },
+  {
+    "Description": "Transaction ID",
+    "Item#": 356,
+    "Seg": "FT1",
+    "Seq#": 2,
+    "Len": 12,
+    "DT": "ST",
+    "Chapter": "6.5.1.2"
+  },
+  {
+    "Description": "Transaction Batch ID",
+    "Item#": 357,
+    "Seg": "FT1",
+    "Seq#": 3,
+    "Len": 10,
+    "DT": "ST",
+    "Chapter": "6.5.1.3"
+  },
+  {
+    "Description": "Transaction Date",
+    "Item#": 358,
+    "Seg": "FT1",
+    "Seq#": 4,
+    "Len": 53,
+    "DT": "DR",
+    "Chapter": "6.5.1.4"
+  },
+  {
+    "Description": "Transaction Posting Date",
+    "Item#": 359,
+    "Seg": "FT1",
+    "Seq#": 5,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "6.5.1.5"
+  },
+  {
+    "Description": "Transaction Type",
+    "Item#": 360,
+    "Seg": "FT1",
+    "Seq#": 6,
+    "Len": 8,
+    "DT": "IS",
+    "Table": 17,
+    "Chapter": "6.5.1.6"
+  },
+  {
+    "Description": "Transaction Code",
+    "Item#": 361,
+    "Seg": "FT1",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 132,
+    "Chapter": "6.5.1.7"
+  },
+  {
+    "Description": "Transaction Description",
+    "Item#": 362,
+    "Seg": "FT1",
+    "Seq#": 8,
+    "Len": 0,
+    "DT": "-",
+    "Chapter": "6.5.1.8"
+  },
+  {
+    "Description": "Transaction Description - Alt",
+    "Item#": 363,
+    "Seg": "FT1",
+    "Seq#": 9,
+    "Len": 0,
+    "DT": "-",
+    "Chapter": "6.5.1.9"
+  },
+  {
+    "Description": "Transaction Quantity",
+    "Item#": 364,
+    "Seg": "FT1",
+    "Seq#": 10,
+    "Len": 6,
+    "DT": "NM",
+    "Chapter": "6.5.1.10"
+  },
+  {
+    "Description": "Transaction Amount - Extended",
+    "Item#": 365,
+    "Seg": "FT1",
+    "Seq#": 11,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "6.5.1.11"
+  },
+  {
+    "Description": "Transaction amount - unit",
+    "Item#": 366,
+    "Seg": "FT1",
+    "Seq#": 12,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "6.5.1.12"
+  },
+  {
+    "Description": "Department Code",
+    "Item#": 367,
+    "Seg": "FT1",
+    "Seq#": 13,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 49,
+    "Chapter": "6.5.1.13"
+  },
+  {
+    "Description": "Insurance Plan ID",
+    "Item#": 368,
+    "Seg": "FT1",
+    "Seq#": 14,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 72,
+    "Chapter": "6.5.1.14"
+  },
+  {
+    "Description": "Insurance Amount",
+    "Item#": 369,
+    "Seg": "FT1",
+    "Seq#": 15,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "6.5.1.15"
+  },
+  {
+    "Description": "Assigned Patient Location",
+    "Item#": 133,
+    "Seg": "FT1",
+    "Seq#": 16,
+    "Len": 80,
+    "DT": "PL",
+    "Chapter": "6.5.1.16"
+  },
+  {
+    "Description": "Fee Schedule",
+    "Item#": 370,
+    "Seg": "FT1",
+    "Seq#": 17,
+    "Len": 1,
+    "DT": "IS",
+    "Table": 24,
+    "Chapter": "6.5.1.17"
+  },
+  {
+    "Description": "Patient Type",
+    "Item#": 148,
+    "Seg": "FT1",
+    "Seq#": 18,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 18,
+    "Chapter": "6.5.1.18"
+  },
+  {
+    "Description": "Diagnosis Code - FT1",
+    "Item#": 371,
+    "Seg": "FT1",
+    "Seq#": 19,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 51,
+    "Chapter": "6.5.1.19"
+  },
+  {
+    "Description": "Performed By Code",
+    "Item#": 372,
+    "Seg": "FT1",
+    "Seq#": 20,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Table": 84,
+    "Chapter": "6.5.1.20"
+  },
+  {
+    "Description": "Ordered By Code",
+    "Item#": 373,
+    "Seg": "FT1",
+    "Seq#": 21,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "6.5.1.21"
+  },
+  {
+    "Description": "Unit Cost",
+    "Item#": 374,
+    "Seg": "FT1",
+    "Seq#": 22,
+    "Len": 12,
+    "DT": "CP",
+    "Chapter": "6.5.1.22"
+  },
+  {
+    "Description": "Filler Order Number",
+    "Item#": 217,
+    "Seg": "FT1",
+    "Seq#": 23,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "6.5.1.23"
+  },
+  {
+    "Description": "Entered By Code",
+    "Item#": 765,
+    "Seg": "FT1",
+    "Seq#": 24,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "6.5.1.24"
+  },
+  {
+    "Description": "Procedure Code",
+    "Item#": 393,
+    "Seg": "FT1",
+    "Seq#": 25,
+    "Len": 705,
+    "DT": "CNE",
+    "Table": 88,
+    "Chapter": "6.5.1.25"
+  },
+  {
+    "Description": "Procedure Code Modifier",
+    "Item#": 1316,
+    "Seg": "FT1",
+    "Seq#": 26,
+    "Len": 705,
+    "DT": "CNE",
+    "Rep": "Y",
+    "Table": 340,
+    "Chapter": "6.5.1.26"
+  },
+  {
+    "Description": "Advanced Beneficiary Notice Code",
+    "Item#": 1310,
+    "Seg": "FT1",
+    "Seq#": 27,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 339,
+    "Chapter": "6.5.1.27"
+  },
+  {
+    "Description": "Medically Necessary Duplicate Procedure Reason",
+    "Item#": 1646,
+    "Seg": "FT1",
+    "Seq#": 28,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 476,
+    "Chapter": "6.5.1.28"
+  },
+  {
+    "Description": "NDC Code",
+    "Item#": 1845,
+    "Seg": "FT1",
+    "Seq#": 29,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 549,
+    "Chapter": "6.5.1.29"
+  },
+  {
+    "Description": "Payment Reference ID",
+    "Item#": 1846,
+    "Seg": "FT1",
+    "Seq#": 30,
+    "Len": 250,
+    "DT": "CX",
+    "Chapter": "6.5.1.30"
+  },
+  {
+    "Description": "Transaction Reference Key",
+    "Item#": 1847,
+    "Seg": "FT1",
+    "Seq#": 31,
+    "Len": 4,
+    "DT": "SI",
+    "Rep": "Y",
+    "Chapter": "6.5.1.31"
+  }
 ]

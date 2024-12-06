@@ -1,44 +1,44 @@
 [
-    {
-        "Description": "Diet, Supplement, or Preference Code",
-        "Item#": 271,
-        "Seg": "ODS",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "4.8.1.3"
-      },
-      {
-        "Description": "Service Period",
-        "Item#": 270,
-        "Seg": "ODS",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "4.8.1.2"
-      },
-      {
-        "Description": "Text Instruction",
-        "Item#": 272,
-        "Seg": "ODS",
-        "Seq#": 4,
-        "Len": 80,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "4.8.1.4"
-      },
-      {
-        "Description": "Type",
-        "Item#": 269,
-        "Seg": "ODS",
-        "Seq#": 1,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 159,
-        "Chapter": "4.8.1.1"
-      }
+  {
+    "Description": "Type",
+    "Item#": 269,
+    "Seg": "ODS",
+    "Seq#": 1,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 159,
+    "Chapter": "4.8.1.1"
+  },
+  {
+    "Description": "Service Period",
+    "Item#": 270,
+    "Seg": "ODS",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "4.8.1.2"
+  },
+  {
+    "Description": "Diet, Supplement, or Preference Code",
+    "Item#": 271,
+    "Seg": "ODS",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "4.8.1.3"
+  },
+  {
+    "Description": "Text Instruction",
+    "Item#": 272,
+    "Seg": "ODS",
+    "Seq#": 4,
+    "Len": 80,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "4.8.1.4"
+  }
 ]

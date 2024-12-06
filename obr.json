@@ -1,485 +1,485 @@
 [
-    {
-        "Description": "Assistant Result Interpreter +",
-        "Item#": 265,
-        "Seg": "OBR",
-        "Seq#": 33,
-        "Len": 0,
-        "DT": "NDL",
-        "Rep": "Y",
-        "Chapter": "7.4.1.33"
-      },
-      {
-        "Description": "Charge to Practice +",
-        "Item#": 256,
-        "Seg": "OBR",
-        "Seq#": 23,
-        "Len": 504,
-        "DT": "MOC",
-        "Chapter": "7.4.1.23"
-      },
-      {
-        "Description": "Collection Volume *",
-        "Item#": 243,
-        "Seg": "OBR",
-        "Seq#": 9,
-        "Len": 722,
-        "DT": "CQ",
-        "Chapter": "4.5.3.9"
-      },
-      {
-        "Description": "Collector Identifier *",
-        "Item#": 244,
-        "Seg": "OBR",
-        "Seq#": 10,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "4.5.3.10"
-      },
-      {
-        "Description": "Collector's Comment *",
-        "Item#": 1030,
-        "Seg": "OBR",
-        "Seq#": 39,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "7.4.1.39"
-      },
-      {
-        "Description": "Danger Code",
-        "Item#": 246,
-        "Seg": "OBR",
-        "Seq#": 12,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "4.5.3.12"
-      },
-      {
-        "Description": "Diagnostic Serv Sect ID",
-        "Item#": 257,
-        "Seg": "OBR",
-        "Seq#": 24,
-        "Len": 10,
-        "DT": "ID",
-        "Table": 74,
-        "Chapter": "4.5.3.24"
-      },
-      {
-        "Description": "Escort Required",
-        "Item#": 1033,
-        "Seg": "OBR",
-        "Seq#": 42,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 225,
-        "Chapter": "4.5.3.42"
-      },
-      {
-        "Description": "Filler Field 1 +",
-        "Item#": 253,
-        "Seg": "OBR",
-        "Seq#": 20,
-        "Len": 199,
-        "DT": "ST",
-        "Chapter": "7.4.1.20"
-      },
-      {
-        "Description": "Filler Field 2 +",
-        "Item#": 254,
-        "Seg": "OBR",
-        "Seq#": 21,
-        "Len": 199,
-        "DT": "ST",
-        "Chapter": "7.4.1.21"
-      },
-      {
-        "Description": "Filler Order Number",
-        "Item#": 217,
-        "Seg": "OBR",
-        "Seq#": 3,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "4.5.3.3"
-      },
-      {
-        "Description": "Filler Supplemental Service Information",
-        "Item#": 1475,
-        "Seg": "OBR",
-        "Seq#": 47,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 411,
-        "Chapter": "4.5.3.47"
-      },
-      {
-        "Description": "Medically Necessary Duplicate Procedure Reason",
-        "Item#": 1646,
-        "Seg": "OBR",
-        "Seq#": 48,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 476,
-        "Chapter": "4.5.3.48"
-      },
-      {
-        "Description": "Number of Sample Containers *",
-        "Item#": 1028,
-        "Seg": "OBR",
-        "Seq#": 37,
-        "Len": 16,
-        "DT": "NM",
-        "Chapter": "4.5.3.37"
-      },
-      {
-        "Description": "Observation Date/Time #",
-        "Item#": 241,
-        "Seg": "OBR",
-        "Seq#": 7,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "4.5.3.7"
-      },
-      {
-        "Description": "Observation End Date/Time #",
-        "Item#": 242,
-        "Seg": "OBR",
-        "Seq#": 8,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.4.1.8"
-      },
-      {
-        "Description": "Order Callback Phone Number",
-        "Item#": 250,
-        "Seg": "OBR",
-        "Seq#": 17,
-        "Len": 2743,
-        "DT": "XTN",
-        "Rep": "Y",
-        "Chapter": "7.4.1.17"
-      },
-      {
-        "Description": "Ordering Provider",
-        "Item#": 226,
-        "Seg": "OBR",
-        "Seq#": 16,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "4.5.3.16"
-      },
-      {
-        "Description": "Parent",
-        "Item#": 261,
-        "Seg": "OBR",
-        "Seq#": 29,
-        "Len": 855,
-        "DT": "EIP",
-        "Chapter": "7.4.1.29"
-      },
-      {
-        "Description": "Parent Result +",
-        "Item#": 259,
-        "Seg": "OBR",
-        "Seq#": 26,
-        "Len": 977,
-        "DT": "PRL",
-        "Chapter": "4.5.3.26"
-      },
-      {
-        "Description": "Parent Universal Service Identifier",
-        "Item#": 2286,
-        "Seg": "OBR",
-        "Seq#": 50,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "7.4.1.50"
-      },
-      {
-        "Description": "Placer Field 1",
-        "Item#": 251,
-        "Seg": "OBR",
-        "Seq#": 18,
-        "Len": 199,
-        "DT": "ST",
-        "Chapter": "7.4.1.18"
-      },
-      {
-        "Description": "Placer Field 2",
-        "Item#": 252,
-        "Seg": "OBR",
-        "Seq#": 19,
-        "Len": 199,
-        "DT": "ST",
-        "Chapter": "7.4.1.19"
-      },
-      {
-        "Description": "Placer Order Number",
-        "Item#": 216,
-        "Seg": "OBR",
-        "Seq#": 2,
-        "Len": 427,
-        "DT": "EI",
-        "Chapter": "4.5.3.2"
-      },
-      {
-        "Description": "Placer Supplemental Service Information",
-        "Item#": 1474,
-        "Seg": "OBR",
-        "Seq#": 46,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 411,
-        "Chapter": "4.5.3.46"
-      },
-      {
-        "Description": "Planned Patient Transport Comment",
-        "Item#": 1034,
-        "Seg": "OBR",
-        "Seq#": 43,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "7.4.1.43"
-      },
-      {
-        "Description": "Principal Result Interpreter +",
-        "Item#": 264,
-        "Seg": "OBR",
-        "Seq#": 32,
-        "Len": 0,
-        "DT": "NDL",
-        "Chapter": "4.5.3.32"
-      },
-      {
-        "Description": "Priority",
-        "Item#": 239,
-        "Seg": "OBR",
-        "Seq#": 5,
-        "Len": 0,
-        "DT": "ID",
-        "Chapter": "7.4.1.5"
-      },
-      {
-        "Description": "Procedure Code",
-        "Item#": 393,
-        "Seg": "OBR",
-        "Seq#": 44,
-        "Len": 705,
-        "DT": "CNE",
-        "Table": 88,
-        "Chapter": "4.5.3.44"
-      },
-      {
-        "Description": "Procedure Code Modifier",
-        "Item#": 1316,
-        "Seg": "OBR",
-        "Seq#": 45,
-        "Len": 705,
-        "DT": "CNE",
-        "Rep": "Y",
-        "Table": 340,
-        "Chapter": "4.5.3.45"
-      },
-      {
-        "Description": "Quantity/Timing",
-        "Item#": 221,
-        "Seg": "OBR",
-        "Seq#": 27,
-        "Len": 0,
-        "DT": "TQ",
-        "Rep": "Y",
-        "Chapter": "4.5.3.27"
-      },
-      {
-        "Description": "Reason for Study",
-        "Item#": 263,
-        "Seg": "OBR",
-        "Seq#": 31,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "4.5.3.31"
-      },
-      {
-        "Description": "Relevant Clinical Information",
-        "Item#": 247,
-        "Seg": "OBR",
-        "Seq#": 13,
-        "Len": 300,
-        "DT": "ST",
-        "Chapter": "4.5.3.13"
-      },
-      {
-        "Description": "Requested Date/Time",
-        "Item#": 240,
-        "Seg": "OBR",
-        "Seq#": 6,
-        "Len": 0,
-        "DT": "DTM",
-        "Chapter": "4.5.3.6"
-      },
-      {
-        "Description": "Result Copies To",
-        "Item#": 260,
-        "Seg": "OBR",
-        "Seq#": 28,
-        "Len": 3220,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "7.4.1.28"
-      },
-      {
-        "Description": "Result Handling",
-        "Item#": 1647,
-        "Seg": "OBR",
-        "Seq#": 49,
-        "Len": 2,
-        "DT": "IS",
-        "Table": 507,
-        "Chapter": "4.5.3.49"
-      },
-      {
-        "Description": "Result Status +",
-        "Item#": 258,
-        "Seg": "OBR",
-        "Seq#": 25,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 123,
-        "Chapter": "4.5.3.25"
-      },
-      {
-        "Description": "Results Rpt/Status Chng - Date/Time +",
-        "Item#": 255,
-        "Seg": "OBR",
-        "Seq#": 22,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.4.1.22"
-      },
-      {
-        "Description": "Scheduled Date/Time +",
-        "Item#": 268,
-        "Seg": "OBR",
-        "Seq#": 36,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.4.1.36"
-      },
-      {
-        "Description": "Set ID - OBR",
-        "Item#": 237,
-        "Seg": "OBR",
-        "Seq#": 1,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "7.4.1.1"
-      },
-      {
-        "Description": "Specimen Action Code *",
-        "Item#": 245,
-        "Seg": "OBR",
-        "Seq#": 11,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 65,
-        "Chapter": "4.5.3.11"
-      },
-      {
-        "Description": "Specimen Received Date/Time",
-        "Item#": 248,
-        "Seg": "OBR",
-        "Seq#": 14,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "7.4.1.14"
-      },
-      {
-        "Description": "Specimen Source",
-        "Item#": 249,
-        "Seg": "OBR",
-        "Seq#": 15,
-        "Len": 0,
-        "DT": "SPS",
-        "Chapter": "7.4.1.15"
-      },
-      {
-        "Description": "Technician +",
-        "Item#": 266,
-        "Seg": "OBR",
-        "Seq#": 34,
-        "Len": 0,
-        "DT": "NDL",
-        "Rep": "Y",
-        "Chapter": "4.5.3.34"
-      },
-      {
-        "Description": "Transcriptionist +",
-        "Item#": 267,
-        "Seg": "OBR",
-        "Seq#": 35,
-        "Len": 0,
-        "DT": "NDL",
-        "Rep": "Y",
-        "Chapter": "4.5.3.35"
-      },
-      {
-        "Description": "Transport Arranged",
-        "Item#": 1032,
-        "Seg": "OBR",
-        "Seq#": 41,
-        "Len": 30,
-        "DT": "ID",
-        "Table": 224,
-        "Chapter": "4.5.3.41"
-      },
-      {
-        "Description": "Transport Arrangement Responsibility",
-        "Item#": 1031,
-        "Seg": "OBR",
-        "Seq#": 40,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "4.5.3.40"
-      },
-      {
-        "Description": "Transport Logistics of Collected Sample *",
-        "Item#": 1029,
-        "Seg": "OBR",
-        "Seq#": 38,
-        "Len": 705,
-        "DT": "CWE",
-        "Rep": "Y",
-        "Table": 9999,
-        "Chapter": "7.4.1.38"
-      },
-      {
-        "Description": "Transportation Mode",
-        "Item#": 262,
-        "Seg": "OBR",
-        "Seq#": 30,
-        "Len": 20,
-        "DT": "ID",
-        "Table": 124,
-        "Chapter": "4.5.3.30"
-      },
-      {
-        "Description": "Universal Service Identifier",
-        "Item#": 238,
-        "Seg": "OBR",
-        "Seq#": 4,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "7.4.1.4"
-      }
+  {
+    "Description": "Set ID - OBR",
+    "Item#": 237,
+    "Seg": "OBR",
+    "Seq#": 1,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "7.4.1.1"
+  },
+  {
+    "Description": "Placer Order Number",
+    "Item#": 216,
+    "Seg": "OBR",
+    "Seq#": 2,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "4.5.3.2"
+  },
+  {
+    "Description": "Filler Order Number",
+    "Item#": 217,
+    "Seg": "OBR",
+    "Seq#": 3,
+    "Len": 427,
+    "DT": "EI",
+    "Chapter": "4.5.3.3"
+  },
+  {
+    "Description": "Universal Service Identifier",
+    "Item#": 238,
+    "Seg": "OBR",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "7.4.1.4"
+  },
+  {
+    "Description": "Priority",
+    "Item#": 239,
+    "Seg": "OBR",
+    "Seq#": 5,
+    "Len": 0,
+    "DT": "ID",
+    "Chapter": "7.4.1.5"
+  },
+  {
+    "Description": "Requested Date/Time",
+    "Item#": 240,
+    "Seg": "OBR",
+    "Seq#": 6,
+    "Len": 0,
+    "DT": "DTM",
+    "Chapter": "4.5.3.6"
+  },
+  {
+    "Description": "Observation Date/Time #",
+    "Item#": 241,
+    "Seg": "OBR",
+    "Seq#": 7,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "4.5.3.7"
+  },
+  {
+    "Description": "Observation End Date/Time #",
+    "Item#": 242,
+    "Seg": "OBR",
+    "Seq#": 8,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.4.1.8"
+  },
+  {
+    "Description": "Collection Volume *",
+    "Item#": 243,
+    "Seg": "OBR",
+    "Seq#": 9,
+    "Len": 722,
+    "DT": "CQ",
+    "Chapter": "4.5.3.9"
+  },
+  {
+    "Description": "Collector Identifier *",
+    "Item#": 244,
+    "Seg": "OBR",
+    "Seq#": 10,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "4.5.3.10"
+  },
+  {
+    "Description": "Specimen Action Code *",
+    "Item#": 245,
+    "Seg": "OBR",
+    "Seq#": 11,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 65,
+    "Chapter": "4.5.3.11"
+  },
+  {
+    "Description": "Danger Code",
+    "Item#": 246,
+    "Seg": "OBR",
+    "Seq#": 12,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.5.3.12"
+  },
+  {
+    "Description": "Relevant Clinical Information",
+    "Item#": 247,
+    "Seg": "OBR",
+    "Seq#": 13,
+    "Len": 300,
+    "DT": "ST",
+    "Chapter": "4.5.3.13"
+  },
+  {
+    "Description": "Specimen Received Date/Time",
+    "Item#": 248,
+    "Seg": "OBR",
+    "Seq#": 14,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.4.1.14"
+  },
+  {
+    "Description": "Specimen Source",
+    "Item#": 249,
+    "Seg": "OBR",
+    "Seq#": 15,
+    "Len": 0,
+    "DT": "SPS",
+    "Chapter": "7.4.1.15"
+  },
+  {
+    "Description": "Ordering Provider",
+    "Item#": 226,
+    "Seg": "OBR",
+    "Seq#": 16,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "4.5.3.16"
+  },
+  {
+    "Description": "Order Callback Phone Number",
+    "Item#": 250,
+    "Seg": "OBR",
+    "Seq#": 17,
+    "Len": 2743,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Chapter": "7.4.1.17"
+  },
+  {
+    "Description": "Placer Field 1",
+    "Item#": 251,
+    "Seg": "OBR",
+    "Seq#": 18,
+    "Len": 199,
+    "DT": "ST",
+    "Chapter": "7.4.1.18"
+  },
+  {
+    "Description": "Placer Field 2",
+    "Item#": 252,
+    "Seg": "OBR",
+    "Seq#": 19,
+    "Len": 199,
+    "DT": "ST",
+    "Chapter": "7.4.1.19"
+  },
+  {
+    "Description": "Filler Field 1 +",
+    "Item#": 253,
+    "Seg": "OBR",
+    "Seq#": 20,
+    "Len": 199,
+    "DT": "ST",
+    "Chapter": "7.4.1.20"
+  },
+  {
+    "Description": "Filler Field 2 +",
+    "Item#": 254,
+    "Seg": "OBR",
+    "Seq#": 21,
+    "Len": 199,
+    "DT": "ST",
+    "Chapter": "7.4.1.21"
+  },
+  {
+    "Description": "Results Rpt/Status Chng - Date/Time +",
+    "Item#": 255,
+    "Seg": "OBR",
+    "Seq#": 22,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.4.1.22"
+  },
+  {
+    "Description": "Charge to Practice +",
+    "Item#": 256,
+    "Seg": "OBR",
+    "Seq#": 23,
+    "Len": 504,
+    "DT": "MOC",
+    "Chapter": "7.4.1.23"
+  },
+  {
+    "Description": "Diagnostic Serv Sect ID",
+    "Item#": 257,
+    "Seg": "OBR",
+    "Seq#": 24,
+    "Len": 10,
+    "DT": "ID",
+    "Table": 74,
+    "Chapter": "4.5.3.24"
+  },
+  {
+    "Description": "Result Status +",
+    "Item#": 258,
+    "Seg": "OBR",
+    "Seq#": 25,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 123,
+    "Chapter": "4.5.3.25"
+  },
+  {
+    "Description": "Parent Result +",
+    "Item#": 259,
+    "Seg": "OBR",
+    "Seq#": 26,
+    "Len": 977,
+    "DT": "PRL",
+    "Chapter": "4.5.3.26"
+  },
+  {
+    "Description": "Quantity/Timing",
+    "Item#": 221,
+    "Seg": "OBR",
+    "Seq#": 27,
+    "Len": 0,
+    "DT": "TQ",
+    "Rep": "Y",
+    "Chapter": "4.5.3.27"
+  },
+  {
+    "Description": "Result Copies To",
+    "Item#": 260,
+    "Seg": "OBR",
+    "Seq#": 28,
+    "Len": 3220,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "7.4.1.28"
+  },
+  {
+    "Description": "Parent",
+    "Item#": 261,
+    "Seg": "OBR",
+    "Seq#": 29,
+    "Len": 855,
+    "DT": "EIP",
+    "Chapter": "7.4.1.29"
+  },
+  {
+    "Description": "Transportation Mode",
+    "Item#": 262,
+    "Seg": "OBR",
+    "Seq#": 30,
+    "Len": 20,
+    "DT": "ID",
+    "Table": 124,
+    "Chapter": "4.5.3.30"
+  },
+  {
+    "Description": "Reason for Study",
+    "Item#": 263,
+    "Seg": "OBR",
+    "Seq#": 31,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "4.5.3.31"
+  },
+  {
+    "Description": "Principal Result Interpreter +",
+    "Item#": 264,
+    "Seg": "OBR",
+    "Seq#": 32,
+    "Len": 0,
+    "DT": "NDL",
+    "Chapter": "4.5.3.32"
+  },
+  {
+    "Description": "Assistant Result Interpreter +",
+    "Item#": 265,
+    "Seg": "OBR",
+    "Seq#": 33,
+    "Len": 0,
+    "DT": "NDL",
+    "Rep": "Y",
+    "Chapter": "7.4.1.33"
+  },
+  {
+    "Description": "Technician +",
+    "Item#": 266,
+    "Seg": "OBR",
+    "Seq#": 34,
+    "Len": 0,
+    "DT": "NDL",
+    "Rep": "Y",
+    "Chapter": "4.5.3.34"
+  },
+  {
+    "Description": "Transcriptionist +",
+    "Item#": 267,
+    "Seg": "OBR",
+    "Seq#": 35,
+    "Len": 0,
+    "DT": "NDL",
+    "Rep": "Y",
+    "Chapter": "4.5.3.35"
+  },
+  {
+    "Description": "Scheduled Date/Time +",
+    "Item#": 268,
+    "Seg": "OBR",
+    "Seq#": 36,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "7.4.1.36"
+  },
+  {
+    "Description": "Number of Sample Containers *",
+    "Item#": 1028,
+    "Seg": "OBR",
+    "Seq#": 37,
+    "Len": 16,
+    "DT": "NM",
+    "Chapter": "4.5.3.37"
+  },
+  {
+    "Description": "Transport Logistics of Collected Sample *",
+    "Item#": 1029,
+    "Seg": "OBR",
+    "Seq#": 38,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "7.4.1.38"
+  },
+  {
+    "Description": "Collector's Comment *",
+    "Item#": 1030,
+    "Seg": "OBR",
+    "Seq#": 39,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "7.4.1.39"
+  },
+  {
+    "Description": "Transport Arrangement Responsibility",
+    "Item#": 1031,
+    "Seg": "OBR",
+    "Seq#": 40,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.5.3.40"
+  },
+  {
+    "Description": "Transport Arranged",
+    "Item#": 1032,
+    "Seg": "OBR",
+    "Seq#": 41,
+    "Len": 30,
+    "DT": "ID",
+    "Table": 224,
+    "Chapter": "4.5.3.41"
+  },
+  {
+    "Description": "Escort Required",
+    "Item#": 1033,
+    "Seg": "OBR",
+    "Seq#": 42,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 225,
+    "Chapter": "4.5.3.42"
+  },
+  {
+    "Description": "Planned Patient Transport Comment",
+    "Item#": 1034,
+    "Seg": "OBR",
+    "Seq#": 43,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 9999,
+    "Chapter": "7.4.1.43"
+  },
+  {
+    "Description": "Procedure Code",
+    "Item#": 393,
+    "Seg": "OBR",
+    "Seq#": 44,
+    "Len": 705,
+    "DT": "CNE",
+    "Table": 88,
+    "Chapter": "4.5.3.44"
+  },
+  {
+    "Description": "Procedure Code Modifier",
+    "Item#": 1316,
+    "Seg": "OBR",
+    "Seq#": 45,
+    "Len": 705,
+    "DT": "CNE",
+    "Rep": "Y",
+    "Table": 340,
+    "Chapter": "4.5.3.45"
+  },
+  {
+    "Description": "Placer Supplemental Service Information",
+    "Item#": 1474,
+    "Seg": "OBR",
+    "Seq#": 46,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 411,
+    "Chapter": "4.5.3.46"
+  },
+  {
+    "Description": "Filler Supplemental Service Information",
+    "Item#": 1475,
+    "Seg": "OBR",
+    "Seq#": 47,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 411,
+    "Chapter": "4.5.3.47"
+  },
+  {
+    "Description": "Medically Necessary Duplicate Procedure Reason",
+    "Item#": 1646,
+    "Seg": "OBR",
+    "Seq#": 48,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 476,
+    "Chapter": "4.5.3.48"
+  },
+  {
+    "Description": "Result Handling",
+    "Item#": 1647,
+    "Seg": "OBR",
+    "Seq#": 49,
+    "Len": 2,
+    "DT": "IS",
+    "Table": 507,
+    "Chapter": "4.5.3.49"
+  },
+  {
+    "Description": "Parent Universal Service Identifier",
+    "Item#": 2286,
+    "Seg": "OBR",
+    "Seq#": 50,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "7.4.1.50"
+  }
 ]

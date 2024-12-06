@@ -1,446 +1,446 @@
 [
-    {
-        "Description": "Amount PP",
-        "Item#": 1992,
-        "Seg": "PSL",
-        "Seq#": 38,
-        "Len": 7,
-        "DT": "CP",
-        "Chapter": "16.4.6.38"
-      },
-      {
-        "Description": "Amount Technical Part",
-        "Item#": 1997,
-        "Seg": "PSL",
-        "Seq#": 43,
-        "Len": 7,
-        "DT": "CP",
-        "Chapter": "16.4.6.43"
-      },
-      {
-        "Description": "Billing Period",
-        "Item#": 1980,
-        "Seg": "PSL",
-        "Seq#": 26,
-        "Len": 49,
-        "DT": "DR",
-        "Chapter": "16.4.6.26"
-      },
-      {
-        "Description": "Comment",
-        "Item#": 2002,
-        "Seg": "PSL",
-        "Seq#": 48,
-        "Len": 255,
-        "DT": "ST",
-        "Chapter": "16.4.6.48"
-      },
-      {
-        "Description": "Cost Center",
-        "Item#": 1933,
-        "Seg": "PSL",
-        "Seq#": 25,
-        "Len": 250,
-        "DT": "CX",
-        "Chapter": "16.4.6.25"
-      },
-      {
-        "Description": "Days without Billing",
-        "Item#": 1981,
-        "Seg": "PSL",
-        "Seq#": 27,
-        "Len": 5,
-        "DT": "NM",
-        "Chapter": "16.4.6.27"
-      },
-      {
-        "Description": "Executing Physician ID",
-        "Item#": 1983,
-        "Seg": "PSL",
-        "Seq#": 29,
-        "Len": 20,
-        "DT": "XCN",
-        "Chapter": "16.4.6.29"
-      },
-      {
-        "Description": "External Scaling Factor PP",
-        "Item#": 1991,
-        "Seg": "PSL",
-        "Seq#": 37,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "16.4.6.37"
-      },
-      {
-        "Description": "External Scaling Factor Technical Part",
-        "Item#": 1996,
-        "Seg": "PSL",
-        "Seq#": 42,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "16.4.6.42"
-      },
-      {
-        "Description": "Health Document Reference Identifier",
-        "Item#": 1973,
-        "Seg": "PSL",
-        "Seq#": 19,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.6.19"
-      },
-      {
-        "Description": "Internal Scaling Factor PP",
-        "Item#": 1990,
-        "Seg": "PSL",
-        "Seq#": 36,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "16.4.6.36"
-      },
-      {
-        "Description": "Internal Scaling Factor Technical Part",
-        "Item#": 1995,
-        "Seg": "PSL",
-        "Seq#": 41,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "16.4.6.41"
-      },
-      {
-        "Description": "Main-Service",
-        "Item#": 2000,
-        "Seg": "PSL",
-        "Seq#": 46,
-        "Len": 20,
-        "DT": "ID",
-        "Chapter": "16.4.6.46"
-      },
-      {
-        "Description": "Medical Role Executing Physician",
-        "Item#": 1986,
-        "Seg": "PSL",
-        "Seq#": 32,
-        "Len": 10,
-        "DT": "CWE",
-        "Table": 882,
-        "Chapter": "16.4.6.32"
-      },
-      {
-        "Description": "Number of Items per Unit",
-        "Item#": 1968,
-        "Seg": "PSL",
-        "Seq#": 14,
-        "Len": 10,
-        "DT": "NM",
-        "Chapter": "16.4.6.14"
-      },
-      {
-        "Description": "Number of TP's PP",
-        "Item#": 1988,
-        "Seg": "PSL",
-        "Seq#": 34,
-        "Len": 6,
-        "DT": "NM",
-        "Chapter": "16.4.6.34"
-      },
-      {
-        "Description": "Number of TP's Technical Part",
-        "Item#": 1993,
-        "Seg": "PSL",
-        "Seq#": 39,
-        "Len": 6,
-        "DT": "NM",
-        "Chapter": "16.4.6.39"
-      },
-      {
-        "Description": "Payer Product/Service Line Item Number",
-        "Item#": 1956,
-        "Seg": "PSL",
-        "Seq#": 2,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.6.2"
-      },
-      {
-        "Description": "Payer Tracking ID",
-        "Item#": 1959,
-        "Seg": "PSL",
-        "Seq#": 5,
-        "Len": 20,
-        "DT": "EI",
-        "Chapter": "16.4.6.5"
-      },
-      {
-        "Description": "Processing Consideration Code",
-        "Item#": 1974,
-        "Seg": "PSL",
-        "Seq#": 20,
-        "Len": 10,
-        "DT": "IS",
-        "Table": 562,
-        "Chapter": "16.4.6.20"
-      },
-      {
-        "Description": "Product/Service Amount for Physician",
-        "Item#": 1977,
-        "Seg": "PSL",
-        "Seq#": 23,
-        "Len": 254,
-        "DT": "CP",
-        "Chapter": "16.4.6.23"
-      },
-      {
-        "Description": "Product/Service Billed Amount",
-        "Item#": 1970,
-        "Seg": "PSL",
-        "Seq#": 16,
-        "Len": 254,
-        "DT": "CP",
-        "Chapter": "16.4.6.16"
-      },
-      {
-        "Description": "Product/Service Clarification Code Type",
-        "Item#": 1971,
-        "Seg": "PSL",
-        "Seq#": 17,
-        "Len": 10,
-        "DT": "IS",
-        "Table": 561,
-        "Chapter": "16.4.6.17"
-      },
-      {
-        "Description": "Product/Service Clarification Code Value",
-        "Item#": 1972,
-        "Seg": "PSL",
-        "Seq#": 18,
-        "Len": 40,
-        "DT": "ST",
-        "Chapter": "16.4.6.18"
-      },
-      {
-        "Description": "Product/Service Code",
-        "Item#": 1961,
-        "Seg": "PSL",
-        "Seq#": 7,
-        "Len": 177,
-        "DT": "CWE",
-        "Table": 879,
-        "Chapter": "16.4.6.7"
-      },
-      {
-        "Description": "Product/Service Code Description",
-        "Item#": 1963,
-        "Seg": "PSL",
-        "Seq#": 9,
-        "Len": 80,
-        "DT": "ST",
-        "Chapter": "16.4.6.9"
-      },
-      {
-        "Description": "Product/Service Code Modifier",
-        "Item#": 1962,
-        "Seg": "PSL",
-        "Seq#": 8,
-        "Len": 177,
-        "DT": "CWE",
-        "Table": 880,
-        "Chapter": "16.4.6.8"
-      },
-      {
-        "Description": "Product/Service Cost Factor",
-        "Item#": 1978,
-        "Seg": "PSL",
-        "Seq#": 24,
-        "Len": 5,
-        "DT": "NM",
-        "Chapter": "16.4.6.24"
-      },
-      {
-        "Description": "Product/Service Effective Date",
-        "Item#": 1964,
-        "Seg": "PSL",
-        "Seq#": 10,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "16.4.6.10"
-      },
-      {
-        "Description": "Product/Service Expiration Date",
-        "Item#": 1965,
-        "Seg": "PSL",
-        "Seq#": 11,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "16.4.6.11"
-      },
-      {
-        "Description": "Product/Service Gross Amount",
-        "Item#": 1969,
-        "Seg": "PSL",
-        "Seq#": 15,
-        "Len": 254,
-        "DT": "CP",
-        "Chapter": "16.4.6.15"
-      },
-      {
-        "Description": "Product/Service Line Item Sequence Number",
-        "Item#": 1957,
-        "Seg": "PSL",
-        "Seq#": 3,
-        "Len": 4,
-        "DT": "SI",
-        "Chapter": "16.4.6.3"
-      },
-      {
-        "Description": "Product/Service Line Item Status",
-        "Item#": 1960,
-        "Seg": "PSL",
-        "Seq#": 6,
-        "Len": 2,
-        "DT": "CWE",
-        "Table": 559,
-        "Chapter": "16.4.6.6"
-      },
-      {
-        "Description": "Product/Service Quantity",
-        "Item#": 1966,
-        "Seg": "PSL",
-        "Seq#": 12,
-        "Len": 222,
-        "DT": "CQ",
-        "Table": 560,
-        "Chapter": "16.4.6.12"
-      },
-      {
-        "Description": "Product/Service Unit Cost",
-        "Item#": 1967,
-        "Seg": "PSL",
-        "Seq#": 13,
-        "Len": 254,
-        "DT": "CP",
-        "Chapter": "16.4.6.13"
-      },
-      {
-        "Description": "Provider Product/Service Line Item Number",
-        "Item#": 1955,
-        "Seg": "PSL",
-        "Seq#": 1,
-        "Len": 73,
-        "DT": "EI",
-        "Chapter": "16.4.6.1"
-      },
-      {
-        "Description": "Provider Tracking ID",
-        "Item#": 1958,
-        "Seg": "PSL",
-        "Seq#": 4,
-        "Len": 20,
-        "DT": "EI",
-        "Chapter": "16.4.6.4"
-      },
-      {
-        "Description": "Related Product/Service Code Indicator",
-        "Item#": 1976,
-        "Seg": "PSL",
-        "Seq#": 22,
-        "Len": 177,
-        "DT": "CWE",
-        "Table": 879,
-        "Chapter": "16.4.6.22"
-      },
-      {
-        "Description": "Responsible Physician ID",
-        "Item#": 1984,
-        "Seg": "PSL",
-        "Seq#": 30,
-        "Len": 20,
-        "DT": "XCN",
-        "Chapter": "16.4.6.30"
-      },
-      {
-        "Description": "Restricted Disclosure Indicator",
-        "Item#": 1975,
-        "Seg": "PSL",
-        "Seq#": 21,
-        "Len": 2,
-        "DT": "ID",
-        "Table": 532,
-        "Chapter": "16.4.6.21"
-      },
-      {
-        "Description": "Role Executing Physician",
-        "Item#": 1985,
-        "Seg": "PSL",
-        "Seq#": 31,
-        "Len": 10,
-        "DT": "CWE",
-        "Table": 881,
-        "Chapter": "16.4.6.31"
-      },
-      {
-        "Description": "Session-No",
-        "Item#": 1982,
-        "Seg": "PSL",
-        "Seq#": 28,
-        "Len": 4,
-        "DT": "NM",
-        "Chapter": "16.4.6.28"
-      },
-      {
-        "Description": "Side of body",
-        "Item#": 1987,
-        "Seg": "PSL",
-        "Seq#": 33,
-        "Len": 3,
-        "DT": "CWE",
-        "Table": 894,
-        "Chapter": "16.4.6.33"
-      },
-      {
-        "Description": "Total Amount Professional Part + Technical Part",
-        "Item#": 1998,
-        "Seg": "PSL",
-        "Seq#": 44,
-        "Len": 8,
-        "DT": "CP",
-        "Chapter": "16.4.6.44"
-      },
-      {
-        "Description": "TP-Value PP",
-        "Item#": 1989,
-        "Seg": "PSL",
-        "Seq#": 35,
-        "Len": 6,
-        "DT": "CP",
-        "Chapter": "16.4.6.35"
-      },
-      {
-        "Description": "TP-Value Technical Part",
-        "Item#": 1994,
-        "Seg": "PSL",
-        "Seq#": 40,
-        "Len": 6,
-        "DT": "CP",
-        "Chapter": "16.4.6.40"
-      },
-      {
-        "Description": "Validation",
-        "Item#": 2001,
-        "Seg": "PSL",
-        "Seq#": 47,
-        "Len": 1,
-        "DT": "ID",
-        "Table": 136,
-        "Chapter": "16.4.6.47"
-      },
-      {
-        "Description": "VAT-Rate",
-        "Item#": 1999,
-        "Seg": "PSL",
-        "Seq#": 45,
-        "Len": 3,
-        "DT": "NM",
-        "Chapter": "16.4.6.45"
-      }
+  {
+    "Description": "Provider Product/Service Line Item Number",
+    "Item#": 1955,
+    "Seg": "PSL",
+    "Seq#": 1,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.6.1"
+  },
+  {
+    "Description": "Payer Product/Service Line Item Number",
+    "Item#": 1956,
+    "Seg": "PSL",
+    "Seq#": 2,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.6.2"
+  },
+  {
+    "Description": "Product/Service Line Item Sequence Number",
+    "Item#": 1957,
+    "Seg": "PSL",
+    "Seq#": 3,
+    "Len": 4,
+    "DT": "SI",
+    "Chapter": "16.4.6.3"
+  },
+  {
+    "Description": "Provider Tracking ID",
+    "Item#": 1958,
+    "Seg": "PSL",
+    "Seq#": 4,
+    "Len": 20,
+    "DT": "EI",
+    "Chapter": "16.4.6.4"
+  },
+  {
+    "Description": "Payer Tracking ID",
+    "Item#": 1959,
+    "Seg": "PSL",
+    "Seq#": 5,
+    "Len": 20,
+    "DT": "EI",
+    "Chapter": "16.4.6.5"
+  },
+  {
+    "Description": "Product/Service Line Item Status",
+    "Item#": 1960,
+    "Seg": "PSL",
+    "Seq#": 6,
+    "Len": 2,
+    "DT": "CWE",
+    "Table": 559,
+    "Chapter": "16.4.6.6"
+  },
+  {
+    "Description": "Product/Service Code",
+    "Item#": 1961,
+    "Seg": "PSL",
+    "Seq#": 7,
+    "Len": 177,
+    "DT": "CWE",
+    "Table": 879,
+    "Chapter": "16.4.6.7"
+  },
+  {
+    "Description": "Product/Service Code Modifier",
+    "Item#": 1962,
+    "Seg": "PSL",
+    "Seq#": 8,
+    "Len": 177,
+    "DT": "CWE",
+    "Table": 880,
+    "Chapter": "16.4.6.8"
+  },
+  {
+    "Description": "Product/Service Code Description",
+    "Item#": 1963,
+    "Seg": "PSL",
+    "Seq#": 9,
+    "Len": 80,
+    "DT": "ST",
+    "Chapter": "16.4.6.9"
+  },
+  {
+    "Description": "Product/Service Effective Date",
+    "Item#": 1964,
+    "Seg": "PSL",
+    "Seq#": 10,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "16.4.6.10"
+  },
+  {
+    "Description": "Product/Service Expiration Date",
+    "Item#": 1965,
+    "Seg": "PSL",
+    "Seq#": 11,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "16.4.6.11"
+  },
+  {
+    "Description": "Product/Service Quantity",
+    "Item#": 1966,
+    "Seg": "PSL",
+    "Seq#": 12,
+    "Len": 222,
+    "DT": "CQ",
+    "Table": 560,
+    "Chapter": "16.4.6.12"
+  },
+  {
+    "Description": "Product/Service Unit Cost",
+    "Item#": 1967,
+    "Seg": "PSL",
+    "Seq#": 13,
+    "Len": 254,
+    "DT": "CP",
+    "Chapter": "16.4.6.13"
+  },
+  {
+    "Description": "Number of Items per Unit",
+    "Item#": 1968,
+    "Seg": "PSL",
+    "Seq#": 14,
+    "Len": 10,
+    "DT": "NM",
+    "Chapter": "16.4.6.14"
+  },
+  {
+    "Description": "Product/Service Gross Amount",
+    "Item#": 1969,
+    "Seg": "PSL",
+    "Seq#": 15,
+    "Len": 254,
+    "DT": "CP",
+    "Chapter": "16.4.6.15"
+  },
+  {
+    "Description": "Product/Service Billed Amount",
+    "Item#": 1970,
+    "Seg": "PSL",
+    "Seq#": 16,
+    "Len": 254,
+    "DT": "CP",
+    "Chapter": "16.4.6.16"
+  },
+  {
+    "Description": "Product/Service Clarification Code Type",
+    "Item#": 1971,
+    "Seg": "PSL",
+    "Seq#": 17,
+    "Len": 10,
+    "DT": "IS",
+    "Table": 561,
+    "Chapter": "16.4.6.17"
+  },
+  {
+    "Description": "Product/Service Clarification Code Value",
+    "Item#": 1972,
+    "Seg": "PSL",
+    "Seq#": 18,
+    "Len": 40,
+    "DT": "ST",
+    "Chapter": "16.4.6.18"
+  },
+  {
+    "Description": "Health Document Reference Identifier",
+    "Item#": 1973,
+    "Seg": "PSL",
+    "Seq#": 19,
+    "Len": 73,
+    "DT": "EI",
+    "Chapter": "16.4.6.19"
+  },
+  {
+    "Description": "Processing Consideration Code",
+    "Item#": 1974,
+    "Seg": "PSL",
+    "Seq#": 20,
+    "Len": 10,
+    "DT": "IS",
+    "Table": 562,
+    "Chapter": "16.4.6.20"
+  },
+  {
+    "Description": "Restricted Disclosure Indicator",
+    "Item#": 1975,
+    "Seg": "PSL",
+    "Seq#": 21,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 532,
+    "Chapter": "16.4.6.21"
+  },
+  {
+    "Description": "Related Product/Service Code Indicator",
+    "Item#": 1976,
+    "Seg": "PSL",
+    "Seq#": 22,
+    "Len": 177,
+    "DT": "CWE",
+    "Table": 879,
+    "Chapter": "16.4.6.22"
+  },
+  {
+    "Description": "Product/Service Amount for Physician",
+    "Item#": 1977,
+    "Seg": "PSL",
+    "Seq#": 23,
+    "Len": 254,
+    "DT": "CP",
+    "Chapter": "16.4.6.23"
+  },
+  {
+    "Description": "Product/Service Cost Factor",
+    "Item#": 1978,
+    "Seg": "PSL",
+    "Seq#": 24,
+    "Len": 5,
+    "DT": "NM",
+    "Chapter": "16.4.6.24"
+  },
+  {
+    "Description": "Cost Center",
+    "Item#": 1933,
+    "Seg": "PSL",
+    "Seq#": 25,
+    "Len": 250,
+    "DT": "CX",
+    "Chapter": "16.4.6.25"
+  },
+  {
+    "Description": "Billing Period",
+    "Item#": 1980,
+    "Seg": "PSL",
+    "Seq#": 26,
+    "Len": 49,
+    "DT": "DR",
+    "Chapter": "16.4.6.26"
+  },
+  {
+    "Description": "Days without Billing",
+    "Item#": 1981,
+    "Seg": "PSL",
+    "Seq#": 27,
+    "Len": 5,
+    "DT": "NM",
+    "Chapter": "16.4.6.27"
+  },
+  {
+    "Description": "Session-No",
+    "Item#": 1982,
+    "Seg": "PSL",
+    "Seq#": 28,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "16.4.6.28"
+  },
+  {
+    "Description": "Executing Physician ID",
+    "Item#": 1983,
+    "Seg": "PSL",
+    "Seq#": 29,
+    "Len": 20,
+    "DT": "XCN",
+    "Chapter": "16.4.6.29"
+  },
+  {
+    "Description": "Responsible Physician ID",
+    "Item#": 1984,
+    "Seg": "PSL",
+    "Seq#": 30,
+    "Len": 20,
+    "DT": "XCN",
+    "Chapter": "16.4.6.30"
+  },
+  {
+    "Description": "Role Executing Physician",
+    "Item#": 1985,
+    "Seg": "PSL",
+    "Seq#": 31,
+    "Len": 10,
+    "DT": "CWE",
+    "Table": 881,
+    "Chapter": "16.4.6.31"
+  },
+  {
+    "Description": "Medical Role Executing Physician",
+    "Item#": 1986,
+    "Seg": "PSL",
+    "Seq#": 32,
+    "Len": 10,
+    "DT": "CWE",
+    "Table": 882,
+    "Chapter": "16.4.6.32"
+  },
+  {
+    "Description": "Side of body",
+    "Item#": 1987,
+    "Seg": "PSL",
+    "Seq#": 33,
+    "Len": 3,
+    "DT": "CWE",
+    "Table": 894,
+    "Chapter": "16.4.6.33"
+  },
+  {
+    "Description": "Number of TP's PP",
+    "Item#": 1988,
+    "Seg": "PSL",
+    "Seq#": 34,
+    "Len": 6,
+    "DT": "NM",
+    "Chapter": "16.4.6.34"
+  },
+  {
+    "Description": "TP-Value PP",
+    "Item#": 1989,
+    "Seg": "PSL",
+    "Seq#": 35,
+    "Len": 6,
+    "DT": "CP",
+    "Chapter": "16.4.6.35"
+  },
+  {
+    "Description": "Internal Scaling Factor PP",
+    "Item#": 1990,
+    "Seg": "PSL",
+    "Seq#": 36,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "16.4.6.36"
+  },
+  {
+    "Description": "External Scaling Factor PP",
+    "Item#": 1991,
+    "Seg": "PSL",
+    "Seq#": 37,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "16.4.6.37"
+  },
+  {
+    "Description": "Amount PP",
+    "Item#": 1992,
+    "Seg": "PSL",
+    "Seq#": 38,
+    "Len": 7,
+    "DT": "CP",
+    "Chapter": "16.4.6.38"
+  },
+  {
+    "Description": "Number of TP's Technical Part",
+    "Item#": 1993,
+    "Seg": "PSL",
+    "Seq#": 39,
+    "Len": 6,
+    "DT": "NM",
+    "Chapter": "16.4.6.39"
+  },
+  {
+    "Description": "TP-Value Technical Part",
+    "Item#": 1994,
+    "Seg": "PSL",
+    "Seq#": 40,
+    "Len": 6,
+    "DT": "CP",
+    "Chapter": "16.4.6.40"
+  },
+  {
+    "Description": "Internal Scaling Factor Technical Part",
+    "Item#": 1995,
+    "Seg": "PSL",
+    "Seq#": 41,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "16.4.6.41"
+  },
+  {
+    "Description": "External Scaling Factor Technical Part",
+    "Item#": 1996,
+    "Seg": "PSL",
+    "Seq#": 42,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "16.4.6.42"
+  },
+  {
+    "Description": "Amount Technical Part",
+    "Item#": 1997,
+    "Seg": "PSL",
+    "Seq#": 43,
+    "Len": 7,
+    "DT": "CP",
+    "Chapter": "16.4.6.43"
+  },
+  {
+    "Description": "Total Amount Professional Part + Technical Part",
+    "Item#": 1998,
+    "Seg": "PSL",
+    "Seq#": 44,
+    "Len": 8,
+    "DT": "CP",
+    "Chapter": "16.4.6.44"
+  },
+  {
+    "Description": "VAT-Rate",
+    "Item#": 1999,
+    "Seg": "PSL",
+    "Seq#": 45,
+    "Len": 3,
+    "DT": "NM",
+    "Chapter": "16.4.6.45"
+  },
+  {
+    "Description": "Main-Service",
+    "Item#": 2000,
+    "Seg": "PSL",
+    "Seq#": 46,
+    "Len": 20,
+    "DT": "ID",
+    "Chapter": "16.4.6.46"
+  },
+  {
+    "Description": "Validation",
+    "Item#": 2001,
+    "Seg": "PSL",
+    "Seq#": 47,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "16.4.6.47"
+  },
+  {
+    "Description": "Comment",
+    "Item#": 2002,
+    "Seg": "PSL",
+    "Seq#": 48,
+    "Len": 255,
+    "DT": "ST",
+    "Chapter": "16.4.6.48"
+  }
 ]

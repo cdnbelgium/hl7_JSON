@@ -1,40 +1,40 @@
 [
-    {
-        "Description": "Application/Method Identifier",
-        "Item#": 1426,
-        "Seg": "SID",
-        "Seq#": 1,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "13.4.11.1"
-      },
-      {
-        "Description": "Substance Container Identifier",
-        "Item#": 1428,
-        "Seg": "SID",
-        "Seq#": 3,
-        "Len": 200,
-        "DT": "ST",
-        "Chapter": "13.4.11.3"
-      },
-      {
-        "Description": "Substance Lot Number",
-        "Item#": 1129,
-        "Seg": "SID",
-        "Seq#": 2,
-        "Len": 20,
-        "DT": "ST",
-        "Chapter": "13.4.11.2"
-      },
-      {
-        "Description": "Substance Manufacturer Identifier",
-        "Item#": 1429,
-        "Seg": "SID",
-        "Seq#": 4,
-        "Len": 705,
-        "DT": "CWE",
-        "Table": 385,
-        "Chapter": "13.4.11.4"
-      }
+  {
+    "Description": "Application/Method Identifier",
+    "Item#": 1426,
+    "Seg": "SID",
+    "Seq#": 1,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "13.4.11.1"
+  },
+  {
+    "Description": "Substance Lot Number",
+    "Item#": 1129,
+    "Seg": "SID",
+    "Seq#": 2,
+    "Len": 20,
+    "DT": "ST",
+    "Chapter": "13.4.11.2"
+  },
+  {
+    "Description": "Substance Container Identifier",
+    "Item#": 1428,
+    "Seg": "SID",
+    "Seq#": 3,
+    "Len": 200,
+    "DT": "ST",
+    "Chapter": "13.4.11.3"
+  },
+  {
+    "Description": "Substance Manufacturer Identifier",
+    "Item#": 1429,
+    "Seg": "SID",
+    "Seq#": 4,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 385,
+    "Chapter": "13.4.11.4"
+  }
 ]

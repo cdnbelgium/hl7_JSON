@@ -1,62 +1,62 @@
 [
-    {
-        "Description": "Administration Device",
-        "Item#": 311,
-        "Seg": "RXR",
-        "Seq#": 3,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 164,
-        "Chapter": "4.14.2.3"
-      },
-      {
-        "Description": "Administration Method",
-        "Item#": 312,
-        "Seg": "RXR",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 165,
-        "Chapter": "4.14.2.4"
-      },
-      {
-        "Description": "Administration Site",
-        "Item#": 310,
-        "Seg": "RXR",
-        "Seq#": 2,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 550,
-        "Chapter": "4.14.2.2"
-      },
-      {
-        "Description": "Administration Site Modifier",
-        "Item#": 1670,
-        "Seg": "RXR",
-        "Seq#": 6,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 495,
-        "Chapter": "4.14.2.6"
-      },
-      {
-        "Description": "Route",
-        "Item#": 309,
-        "Seg": "RXR",
-        "Seq#": 1,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 162,
-        "Chapter": "4.14.2.1"
-      },
-      {
-        "Description": "Routing Instruction",
-        "Item#": 1315,
-        "Seg": "RXR",
-        "Seq#": 5,
-        "Len": 250,
-        "DT": "CWE",
-        "Table": 9999,
-        "Chapter": "4.14.2.5"
-      }
+  {
+    "Description": "Route",
+    "Item#": 309,
+    "Seg": "RXR",
+    "Seq#": 1,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 162,
+    "Chapter": "4.14.2.1"
+  },
+  {
+    "Description": "Administration Site",
+    "Item#": 310,
+    "Seg": "RXR",
+    "Seq#": 2,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 550,
+    "Chapter": "4.14.2.2"
+  },
+  {
+    "Description": "Administration Device",
+    "Item#": 311,
+    "Seg": "RXR",
+    "Seq#": 3,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 164,
+    "Chapter": "4.14.2.3"
+  },
+  {
+    "Description": "Administration Method",
+    "Item#": 312,
+    "Seg": "RXR",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 165,
+    "Chapter": "4.14.2.4"
+  },
+  {
+    "Description": "Routing Instruction",
+    "Item#": 1315,
+    "Seg": "RXR",
+    "Seq#": 5,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.14.2.5"
+  },
+  {
+    "Description": "Administration Site Modifier",
+    "Item#": 1670,
+    "Seg": "RXR",
+    "Seq#": 6,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 495,
+    "Chapter": "4.14.2.6"
+  }
 ]

@@ -1,58 +1,58 @@
 [
-    {
-        "Description": "Documented Date/Time",
-        "Item#": 1213,
-        "Seg": "VAR",
-        "Seq#": 2,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "12.4.4.2"
-      },
-      {
-        "Description": "Stated Variance Date/Time",
-        "Item#": 1214,
-        "Seg": "VAR",
-        "Seq#": 3,
-        "Len": 24,
-        "DT": "DTM",
-        "Chapter": "12.4.4.3"
-      },
-      {
-        "Description": "Variance Classification",
-        "Item#": 1216,
-        "Seg": "VAR",
-        "Seq#": 5,
-        "Len": 705,
-        "DT": "CWE",
-        "Chapter": "12.4.4.5"
-      },
-      {
-        "Description": "Variance Description",
-        "Item#": 1217,
-        "Seg": "VAR",
-        "Seq#": 6,
-        "Len": 512,
-        "DT": "ST",
-        "Rep": "Y",
-        "Chapter": "12.4.4.6"
-      },
-      {
-        "Description": "Variance Instance ID",
-        "Item#": 1212,
-        "Seg": "VAR",
-        "Seq#": 1,
-        "Len": 60,
-        "DT": "EI",
-        "Chapter": "12.4.4.1"
-      },
-      {
-        "Description": "Variance Originator",
-        "Item#": 1215,
-        "Seg": "VAR",
-        "Seq#": 4,
-        "Len": 250,
-        "DT": "XCN",
-        "Rep": "Y",
-        "Chapter": "12.4.4.4"
-      }
+  {
+    "Description": "Variance Instance ID",
+    "Item#": 1212,
+    "Seg": "VAR",
+    "Seq#": 1,
+    "Len": 60,
+    "DT": "EI",
+    "Chapter": "12.4.4.1"
+  },
+  {
+    "Description": "Documented Date/Time",
+    "Item#": 1213,
+    "Seg": "VAR",
+    "Seq#": 2,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "12.4.4.2"
+  },
+  {
+    "Description": "Stated Variance Date/Time",
+    "Item#": 1214,
+    "Seg": "VAR",
+    "Seq#": 3,
+    "Len": 24,
+    "DT": "DTM",
+    "Chapter": "12.4.4.3"
+  },
+  {
+    "Description": "Variance Originator",
+    "Item#": 1215,
+    "Seg": "VAR",
+    "Seq#": 4,
+    "Len": 250,
+    "DT": "XCN",
+    "Rep": "Y",
+    "Chapter": "12.4.4.4"
+  },
+  {
+    "Description": "Variance Classification",
+    "Item#": 1216,
+    "Seg": "VAR",
+    "Seq#": 5,
+    "Len": 705,
+    "DT": "CWE",
+    "Chapter": "12.4.4.5"
+  },
+  {
+    "Description": "Variance Description",
+    "Item#": 1217,
+    "Seg": "VAR",
+    "Seq#": 6,
+    "Len": 512,
+    "DT": "ST",
+    "Rep": "Y",
+    "Chapter": "12.4.4.6"
+  }
 ]
