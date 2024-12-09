@@ -115,5 +115,15 @@
     "DT": "ID",
     "Table": 136,
     "Chapter": "15.4.5.12"
+  },
+  {
+    "Description": "Cost Center Code",
+    "Item#": 1891,
+    "Seg": "ORG",
+    "Seq#": 13,
+    "Len": 1,
+    "DT": "CWE",
+    "Table": 136,
+    "Chapter": "15.4.5.12"
   }
 ]

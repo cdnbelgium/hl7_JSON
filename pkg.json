@@ -63,5 +63,41 @@
     "Len": 24,
     "DT": "DTM",
     "Chapter": "17.4.5.7"
+  },
+  {
+    "Description": "Global Trade Item Number",
+    "Item#": 3307,
+    "Seg": "PKG",
+    "Seq#": 8,
+    "Len": 12,
+    "DT": "CWE",
+    "Chapter": "17.4.5.4"
+  },
+  {
+    "Description": "Contract Price",
+    "Item#": 2426,
+    "Seg": "PKG",
+    "Seq#": 9,
+    "Len": 12,
+    "DT": "MO",
+    "Chapter": "17.4.5.5"
+  },
+  {
+    "Description": "Quantity of Each",
+    "Item#": 2427,
+    "Seg": "PKG",
+    "Seq#": 10,
+    "Len": 12,
+    "DT": "NM",
+    "Chapter": "17.4.5.6"
+  },
+  {
+    "Description": "Vendor Catalog Number",
+    "Item#": 2228,
+    "Seg": "PKG",
+    "Seq#": 11,
+    "Len": 24,
+    "DT": "EI",
+    "Chapter": "17.4.5.7"
   }
 ]

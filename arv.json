@@ -57,5 +57,46 @@
     "Len": 49,
     "DT": "DR",
     "Chapter": "3.4.13.6"
+  },
+  {
+    "Description": "Security Classification Tag",
+    "Item#": 3512,
+    "Seg": "ARV",
+    "Seq#": 7,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 206,
+    "Chapter": "3.4.13.2"
+  },
+  {
+    "Description": "Security Handling Instructions",
+    "Item#": 3513,
+    "Seg": "ARV",
+    "Seq#": 8,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 717,
+    "Chapter": "3.4.13.3"
+  },
+  {
+    "Description": "Access Restriction Message Location",
+    "Item#": 3514,
+    "Seg": "ARV",
+    "Seq#": 9,
+    "Len": 705,
+    "DT": "ERL",
+    "Rep": "Y",
+    "Table": 719,
+    "Chapter": "3.4.13.4"
+  },
+  {
+    "Description": "Access Restriction Instance Identifier",
+    "Item#": 2470,
+    "Seg": "ARV",
+    "Seq#": 10,
+    "Len": 250,
+    "DT": "EI",
+    "Rep": "Y",
+    "Chapter": "3.4.13.5"
   }
 ]

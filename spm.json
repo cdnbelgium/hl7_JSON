@@ -287,5 +287,63 @@
     "DT": "CWE",
     "Table": 494,
     "Chapter": "7.4.3.29"
+  },
+  {
+    "Description": "Accession ID",
+    "Item#": 2314,
+    "Seg": "SPM",
+    "Seq#": 30,
+    "Len": 722,
+    "DT": "CX",
+    "Chapter": "7.4.3.25"
+  },
+  {
+    "Description": "Other Specimen ID",
+    "Item#": 2315,
+    "Seg": "CX",
+    "Seq#": 31,
+    "Len": 4,
+    "DT": "NM",
+    "Chapter": "7.4.3.26"
+  },
+  {
+    "Description": "Shipment ID",
+    "Item#": 2316,
+    "Seg": "SPM",
+    "Seq#": 32,
+    "Len": 705,
+    "DT": "EI",
+    "Table": 9999,
+    "Chapter": "7.4.3.27"
+  },
+  {
+    "Description": "Culture Start Date/Time",
+    "Item#": 3485,
+    "Seg": "SPM",
+    "Seq#": 33,
+    "Len": 705,
+    "DT": "DTM",
+    "Table": 544,
+    "Chapter": "7.4.3.28"
+  },
+  {
+    "Description": "Culture Final Date/Time",
+    "Item#": 3486,
+    "Seg": "SPM",
+    "Seq#": 34,
+    "Len": 705,
+    "DT": "DTM",
+    "Table": 494,
+    "Chapter": "7.4.3.29"
+  },
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "SPM",
+    "Seq#": 35,
+    "Len": 705,
+    "DT": "ID",
+    "Table": 494,
+    "Chapter": "7.4.3.29"
   }
 ]

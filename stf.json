@@ -387,5 +387,26 @@
     "Rep": "Y",
     "Table": 771,
     "Chapter": "15.4.8.39"
+  },
+  {
+    "Description": "Religion",
+    "Item#": 120,
+    "Seg": "STF",
+    "Seq#": 40,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 540,
+    "Chapter": "15.4.8.38"
+  },
+  {
+    "Description": "Signature",
+    "Item#": 1861,
+    "Seg": "STF",
+    "Seq#": 41,
+    "Len": 1,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 771,
+    "Chapter": "15.4.8.39"
   }
 ]

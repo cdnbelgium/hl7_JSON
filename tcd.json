@@ -73,5 +73,35 @@
     "DT": "CWE",
     "Table": 389,
     "Chapter": "13.4.10.8"
+  },
+  {
+    "Description": "Specimen Consumption Quantity",
+    "Item#": 3490,
+    "Seg": "TCD",
+    "Seq#": 9,
+    "Len": 1,
+    "DT": "CQ",
+    "Table": 136,
+    "Chapter": "13.4.10.6"
+  },
+  {
+    "Description": "Pool Size",
+    "Item#": 3493,
+    "Seg": "TCD",
+    "Seq#": 10,
+    "Len": 1,
+    "DT": "NM",
+    "Table": 136,
+    "Chapter": "13.4.10.7"
+  },
+  {
+    "Description": "Auto-Dilution Type",
+    "Item#": 3494,
+    "Seg": "TCD",
+    "Seq#": 11,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 389,
+    "Chapter": "13.4.10.8"
   }
 ]

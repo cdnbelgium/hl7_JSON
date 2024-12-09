@@ -270,5 +270,14 @@
     "Len": 106,
     "DT": "XAD",
     "Chapter": "4.18.1.28"
+  },
+  {
+    "Description": "Administered Tag Identifier",
+    "Item#": 3396,
+    "Seg": "RXA",
+    "Seq#": 29,
+    "Len": 106,
+    "DT": "EI",
+    "Chapter": "4.18.1.28"
   }
 ]

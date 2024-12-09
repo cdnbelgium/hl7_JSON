@@ -217,5 +217,14 @@
     "Len": 8,
     "DT": "DT",
     "Chapter": "3.4.10.22"
+  },
+  {
+    "Description": "Retirement Date",
+    "Item#": 3511,
+    "Seg": "PD1",
+    "Seq#": 23,
+    "Len": 8,
+    "DT": "DT",
+    "Chapter": "3.4.10.22"
   }
 ]

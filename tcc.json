@@ -128,5 +128,15 @@
     "DT": "CWE",
     "Table": 388,
     "Chapter": "13.4.9.14"
+  },
+  {
+    "Description": "Test Criticality",
+    "Item#": 3313,
+    "Seg": "TCC",
+    "Seq#": 15,
+    "Len": 705,
+    "DT": "CWE",
+    "Table": 388,
+    "Chapter": "13.4.9.14"
   }
 ]

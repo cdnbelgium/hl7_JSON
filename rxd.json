@@ -321,5 +321,25 @@
     "DT": "CWE",
     "Table": 484,
     "Chapter": "4.14.5.33"
+  },
+  {
+    "Description": "Pharmacy Phone Number",
+    "Item#": 2311,
+    "Seg": "RXD",
+    "Seq#": 34,
+    "Len": 1,
+    "DT": "XTN",
+    "Table": 480,
+    "Chapter": "4.14.5.32"
+  },
+  {
+    "Description": "Dispense Tag Identifier",
+    "Item#": 3392,
+    "Seg": "RXD",
+    "Seq#": 35,
+    "Len": 250,
+    "DT": "EI",
+    "Table": 484,
+    "Chapter": "4.14.5.33"
   }
 ]

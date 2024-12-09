@@ -130,5 +130,43 @@
     "Len": 20,
     "DT": "CQ",
     "Chapter": "8.8.11.14"
+  },
+  {
+    "Description": "Specimen Handling Code",
+    "Item#": 1908,
+    "Seg": "OM4",
+    "Seq#": 15,
+    "Len": 20,
+    "DT": "CWE",
+    "Chapter": "8.8.11.11"
+  },
+  {
+    "Description": "Specimen Preference",
+    "Item#": 3311,
+    "Seg": "OM4",
+    "Seq#": 16,
+    "Len": 10240,
+    "DT": "ID",
+    "Chapter": "8.8.11.12"
+  },
+  {
+    "Description": "Preferred Specimen/Attribture Sequence ID",
+    "Item#": 3312,
+    "Seg": "OM4",
+    "Seq#": 17,
+    "Len": 1,
+    "DT": "NM",
+    "Rep": "Y",
+    "Table": 27,
+    "Chapter": "8.8.11.13"
+  },
+  {
+    "Description": "Taxonomic Classification Code",
+    "Item#": 61539,
+    "Seg": "OM4",
+    "Seq#": 18,
+    "Len": 20,
+    "DT": "CWE",
+    "Chapter": "8.8.11.14"
   }
 ]

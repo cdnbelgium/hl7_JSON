@@ -102,5 +102,24 @@
     "Len": 250,
     "DT": "XAD",
     "Chapter": "6.5.9.11"
+  },
+  {
+    "Description": "Degree of patient liability",
+    "Item#": 2374,
+    "Seg": "ACC",
+    "Seq#": 12,
+    "Len": 3,
+    "DT": "NM",
+    "Table": 136,
+    "Chapter": "6.5.9.10"
+  },
+  {
+    "Description": "Accident Identifier",
+    "Item#": 3338,
+    "Seg": "ACC",
+    "Seq#": 13,
+    "Len": 250,
+    "DT": "EI",
+    "Chapter": "6.5.9.11"
   }
 ]

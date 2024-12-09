@@ -289,5 +289,32 @@
     "Len": 250,
     "DT": "XAD",
     "Chapter": "4.14.6.30"
+  },
+  {
+    "Description": "Give Tag Identifier",
+    "Item#": 3393,
+    "Seg": "RXG",
+    "Seq#": 31,
+    "Len": 106,
+    "DT": "XAD",
+    "Chapter": "4.14.6.28"
+  },
+  {
+    "Description": "Dispense Amount",
+    "Item#": 3316,
+    "Seg": "RXG",
+    "Seq#": 32,
+    "Len": 80,
+    "DT": "PL",
+    "Chapter": "4.14.6.29"
+  },
+  {
+    "Description": "Dispense Units",
+    "Item#": 3317,
+    "Seg": "RXG",
+    "Seq#": 33,
+    "Len": 250,
+    "DT": "XAD",
+    "Chapter": "4.14.6.30"
   }
 ]

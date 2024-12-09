@@ -1,5 +1,25 @@
-[
-  {
+
+  [
+    {
+      "Description": "Set ID - NTE",
+      "Item#": 96,
+      "Seg": "NTE",
+      "Seq#": 1,
+      "Len": 4,
+      "DT": "SI",
+      "Chapter": "2.14.10.1"
+    },
+    {
+      "Description": "Source of Comment",
+      "Item#": 97,
+      "Seg": "NTE",
+      "Seq#": 2,
+      "Len": 8,
+      "DT": "ID",
+      "Table": 105,
+      "Chapter": "2.14.10.2"
+    },
+    {
       "Description": "Comment",
       "Item#": 98,
       "Seg": "NTE",
@@ -20,15 +40,6 @@
       "Chapter": "2.14.10.4"
     },
     {
-      "Description": "Effective Start Date",
-      "Item#": 1004,
-      "Seg": "NTE",
-      "Seq#": 7,
-      "Len": 24,
-      "DT": "DTM",
-      "Chapter": "2.14.10.7"
-    },
-    {
       "Description": "Entered By",
       "Item#": 224,
       "Seg": "NTE",
@@ -47,6 +58,15 @@
       "Chapter": "2.14.10.6"
     },
     {
+      "Description": "Effective Start Date",
+      "Item#": 1004,
+      "Seg": "NTE",
+      "Seq#": 7,
+      "Len": 24,
+      "DT": "DTM",
+      "Chapter": "2.14.10.7"
+    },
+    {
       "Description": "Expiration Date",
       "Item#": 2185,
       "Seg": "NTE",
@@ -56,22 +76,12 @@
       "Chapter": "2.14.10.8"
     },
     {
-      "Description": "Set ID - NTE",
-      "Item#": 96,
+      "Description": "Coded Comment",
+      "Item#": 3495,
       "Seg": "NTE",
-      "Seq#": 1,
-      "Len": 4,
-      "DT": "SI",
-      "Chapter": "2.14.10.1"
-    },
-    {
-      "Description": "Source of Comment",
-      "Item#": 97,
-      "Seg": "NTE",
-      "Seq#": 2,
-      "Len": 8,
-      "DT": "ID",
-      "Table": 105,
-      "Chapter": "2.14.10.2"
+      "Seq#": 9,
+      "Len": 24,
+      "DT": "CWE",
+      "Chapter": "2.14.10.8"
     }
-]
+  ]

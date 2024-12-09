@@ -506,5 +506,24 @@
     "DT": "IS",
     "Table": 99,
     "Chapter": "6.5.6.53"
+  },
+  {
+    "Description": "External Health Plan Identifierse",
+    "Item#": 3292,
+    "Seg": "IN1",
+    "Seq#": 54,
+    "Len": 250,
+    "DT": "CX",
+    "Chapter": "6.5.6.52"
+  },
+  {
+    "Description": "Insurance Action Code",
+    "Item#": 3335,
+    "Seg": "IN1",
+    "Seq#": 55,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 99,
+    "Chapter": "6.5.6.53"
   }
 ]

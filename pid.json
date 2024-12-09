@@ -382,5 +382,16 @@
     "Rep": "Y",
     "Table": 171,
     "Chapter": "3.4.2.39"
+  },
+  {
+    "Description": "Patient Telecommunication Information",
+    "Item#": 2289,
+    "Seg": "PID",
+    "Seq#": 40,
+    "Len": 705,
+    "DT": "XTN",
+    "Rep": "Y",
+    "Table": 171,
+    "Chapter": "3.4.2.39"
   }
 ]

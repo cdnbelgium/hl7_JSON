@@ -387,5 +387,24 @@
     "DT": "IS",
     "Table": 99,
     "Chapter": "3.4.5.39"
+  },
+  {
+    "Description": "Next of Kin Telecommunication Information",
+    "Item#": 2292,
+    "Seg": "NK1",
+    "Seq#": 38,
+    "Len": 250,
+    "DT": "XTN",
+    "Chapter": "3.4.5.38"
+  },
+  {
+    "Description": "Contact Person's Telecommunication Information",
+    "Item#": 2293,
+    "Seg": "NK1",
+    "Seq#": 39,
+    "Len": 250,
+    "DT": "XTN",
+    "Table": 99,
+    "Chapter": "3.4.5.39"
   }
 ]

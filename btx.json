@@ -178,5 +178,26 @@
     "DT": "CWE",
     "Table": 515,
     "Chapter": "4.21.3.19"
+  },
+  {
+    "Description": "BP Unique ID",
+    "Item#": 3391,
+    "Seg": "BTX",
+    "Seq#": 20,
+    "Len": 250,
+    "DT": "EI",
+    "Rep": "Y",
+    "Table": 514,
+    "Chapter": "4.21.3.18"
+  },
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "BTX",
+    "Seq#": 21,
+    "Len": 250,
+    "DT": "ID",
+    "Table": 515,
+    "Chapter": "4.21.3.19"
   }
 ]

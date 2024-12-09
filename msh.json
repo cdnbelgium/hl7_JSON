@@ -234,5 +234,32 @@
     "Len": 227,
     "DT": "HD",
     "Chapter": "2.14.9.25"
+  },
+  {
+    "Description": "Security Classification Tag",
+    "Item#": 2429,
+    "Seg": "CWE",
+    "Seq#": 26,
+    "Len": 567,
+    "DT": "XON",
+    "Chapter": "2.14.9.23"
+  },
+  {
+    "Description": "Security Handling Instructions",
+    "Item#": 2430,
+    "Seg": "CWE",
+    "Seq#": 27,
+    "Len": 227,
+    "DT": "HD",
+    "Chapter": "2.14.9.24"
+  },
+  {
+    "Description": "Special Access Restriction Instructions",
+    "Item#": 2431,
+    "Seg": "MSH",
+    "Seq#": 28,
+    "Len": 227,
+    "DT": "ST",
+    "Chapter": "2.14.9.25"
   }
 ]

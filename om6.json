@@ -7,5 +7,14 @@
         "Len": 4,
         "DT": "NM",
         "Chapter": "8.8.13.1"
+      },
+      {
+        "Description": "Derivation Rule",
+        "Item#": 657,
+        "Seg": "OM6",
+        "Seq#": 2,
+        "Len": 250,
+        "DT": "TX",
+        "Chapter": "8.8.13.1"
       }
 ]

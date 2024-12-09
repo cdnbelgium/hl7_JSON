@@ -508,5 +508,26 @@
     "Rep": "Y",
     "Table": 10,
     "Chapter": "3.4.3.52"
+  },
+  {
+    "Description": "Service Episode Description",
+    "Item#": 2290,
+    "Seg": "PV1",
+    "Seq#": 53,
+    "Len": 1,
+    "DT": "ST",
+    "Table": 326,
+    "Chapter": "3.4.3.51"
+  },
+  {
+    "Description": "Service Episode Identifier",
+    "Item#": 2291,
+    "Seg": "PV1",
+    "Seq#": 54,
+    "Len": 0,
+    "DT": "CX",
+    "Rep": "Y",
+    "Table": 10,
+    "Chapter": "3.4.3.52"
   }
 ]

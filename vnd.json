@@ -44,5 +44,60 @@
     "DT": "CNE",
     "Table": 532,
     "Chapter": "17.4.4.5"
+  },
+  {
+    "Description": "Corporation",
+    "Item#": 2420,
+    "Seg": "VND",
+    "Seq#": 6,
+    "Len": 2,
+    "DT": "SI",
+    "Chapter": "17.4.4.1"
+  },
+  {
+    "Description": "Primary Contact",
+    "Item#": 2421,
+    "Seg": "VND",
+    "Seq#": 7,
+    "Len": 250,
+    "DT": "EI",
+    "Chapter": "17.4.4.2"
+  },
+  {
+    "Description": "Contract Adjustment",
+    "Item#": 2422,
+    "Seg": "VND",
+    "Seq#": 8,
+    "Len": 999,
+    "DT": "ST",
+    "Chapter": "17.4.4.3"
+  },
+  {
+    "Description": "Associated Contract ID",
+    "Item#": 2423,
+    "Seg": "VND",
+    "Seq#": 9,
+    "Len": 20,
+    "DT": "EI",
+    "Chapter": "17.4.4.4"
+  },
+  {
+    "Description": "Class of Trade",
+    "Item#": 2424,
+    "Seg": "VND",
+    "Seq#": 10,
+    "Len": 1,
+    "DT": "CNE",
+    "Table": 532,
+    "Chapter": "17.4.4.5"
+  },
+  {
+    "Description": "Pricing Tier Level",
+    "Item#": 2425,
+    "Seg": "VND",
+    "Seq#": 11,
+    "Len": 2,
+    "DT": "SI",
+    "Chapter": "17.4.4.1"
   }
 ]

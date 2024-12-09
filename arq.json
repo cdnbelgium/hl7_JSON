@@ -233,5 +233,15 @@
     "DT": "EI",
     "Rep": "Y",
     "Chapter": "10.6.1.25"
+  },
+  {
+    "Description": "Alternate Placer Order Group Number",
+    "Item#": 3547,
+    "Seg": "ARQ",
+    "Seq#": 26,
+    "Len": 427,
+    "DT": "EIP",
+    "Rep": "Y",
+    "Chapter": "10.6.1.25"
   }
 ]

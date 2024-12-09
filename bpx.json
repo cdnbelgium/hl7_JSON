@@ -196,5 +196,14 @@
     "Len": 250,
     "DT": "XCN",
     "Chapter": "4.21.2.21"
+  },
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "BPX",
+    "Seq#": 22,
+    "Len": 250,
+    "DT": "ID",
+    "Chapter": "4.21.2.21"
   }
 ]

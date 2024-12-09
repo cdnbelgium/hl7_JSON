@@ -144,5 +144,24 @@
     "DT": "ID",
     "Table": 136,
     "Chapter": "12.4.5.16"
+  },
+  {
+    "Description": "Source Information Instance Object Type",
+    "Item#": 2455,
+    "Seg": "REL",
+    "Seq#": 17,
+    "Len": 250,
+    "DT": "NM",
+    "Chapter": "12.4.5.15"
+  },
+  {
+    "Description": "Target Information Instance Object Typer",
+    "Item#": 2456,
+    "Seg": "REL",
+    "Seq#": 18,
+    "Len": 1,
+    "DT": "ID",
+    "Table": 136,
+    "Chapter": "12.4.5.16"
   }
 ]

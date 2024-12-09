@@ -84,5 +84,14 @@
     "Len": 16,
     "DT": "ST",
     "Chapter": "4.5.6.9"
+  },
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "IPC",
+    "Seq#": 10,
+    "Len": 2,
+    "DT": "ID",
+    "Chapter": "4.5.6.9"
   }
 ]

@@ -299,5 +299,73 @@
     "Len": 250,
     "DT": "CWE",
     "Chapter": "4.5.1.31"
+  },
+  {
+    "Description": "Advanced Beneficiary Notice Date",
+    "Item#": 2301,
+    "Seg": "ORC",
+    "Seq#": 32,
+    "Len": 250,
+    "DT": "DT",
+    "Table": 9999,
+    "Chapter": ""
+  },
+  {
+    "Description": "Alternate Placer Order Number",
+    "Item#": 3300,
+    "Seg": "ORC",
+    "Seq#": 33,
+    "Len": 60,
+    "DT": "CX",
+    "Table": 552,
+    "Chapter": ""
+  },
+  {
+    "Description": "Order Workflow Profile",
+    "Item#": 3387,
+    "Seg": "ORC",
+    "Seq#": 34,
+    "Len": 24,
+    "DT": "CWE",
+    "Chapter": ""
+  },
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "ORC",
+    "Seq#": 35,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 177,
+    "Chapter": ""
+  },
+  {
+    "Description": "Order Status Date Range",
+    "Item#": 3509,
+    "Seg": "ORC",
+    "Seq#": 36,
+    "Len": 250,
+    "DT": "DR",
+    "Table": 482,
+    "Chapter": ""
+  },
+  {
+    "Description": "Order Creation Date/Time",
+    "Item#": 3515,
+    "Seg": "ORC",
+    "Seq#": 37,
+    "Len": 250,
+    "DT": "DTM",
+    "Table": 483,
+    "Chapter": ""
+  },
+  {
+    "Description": "Filler Order Group Number",
+    "Item#": 2482,
+    "Seg": "ORC",
+    "Seq#": 38,
+    "Len": 250,
+    "DT": "EI",
+    "Chapter": ""
   }
 ]

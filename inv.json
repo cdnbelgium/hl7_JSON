@@ -190,5 +190,23 @@
     "Len": 722,
     "DT": "CQ",
     "Chapter": "13.4.4.20"
+  },
+  {
+    "Description": "Equipment State Indicator Type Code",
+    "Item#": 3488,
+    "Seg": "INV",
+    "Seq#": 21,
+    "Len": 722,
+    "DT": "CWE",
+    "Chapter": "13.4.4.19"
+  },
+  {
+    "Description": "Equipment State Indicator Value",
+    "Item#": 3489,
+    "Seg": "INV",
+    "Seq#": 22,
+    "Len": 722,
+    "DT": "CQ",
+    "Chapter": "13.4.4.20"
   }
 ]

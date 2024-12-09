@@ -481,5 +481,56 @@
     "Len": 705,
     "DT": "CWE",
     "Chapter": "7.4.1.50"
+  },
+  {
+    "Description": "Observation Group ID",
+    "Item#": 2307,
+    "Seg": "OBR",
+    "Seq#": 51,
+    "Len": 705,
+    "DT": "EI",
+    "Rep": "Y",
+    "Table": 411,
+    "Chapter": "4.5.3.46"
+  },
+  {
+    "Description": "Parent Observation Group ID",
+    "Item#": 2308,
+    "Seg": "OBR",
+    "Seq#": 52,
+    "Len": 705,
+    "DT": "EI",
+    "Rep": "Y",
+    "Table": 411,
+    "Chapter": "4.5.3.47"
+  },
+  {
+    "Description": "Alternate Placer Order Number",
+    "Item#": 3303,
+    "Seg": "OBR",
+    "Seq#": 53,
+    "Len": 705,
+    "DT": "CX",
+    "Table": 476,
+    "Chapter": "4.5.3.48"
+  },
+  {
+    "Description": "Parent Order",
+    "Item#": 222,
+    "Seg": "OBR",
+    "Seq#": 54,
+    "Len": 250,
+    "DT": "EIP",
+    "Table": 507,
+    "Chapter": "4.5.3.49"
+  },
+  {
+    "Description": "Action Order",
+    "Item#": 816,
+    "Seg": "OBR",
+    "Seq#": 55,
+    "Len": 2,
+    "DT": "ID",
+    "Chapter": "7.4.1.50"
   }
 ]

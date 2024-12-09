@@ -153,5 +153,15 @@
     "DT": "CWE",
     "Table": 9999,
     "Chapter": "7.8.1.16"
+  },
+  {
+    "Description": "Action Code",
+    "Item#": 816,
+    "Seg": "CSR",
+    "Seq#": 17,
+    "Len": 2,
+    "DT": "ID",
+    "Table": 9999,
+    "Chapter": "7.8.1.16"
   }
 ]

@@ -46,5 +46,15 @@
     "DT": "CWE",
     "Table": 367,
     "Chapter": "13.4.1.5"
+  },
+  {
+    "Description": "Expected date/time of the next status change",
+    "Item#": 3487,
+    "Seg": "EQU",
+    "Seq#": 6,
+    "Len": 705,
+    "DT": "DTM",
+    "Table": 367,
+    "Chapter": "13.4.1.5"
   }
 ]

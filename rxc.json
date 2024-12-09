@@ -86,5 +86,24 @@
     "DT": "CWE",
     "Table": 9999,
     "Chapter": "4.14.3.9"
+  },
+  {
+    "Description": "Dispense Amount",
+    "Item#": 3314,
+    "Seg": "RXC",
+    "Seq#": 10,
+    "Len": 5,
+    "DT": "NM",
+    "Chapter": "4.14.3.8"
+  },
+  {
+    "Description": "Dispense Units",
+    "Item#": 3315,
+    "Seg": "RXC",
+    "Seq#": 11,
+    "Len": 250,
+    "DT": "CWE",
+    "Table": 9999,
+    "Chapter": "4.14.3.9"
   }
 ]

@@ -420,5 +420,59 @@
     "Rep": "Y",
     "Table": 377,
     "Chapter": "13.4.3.44"
+  },
+  {
+    "Description": "Container Length",
+    "Item#": 2496,
+    "Seg": "SAC",
+    "Seq#": 45,
+    "Len": 705,
+    "DT": "QC",
+    "Rep": "Y",
+    "Table": 382,
+    "Chapter": "13.4.3.41"
+  },
+  {
+    "Description": "Container Width",
+    "Item#": 2497,
+    "Seg": "SAC",
+    "Seq#": 46,
+    "Len": 705,
+    "DT": "QC",
+    "Table": 375,
+    "Chapter": "13.4.3.42"
+  },
+  {
+    "Description": "Container Form",
+    "Item#": 2498,
+    "Seg": "SAC",
+    "Seq#": 47,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 376,
+    "Chapter": "13.4.3.43"
+  },
+  {
+    "Description": "Container Material",
+    "Item#": 2499,
+    "Seg": "SAC",
+    "Seq#": 48,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 377,
+    "Chapter": "13.4.3.44"
+  },
+  {
+    "Description": "Container Common Name",
+    "Item#": 2500,
+    "Seg": "SAC",
+    "Seq#": 49,
+    "Len": 705,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Table": 382,
+    "Chapter": "13.4.3.41"
   }
 ]

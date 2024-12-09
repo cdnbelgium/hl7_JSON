@@ -422,5 +422,15 @@
     "DT": "ID",
     "Table": 480,
     "Chapter": "4.14.4.44"
+  },
+  {
+    "Description": "Pharmacy Phone Number",
+    "Item#": 2310,
+    "Seg": "RXE",
+    "Seq#": 45,
+    "Len": 1,
+    "DT": "XTN",
+    "Table": 480,
+    "Chapter": "4.14.4.44"
   }
 ]

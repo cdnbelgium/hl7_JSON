@@ -219,5 +219,54 @@
     "DT": "XCN",
     "Rep": "Y",
     "Chapter": "9.6.1.23"
+  },
+  {
+    "Description": "Folder Assignment",
+    "Item#": 930,
+    "Seg": "TXA",
+    "Seq#": 24,
+    "Len": 2,
+    "DT": "CWE",
+    "Table": 273,
+    "Chapter": "9.6.1.19"
+  },
+  {
+    "Description": "Document Title",
+    "Item#": 932,
+    "Seg": "TXA",
+    "Seq#": 25,
+    "Len": 2,
+    "DT": "ST",
+    "Table": 275,
+    "Chapter": "9.6.1.20"
+  },
+  {
+    "Description": "Agreed Due Date/Time",
+    "Item#": 933,
+    "Seg": "TXA",
+    "Seq#": 26,
+    "Len": 30,
+    "DT": "DTM",
+    "Chapter": "9.6.1.21"
+  },
+  {
+    "Description": "Creating Facility",
+    "Item#": 934,
+    "Seg": "TXA",
+    "Seq#": 27,
+    "Len": 250,
+    "DT": "HD",
+    "Rep": "Y",
+    "Chapter": "9.6.1.22"
+  },
+  {
+    "Description": "Creating Specialty",
+    "Item#": 935,
+    "Seg": "TXA",
+    "Seq#": 28,
+    "Len": 250,
+    "DT": "CWE",
+    "Rep": "Y",
+    "Chapter": "9.6.1.23"
   }
 ]

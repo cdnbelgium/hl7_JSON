@@ -710,5 +710,15 @@
     "DT": "CWE",
     "Table": 344,
     "Chapter": "6.5.7.72"
+  },
+  {
+    "Description": "Co-Pay Amount",
+    "Item#": 1620,
+    "Seg": "IN2",
+    "Seq#": 73,
+    "Len": 705,
+    "DT": "CP",
+    "Table": 344,
+    "Chapter": "6.5.7.72"
   }
 ]
